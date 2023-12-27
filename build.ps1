@@ -41,7 +41,6 @@ try {
 	}
 	Copy-Item -Path ".\src\*" -Destination ".\build" -Force -ErrorAction Stop
 	New-Item -Path ".\build\Addons\Keys" -Force -ItemType "directory" -ErrorAction Stop | out-null
-	Copy-Item -Path ".\src\Addons\Keys\22nd RDF.bikey" -Destination ".\build\Addons\Keys\22nd RDF.bikey" -Force -ErrorAction Stop
 
 	$foldersToPack = Get-ChildItem ".\src\Addons" | Where-Object {$_.Name -ne "Keys"}
 	foreach ($folder in $foldersToPack) {
