@@ -5,6 +5,13 @@ This repo requires Git LFS.
 
 Search online for how to install Git Large File System for your OS. It might be as simple as `git lfs install`, if you are using a GUI then it may install it for you automatically.
 
+## Getting Started
+Install VSCode with the following addons: https://code.visualstudio.com/
+* EditorConfig.EditorConfig
+* vlad333000.sqf
+
+You will also need to install git so that you can use it in the editor: https://git-scm.com/downloads
+
 ## Release Steps
  * Update the changelog file
  * Merge develop branch into main branch via a pull request
@@ -15,8 +22,3 @@ Search online for how to install Git Large File System for your OS. It might be 
  * Build the mod
  * Upload to Steam Workshop
  * Post changelog to the designated discord channel
-
-## Editor
-It is recommended that you use VSCode with the following addons: https://code.visualstudio.com/
-* EditorConfig.EditorConfig
-* vlad333000.sqf
