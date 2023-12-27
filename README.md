@@ -7,8 +7,8 @@ Search online for how to install Git Large File System for your OS. It might be 
 
 ## Getting Started
 Install VSCode with the following addons: https://code.visualstudio.com/
-* EditorConfig.EditorConfig
-* vlad333000.sqf
+* [EditorConfig.EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+* [vlad333000.sqf](https://marketplace.visualstudio.com/items?itemName=vlad333000.sqf)
 
 You will also need to install git so that you can use it in the editor: https://git-scm.com/downloads
 
