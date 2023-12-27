@@ -13,6 +13,7 @@ Install VSCode with the following addons: https://code.visualstudio.com/
 You will also need to install git so that you can use it in the editor: https://git-scm.com/downloads
 
 ## Release Steps
+These instructions are for senior developers, if you are a junior developer then you can safely ignore this section.
  * Update the changelog file
  * Merge develop branch into main branch via a pull request
  * Create a release tag (right side of code view on github website)
