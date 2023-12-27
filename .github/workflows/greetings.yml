@@ -1,0 +1,15 @@
+name: Greetings
+
+on: [pull_request_target]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        pr-message: "Please make sure to check the contributing rules. If you do not agree to them then please close this pull request."
