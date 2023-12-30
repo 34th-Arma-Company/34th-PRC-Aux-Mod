@@ -7,8 +7,13 @@ class CfgPatches
 		requiredAddond[] =
 		{
 			"A3_Characters_F_EPB", // Vanilla
+			"PhoenixSystems_Exosuits" // E.P.S.M ExoMod Remastered
 		};
 	};
+};
+class CfgVehicles
+{
+	#include "data\config_vehicles.hpp"
 };
 class CfgWeapons
 {
