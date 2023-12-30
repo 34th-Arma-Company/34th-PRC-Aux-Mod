@@ -1,4 +1,4 @@
-class H_Beret_02; // Vanilla
+class H_Beret_02; // A3_Characters_F_EPB
 class 34thPRC_Armour_Standard_Headgear_Beret_01: H_Beret_02
 {
 	displayName="[34th] Beret 01";
