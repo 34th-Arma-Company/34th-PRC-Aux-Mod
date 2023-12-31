@@ -11,6 +11,10 @@ class CfgPatches
 		};
 	};
 };
+class CfgVehicles
+{
+	#include "data\config_vehicles.hpp"
+};
 class CfgWeapons
 {
 	#include "data\config_weapons.hpp"
