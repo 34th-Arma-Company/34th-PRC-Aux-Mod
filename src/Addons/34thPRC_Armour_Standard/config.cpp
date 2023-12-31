@@ -7,8 +7,13 @@ class CfgPatches
 		requiredAddond[] =
 		{
 			"A3_Characters_F_EPB", // Vanilla
+			"Halo_marine_02" // Misriah Armory Tactical Gear and Equipment
 		};
 	};
+};
+class CfgVehicles
+{
+	#include "data\config_vehicles.hpp"
 };
 class CfgWeapons
 {
