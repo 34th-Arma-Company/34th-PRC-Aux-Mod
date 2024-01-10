@@ -23,3 +23,6 @@ These instructions are for senior developers, if you are a junior developer then
  * Build the mod
  * Upload to Steam Workshop
  * Post changelog to the designated discord channel
+
+
+<!-- this is a test -->
