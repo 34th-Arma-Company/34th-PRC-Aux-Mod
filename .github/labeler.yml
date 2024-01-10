@@ -1,0 +1,19 @@
+meta:
+- changed-files:
+    - any-glob-to-any-file: ['!src/**']
+
+"area: config":
+- changed-files:
+    - any-glob-to-any-file: ['src/**/*.hpp', 'src/**/*.cpp']
+
+"area: model":
+- changed-files:
+    - any-glob-to-any-file: ['src/**/*.hpp', 'src/**/*.cpp']
+
+"area: texture":
+- changed-files:
+    - any-glob-to-any-file: ['src/**/*.hpp', 'src/**/*.cpp']
+
+"area: script":
+- changed-files:
+    - any-glob-to-any-file: ['src/**/*.hpp', 'src/**/*.cpp']
