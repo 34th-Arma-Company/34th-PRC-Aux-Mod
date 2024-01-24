@@ -12,4 +12,3 @@ jobs:
     - uses: actions/checkout@v3
     - uses: kasperhesthaven/setup-editorconfig-checker@v1.2.0
     - run: editorconfig-checker
-          
