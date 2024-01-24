@@ -10,6 +10,6 @@ Filename: pboDecompiler.ps1
 * Paste them to the new folder that you made
 * Copy the script to the same folder
 * You may wish to edit some of the values at the top of the script file
-	* You can open it in any text editor
+  * You can open it in any text editor
 * Run the script
-	* Depending on the number of mods and their size this may take a while
+  * Depending on the number of mods and their size this may take a while
