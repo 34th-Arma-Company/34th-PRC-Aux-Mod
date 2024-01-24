@@ -3,7 +3,7 @@
 # top-most EditorConfig file
 root = true
 
-[*.{cpp,hpp,md,bat,ps1,sh,sqf}]
+[*.{cpp,hpp,md,bat,ps1,sh,sqf,yml}]
 indent_style = tab
 indent_size = 4
 end_of_line = crlf
@@ -11,13 +11,14 @@ charset = utf-8
 trim_trailing_whitespace = true
 insert_final_newline = true
 
+[*.md]
+indent_style = space
+indent_size = 2
+
 [*.yml]
 indent_style = space
 indent_size = 2
 end_of_line = lf
-charset = utf-8
-trim_trailing_whitespace = true
-insert_final_newline = true
 
 [$PREFIX$]
 insert_final_newline = false
