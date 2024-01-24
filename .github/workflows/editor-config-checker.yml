@@ -3,7 +3,7 @@ on:
 - pull_request_target
 
 jobs:
-  labeler:
+  editorconfig-check:
     permissions:
       contents: read
       pull-requests: write
