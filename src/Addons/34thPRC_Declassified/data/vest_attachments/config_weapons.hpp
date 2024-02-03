@@ -64,7 +64,6 @@ class 34th_Declassified_Vest_Base: OPTRE_UNSC_M52A_Armor1_WDL
 			"AP_Thigh", // looks good
 			"AP_Frag", // looks good
 
-
 			"AP_AR", // looks ok but floats at the sides
 			"AP_BR", // looks ok but floats a little at the sides
 			"AP_Canteen", // looks ok but floats a little at the back
