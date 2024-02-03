@@ -8,12 +8,12 @@ meta:
 
 "area: model":
 - changed-files:
-    - any-glob-to-any-file: ['src/**/*.hpp', 'src/**/*.cpp']
+    - any-glob-to-any-file: ['src/**/*.p3d']
 
 "area: texture":
 - changed-files:
-    - any-glob-to-any-file: ['src/**/*.hpp', 'src/**/*.cpp']
+    - any-glob-to-any-file: ['src/**/*.paa', 'src/**/*.png']
 
 "area: script":
 - changed-files:
-    - any-glob-to-any-file: ['src/**/*.hpp', 'src/**/*.cpp']
+    - any-glob-to-any-file: ['src/**/*.sqf']
