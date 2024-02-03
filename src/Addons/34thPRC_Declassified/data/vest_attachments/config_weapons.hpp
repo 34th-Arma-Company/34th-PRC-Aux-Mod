@@ -1,19 +1,23 @@
-class OPTRE_UNSC_M52A_Armor_Base; // OPTRE_UNSC_Units_Army
-class OPTRE_UNSC_M52A_Armor1_WDL // OPTRE_UNSC_Units_Army
-{
-	class ItemInfo;
-};
+//class OPTRE_UNSC_M52A_Armor_Base; // OPTRE_UNSC_Units_Army
+//class OPTRE_UNSC_M52A_Armor1_WDL // OPTRE_UNSC_Units_Army
+//{
+//	class ItemInfo;
+//};
 
 // TODO: inherit from  Misriah Armory invisible vest but use OPTRE's model and hidden selections
-// MA_TGE_InvisVest: Vest_Camo_Base
-class 34th_Declassified_Vest_Base: OPTRE_UNSC_M52A_Armor1_WDL
+class Vest_Camo_Base; // Halo_marine_02
+class MA_TGE_InvisVest: Vest_Camo_Base // Halo_marine_02
 {
-	displayName="[34th D] Attachments Test";
+	class ItemInfo;
+}
+class 34th_Declassified_Vest_Base: MA_TGE_InvisVest
+{
+	displayName="[34th D] Attachments Base";
 	author="Lupus590";
+	model="\OPTRE_UNSC_Units\Army\armor.p3d"; // OPTRE_UNSC_Units_Army
 	class ItemInfo: ItemInfo
 	{
-		containerClass="Supply200"; // Values copied from Misriah Armory Tactical Gear and Equipment
-		mass=80; // Values copied from Misriah Armory Tactical Gear and Equipment
+		uniformModel="\OPTRE_UNSC_Units\Army\armor.p3d"; // OPTRE_UNSC_Units_Army
 		hiddenSelections[]=
 		{
 			// armour parts
@@ -55,83 +59,26 @@ class 34th_Declassified_Vest_Base: OPTRE_UNSC_M52A_Armor1_WDL
 			"APO_SMG", // floats badly
 
 			"APO_Knife", // looks ok standing but floats when rifle out
+			"AP_GL", // looks ok but floats a little at the sides and is not on the belt
+			"AP_Canteen", // looks ok but floats a little at the back and clips a little too much with the leg plate
+			"AP_Sniper", // looks ok but clips a little too much at the front
 
 			"AP_SMG", // clips badly
 			"CustomKit_Scorch", // clips badly
 
-			"AP_MGThigh", // looks good
-			"AP_Rounds", // looks good
-			"AP_Thigh", // looks good
-			"AP_Frag", // looks good
+			//"AP_MGThigh", // looks good
+			//"AP_Rounds", // looks good but low quality
+			//"AP_Thigh", // looks good
+			//"AP_Frag", // looks good
 
-			"AP_AR", // looks ok but floats at the sides
-			"AP_BR", // looks ok but floats a little at the sides
-			"AP_Canteen", // looks ok but floats a little at the back
-			"AP_GL", // looks ok but floats a little at the sides and is not on the belt
+			//"AP_AR", // looks ok but floats at the sides
+			//"AP_BR", // looks ok but floats a little at the sides
 			//"AP_Knife", // looks ok but floats a little
 			//"AP_Pistol", // looks ok but floats a bit and is hard to see
-			"AP_Sniper", // looks ok but clips a little at the front
-			"AP_Smoke", // looks ok but clips a little at the front and floats a little at the back
-			"APO_AR", // looks ok but floats at the sides
-			"APO_BR" // looks ok but floats at the sides
+			//"AP_Smoke", // looks ok but clips a little at the front and floats a little at the back
+			//"APO_AR", // looks ok but floats at the sides
+			//"APO_BR" // looks ok but floats at the sides
 			//"APO_Sniper", // looks ok but floats at the sides
-		};
-		class HitpointsProtectionInfo // Values copied from Misriah Armory Tactical Gear and Equipment
-		{
-			class Neck
-			{
-				hitpointName="HitNeck";
-				armor=20;
-				passThrough=0.5;
-			};
-			class Legs
-			{
-				hitpointName="HitLegs";
-				armor=20;
-				passThrough=0.5;
-			};
-			class Arms
-			{
-				hitpointName="HitArms";
-				armor=25;
-				passThrough=0.1;
-			};
-			class Hands
-			{
-				hitpointName="HitHands";
-				armor=20;
-				passThrough=0.1;
-			};
-			class Chest
-			{
-				hitpointName="HitChest";
-				armor=35;
-				passThrough=0.1;
-			};
-			class Diaphragm
-			{
-				hitpointName="HitDiaphragm";
-				armor=30;
-				passThrough=0.1;
-			};
-			class Abdomen
-			{
-				hitpointName="HitAbdomen";
-				armor=30;
-				passThrough=0.1;
-			};
-			class Pelvis
-			{
-				hitpointName="HitPelvis";
-				armor=30;
-				passThrough=0.1;
-			};
-			class Body
-			{
-				hitpointName="HitBody";
-				armor=0;
-				passThrough=0.1;
-			};
 		};
 	};
 };

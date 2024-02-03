@@ -6,7 +6,8 @@ class CfgPatches
 		units[]={};
 		requiredAddond[] =
 		{
-			"OPTRE_UNSC_Units_Army" //Operation Trebuchet
+			"OPTRE_UNSC_Units_Army", //Operation Trebuchet
+			"Halo_marine_02" // Misriah Armory Tactical Gear and Equipment
 		};
 	};
 };
