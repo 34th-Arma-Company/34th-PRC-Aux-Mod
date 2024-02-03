@@ -50,27 +50,32 @@ class 34th_Declassified_Vest_Base: OPTRE_UNSC_M52A_Armor1_WDL
 			"AS_SmallRight",
 
 			"A_TacPad", // floats badly
+			"AP_Pack", // floats badly
+			"AP_SG", // floats badly
+			"APO_SMG", // floats badly
+
+			"APO_Knife", // looks ok standing but floats when rifle out
+
+			"AP_SMG", // clips badly
+			"CustomKit_Scorch", // clips badly
+
+			"AP_MGThigh", // looks good
+			"AP_Rounds", // looks good
+			"AP_Thigh", // looks good
+			"AP_Frag", // looks good
+
+
 			"AP_AR", // looks ok but floats at the sides
 			"AP_BR", // looks ok but floats a little at the sides
 			"AP_Canteen", // looks ok but floats a little at the back
 			"AP_GL", // looks ok but floats a little at the sides and is not on the belt
-			//"AP_Knife",
-			"AP_MGThigh", // looks good
-			"AP_Pack", // floats badly
+			//"AP_Knife", // looks ok but floats a little
 			//"AP_Pistol", // looks ok but floats a bit and is hard to see
-			"AP_Rounds", // looks good
-			"AP_SG", // floats badly
-			"AP_SMG", // clips badly
 			"AP_Sniper", // looks ok but clips a little at the front
-			"AP_Thigh", // looks good
-			"AP_Frag", // looks good
 			"AP_Smoke", // looks ok but clips a little at the front and floats a little at the back
 			"APO_AR", // looks ok but floats at the sides
-			"APO_BR", // looks ok but floats at the sides
-			"APO_Knife", // looks ok but some floating
-			"APO_SMG", // floats badly
+			"APO_BR" // looks ok but floats at the sides
 			//"APO_Sniper", // looks ok but floats at the sides
-			"CustomKit_Scorch" // clips badly
 		};
 		class HitpointsProtectionInfo // Values copied from Misriah Armory Tactical Gear and Equipment
 		{
