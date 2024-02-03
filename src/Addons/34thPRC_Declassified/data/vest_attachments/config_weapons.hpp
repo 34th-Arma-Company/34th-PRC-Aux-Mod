@@ -50,26 +50,26 @@ class 34th_Declassified_Vest_Base: OPTRE_UNSC_M52A_Armor1_WDL
 			"AS_SmallRight",
 
 			"A_TacPad", // floats badly
-			"AP_AR", // clobbered
-			"AP_BR", // floats a little at the sides
-			"AP_Canteen", // floats a little at the back
-			"AP_GL", // floats a little at the sides and is not on the belt
+			"AP_AR", // looks ok but floats at the sides
+			"AP_BR", // looks ok but floats a little at the sides
+			"AP_Canteen", // looks ok but floats a little at the back
+			"AP_GL", // looks ok but floats a little at the sides and is not on the belt
 			//"AP_Knife",
 			"AP_MGThigh", // looks good
 			"AP_Pack", // floats badly
-			//"AP_Pistol", // floats a bit and is hard to see
+			//"AP_Pistol", // looks ok but floats a bit and is hard to see
 			"AP_Rounds", // looks good
 			"AP_SG", // floats badly
 			"AP_SMG", // clips badly
-			"AP_Sniper", // clips a little at the front
+			"AP_Sniper", // looks ok but clips a little at the front
 			"AP_Thigh", // looks good
 			"AP_Frag", // looks good
-			"AP_Smoke", // clips a little at the front and floats a little at the back
-			"APO_AR", // floats at the sides
-			"APO_BR", // floats at the sides
-			"APO_Knife", // some floating
+			"AP_Smoke", // looks ok but clips a little at the front and floats a little at the back
+			"APO_AR", // looks ok but floats at the sides
+			"APO_BR", // looks ok but floats at the sides
+			"APO_Knife", // looks ok but some floating
 			"APO_SMG", // floats badly
-			//"APO_Sniper", // floats at the sides
+			//"APO_Sniper", // looks ok but floats at the sides
 			"CustomKit_Scorch" // clips badly
 		};
 		class HitpointsProtectionInfo // Values copied from Misriah Armory Tactical Gear and Equipment
@@ -179,7 +179,6 @@ class 34th_Declassified_Vest_APO_Knife: 34th_Declassified_Vest_Base
 			"AP_GL",
 			"AP_Knife",
 			"AP_MGThigh",
-			"AP_AR",
 			"AP_Pack",
 			"AP_Pistol",
 			"AP_Rounds",
@@ -246,7 +245,6 @@ class 34th_Declassified_Vest_AP_Knife: 34th_Declassified_Vest_Base
 			"AP_GL",
 			//"AP_Knife",
 			"AP_MGThigh",
-			"AP_AR",
 			"AP_Pack",
 			"AP_Pistol",
 			"AP_Rounds",
@@ -313,7 +311,6 @@ class 34th_Declassified_Vest_AP_AR: 34th_Declassified_Vest_Base
 			"AP_GL", // clobbered
 			"AP_Knife",
 			"AP_MGThigh",
-			"AP_AR",
 			"AP_Pack",
 			"AP_Pistol",
 			"AP_Rounds",
@@ -380,7 +377,6 @@ class 34th_Declassified_Vest_AP_Pistol: 34th_Declassified_Vest_Base
 			"AP_GL", // clobbered
 			"AP_Knife",
 			"AP_MGThigh",
-			"AP_AR",
 			"AP_Pack",
 			//"AP_Pistol",
 			"AP_Rounds",
@@ -447,7 +443,6 @@ class 34th_Declassified_Vest_APO_Sniper: 34th_Declassified_Vest_Base
 			"AP_GL", // clobbered
 			"AP_Knife",
 			"AP_MGThigh",
-			"AP_AR",
 			"AP_Pack",
 			"AP_Pistol",
 			"AP_Rounds",
@@ -515,7 +510,6 @@ class 34th_Declassified_Vest_APO_BR: 34th_Declassified_Vest_Base
 			"AP_GL", // clobbered
 			"AP_Knife",
 			"AP_MGThigh",
-			"AP_AR",
 			"AP_Pack",
 			"AP_Pistol",
 			"AP_Rounds",
@@ -582,7 +576,6 @@ class 34th_Declassified_Vest_APO_AR: 34th_Declassified_Vest_Base
 			"AP_GL", // clobbered
 			"AP_Knife",
 			"AP_MGThigh",
-			"AP_AR",
 			"AP_Pack",
 			"AP_Pistol",
 			"AP_Rounds",
@@ -649,7 +642,6 @@ class 34th_Declassified_Vest_AP_Smoke: 34th_Declassified_Vest_Base
 			"AP_GL", // clobbered
 			"AP_Knife",
 			"AP_MGThigh",
-			"AP_AR",
 			"AP_Pack",
 			"AP_Pistol",
 			"AP_Rounds",
@@ -716,7 +708,6 @@ class 34th_Declassified_Vest_AP_Sniper: 34th_Declassified_Vest_Base
 			"AP_GL", // clobbered
 			"AP_Knife",
 			"AP_MGThigh",
-			"AP_AR",
 			"AP_Pack",
 			"AP_Pistol",
 			"AP_Rounds",
@@ -783,7 +774,6 @@ class 34th_Declassified_Vest_AP_SMG: 34th_Declassified_Vest_Base
 			"AP_GL", // clobbered
 			"AP_Knife",
 			"AP_MGThigh",
-			"AP_AR",
 			"AP_Pack",
 			"AP_Pistol",
 			"AP_Rounds",
@@ -850,7 +840,6 @@ class 34th_Declassified_Vest_AP_GP: 34th_Declassified_Vest_Base
 			//"AP_GL", // clobbered
 			"AP_Knife",
 			"AP_MGThigh",
-			"AP_AR",
 			"AP_Pack",
 			"AP_Pistol",
 			"AP_Rounds",
@@ -917,7 +906,6 @@ class 34th_Declassified_Vest_AP_BR: 34th_Declassified_Vest_Base
 			"AP_GL", // clobbered
 			"AP_Knife",
 			"AP_MGThigh",
-			"AP_AR",
 			"AP_Pack",
 			"AP_Pistol",
 			"AP_Rounds",
