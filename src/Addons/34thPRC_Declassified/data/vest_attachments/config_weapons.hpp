@@ -187,9 +187,9 @@ class 34th_Declassified_Vest_APO_Knife: 34th_Declassified_Vest_Base
 			"AP_Sniper",
 			"AP_Thigh",
 			"AP_Frag",
-			"AP_Smoke", // clobbered
-			"APO_AR", // clobbered
-			"APO_BR", // clobbered
+			"AP_Smoke",
+			"APO_AR",
+			"APO_BR",
 			//"APO_Knife",
 			"APO_SMG",
 			"APO_Sniper",
@@ -253,9 +253,9 @@ class 34th_Declassified_Vest_AP_Knife: 34th_Declassified_Vest_Base
 			"AP_Sniper",
 			"AP_Thigh",
 			"AP_Frag",
-			"AP_Smoke", // clobbered
-			"APO_AR", // clobbered
-			"APO_BR", // clobbered
+			"AP_Smoke",
+			"APO_AR",
+			"APO_BR",
 			"APO_Knife",
 			"APO_SMG",
 			"APO_Sniper",
@@ -305,23 +305,23 @@ class 34th_Declassified_Vest_AP_AR: 34th_Declassified_Vest_Base
 			"AS_SmallRight",
 
 			"A_TacPad",
-			//"AP_AR", // clobbered
-			"AP_BR", // clobbered
+			//"AP_AR",
+			"AP_BR",
 			"AP_Canteen",
-			"AP_GL", // clobbered
+			"AP_GL",
 			"AP_Knife",
 			"AP_MGThigh",
 			"AP_Pack",
 			"AP_Pistol",
 			"AP_Rounds",
 			"AP_SG",
-			"AP_SMG", // clobbered
-			"AP_Sniper", // clobbered
+			"AP_SMG",
+			"AP_Sniper",
 			"AP_Thigh",
 			"AP_Frag",
-			"AP_Smoke", // clobbered
-			"APO_AR", // clobbered
-			"APO_BR", // clobbered
+			"AP_Smoke",
+			"APO_AR",
+			"APO_BR",
 			"APO_Knife",
 			"APO_SMG",
 			"APO_Sniper",
@@ -371,23 +371,23 @@ class 34th_Declassified_Vest_AP_Pistol: 34th_Declassified_Vest_Base
 			"AS_SmallRight",
 
 			"A_TacPad",
-			"AP_AR", // clobbered
-			"AP_BR", // clobbered
+			"AP_AR",
+			"AP_BR",
 			"AP_Canteen",
-			"AP_GL", // clobbered
+			"AP_GL",
 			"AP_Knife",
 			"AP_MGThigh",
 			"AP_Pack",
 			//"AP_Pistol",
 			"AP_Rounds",
 			"AP_SG",
-			"AP_SMG", // clobbered
-			"AP_Sniper", // clobbered
+			"AP_SMG",
+			"AP_Sniper",
 			"AP_Thigh",
 			"AP_Frag",
-			"AP_Smoke", // clobbered
-			"APO_AR", // clobbered
-			"APO_BR", // clobbered
+			"AP_Smoke",
+			"APO_AR",
+			"APO_BR",
 			"APO_Knife",
 			"APO_SMG",
 			"APO_Sniper",
@@ -437,23 +437,23 @@ class 34th_Declassified_Vest_APO_Sniper: 34th_Declassified_Vest_Base
 			"AS_SmallRight",
 
 			"A_TacPad",
-			"AP_AR", // clobbered
-			"AP_BR", // clobbered
+			"AP_AR",
+			"AP_BR",
 			"AP_Canteen",
-			"AP_GL", // clobbered
+			"AP_GL",
 			"AP_Knife",
 			"AP_MGThigh",
 			"AP_Pack",
 			"AP_Pistol",
 			"AP_Rounds",
 			"AP_SG",
-			"AP_SMG", // clobbered
-			"AP_Sniper", // clobbered
+			"AP_SMG",
+			"AP_Sniper",
 			"AP_Thigh",
 			"AP_Frag",
-			"AP_Smoke", // clobbered
-			"APO_AR", // clobbered
-			"APO_BR", // clobbered
+			"AP_Smoke",
+			"APO_AR",
+			"APO_BR",
 			"APO_Knife",
 			"APO_SMG",
 			//"APO_Sniper",
@@ -504,23 +504,23 @@ class 34th_Declassified_Vest_APO_BR: 34th_Declassified_Vest_Base
 			"AS_SmallRight",
 
 			"A_TacPad",
-			"AP_AR", // clobbered
-			"AP_BR", // clobbered
+			"AP_AR",
+			"AP_BR",
 			"AP_Canteen",
-			"AP_GL", // clobbered
+			"AP_GL",
 			"AP_Knife",
 			"AP_MGThigh",
 			"AP_Pack",
 			"AP_Pistol",
 			"AP_Rounds",
 			"AP_SG",
-			"AP_SMG", // clobbered
-			"AP_Sniper", // clobbered
+			"AP_SMG",
+			"AP_Sniper",
 			"AP_Thigh",
 			"AP_Frag",
-			"AP_Smoke", // clobbered
-			"APO_AR", // clobbered
-			//"APO_BR", // clobbered
+			"AP_Smoke",
+			"APO_AR",
+			//"APO_BR",
 			"APO_Knife",
 			"APO_SMG",
 			"APO_Sniper",
@@ -570,23 +570,23 @@ class 34th_Declassified_Vest_APO_AR: 34th_Declassified_Vest_Base
 			"AS_SmallRight",
 
 			"A_TacPad",
-			"AP_AR", // clobbered
-			"AP_BR", // clobbered
+			"AP_AR",
+			"AP_BR",
 			"AP_Canteen",
-			"AP_GL", // clobbered
+			"AP_GL",
 			"AP_Knife",
 			"AP_MGThigh",
 			"AP_Pack",
 			"AP_Pistol",
 			"AP_Rounds",
 			"AP_SG",
-			"AP_SMG", // clobbered
-			"AP_Sniper", // clobbered
+			"AP_SMG",
+			"AP_Sniper",
 			"AP_Thigh",
 			"AP_Frag",
-			"AP_Smoke", // clobbered
-			//"APO_AR", // clobbered
-			"APO_BR", // clobbered
+			"AP_Smoke",
+			//"APO_AR",
+			"APO_BR",
 			"APO_Knife",
 			"APO_SMG",
 			"APO_Sniper",
@@ -636,23 +636,23 @@ class 34th_Declassified_Vest_AP_Smoke: 34th_Declassified_Vest_Base
 			"AS_SmallRight",
 
 			"A_TacPad",
-			"AP_AR", // clobbered
-			"AP_BR", // clobbered
+			"AP_AR",
+			"AP_BR",
 			"AP_Canteen",
-			"AP_GL", // clobbered
+			"AP_GL",
 			"AP_Knife",
 			"AP_MGThigh",
 			"AP_Pack",
 			"AP_Pistol",
 			"AP_Rounds",
 			"AP_SG",
-			"AP_SMG", // clobbered
-			"AP_Sniper", // clobbered
+			"AP_SMG",
+			"AP_Sniper",
 			"AP_Thigh",
 			"AP_Frag",
-			//"AP_Smoke", // clobbered
-			"APO_AR", // clobbered
-			"APO_BR", // clobbered
+			//"AP_Smoke",
+			"APO_AR",
+			"APO_BR",
 			"APO_Knife",
 			"APO_SMG",
 			"APO_Sniper",
@@ -702,23 +702,23 @@ class 34th_Declassified_Vest_AP_Sniper: 34th_Declassified_Vest_Base
 			"AS_SmallRight",
 
 			"A_TacPad",
-			"AP_AR", // clobbered
-			"AP_BR", // clobbered
+			"AP_AR",
+			"AP_BR",
 			"AP_Canteen",
-			"AP_GL", // clobbered
+			"AP_GL",
 			"AP_Knife",
 			"AP_MGThigh",
 			"AP_Pack",
 			"AP_Pistol",
 			"AP_Rounds",
 			"AP_SG",
-			"AP_SMG", // clobbered
-			//"AP_Sniper", // clobbered
+			"AP_SMG",
+			//"AP_Sniper",
 			"AP_Thigh",
 			"AP_Frag",
-			"AP_Smoke", // clobbered
-			"APO_AR", // clobbered
-			"APO_BR", // clobbered
+			"AP_Smoke",
+			"APO_AR",
+			"APO_BR",
 			"APO_Knife",
 			"APO_SMG",
 			"APO_Sniper",
@@ -768,23 +768,23 @@ class 34th_Declassified_Vest_AP_SMG: 34th_Declassified_Vest_Base
 			"AS_SmallRight",
 
 			"A_TacPad",
-			"AP_AR", // clobbered
-			"AP_BR", // clobbered
+			"AP_AR",
+			"AP_BR",
 			"AP_Canteen",
-			"AP_GL", // clobbered
+			"AP_GL",
 			"AP_Knife",
 			"AP_MGThigh",
 			"AP_Pack",
 			"AP_Pistol",
 			"AP_Rounds",
 			"AP_SG",
-			//"AP_SMG", // clobbered
-			"AP_Sniper", // clobbered
+			//"AP_SMG",
+			"AP_Sniper",
 			"AP_Thigh",
 			"AP_Frag",
-			"AP_Smoke", // clobbered
-			"APO_AR", // clobbered
-			"APO_BR", // clobbered
+			"AP_Smoke",
+			"APO_AR",
+			"APO_BR",
 			"APO_Knife",
 			"APO_SMG",
 			"APO_Sniper",
@@ -834,23 +834,23 @@ class 34th_Declassified_Vest_AP_GP: 34th_Declassified_Vest_Base
 			"AS_SmallRight",
 
 			"A_TacPad",
-			"AP_AR", // clobbered
-			"AP_BR", // clobbered
+			"AP_AR",
+			"AP_BR",
 			"AP_Canteen",
-			//"AP_GL", // clobbered
+			//"AP_GL",
 			"AP_Knife",
 			"AP_MGThigh",
 			"AP_Pack",
 			"AP_Pistol",
 			"AP_Rounds",
 			"AP_SG",
-			"AP_SMG", // clobbered
-			"AP_Sniper", // clobbered
+			"AP_SMG",
+			"AP_Sniper",
 			"AP_Thigh",
 			"AP_Frag",
-			"AP_Smoke", // clobbered
-			"APO_AR", // clobbered
-			"APO_BR", // clobbered
+			"AP_Smoke",
+			"APO_AR",
+			"APO_BR",
 			"APO_Knife",
 			"APO_SMG",
 			"APO_Sniper",
@@ -900,23 +900,23 @@ class 34th_Declassified_Vest_AP_BR: 34th_Declassified_Vest_Base
 			"AS_SmallRight",
 
 			"A_TacPad",
-			"AP_AR", // clobbered
-			//"AP_BR", // clobbered
+			"AP_AR",
+			//"AP_BR",
 			"AP_Canteen",
-			"AP_GL", // clobbered
+			"AP_GL",
 			"AP_Knife",
 			"AP_MGThigh",
 			"AP_Pack",
 			"AP_Pistol",
 			"AP_Rounds",
 			"AP_SG",
-			"AP_SMG", // clobbered
-			"AP_Sniper", // clobbered
+			"AP_SMG",
+			"AP_Sniper",
 			"AP_Thigh",
 			"AP_Frag",
-			"AP_Smoke", // clobbered
-			"APO_AR", // clobbered
-			"APO_BR", // clobbered
+			"AP_Smoke",
+			"APO_AR",
+			"APO_BR",
 			"APO_Knife",
 			"APO_SMG",
 			"APO_Sniper",
