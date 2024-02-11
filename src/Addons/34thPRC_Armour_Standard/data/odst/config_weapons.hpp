@@ -1,5 +1,5 @@
 class MA_M56SR_Helmet_White_Visor; // MA_Armor
-class 34thPRC_Armour_Standard_Headgear_ODST_Urban : MA_M56SR_Helmet_White_Visor
+class 34thPRC_Armour_Standard_Headgear_ODST_Urban_Visor_W : MA_M56SR_Helmet_White_Visor
 {
     displayName="[34th] M56SR Urban (White Visor)";
     author= "TheBrwnKidd";
@@ -9,7 +9,7 @@ class 34thPRC_Armour_Standard_Headgear_ODST_Urban : MA_M56SR_Helmet_White_Visor
         "MA_Armor\data\Helmets\HR_ODST\HR_ODST_Visor_White_co.paa"
     };
 };
-class 34thPRC_Armour_Standard_Headgear_ODST_Urban_New_Visor_M : MA_M56SR_Helmet_White_Visor
+class 34thPRC_Armour_Standard_Headgear_ODST_Urban_Visor_M : MA_M56SR_Helmet_White_Visor
 {
     displayName="[34th] M56SR Urban (Maroon Visor)";
     author= "TheBrwnKidd";
