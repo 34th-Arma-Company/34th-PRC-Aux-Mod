@@ -13,17 +13,11 @@ class CfgPatches
 		};
 	};
 };
-class CfgVehicleClasses
-{
-	class MA_Soldier_Class;
-};
 class CfgVehicles
 {
 	#include "data\config_vehicles.hpp"
 };
 class CfgWeapons
 {
-	class UniformItem;
-
 	#include "data\config_weapons.hpp"
 };
