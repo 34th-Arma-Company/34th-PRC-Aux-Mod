@@ -8,7 +8,7 @@ class 34thPRC_Armour_Standard_Trooper_ODST_Urban_Red : MA_M56S_BDU_Base
     picture="MA_Armor\data\Icons\H3_ODST_Uniform.paa";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_Armour_Standard\data\odst\Urban\ODST_Undersuit_Urban_Red_co.paa"
+		"34thPRC_Armour_Standard\data\odst\urban\odst_undersuit_urban_red_co.paa"
 	};
 }
 class 34thPRC_Armour_Standard_Trooper_ODST_Urban_Blue : MA_M56S_BDU_Base
@@ -20,7 +20,7 @@ class 34thPRC_Armour_Standard_Trooper_ODST_Urban_Blue : MA_M56S_BDU_Base
     picture="MA_Armor\data\Icons\H3_ODST_Uniform.paa";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_Armour_Standard\data\odst\Urban\ODST_Undersuit_Urban_blue_co.paa"
+		"34thPRC_Armour_Standard\data\odst\urban\odst_undersuit_urban_blue_co.paa"
 	};
 }
 class 34thPRC_Armour_Standard_Trooper_ODST_Arctic : MA_M56S_BDU_Base
@@ -32,7 +32,7 @@ class 34thPRC_Armour_Standard_Trooper_ODST_Arctic : MA_M56S_BDU_Base
     picture="MA_Armor\data\Icons\H3_ODST_Uniform.paa";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_Armour_Standard\data\odst\Arctic\ODST_Undersuit_arctic_co.paa"
+		"34thPRC_Armour_Standard\data\odst\arctic\odst_undersuit_arctic_co.paa"
 	};
 }
 class 34thPRC_Armour_Standard_Trooper_ODST_Arid : MA_M56S_BDU_Base
@@ -44,7 +44,7 @@ class 34thPRC_Armour_Standard_Trooper_ODST_Arid : MA_M56S_BDU_Base
     picture="MA_Armor\data\Icons\H3_ODST_Uniform.paa";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_Armour_Standard\data\odst\Arid\ODST_Undersuit_arid_co.paa"
+		"34thPRC_Armour_Standard\data\odst\arid\odst_undersuit_arid_co.paa"
 	};
 }
 class 34thPRC_Armour_Standard_Trooper_ODST_Tropic : MA_M56S_BDU_Base
@@ -56,7 +56,7 @@ class 34thPRC_Armour_Standard_Trooper_ODST_Tropic : MA_M56S_BDU_Base
     picture="MA_Armor\data\Icons\H3_ODST_Uniform.paa";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_Armour_Standard\data\odst\Tropic\ODST_Undersuit_tropic_co.paa"
+		"34thPRC_Armour_Standard\data\odst\tropic\odst_undersuit_tropic_co.paa"
 	};
 }
 class 34thPRC_Armour_Standard_Trooper_ODST_Woodland : MA_M56S_BDU_Base
@@ -68,6 +68,6 @@ class 34thPRC_Armour_Standard_Trooper_ODST_Woodland : MA_M56S_BDU_Base
     picture="MA_Armor\data\Icons\H3_ODST_Uniform.paa";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_Armour_Standard\data\odst\Woodland\ODST_Undersuit_woodland_co.paa"
+		"34thPRC_Armour_Standard\data\odst\woodland\odst_undersuit_woodland_co.paa"
 	};
 }

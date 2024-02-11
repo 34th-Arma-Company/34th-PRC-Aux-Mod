@@ -5,7 +5,7 @@ class 34thPRC_Armour_Standard_Headgear_ODST_Urban : MA_M56SR_Helmet_White_Visor
     author= "TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_Armour_Standard\data\odst\Urban\34_odst_helmet_urban.paa",
+        "34thPRC_Armour_Standard\data\odst\urban\34_odst_helmet_urban.paa",
         "MA_Armor\data\Helmets\HR_ODST\HR_ODST_Visor_White_co.paa"
     };
 };
@@ -15,8 +15,8 @@ class 34thPRC_Armour_Standard_Headgear_ODST_Urban_New_Visor_M : MA_M56SR_Helmet_
     author= "TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_Armour_Standard\data\odst\Urban\34_odst_helmet_urban.paa",
-        "34thPRC_Armour_Standard\data\odst\HR_ODST_Visor_Maroon_co.paa"
+        "34thPRC_Armour_Standard\data\odst\urban\34_odst_helmet_urban.paa",
+        "34thPRC_Armour_Standard\data\odst\hr_odst_visor_maroon_co.paa"
     };
 };
 class 34thPRC_Armour_Standard_Headgear_ODST_Arctic_Visor_W : MA_M56SR_Helmet_White_Visor
@@ -25,7 +25,7 @@ class 34thPRC_Armour_Standard_Headgear_ODST_Arctic_Visor_W : MA_M56SR_Helmet_Whi
     author= "TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_Armour_Standard\data\odst\Arctic\34_odst_helmet_arctic.paa",
+        "34thPRC_Armour_Standard\data\odst\arctic\34_odst_helmet_arctic.paa",
         "MA_Armor\data\Helmets\HR_ODST\HR_ODST_Visor_White_co.paa"
     };
 };
@@ -35,8 +35,8 @@ class 34thPRC_Armour_Standard_Headgear_ODST_Arctic_Visor_M : MA_M56SR_Helmet_Whi
     author= "TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_Armour_Standard\data\odst\Arctic\34_odst_helmet_arctic.paa",
-        "34thPRC_Armour_Standard\data\odst\HR_ODST_Visor_Maroon_co.paa"
+        "34thPRC_Armour_Standard\data\odst\arctic\34_odst_helmet_arctic.paa",
+        "34thPRC_Armour_Standard\data\odst\hr_odst_visor_maroon_co.paa"
     };
 };
 class 34thPRC_Armour_Standard_Headgear_ODST_Arid_Visor_W : MA_M56SR_Helmet_White_Visor
@@ -45,7 +45,7 @@ class 34thPRC_Armour_Standard_Headgear_ODST_Arid_Visor_W : MA_M56SR_Helmet_White
     author= "TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_Armour_Standard\data\odst\Arid\34_odst_helmet_arid.paa",
+        "34thPRC_Armour_Standard\data\odst\arid\34_odst_helmet_arid.paa",
         "MA_Armor\data\Helmets\HR_ODST\HR_ODST_Visor_White_co.paa"
     };
 };
@@ -55,8 +55,8 @@ class 34thPRC_Armour_Standard_Headgear_ODST_Arid_Visor_M : MA_M56SR_Helmet_White
     author= "TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_Armour_Standard\data\odst\Arid\34_odst_helmet_arid.paa",
-        "34thPRC_Armour_Standard\data\odst\HR_ODST_Visor_Maroon_co.paa"
+        "34thPRC_Armour_Standard\data\odst\arid\34_odst_helmet_arid.paa",
+        "34thPRC_Armour_Standard\data\odst\hr_odst_visor_maroon_co.paa"
     };
 };
 class 34thPRC_Armour_Standard_Headgear_ODST_Tropic_Visor_W : MA_M56SR_Helmet_White_Visor
@@ -65,7 +65,7 @@ class 34thPRC_Armour_Standard_Headgear_ODST_Tropic_Visor_W : MA_M56SR_Helmet_Whi
     author= "TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_Armour_Standard\data\odst\Tropic\34_odst_helmet_tropic.paa",
+        "34thPRC_Armour_Standard\data\odst\tropic\34_odst_helmet_tropic.paa",
         "MA_Armor\data\Helmets\HR_ODST\HR_ODST_Visor_White_co.paa"
     };
 };
@@ -75,8 +75,8 @@ class 34thPRC_Armour_Standard_Headgear_ODST_Tropic_Visor_M : MA_M56SR_Helmet_Whi
     author= "TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_Armour_Standard\data\odst\Tropic\34_odst_helmet_tropic.paa",
-        "34thPRC_Armour_Standard\data\odst\HR_ODST_Visor_Maroon_co.paa"
+        "34thPRC_Armour_Standard\data\odst\tropic\34_odst_helmet_tropic.paa",
+        "34thPRC_Armour_Standard\data\odst\hr_odst_visor_maroon_co.paa"
     };
 };
 class 34thPRC_Armour_Standard_Headgear_ODST_Woodland_Visor_W : MA_M56SR_Helmet_White_Visor
@@ -85,7 +85,7 @@ class 34thPRC_Armour_Standard_Headgear_ODST_Woodland_Visor_W : MA_M56SR_Helmet_W
     author= "TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_Armour_Standard\data\odst\Woodland\34_odst_helmet_woodland.paa",
+        "34thPRC_Armour_Standard\data\odst\woodland\34_odst_helmet_woodland.paa",
         "MA_Armor\data\Helmets\HR_ODST\HR_ODST_Visor_White_co.paa"
     };
 };
@@ -95,8 +95,8 @@ class 34thPRC_Armour_Standard_Headgear_ODST_Woodland_Visor_M : MA_M56SR_Helmet_W
     author= "TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_Armour_Standard\data\odst\Woodland\34_odst_helmet_woodland.paa",
-        "34thPRC_Armour_Standard\data\odst\HR_ODST_Visor_Maroon_co.paa"
+        "34thPRC_Armour_Standard\data\odst\woodland\34_odst_helmet_woodland.paa",
+        "34thPRC_Armour_Standard\data\odst\hr_odst_visor_maroon_co.paa"
     };
 };
 
@@ -110,8 +110,8 @@ class 34thPRC_Armour_Standard_Vest_ODST_Urban: MA_M56R_Vest
             "MA_Armor\data\Vests\H3_ODST\H3_Upper_Armor_co.paa",       //camo1 (H3 Upper Armor)
             "MA_Armor\data\Vests\H3_ODST\H3_Lower_Armor_co.paa",       //camo2 (H3 Lower Armor)
             "MA_Armor\data\Vests\H3_ODST\Addons\Thigh_Pouch_co.paa",//camo3 (Thigh Pouch)
-            "34thPRC_Armour_Standard\data\odst\Urban\34_odst_upper_urban.paa",    //camo4 (Reach Upper Armor)
-            "34thPRC_Armour_Standard\data\odst\Urban\34_odst_lower_urban.paa",    //camo5 (Reach Lower Armor)
+            "34thPRC_Armour_Standard\data\odst\urban\34_odst_upper_urban.paa",    //camo4 (Reach Upper Armor)
+            "34thPRC_Armour_Standard\data\odst\urban\34_odst_lower_urban.paa",    //camo5 (Reach Lower Armor)
             "MA_Armor\data\Vests\Reach_ODST\Canisters_co.paa",      //camo6 (Canisters)
             "MA_Armor\data\Vests\Reach_ODST\Forearm_Vents_co.paa",   //camo7 (Forearm Vents)
             "MA_Armor\data\Vests\Reach_ODST\Addons\Sniper_Shoulders\Sniper_co.paa", //camo8 (Sniper Shoulders)
@@ -128,8 +128,8 @@ class 34thPRC_Armour_Standard_Vest_ODST_Arid: MA_M56R_Vest
             "MA_Armor\data\Vests\H3_ODST\H3_Upper_Armor_co.paa",       //camo1 (H3 Upper Armor)
             "MA_Armor\data\Vests\H3_ODST\H3_Lower_Armor_co.paa",       //camo2 (H3 Lower Armor)
             "MA_Armor\data\Vests\H3_ODST\Addons\Thigh_Pouch_co.paa",//camo3 (Thigh Pouch)
-            "34thPRC_Armour_Standard\data\odst\Arid\34_odst_upper_arid.paa",    //camo4 (Reach Upper Armor)
-            "34thPRC_Armour_Standard\data\odst\Arid\34_odst_lower_arid.paa",    //camo5 (Reach Lower Armor)
+            "34thPRC_Armour_Standard\data\odst\arid\34_odst_upper_arid.paa",    //camo4 (Reach Upper Armor)
+            "34thPRC_Armour_Standard\data\odst\arid\34_odst_lower_arid.paa",    //camo5 (Reach Lower Armor)
             "MA_Armor\data\Vests\Reach_ODST\Canisters_co.paa",      //camo6 (Canisters)
             "MA_Armor\data\Vests\Reach_ODST\Forearm_Vents_co.paa",   //camo7 (Forearm Vents)
             "MA_Armor\data\Vests\Reach_ODST\Addons\Sniper_Shoulders\Sniper_co.paa", //camo8 (Sniper Shoulders)
@@ -146,8 +146,8 @@ class 34thPRC_Armour_Standard_Vest_ODST_Arctic: MA_M56R_Vest
             "MA_Armor\data\Vests\H3_ODST\H3_Upper_Armor_co.paa",       //camo1 (H3 Upper Armor)
             "MA_Armor\data\Vests\H3_ODST\H3_Lower_Armor_co.paa",       //camo2 (H3 Lower Armor)
             "MA_Armor\data\Vests\H3_ODST\Addons\Thigh_Pouch_co.paa",//camo3 (Thigh Pouch)
-            "34thPRC_Armour_Standard\data\odst\Arctic\34_odst_upper_arctic.paa",    //camo4 (Reach Upper Armor)
-            "34thPRC_Armour_Standard\data\odst\Arctic\34_odst_lower_arctic.paa",    //camo5 (Reach Lower Armor)
+            "34thPRC_Armour_Standard\data\odst\arctic\34_odst_upper_arctic.paa",    //camo4 (Reach Upper Armor)
+            "34thPRC_Armour_Standard\data\odst\arctic\34_odst_lower_arctic.paa",    //camo5 (Reach Lower Armor)
             "MA_Armor\data\Vests\Reach_ODST\Canisters_co.paa",      //camo6 (Canisters)
             "MA_Armor\data\Vests\Reach_ODST\Forearm_Vents_co.paa",   //camo7 (Forearm Vents)
             "MA_Armor\data\Vests\Reach_ODST\Addons\Sniper_Shoulders\Sniper_co.paa", //camo8 (Sniper Shoulders)
@@ -164,8 +164,8 @@ class 34thPRC_Armour_Standard_Vest_ODST_Woodland: MA_M56R_Vest
             "MA_Armor\data\Vests\H3_ODST\H3_Upper_Armor_co.paa",       //camo1 (H3 Upper Armor)
             "MA_Armor\data\Vests\H3_ODST\H3_Lower_Armor_co.paa",       //camo2 (H3 Lower Armor)
             "MA_Armor\data\Vests\H3_ODST\Addons\Thigh_Pouch_co.paa",//camo3 (Thigh Pouch)
-            "34thPRC_Armour_Standard\data\odst\Woodland\34_odst_upper_woodland.paa",    //camo4 (Reach Upper Armor)
-            "34thPRC_Armour_Standard\data\odst\Woodland\34_odst_lower_woodland.paa",    //camo5 (Reach Lower Armor)
+            "34thPRC_Armour_Standard\data\odst\woodland\34_odst_upper_woodland.paa",    //camo4 (Reach Upper Armor)
+            "34thPRC_Armour_Standard\data\odst\woodland\34_odst_lower_woodland.paa",    //camo5 (Reach Lower Armor)
             "MA_Armor\data\Vests\Reach_ODST\Canisters_co.paa",      //camo6 (Canisters)
             "MA_Armor\data\Vests\Reach_ODST\Forearm_Vents_co.paa",   //camo7 (Forearm Vents)
             "MA_Armor\data\Vests\Reach_ODST\Addons\Sniper_Shoulders\Sniper_co.paa", //camo8 (Sniper Shoulders)
@@ -182,8 +182,8 @@ class 34thPRC_Armour_Standard_Vest_ODST_Tropic: MA_M56R_Vest
             "MA_Armor\data\Vests\H3_ODST\H3_Upper_Armor_co.paa",       //camo1 (H3 Upper Armor)
             "MA_Armor\data\Vests\H3_ODST\H3_Lower_Armor_co.paa",       //camo2 (H3 Lower Armor)
             "MA_Armor\data\Vests\H3_ODST\Addons\Thigh_Pouch_co.paa",//camo3 (Thigh Pouch)
-            "34thPRC_Armour_Standard\data\odst\Tropic\34_odst_upper_tropic.paa",    //camo4 (Reach Upper Armor)
-            "34thPRC_Armour_Standard\data\odst\Tropic\34_odst_lower_tropic.paa",    //camo5 (Reach Lower Armor)
+            "34thPRC_Armour_Standard\data\odst\tropic\34_odst_upper_tropic.paa",    //camo4 (Reach Upper Armor)
+            "34thPRC_Armour_Standard\data\odst\tropic\34_odst_lower_tropic.paa",    //camo5 (Reach Lower Armor)
             "MA_Armor\data\Vests\Reach_ODST\Canisters_co.paa",      //camo6 (Canisters)
             "MA_Armor\data\Vests\Reach_ODST\Forearm_Vents_co.paa",   //camo7 (Forearm Vents)
             "MA_Armor\data\Vests\Reach_ODST\Addons\Sniper_Shoulders\Sniper_co.paa", //camo8 (Sniper Shoulders)
@@ -202,8 +202,8 @@ class 34thPRC_Armour_Standard_Vest_ODST_Medic_Urban: MA_M56R_Medic_Vest
             "MA_Armor\data\Vests\H3_ODST\H3_Upper_Armor_co.paa",       //camo1 (H3 Upper Armor)
             "MA_Armor\data\Vests\H3_ODST\H3_Lower_Armor_co.paa",       //camo2 (H3 Lower Armor)
             "MA_Armor\data\Vests\H3_ODST\Addons\Medic_Thigh_Pouch_co.paa",//camo3 (Thigh Pouch)
-            "34thPRC_Armour_Standard\data\odst\Urban\34_odst_medic_upper_urban.paa",    //camo4 (Reach Upper Armor)
-            "34thPRC_Armour_Standard\data\odst\Urban\34_odst_lower_urban.paa",    //camo5 (Reach Lower Armor)
+            "34thPRC_Armour_Standard\data\odst\urban\34_odst_medic_upper_urban.paa",    //camo4 (Reach Upper Armor)
+            "34thPRC_Armour_Standard\data\odst\urban\34_odst_lower_urban.paa",    //camo5 (Reach Lower Armor)
             "MA_Armor\data\Vests\Reach_ODST\Canisters_co.paa",      //camo6 (Canisters)
             "MA_Armor\data\Vests\Reach_ODST\Forearm_Vents_co.paa",   //camo7 (Forearm Vents)
             "MA_Armor\data\Vests\Reach_ODST\Addons\Sniper_Shoulders\Sniper_co.paa", //camo8 (Sniper Shoulders)
@@ -220,8 +220,8 @@ class 34thPRC_Armour_Standard_Vest_ODST_Medic_Arctic: MA_M56R_Medic_Vest
             "MA_Armor\data\Vests\H3_ODST\H3_Upper_Armor_co.paa",       //camo1 (H3 Upper Armor)
             "MA_Armor\data\Vests\H3_ODST\H3_Lower_Armor_co.paa",       //camo2 (H3 Lower Armor)
             "MA_Armor\data\Vests\H3_ODST\Addons\Medic_Thigh_Pouch_co.paa",//camo3 (Thigh Pouch)
-            "34thPRC_Armour_Standard\data\odst\Arctic\34_odst_medic_upper_arctic.paa",    //camo4 (Reach Upper Armor)
-            "34thPRC_Armour_Standard\data\odst\Arctic\34_odst_lower_arctic.paa",    //camo5 (Reach Lower Armor)
+            "34thPRC_Armour_Standard\data\odst\arctic\34_odst_medic_upper_arctic.paa",    //camo4 (Reach Upper Armor)
+            "34thPRC_Armour_Standard\data\odst\arctic\34_odst_lower_arctic.paa",    //camo5 (Reach Lower Armor)
             "MA_Armor\data\Vests\Reach_ODST\Canisters_co.paa",      //camo6 (Canisters)
             "MA_Armor\data\Vests\Reach_ODST\Forearm_Vents_co.paa",   //camo7 (Forearm Vents)
             "MA_Armor\data\Vests\Reach_ODST\Addons\Sniper_Shoulders\Sniper_co.paa", //camo8 (Sniper Shoulders)
@@ -238,8 +238,8 @@ class 34thPRC_Armour_Standard_Vest_ODST_Medic_Arid: MA_M56R_Medic_Vest
             "MA_Armor\data\Vests\H3_ODST\H3_Upper_Armor_co.paa",       //camo1 (H3 Upper Armor)
             "MA_Armor\data\Vests\H3_ODST\H3_Lower_Armor_co.paa",       //camo2 (H3 Lower Armor)
             "MA_Armor\data\Vests\H3_ODST\Addons\Medic_Thigh_Pouch_co.paa",//camo3 (Thigh Pouch)
-            "34thPRC_Armour_Standard\data\odst\Arid\34_odst_medic_upper_arid.paa",    //camo4 (Reach Upper Armor)
-            "34thPRC_Armour_Standard\data\odst\Arid\34_odst_lower_arid.paa",    //camo5 (Reach Lower Armor)
+            "34thPRC_Armour_Standard\data\odst\arid\34_odst_medic_upper_arid.paa",    //camo4 (Reach Upper Armor)
+            "34thPRC_Armour_Standard\data\odst\arid\34_odst_lower_arid.paa",    //camo5 (Reach Lower Armor)
             "MA_Armor\data\Vests\Reach_ODST\Canisters_co.paa",      //camo6 (Canisters)
             "MA_Armor\data\Vests\Reach_ODST\Forearm_Vents_co.paa",   //camo7 (Forearm Vents)
             "MA_Armor\data\Vests\Reach_ODST\Addons\Sniper_Shoulders\Sniper_co.paa", //camo8 (Sniper Shoulders)
@@ -256,8 +256,8 @@ class 34thPRC_Armour_Standard_Vest_ODST_Medic_Tropic: MA_M56R_Medic_Vest
             "MA_Armor\data\Vests\H3_ODST\H3_Upper_Armor_co.paa",       //camo1 (H3 Upper Armor)
             "MA_Armor\data\Vests\H3_ODST\H3_Lower_Armor_co.paa",       //camo2 (H3 Lower Armor)
             "MA_Armor\data\Vests\H3_ODST\Addons\Medic_Thigh_Pouch_co.paa",//camo3 (Thigh Pouch)
-            "34thPRC_Armour_Standard\data\odst\Tropic\34_odst_medic_upper_tropic.paa",    //camo4 (Reach Upper Armor)
-            "34thPRC_Armour_Standard\data\odst\Tropic\34_odst_lower_tropic.paa",    //camo5 (Reach Lower Armor)
+            "34thPRC_Armour_Standard\data\odst\tropic\34_odst_medic_upper_tropic.paa",    //camo4 (Reach Upper Armor)
+            "34thPRC_Armour_Standard\data\odst\tropic\34_odst_lower_tropic.paa",    //camo5 (Reach Lower Armor)
             "MA_Armor\data\Vests\Reach_ODST\Canisters_co.paa",      //camo6 (Canisters)
             "MA_Armor\data\Vests\Reach_ODST\Forearm_Vents_co.paa",   //camo7 (Forearm Vents)
             "MA_Armor\data\Vests\Reach_ODST\Addons\Sniper_Shoulders\Sniper_co.paa", //camo8 (Sniper Shoulders)
@@ -274,8 +274,8 @@ class 34thPRC_Armour_Standard_Vest_ODST_Medic_Woodland: MA_M56R_Medic_Vest
             "MA_Armor\data\Vests\H3_ODST\H3_Upper_Armor_co.paa",       //camo1 (H3 Upper Armor)
             "MA_Armor\data\Vests\H3_ODST\H3_Lower_Armor_co.paa",       //camo2 (H3 Lower Armor)
             "MA_Armor\data\Vests\H3_ODST\Addons\Medic_Thigh_Pouch_co.paa",//camo3 (Thigh Pouch)
-            "34thPRC_Armour_Standard\data\odst\Woodland\34_odst_medic_upper_woodland.paa",    //camo4 (Reach Upper Armor)
-            "34thPRC_Armour_Standard\data\odst\Woodland\34_odst_lower_woodland.paa",    //camo5 (Reach Lower Armor)
+            "34thPRC_Armour_Standard\data\odst\woodland\34_odst_medic_upper_woodland.paa",    //camo4 (Reach Upper Armor)
+            "34thPRC_Armour_Standard\data\odst\woodland\34_odst_lower_woodland.paa",    //camo5 (Reach Lower Armor)
             "MA_Armor\data\Vests\Reach_ODST\Canisters_co.paa",      //camo6 (Canisters)
             "MA_Armor\data\Vests\Reach_ODST\Forearm_Vents_co.paa",   //camo7 (Forearm Vents)
             "MA_Armor\data\Vests\Reach_ODST\Addons\Sniper_Shoulders\Sniper_co.paa", //camo8 (Sniper Shoulders)
