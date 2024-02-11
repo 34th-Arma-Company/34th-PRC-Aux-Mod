@@ -9,7 +9,7 @@ class 34thPRC_Armour_Standard_Headgear_ODST_Urban_Visor_W : MA_M56SR_Helmet_Whit
         "MA_Armor\data\Helmets\HR_ODST\HR_ODST_Visor_White_co.paa"
     };
 };
-class 34thPRC_Armour_Standard_Headgear_ODST_Urban_Visor_M : MA_M56SR_Helmet_White_Visor
+class 34thPRC_Armour_Standard_Headgear_ODST_Urban_Visor_M : 34thPRC_Armour_Standard_Headgear_ODST_Urban_Visor_W
 {
     displayName="[34th] M56SR Urban (Maroon Visor)";
     author= "TheBrwnKidd";
@@ -19,7 +19,7 @@ class 34thPRC_Armour_Standard_Headgear_ODST_Urban_Visor_M : MA_M56SR_Helmet_Whit
         "34thPRC_Armour_Standard\data\odst\hr_odst_visor_maroon_co.paa"
     };
 };
-class 34thPRC_Armour_Standard_Headgear_ODST_Arctic_Visor_W : MA_M56SR_Helmet_White_Visor
+class 34thPRC_Armour_Standard_Headgear_ODST_Arctic_Visor_W : 34thPRC_Armour_Standard_Headgear_ODST_Urban_Visor_W
 {
     displayName="[34th] M56SR Arctic (White Visor)";
     author= "TheBrwnKidd";
@@ -29,7 +29,7 @@ class 34thPRC_Armour_Standard_Headgear_ODST_Arctic_Visor_W : MA_M56SR_Helmet_Whi
         "MA_Armor\data\Helmets\HR_ODST\HR_ODST_Visor_White_co.paa"
     };
 };
-class 34thPRC_Armour_Standard_Headgear_ODST_Arctic_Visor_M : MA_M56SR_Helmet_White_Visor
+class 34thPRC_Armour_Standard_Headgear_ODST_Arctic_Visor_M : 34thPRC_Armour_Standard_Headgear_ODST_Urban_Visor_W
 {
     displayName="[34th] M56SR Arctic (Maroon Visor)";
     author= "TheBrwnKidd";
@@ -39,7 +39,7 @@ class 34thPRC_Armour_Standard_Headgear_ODST_Arctic_Visor_M : MA_M56SR_Helmet_Whi
         "34thPRC_Armour_Standard\data\odst\hr_odst_visor_maroon_co.paa"
     };
 };
-class 34thPRC_Armour_Standard_Headgear_ODST_Arid_Visor_W : MA_M56SR_Helmet_White_Visor
+class 34thPRC_Armour_Standard_Headgear_ODST_Arid_Visor_W : 34thPRC_Armour_Standard_Headgear_ODST_Urban_Visor_W
 {
     displayName="[34th] M56SR Arid (White Visor)";
     author= "TheBrwnKidd";
@@ -49,7 +49,7 @@ class 34thPRC_Armour_Standard_Headgear_ODST_Arid_Visor_W : MA_M56SR_Helmet_White
         "MA_Armor\data\Helmets\HR_ODST\HR_ODST_Visor_White_co.paa"
     };
 };
-class 34thPRC_Armour_Standard_Headgear_ODST_Arid_Visor_M : MA_M56SR_Helmet_White_Visor
+class 34thPRC_Armour_Standard_Headgear_ODST_Arid_Visor_M : 34thPRC_Armour_Standard_Headgear_ODST_Urban_Visor_W
 {
     displayName="[34th] M56SR Arid (Maroon Visor)";
     author= "TheBrwnKidd";
@@ -59,7 +59,7 @@ class 34thPRC_Armour_Standard_Headgear_ODST_Arid_Visor_M : MA_M56SR_Helmet_White
         "34thPRC_Armour_Standard\data\odst\hr_odst_visor_maroon_co.paa"
     };
 };
-class 34thPRC_Armour_Standard_Headgear_ODST_Tropic_Visor_W : MA_M56SR_Helmet_White_Visor
+class 34thPRC_Armour_Standard_Headgear_ODST_Tropic_Visor_W : 34thPRC_Armour_Standard_Headgear_ODST_Urban_Visor_W
 {
     displayName="[34th] M56SR Tropic (White Visor)";
     author= "TheBrwnKidd";
@@ -69,7 +69,7 @@ class 34thPRC_Armour_Standard_Headgear_ODST_Tropic_Visor_W : MA_M56SR_Helmet_Whi
         "MA_Armor\data\Helmets\HR_ODST\HR_ODST_Visor_White_co.paa"
     };
 };
-class 34thPRC_Armour_Standard_Headgear_ODST_Tropic_Visor_M : MA_M56SR_Helmet_White_Visor
+class 34thPRC_Armour_Standard_Headgear_ODST_Tropic_Visor_M : 34thPRC_Armour_Standard_Headgear_ODST_Urban_Visor_W
 {
     displayName="[34th] M56SR Tropic (Maroon Visor)";
     author= "TheBrwnKidd";
@@ -79,7 +79,7 @@ class 34thPRC_Armour_Standard_Headgear_ODST_Tropic_Visor_M : MA_M56SR_Helmet_Whi
         "34thPRC_Armour_Standard\data\odst\hr_odst_visor_maroon_co.paa"
     };
 };
-class 34thPRC_Armour_Standard_Headgear_ODST_Woodland_Visor_W : MA_M56SR_Helmet_White_Visor
+class 34thPRC_Armour_Standard_Headgear_ODST_Woodland_Visor_W : 34thPRC_Armour_Standard_Headgear_ODST_Urban_Visor_W
 {
     displayName="[34th] M56SR Woodland (White Visor)";
     author= "TheBrwnKidd";
@@ -89,7 +89,7 @@ class 34thPRC_Armour_Standard_Headgear_ODST_Woodland_Visor_W : MA_M56SR_Helmet_W
         "MA_Armor\data\Helmets\HR_ODST\HR_ODST_Visor_White_co.paa"
     };
 };
-class 34thPRC_Armour_Standard_Headgear_ODST_Woodland_Visor_M : MA_M56SR_Helmet_White_Visor
+class 34thPRC_Armour_Standard_Headgear_ODST_Woodland_Visor_M : 34thPRC_Armour_Standard_Headgear_ODST_Urban_Visor_W
 {
     displayName="[34th] M56SR Woodland (Maroon Visor)";
     author= "TheBrwnKidd";
@@ -119,7 +119,7 @@ class 34thPRC_Armour_Standard_Vest_ODST_Urban: MA_M56R_Vest
             "MA_Armor\data\Vests\Reach_ODST\Addons\Reach_Shoulder_Radio\Shoulder_Radio_Green_co.paa" //camo10 (Shoulder Radio)
     };
 };
-class 34thPRC_Armour_Standard_Vest_ODST_Arid: MA_M56R_Vest
+class 34thPRC_Armour_Standard_Vest_ODST_Arid: 34thPRC_Armour_Standard_Vest_ODST_Urban
 {
     displayName="[34th] M56R Combat Armour Arid";
     author= "TheBrwnKidd"
@@ -137,7 +137,7 @@ class 34thPRC_Armour_Standard_Vest_ODST_Arid: MA_M56R_Vest
             "MA_Armor\data\Vests\Reach_ODST\Addons\Reach_Shoulder_Radio\Shoulder_Radio_Green_co.paa" //camo10 (Shoulder Radio)
     };
 };
-class 34thPRC_Armour_Standard_Vest_ODST_Arctic: MA_M56R_Vest
+class 34thPRC_Armour_Standard_Vest_ODST_Arctic: 34thPRC_Armour_Standard_Vest_ODST_Urban
 {
     displayName="[34th] M56R Combat Armour Arctic";
     author= "TheBrwnKidd"
@@ -155,7 +155,7 @@ class 34thPRC_Armour_Standard_Vest_ODST_Arctic: MA_M56R_Vest
             "MA_Armor\data\Vests\Reach_ODST\Addons\Reach_Shoulder_Radio\Shoulder_Radio_Green_co.paa" //camo10 (Shoulder Radio)
     };
 };
-class 34thPRC_Armour_Standard_Vest_ODST_Woodland: MA_M56R_Vest
+class 34thPRC_Armour_Standard_Vest_ODST_Woodland: 34thPRC_Armour_Standard_Vest_ODST_Urban
 {
     displayName="[34th] M56R Combat Armour Woodland";
     author= "TheBrwnKidd"
@@ -173,7 +173,7 @@ class 34thPRC_Armour_Standard_Vest_ODST_Woodland: MA_M56R_Vest
             "MA_Armor\data\Vests\Reach_ODST\Addons\Reach_Shoulder_Radio\Shoulder_Radio_Green_co.paa" //camo10 (Shoulder Radio)
     };
 };
-class 34thPRC_Armour_Standard_Vest_ODST_Tropic: MA_M56R_Vest
+class 34thPRC_Armour_Standard_Vest_ODST_Tropic: 34thPRC_Armour_Standard_Vest_ODST_Urban
 {
     displayName="[34th] M56R Combat Armour Tropic";
     author= "TheBrwnKidd"
@@ -211,7 +211,7 @@ class 34thPRC_Armour_Standard_Vest_ODST_Medic_Urban: MA_M56R_Medic_Vest
             "MA_Armor\data\Vests\Reach_ODST\Addons\Reach_Shoulder_Radio\Shoulder_Radio_Green_co.paa" //camo10 (Shoulder Radio)
     };
 };
-class 34thPRC_Armour_Standard_Vest_ODST_Medic_Arctic: MA_M56R_Medic_Vest
+class 34thPRC_Armour_Standard_Vest_ODST_Medic_Arctic: 34thPRC_Armour_Standard_Vest_ODST_Medic_Urban
 {
     displayName="[34th] M56R Combat Armour Arctic (Medic)";
     author= "TheBrwnKidd"
@@ -229,7 +229,7 @@ class 34thPRC_Armour_Standard_Vest_ODST_Medic_Arctic: MA_M56R_Medic_Vest
             "MA_Armor\data\Vests\Reach_ODST\Addons\Reach_Shoulder_Radio\Shoulder_Radio_Green_co.paa" //camo10 (Shoulder Radio)
     };
 };
-class 34thPRC_Armour_Standard_Vest_ODST_Medic_Arid: MA_M56R_Medic_Vest
+class 34thPRC_Armour_Standard_Vest_ODST_Medic_Arid: 34thPRC_Armour_Standard_Vest_ODST_Medic_Urban
 {
     displayName="[34th] M56R Combat Armour Arid (Medic)";
     author= "TheBrwnKidd"
@@ -247,7 +247,7 @@ class 34thPRC_Armour_Standard_Vest_ODST_Medic_Arid: MA_M56R_Medic_Vest
             "MA_Armor\data\Vests\Reach_ODST\Addons\Reach_Shoulder_Radio\Shoulder_Radio_Green_co.paa" //camo10 (Shoulder Radio)
     };
 };
-class 34thPRC_Armour_Standard_Vest_ODST_Medic_Tropic: MA_M56R_Medic_Vest
+class 34thPRC_Armour_Standard_Vest_ODST_Medic_Tropic: 34thPRC_Armour_Standard_Vest_ODST_Medic_Urban
 {
     displayName="[34th] M56R Combat Armour Tropic (Medic)";
     author= "TheBrwnKidd"
@@ -265,7 +265,7 @@ class 34thPRC_Armour_Standard_Vest_ODST_Medic_Tropic: MA_M56R_Medic_Vest
             "MA_Armor\data\Vests\Reach_ODST\Addons\Reach_Shoulder_Radio\Shoulder_Radio_Green_co.paa" //camo10 (Shoulder Radio)
     };
 };
-class 34thPRC_Armour_Standard_Vest_ODST_Medic_Woodland: MA_M56R_Medic_Vest
+class 34thPRC_Armour_Standard_Vest_ODST_Medic_Woodland: 34thPRC_Armour_Standard_Vest_ODST_Medic_Urban
 {
     displayName="[34th] M56R Combat Armour Woodland (Medic)";
     author= "TheBrwnKidd"
@@ -284,100 +284,62 @@ class 34thPRC_Armour_Standard_Vest_ODST_Medic_Woodland: MA_M56R_Medic_Vest
     };
 };
 
-class MA_M56S_BDU;
+class U_B_CombatUniform_mcam; // A3_Characters_F
+class MA_M56S_BDU : U_B_CombatUniform_mcam // MA_Armor
+{
+	class ItemInfo;
+}
 class 34thPRC_Armour_Standard_Uniform_ODST_Urban_Red : MA_M56S_BDU
 {
-    scope=2;
-    scopeArsenal=2;
     author="TheBrwnKidd"
     displayName="[34th] M56S Uniform Urban Red";
-    model="\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
-    picture="MA_Armor\data\Icons\H3_ODST_Uniform.paa";
-    class ItemInfo : UniformItem
+    class ItemInfo : ItemInfo
     {
-        uniformModel="-";
         uniformClass="34thPRC_Armour_Standard_Trooper_ODST_Urban_Red";
-        containerClass="Supply150";
-        mass=10;
     };
 };
-class 34thPRC_Armour_Standard_Uniform_ODST_Urban_Blue : MA_M56S_BDU
+class 34thPRC_Armour_Standard_Uniform_ODST_Urban_Blue : 34thPRC_Armour_Standard_Uniform_ODST_Urban_Red
 {
-    scope=2;
-    scopeArsenal=2;
     author="TheBrwnKidd"
     displayName="[34th] M56S Uniform Urban Blue";
-    model="\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
-    picture="MA_Armor\data\Icons\H3_ODST_Uniform.paa";
-    class ItemInfo : UniformItem
+    class ItemInfo : ItemInfo
     {
-        uniformModel="-";
         uniformClass="34thPRC_Armour_Standard_Trooper_ODST_Urban_Blue";
-        containerClass="Supply150";
-        mass=10;
     };
 };
-class 34thPRC_Armour_Standard_Uniform_ODST_Arctic : MA_M56S_BDU
+class 34thPRC_Armour_Standard_Uniform_ODST_Arctic : 34thPRC_Armour_Standard_Uniform_ODST_Urban_Red
 {
-    scope=2;
-    scopeArsenal=2;
     author="TheBrwnKidd"
     displayName="[34th] M56S Uniform Arctic";
-    model="\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
-    picture="MA_Armor\data\Icons\H3_ODST_Uniform.paa";
-    class ItemInfo : UniformItem
+    class ItemInfo : ItemInfo
     {
-        uniformModel="-";
         uniformClass="34thPRC_Armour_Standard_Trooper_ODST_Arctic";
-        containerClass="Supply150";
-        mass=10;
     };
 };
-class 34thPRC_Armour_Standard_Uniform_ODST_Arid : MA_M56S_BDU
+class 34thPRC_Armour_Standard_Uniform_ODST_Arid : 34thPRC_Armour_Standard_Uniform_ODST_Urban_Red
 {
-    scope=2;
-    scopeArsenal=2;
     author="TheBrwnKidd"
     displayName="[34th] M56S Uniform Arid";
-    model="\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
-    picture="MA_Armor\data\Icons\H3_ODST_Uniform.paa";
-    class ItemInfo : UniformItem
+    class ItemInfo : ItemInfo
     {
-        uniformModel="-";
         uniformClass="34thPRC_Armour_Standard_Trooper_ODST_Arid";
-        containerClass="Supply150";
-        mass=10;
     };
 };
-class 34thPRC_Armour_Standard_Uniform_ODST_Tropic : MA_M56S_BDU
+class 34thPRC_Armour_Standard_Uniform_ODST_Tropic : 34thPRC_Armour_Standard_Uniform_ODST_Urban_Red
 {
-    scope=2;
-    scopeArsenal=2;
     author="TheBrwnKidd"
     displayName="[34th] M56S Uniform Tropic";
-    model="\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
-    picture="MA_Armor\data\Icons\H3_ODST_Uniform.paa";
-    class ItemInfo : UniformItem
+    class ItemInfo : ItemInfo
     {
-        uniformModel="-";
         uniformClass="34thPRC_Armour_Standard_Trooper_ODST_Tropic";
-        containerClass="Supply150";
-        mass=10;
     };
 };
-class 34thPRC_Armour_Standard_Uniform_ODST_Woodland : MA_M56S_BDU
+class 34thPRC_Armour_Standard_Uniform_ODST_Woodland : 34thPRC_Armour_Standard_Uniform_ODST_Urban_Red
 {
-    scope=2;
-    scopeArsenal=2;
     author="TheBrwnKidd"
     displayName="[34th] M56S Uniform Woodland";
-    model="\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
-    picture="MA_Armor\data\Icons\H3_ODST_Uniform.paa";
-    class ItemInfo : UniformItem
+    class ItemInfo : ItemInfo
     {
-        uniformModel="-";
         uniformClass="34thPRC_Armour_Standard_Trooper_ODST_Woodland";
-        containerClass="Supply150";
-        mass=10;
     };
 };

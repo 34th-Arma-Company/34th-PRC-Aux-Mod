@@ -4,8 +4,9 @@ class CfgPatches
 	{
 		author="34th PRC Modding Team";
 		units[]={};
-		requiredAddond[] =
+		requiredAddons[] =
 		{
+			"A3_Characters_F", // Vanilla
 			"A3_Characters_F_EPB", // Vanilla
 			"Halo_marine_02", // Misriah Armory Tactical Gear and Equipment
 			"MA_Armor"	// Misriah Armory
