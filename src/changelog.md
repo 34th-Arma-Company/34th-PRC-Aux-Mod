@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Updated
 - New uniform camos for marines
+- New uniform and vest camos for ODST
 - Updates unit emblem on uniforms
 
 ## [0.1.1]
