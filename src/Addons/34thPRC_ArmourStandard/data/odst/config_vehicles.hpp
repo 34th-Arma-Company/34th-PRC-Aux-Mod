@@ -156,23 +156,23 @@ class 34thPRC_ArmourStandard_ODST_M56S_Woodland_Radio : 34thPRC_ArmourStandard_O
 
 
 class MA_M56S_BDU_Base;
-class 34thPRC_ArmourStandard_ODST_Trooper_Urban_Red : MA_M56S_BDU_Base
+class 34thPRC_ArmourStandard_ODST_Trooper_UrbanRed : MA_M56S_BDU_Base
 {
-	uniformClass="34thPRC_ArmourStandard_ODST_Uniform_Urban_Red";
+	uniformClass="34thPRC_ArmourStandard_ODST_Uniform_UrbanRed";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\odst\urban\odst_undersuit_urban_red_co.paa"
 	};
 }
-class 34thPRC_ArmourStandard_ODST_Trooper_Urban_Blue : 34thPRC_ArmourStandard_ODST_Trooper_Urban_Red
+class 34thPRC_ArmourStandard_ODST_Trooper_UrbanBlue : 34thPRC_ArmourStandard_ODST_Trooper_UrbanRed
 {
-	uniformClass="34thPRC_ArmourStandard_ODST_Uniform_Urban_Blue";
+	uniformClass="34thPRC_ArmourStandard_ODST_Uniform_UrbanBlue";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\odst\urban\odst_undersuit_urban_blue_co.paa"
 	};
 }
-class 34thPRC_ArmourStandard_ODST_Trooper_Arctic : 34thPRC_ArmourStandard_ODST_Trooper_Urban_Red
+class 34thPRC_ArmourStandard_ODST_Trooper_Arctic : 34thPRC_ArmourStandard_ODST_Trooper_UrbanRed
 {
 	uniformClass="34thPRC_ArmourStandard_ODST_Uniform_Arctic";
 	hiddenSelectionsTextures[]=
@@ -180,7 +180,7 @@ class 34thPRC_ArmourStandard_ODST_Trooper_Arctic : 34thPRC_ArmourStandard_ODST_T
 		"34thPRC_ArmourStandard\data\odst\arctic\odst_undersuit_arctic_co.paa"
 	};
 }
-class 34thPRC_ArmourStandard_ODST_Trooper_Arid : 34thPRC_ArmourStandard_ODST_Trooper_Urban_Red
+class 34thPRC_ArmourStandard_ODST_Trooper_Arid : 34thPRC_ArmourStandard_ODST_Trooper_UrbanRed
 {
 	uniformClass="34thPRC_ArmourStandard_ODST_Uniform_Arid";
 	hiddenSelectionsTextures[]=
@@ -188,7 +188,7 @@ class 34thPRC_ArmourStandard_ODST_Trooper_Arid : 34thPRC_ArmourStandard_ODST_Tro
 		"34thPRC_ArmourStandard\data\odst\arid\odst_undersuit_arid_co.paa"
 	};
 }
-class 34thPRC_ArmourStandard_ODST_Trooper_Tropic : 34thPRC_ArmourStandard_ODST_Trooper_Urban_Red
+class 34thPRC_ArmourStandard_ODST_Trooper_Tropic : 34thPRC_ArmourStandard_ODST_Trooper_UrbanRed
 {
 	uniformClass="34thPRC_ArmourStandard_ODST_Uniform_Tropic";
 	hiddenSelectionsTextures[]=
@@ -196,7 +196,7 @@ class 34thPRC_ArmourStandard_ODST_Trooper_Tropic : 34thPRC_ArmourStandard_ODST_T
 		"34thPRC_ArmourStandard\data\odst\tropic\odst_undersuit_tropic_co.paa"
 	};
 }
-class 34thPRC_ArmourStandard_ODST_Trooper_Woodland : 34thPRC_ArmourStandard_ODST_Trooper_Urban_Red
+class 34thPRC_ArmourStandard_ODST_Trooper_Woodland : 34thPRC_ArmourStandard_ODST_Trooper_UrbanRed
 {
 	uniformClass="34thPRC_ArmourStandard_ODST_Uniform_Woodland";
 	hiddenSelectionsTextures[]=

@@ -8,7 +8,7 @@ class 34thPRC_ArmourStandard_Marines_CH252_Urban : HaloInf_Marine_GRFS_headgear
 		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
 	};
 }
-class 34thPRC_ArmourStandard_Marines_CH252_Arctic_Light : 34thPRC_ArmourStandard_Marines_CH252_Urban
+class 34thPRC_ArmourStandard_Marines_CH252_ArcticLight : 34thPRC_ArmourStandard_Marines_CH252_Urban
 {
 	displayName="[34th] CH252 Arctic Light";
 	author="TheBrwnKidd";
@@ -17,7 +17,7 @@ class 34thPRC_ArmourStandard_Marines_CH252_Arctic_Light : 34thPRC_ArmourStandard
 		"34thPRC_ArmourStandard\data\marines\arctic\helmet_arctic_light_co.paa"
 	};
 }
-class 34thPRC_ArmourStandard_Marines_CH252_Arctic_Dark : 34thPRC_ArmourStandard_Marines_CH252_Urban
+class 34thPRC_ArmourStandard_Marines_CH252_ArcticDark : 34thPRC_ArmourStandard_Marines_CH252_Urban
 {
 	displayName="[34th] CH252 Arctic Dark";
 	author="TheBrwnKidd";
@@ -26,7 +26,7 @@ class 34thPRC_ArmourStandard_Marines_CH252_Arctic_Dark : 34thPRC_ArmourStandard_
 		"34thPRC_ArmourStandard\data\marines\arctic\helmet_arctic_dark_co.paa"
 	};
 }
-class 34thPRC_ArmourStandard_Marines_CH252_Arid_Light : 34thPRC_ArmourStandard_Marines_CH252_Urban
+class 34thPRC_ArmourStandard_Marines_CH252_AridLight : 34thPRC_ArmourStandard_Marines_CH252_Urban
 {
 	displayName="[34th] CH252 Arid Light";
 	author="TheBrwnKidd";
@@ -35,7 +35,7 @@ class 34thPRC_ArmourStandard_Marines_CH252_Arid_Light : 34thPRC_ArmourStandard_M
 		"34thPRC_ArmourStandard\data\marines\arid\helmet_arid_light_co.paa"
 	};
 }
-class 34thPRC_ArmourStandard_Marines_CH252_Arid_Dark : 34thPRC_ArmourStandard_Marines_CH252_Urban
+class 34thPRC_ArmourStandard_Marines_CH252_AridDark : 34thPRC_ArmourStandard_Marines_CH252_Urban
 {
 	displayName="[34th] CH252 Arid Dark";
 	author="TheBrwnKidd";
@@ -44,7 +44,7 @@ class 34thPRC_ArmourStandard_Marines_CH252_Arid_Dark : 34thPRC_ArmourStandard_Ma
 		"34thPRC_ArmourStandard\data\marines\arid\helmet_arid_dark_co.paa"
 	};
 }
-class 34thPRC_ArmourStandard_Marines_CH252_Woodland_Light : 34thPRC_ArmourStandard_Marines_CH252_Urban
+class 34thPRC_ArmourStandard_Marines_CH252_WoodlandLight : 34thPRC_ArmourStandard_Marines_CH252_Urban
 {
 	displayName="[34th] CH252 Woodland Light";
 	author="TheBrwnKidd";
@@ -53,7 +53,7 @@ class 34thPRC_ArmourStandard_Marines_CH252_Woodland_Light : 34thPRC_ArmourStanda
 		"34thPRC_ArmourStandard\data\marines\woodland\helmet_woodland_light_co.paa"
 	};
 }
-class 34thPRC_ArmourStandard_Marines_CH252_Woodland_Dark : 34thPRC_ArmourStandard_Marines_CH252_Urban
+class 34thPRC_ArmourStandard_Marines_CH252_WoodlandDark : 34thPRC_ArmourStandard_Marines_CH252_Urban
 {
 	displayName="[34th] CH252 Woodland Dark";
 	author="TheBrwnKidd";
@@ -77,7 +77,7 @@ class haloinfmar_U_GRFS_uniform : Uniform_Base // Halo_marine_02
 {
 	class ItemInfo;
 }
-class 34thPRC_ArmourStandard_Marines_Uniform_Urban_Blue_Medium : haloinfmar_U_GRFS_uniform
+class 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueMedium : haloinfmar_U_GRFS_uniform
 {
 	displayName="[34th] Uniform Urban Blue Medium";
 	author="TheBrwnKidd";
@@ -95,10 +95,10 @@ class 34thPRC_ArmourStandard_Marines_Uniform_Urban_Blue_Medium : haloinfmar_U_GR
 			"34thPRC_ArmourStandard\data\marines\urban\legs_urban_blue_medium_co.paa",
 			"34thPRC_ArmourStandard\data\marines\urban\shoulders_urban_co.paa"
 		};
-		uniformClass="34thPRC_ArmourStandard_Marines_Trooper_Urban_Blue_Medium";
+		uniformClass="34thPRC_ArmourStandard_Marines_Trooper_UrbanBlueMedium";
 	}
 }
-class 34thPRC_ArmourStandard_Marines_Uniform_Urban_Blue_Light : 34thPRC_ArmourStandard_Marines_Uniform_Urban_Blue_Medium
+class 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueLight : 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueMedium
 {
 	displayName="[34th] Uniform Urban Blue Light";
 	author="TheBrwnKidd";
@@ -116,10 +116,10 @@ class 34thPRC_ArmourStandard_Marines_Uniform_Urban_Blue_Light : 34thPRC_ArmourSt
 			"34thPRC_ArmourStandard\data\marines\urban\legs_urban_blue_light_co.paa",
 			"34thPRC_ArmourStandard\data\marines\urban\shoulders_urban_co.paa"
 		};
-		uniformClass="34thPRC_ArmourStandard_Marines_Trooper_Urban_Blue_Light";
+		uniformClass="34thPRC_ArmourStandard_Marines_Trooper_UrbanBlueLight";
 	}
 }
-class 34thPRC_ArmourStandard_Marines_Uniform_Urban_Blue_Dark : 34thPRC_ArmourStandard_Marines_Uniform_Urban_Blue_Medium
+class 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueDark : 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueMedium
 {
 	displayName="[34th] Uniform Urban Blue Dark";
 	author="TheBrwnKidd";
@@ -137,10 +137,10 @@ class 34thPRC_ArmourStandard_Marines_Uniform_Urban_Blue_Dark : 34thPRC_ArmourSta
 			"34thPRC_ArmourStandard\data\marines\urban\legs_urban_blue_dark_co.paa",
 			"34thPRC_ArmourStandard\data\marines\urban\shoulders_urban_co.paa"
 		};
-		uniformClass="34thPRC_ArmourStandard_Marines_Trooper_Urban_Blue_Dark";
+		uniformClass="34thPRC_ArmourStandard_Marines_Trooper_UrbanBlueDark";
 	}
 }
-class 34thPRC_ArmourStandard_Marines_Uniform_Urban_Red_Light : 34thPRC_ArmourStandard_Marines_Uniform_Urban_Blue_Medium
+class 34thPRC_ArmourStandard_Marines_Uniform_UrbanRedLight : 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueMedium
 {
 	displayName="[34th] Uniform Urban Red Light";
 	author="TheBrwnKidd";
@@ -158,10 +158,10 @@ class 34thPRC_ArmourStandard_Marines_Uniform_Urban_Red_Light : 34thPRC_ArmourSta
 			"34thPRC_ArmourStandard\data\marines\urban\legs_urban_red_light_co.paa",
 			"34thPRC_ArmourStandard\data\marines\urban\shoulders_urban_co.paa"
 		};
-		uniformClass="34thPRC_ArmourStandard_Marines_Trooper_Urban_Red_Light";
+		uniformClass="34thPRC_ArmourStandard_Marines_Trooper_UrbanRedLight";
 	}
 }
-class 34thPRC_ArmourStandard_Marines_Uniform_Urban_Red_Dark : 34thPRC_ArmourStandard_Marines_Uniform_Urban_Blue_Medium
+class 34thPRC_ArmourStandard_Marines_Uniform_UrbanRedDark : 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueMedium
 {
 	displayName="[34th] Uniform Urban Red_Dark";
 	author="TheBrwnKidd";
@@ -179,10 +179,10 @@ class 34thPRC_ArmourStandard_Marines_Uniform_Urban_Red_Dark : 34thPRC_ArmourStan
 			"34thPRC_ArmourStandard\data\marines\urban\legs_urban_red_dark_co.paa",
 			"34thPRC_ArmourStandard\data\marines\urban\shoulders_urban_co.paa"
 		};
-		uniformClass="34thPRC_ArmourStandard_Marines_Trooper_Urban_Red_Dark";
+		uniformClass="34thPRC_ArmourStandard_Marines_Trooper_UrbanRedDark";
 	}
 }
-class 34thPRC_ArmourStandard_Marines_Uniform_Arctic_Light : 34thPRC_ArmourStandard_Marines_Uniform_Urban_Blue_Medium
+class 34thPRC_ArmourStandard_Marines_Uniform_ArcticLight : 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueMedium
 {
 	displayName="[34th] Uniform Arctic Light";
 	author="TheBrwnKidd";
@@ -200,10 +200,10 @@ class 34thPRC_ArmourStandard_Marines_Uniform_Arctic_Light : 34thPRC_ArmourStanda
 			"34thPRC_ArmourStandard\data\marines\arctic\legs_arctic_light_co.paa",
 			"34thPRC_ArmourStandard\data\marines\arctic\shoulders_arctic_light_co.paa"
 		};
-		uniformClass="34thPRC_ArmourStandard_Marines_Trooper_Arctic_Light";
+		uniformClass="34thPRC_ArmourStandard_Marines_Trooper_ArcticLight";
 	}
 }
-class 34thPRC_ArmourStandard_Marines_Uniform_Arctic_Dark : 34thPRC_ArmourStandard_Marines_Uniform_Urban_Blue_Medium
+class 34thPRC_ArmourStandard_Marines_Uniform_ArcticDark : 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueMedium
 {
 	displayName="[34th] Uniform Arctic Dark";
 	author="TheBrwnKidd";
@@ -221,10 +221,10 @@ class 34thPRC_ArmourStandard_Marines_Uniform_Arctic_Dark : 34thPRC_ArmourStandar
 			"34thPRC_ArmourStandard\data\marines\arctic\legs_arctic_dark_co.paa",
 			"34thPRC_ArmourStandard\data\marines\arctic\shoulders_arctic_dark_co.paa"
 		};
-		uniformClass="34thPRC_ArmourStandard_Marines_Trooper_Arctic_Dark";
+		uniformClass="34thPRC_ArmourStandard_Marines_Trooper_ArcticDark";
 	}
 }
-class 34thPRC_ArmourStandard_Marines_Uniform_Arid_Light : 34thPRC_ArmourStandard_Marines_Uniform_Urban_Blue_Medium
+class 34thPRC_ArmourStandard_Marines_Uniform_AridLight : 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueMedium
 {
 	displayName="[34th] Uniform Arid Light";
 	author="TheBrwnKidd";
@@ -242,10 +242,10 @@ class 34thPRC_ArmourStandard_Marines_Uniform_Arid_Light : 34thPRC_ArmourStandard
 			"34thPRC_ArmourStandard\data\marines\arid\legs_arid_light_co.paa",
 			"34thPRC_ArmourStandard\data\marines\arid\shoulders_arid_light_co.paa"
 		};
-		uniformClass="34thPRC_ArmourStandard_Marines_Trooper_Arid_Light";
+		uniformClass="34thPRC_ArmourStandard_Marines_Trooper_AridLight";
 	}
 }
-class 34thPRC_ArmourStandard_Marines_Uniform_Arid_Dark : 34thPRC_ArmourStandard_Marines_Uniform_Urban_Blue_Medium
+class 34thPRC_ArmourStandard_Marines_Uniform_AridDark : 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueMedium
 {
 	displayName="[34th] Uniform Arid Dark";
 	author="TheBrwnKidd";
@@ -263,10 +263,10 @@ class 34thPRC_ArmourStandard_Marines_Uniform_Arid_Dark : 34thPRC_ArmourStandard_
 			"34thPRC_ArmourStandard\data\marines\arid\legs_arid_dark_co.paa",
 			"34thPRC_ArmourStandard\data\marines\arid\shoulders_arid_dark_co.paa"
 		};
-		uniformClass="34thPRC_ArmourStandard_Marines_Trooper_Arid_Dark";
+		uniformClass="34thPRC_ArmourStandard_Marines_Trooper_AridDark";
 	}
 }
-class 34thPRC_ArmourStandard_Marines_Uniform_Woodland_Light : 34thPRC_ArmourStandard_Marines_Uniform_Urban_Blue_Medium
+class 34thPRC_ArmourStandard_Marines_Uniform_WoodlandLight : 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueMedium
 {
 	displayName="[34th] Uniform Woodland Light";
 	author="TheBrwnKidd";
@@ -284,10 +284,10 @@ class 34thPRC_ArmourStandard_Marines_Uniform_Woodland_Light : 34thPRC_ArmourStan
 			"34thPRC_ArmourStandard\data\marines\woodland\legs_woodland_light_co.paa",
 			"34thPRC_ArmourStandard\data\marines\woodland\shoulders_woodland_light_co.paa"
 		};
-		uniformClass="34thPRC_ArmourStandard_Marines_Trooper_Woodland_Light";
+		uniformClass="34thPRC_ArmourStandard_Marines_Trooper_WoodlandLight";
 	}
 }
-class 34thPRC_ArmourStandard_Marines_Uniform_Woodland_Dark : 34thPRC_ArmourStandard_Marines_Uniform_Urban_Blue_Medium
+class 34thPRC_ArmourStandard_Marines_Uniform_WoodlandDark : 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueMedium
 {
 	displayName="[34th] Uniform Woodland Dark";
 	author="TheBrwnKidd";
@@ -305,10 +305,10 @@ class 34thPRC_ArmourStandard_Marines_Uniform_Woodland_Dark : 34thPRC_ArmourStand
 			"34thPRC_ArmourStandard\data\marines\woodland\legs_woodland_dark_co.paa",
 			"34thPRC_ArmourStandard\data\marines\woodland\shoulders_woodland_dark_co.paa"
 		};
-		uniformClass="34thPRC_ArmourStandard_Marines_Trooper_Woodland_dark";
+		uniformClass="34thPRC_ArmourStandard_Marines_Trooper_WoodlandDark";
 	}
 }
-class 34thPRC_ArmourStandard_Marines_Uniform_Tropic : 34thPRC_ArmourStandard_Marines_Uniform_Urban_Blue_Medium
+class 34thPRC_ArmourStandard_Marines_Uniform_Tropic : 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueMedium
 {
 	displayName="[34th] Uniform Tropic";
 	author="TheBrwnKidd";
