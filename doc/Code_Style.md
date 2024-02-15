@@ -11,6 +11,9 @@ When a class from another mod is referenced in our mod we should add a comment l
 
 You then need to add that internal mod name our mod's `requiredAddons` entry in our `config.cpp`. This should also have a comment, this time with the steam workshop name of that mod (except for anything coming from Arma 3 itself, you should call that `Vanilla`). If there is already an entry for that internal mod name in our `requiredAddons` then you do not need to add a duplicate.
 
+## Inheritence
+Prefer inheriting from one of our classes instead of inheriting from the same external class multiple times. For example, if you are making camo varients for a helmet then instead of inheriting from the external helmet class for each camo pattern, instead inherit from the external class once for one camo and then inherit from that camo's class for the rest of the camos. Convention is to have the urban camo be the one that inherits from the external class and acts as a base for the other camos. 
+
 ## File paths
 Paths inside of the PBO are to be lowercase, the config should also use lowercase when pointing to files.
 
