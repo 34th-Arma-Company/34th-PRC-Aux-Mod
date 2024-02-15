@@ -51,7 +51,7 @@ class 34thPRC_Armour_Standard_ODST_M56S_Woodland : 34thPRC_Armour_Standard_ODST_
 };
 
 class MA_M56S_Rucksack_Medic; // MA_Armor
-class 34thPRC_Armour_Standard_ODST_M56S_Medic_Urban : MA_M56S_Rucksack_Medic
+class 34thPRC_Armour_Standard_ODST_M56S_Urban_Medic : MA_M56S_Rucksack_Medic
 {
     displayName="[34th] M56S Medic Rucksack Urban";
     author="TheBrwnKidd";
@@ -61,7 +61,7 @@ class 34thPRC_Armour_Standard_ODST_M56S_Medic_Urban : MA_M56S_Rucksack_Medic
         "34thPRC_Armour_Standard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
-class 34thPRC_Armour_Standard_ODST_M56S_Medic_Arctic : 34thPRC_Armour_Standard_ODST_M56S_Medic_Urban
+class 34thPRC_Armour_Standard_ODST_M56S_Arctic_Medic : 34thPRC_Armour_Standard_ODST_M56S_Urban_Medic
 {
     displayName="[34th] M56S Medic Rucksack Arctic";
     author="TheBrwnKidd";
@@ -71,7 +71,7 @@ class 34thPRC_Armour_Standard_ODST_M56S_Medic_Arctic : 34thPRC_Armour_Standard_O
         "34thPRC_Armour_Standard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
-class 34thPRC_Armour_Standard_ODST_M56S_Medic_Arid : 34thPRC_Armour_Standard_ODST_M56S_Medic_Urban
+class 34thPRC_Armour_Standard_ODST_M56S_Arid_Medic : 34thPRC_Armour_Standard_ODST_M56S_Urban_Medic
 {
     displayName="[34th] M56S Medic Rucksack Arid";
     author="TheBrwnKidd";
@@ -81,7 +81,7 @@ class 34thPRC_Armour_Standard_ODST_M56S_Medic_Arid : 34thPRC_Armour_Standard_ODS
         "34thPRC_Armour_Standard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
-class 34thPRC_Armour_Standard_ODST_M56S_Medic_Tropic : 34thPRC_Armour_Standard_ODST_M56S_Medic_Urban
+class 34thPRC_Armour_Standard_ODST_M56S_Tropic_Medic : 34thPRC_Armour_Standard_ODST_M56S_Urban_Medic
 {
     displayName="[34th] M56S Medic Rucksack Tropic";
     author="TheBrwnKidd";
@@ -91,7 +91,7 @@ class 34thPRC_Armour_Standard_ODST_M56S_Medic_Tropic : 34thPRC_Armour_Standard_O
         "34thPRC_Armour_Standard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
-class 34thPRC_Armour_Standard_ODST_M56S_Medic_Woodland : 34thPRC_Armour_Standard_ODST_M56S_Medic_Urban
+class 34thPRC_Armour_Standard_ODST_M56S_Woodland_Medic : 34thPRC_Armour_Standard_ODST_M56S_Urban_Medic
 {
     displayName="[34th] M56S Medic Rucksack Woodland";
     author="TheBrwnKidd";
@@ -103,7 +103,7 @@ class 34thPRC_Armour_Standard_ODST_M56S_Medic_Woodland : 34thPRC_Armour_Standard
 };
 
 class MA_M56S_Rucksack_Radio; // MA_Armor
-class 34thPRC_Armour_Standard_ODST_M56S_Radio_Urban : MA_M56S_Rucksack_Radio
+class 34thPRC_Armour_Standard_ODST_M56S_Urban_Radio : MA_M56S_Rucksack_Radio
 {
     displayName="[34th] M56S Radio Rucksack Urban";
     author="TheBrwnKidd";
@@ -113,7 +113,7 @@ class 34thPRC_Armour_Standard_ODST_M56S_Radio_Urban : MA_M56S_Rucksack_Radio
         "34thPRC_Armour_Standard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
-class 34thPRC_Armour_Standard_ODST_M56S_Radio_Arctic : 34thPRC_Armour_Standard_ODST_M56S_Radio_Urban
+class 34thPRC_Armour_Standard_ODST_M56S_Arctic_Radio : 34thPRC_Armour_Standard_ODST_M56S_Urban_Radio
 {
     displayName="[34th] M56S Radio Rucksack Arctic";
     author="TheBrwnKidd";
@@ -123,7 +123,7 @@ class 34thPRC_Armour_Standard_ODST_M56S_Radio_Arctic : 34thPRC_Armour_Standard_O
         "34thPRC_Armour_Standard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
-class 34thPRC_Armour_Standard_ODST_M56S_Radio_Arid : 34thPRC_Armour_Standard_ODST_M56S_Radio_Urban
+class 34thPRC_Armour_Standard_ODST_M56S_Arid_Radio : 34thPRC_Armour_Standard_ODST_M56S_Urban_Radio
 {
     displayName="[34th] M56S Radio Rucksack Arid";
     author="TheBrwnKidd";
@@ -133,7 +133,7 @@ class 34thPRC_Armour_Standard_ODST_M56S_Radio_Arid : 34thPRC_Armour_Standard_ODS
         "34thPRC_Armour_Standard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
-class 34thPRC_Armour_Standard_ODST_M56S_Radio_Tropic : 34thPRC_Armour_Standard_ODST_M56S_Radio_Urban
+class 34thPRC_Armour_Standard_ODST_M56S_Tropic_Radio : 34thPRC_Armour_Standard_ODST_M56S_Urban_Radio
 {
     displayName="[34th] M56S Radio Rucksack Tropic";
     author="TheBrwnKidd";
@@ -143,7 +143,7 @@ class 34thPRC_Armour_Standard_ODST_M56S_Radio_Tropic : 34thPRC_Armour_Standard_O
         "34thPRC_Armour_Standard\data\odst\34_backpack_radio_red_co.paa"
     };
 };
-class 34thPRC_Armour_Standard_ODST_M56S_Radio_Woodland : 34thPRC_Armour_Standard_ODST_M56S_Radio_Urban
+class 34thPRC_Armour_Standard_ODST_M56S_Woodland_Radio : 34thPRC_Armour_Standard_ODST_M56S_Urban_Radio
 {
     displayName="[34th] M56S Radio Rucksack Woodland";
     author="TheBrwnKidd";
