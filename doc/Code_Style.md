@@ -2,10 +2,10 @@
 ## Class Names
 `PboName_FolderStructure_ItemName_Varients`
 
-* Always start the class name with the PBO name, for our standard armour PBO this is `34thPRC_Armour_Standard`.
-* Then copy the folder structure, skipping `data`. Replace the folder separators `/` or `\` with underscores `_` and capitalise letters as appropriate.
+* Always start the class name with the PBO name, for our standard armour PBO this is `34thPRC_ArmourStandard`.
+* Then copy the folder structure to the config file, skipping `data`. TODO: figure out what to do for folder separation.
 * Finally, name the new class. Preferably with a significant part of its display name. If the name matches the folder then don't add it. `Beret_Beret` should be just `Beret`.
-* If you need to add varients then you can add those on the end. Preferably use descriptive names for these e.g. `Urban_White_Visor`. Multiple variants can be used separated with underscores `_`. If you can't think of a meaningful name for the variants then number them.
+* If you need to add varients then you can add those on the end. Preferably use descriptive names for these e.g. `UrbanMediumBlue_WhiteVisor`. Multiple variants can be used separated with underscores `_`. If you can't think of a meaningful name for the variants then number them.
 * Separate each element above with an underscore `_`.
 
 The weapon part of a uniform is called `Uniform`, the vehicle part is called `Trooper` instead.
