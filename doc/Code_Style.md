@@ -19,6 +19,8 @@ You then need to add that internal mod name our mod's `requiredAddons` entry in 
 ## Inheritence
 Prefer inheriting from one of our classes instead of inheriting from the same external class multiple times. For example, if you are making camo varients for a helmet then instead of inheriting from the external helmet class for each camo pattern, instead inherit from the external class once for one camo and then inherit from that camo's class for the rest of the camos. Convention is to have the urban camo be the one that inherits from the external class and acts as a base for the other camos.
 
+## Semicolons
+
 ## File paths
 Paths inside of the PBO are to be lowercase, the config should also use lowercase when pointing to files.
 
