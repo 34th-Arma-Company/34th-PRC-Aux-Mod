@@ -1,9 +1,9 @@
 class HaloInf_Marine_GRFS_F; // Halo_marine_02
-class 34thPRC_Armour_Standard_Trooper_Rifleman_Urban : HaloInf_Marine_GRFS_F
+class 34thPRC_Armour_Standard_Infantry_Trooper_Urban_Blue_Medium : HaloInf_Marine_GRFS_F
 {
-	displayName="[34th] Uniform Urban Blue Medium";
+	displayName="[34th] Trooper Urban Blue Medium";
 	author="TheBrwnKidd";
-	uniformClass="34thPRC_Armour_Standard_Uniform_Rifleman_Urban";
+	uniformClass="34thPRC_Armour_Standard_Infantry_Uniform_Urban_Blue_Medium";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_Armour_Standard\data\infantry\urban\shirt_urban_blue_medium_co.paa",
@@ -11,11 +11,11 @@ class 34thPRC_Armour_Standard_Trooper_Rifleman_Urban : HaloInf_Marine_GRFS_F
 		"34thPRC_Armour_Standard\data\infantry\urban\shoulders_urban_co.paa"
 	};
 }
-class 34thPRC_Armour_Standard_Trooper_Rifleman_Urban_Blue_Light : HaloInf_Marine_GRFS_F
+class 34thPRC_Armour_Standard_Infantry_Trooper_Urban_Blue_Light : 34thPRC_Armour_Standard_Infantry_Trooper_Urban_Blue_Medium
 {
-	displayName="[34th] Uniform Urban Blue Light";
+	displayName="[34th] Trooper Urban Blue Light";
 	author="TheBrwnKidd";
-	uniformClass="34thPRC_Armour_Standard_Uniform_Rifleman_Urban_Blue_Light";
+	uniformClass="34thPRC_Armour_Standard_Infantry_Uniform_Urban_Blue_Light";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_Armour_Standard\data\infantry\urban\shirt_urban_blue_light_co.paa",
@@ -23,11 +23,11 @@ class 34thPRC_Armour_Standard_Trooper_Rifleman_Urban_Blue_Light : HaloInf_Marine
 		"34thPRC_Armour_Standard\data\infantry\urban\shoulders_urban_co.paa"
 	};
 }
-class 34thPRC_Armour_Standard_Trooper_Rifleman_Urban_Blue_Dark : HaloInf_Marine_GRFS_F
+class 34thPRC_Armour_Standard_Infantry_Trooper_Urban_Blue_Dark : 34thPRC_Armour_Standard_Infantry_Trooper_Urban_Blue_Medium
 {
-	displayName="[34th] Uniform Urban Blue Dark";
+	displayName="[34th] Trooper Urban Blue Dark";
 	author="TheBrwnKidd";
-	uniformClass="34thPRC_Armour_Standard_Uniform_Rifleman_Urban_Blue_Dark";
+	uniformClass="34thPRC_Armour_Standard_Infantry_Uniform_Urban_Blue_Dark";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_Armour_Standard\data\infantry\urban\shirt_urban_blue_dark_co.paa",
@@ -35,11 +35,11 @@ class 34thPRC_Armour_Standard_Trooper_Rifleman_Urban_Blue_Dark : HaloInf_Marine_
 		"34thPRC_Armour_Standard\data\infantry\urban\shoulders_urban_co.paa"
 	};
 }
-class 34thPRC_Armour_Standard_Trooper_Rifleman_Urban_Red_Light : HaloInf_Marine_GRFS_F
+class 34thPRC_Armour_Standard_Infantry_Trooper_Urban_Red_Light : 34thPRC_Armour_Standard_Infantry_Trooper_Urban_Blue_Medium
 {
-	displayName="[34th] Uniform Urban Red Light";
+	displayName="[34th] Trooper Urban Red Light";
 	author="TheBrwnKidd";
-	uniformClass="34thPRC_Armour_Standard_Uniform_Rifleman_Urban_Red_Light";
+	uniformClass="34thPRC_Armour_Standard_Infantry_Uniform_Urban_Red_Light";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_Armour_Standard\data\infantry\urban\shirt_urban_red_light_co.paa",
@@ -47,11 +47,11 @@ class 34thPRC_Armour_Standard_Trooper_Rifleman_Urban_Red_Light : HaloInf_Marine_
 		"34thPRC_Armour_Standard\data\infantry\urban\shoulders_urban_co.paa"
 	};
 }
-class 34thPRC_Armour_Standard_Trooper_Rifleman_Urban_Red_Dark : HaloInf_Marine_GRFS_F
+class 34thPRC_Armour_Standard_Infantry_Trooper_Urban_Red_Dark : 34thPRC_Armour_Standard_Infantry_Trooper_Urban_Blue_Medium
 {
-	displayName="[34th] Uniform Urban Red Dark";
+	displayName="[34th] Trooper Urban Red Dark";
 	author="TheBrwnKidd";
-	uniformClass="34thPRC_Armour_Standard_Uniform_Rifleman_Urban_Red_Dark";
+	uniformClass="34thPRC_Armour_Standard_Infantry_Uniform_Urban_Red_Dark";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_Armour_Standard\data\infantry\urban\shirt_urban_red_dark_co.paa",
@@ -59,11 +59,11 @@ class 34thPRC_Armour_Standard_Trooper_Rifleman_Urban_Red_Dark : HaloInf_Marine_G
 		"34thPRC_Armour_Standard\data\infantry\urban\shoulders_urban_co.paa"
 	};
 }
-class 34thPRC_Armour_Standard_Trooper_Rifleman_Arctic_Light : HaloInf_Marine_GRFS_F
+class 34thPRC_Armour_Standard_Infantry_Trooper_Arctic_Light : 34thPRC_Armour_Standard_Infantry_Trooper_Urban_Blue_Medium
 {
-	displayName="[34th] Uniform Arctic Light";
+	displayName="[34th] Trooper Arctic Light";
 	author="TheBrwnKidd";
-	uniformClass="34thPRC_Armour_Standard_Uniform_Rifleman_Arctic_Light";
+	uniformClass="34thPRC_Armour_Standard_Infantry_Uniform_Arctic_Light";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_Armour_Standard\data\infantry\arctic\shirt_arctic_light_co.paa",
@@ -71,11 +71,11 @@ class 34thPRC_Armour_Standard_Trooper_Rifleman_Arctic_Light : HaloInf_Marine_GRF
 		"34thPRC_Armour_Standard\data\infantry\arctic\shoulders_arctic_light_co.paa"
 	};
 }
-class 34thPRC_Armour_Standard_Trooper_Rifleman_Arctic_Dark : HaloInf_Marine_GRFS_F
+class 34thPRC_Armour_Standard_Infantry_Trooper_Arctic_Dark : 34thPRC_Armour_Standard_Infantry_Trooper_Urban_Blue_Medium
 {
-	displayName="[34th] Uniform Arctic Dark";
+	displayName="[34th] Trooper Arctic Dark";
 	author="TheBrwnKidd";
-	uniformClass="34thPRC_Armour_Standard_Uniform_Rifleman_Arctic_Dark";
+	uniformClass="34thPRC_Armour_Standard_Infantry_Uniform_Arctic_Dark";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_Armour_Standard\data\infantry\arctic\shirt_arctic_dark_co.paa",
@@ -83,11 +83,11 @@ class 34thPRC_Armour_Standard_Trooper_Rifleman_Arctic_Dark : HaloInf_Marine_GRFS
 		"34thPRC_Armour_Standard\data\infantry\arctic\shoulders_arctic_dark_co.paa"
 	};
 }
-class 34thPRC_Armour_Standard_Trooper_Rifleman_Arid_Light : HaloInf_Marine_GRFS_F
+class 34thPRC_Armour_Standard_Infantry_Trooper_Arid_Light : 34thPRC_Armour_Standard_Infantry_Trooper_Urban_Blue_Medium
 {
-	displayName="[34th] Uniform Arid Light";
+	displayName="[34th] Trooper Arid Light";
 	author="TheBrwnKidd";
-	uniformClass="34thPRC_Armour_Standard_Uniform_Rifleman_Arid_Light";
+	uniformClass="34thPRC_Armour_Standard_Infantry_Uniform_Arid_Light";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_Armour_Standard\data\infantry\arid\shirt_arid_light_co.paa",
@@ -95,11 +95,11 @@ class 34thPRC_Armour_Standard_Trooper_Rifleman_Arid_Light : HaloInf_Marine_GRFS_
 		"34thPRC_Armour_Standard\data\infantry\arid\shoulders_arid_light_co.paa"
 	};
 }
-class 34thPRC_Armour_Standard_Trooper_Rifleman_Arid_Dark : HaloInf_Marine_GRFS_F
+class 34thPRC_Armour_Standard_Infantry_Trooper_Arid_Dark : 34thPRC_Armour_Standard_Infantry_Trooper_Urban_Blue_Medium
 {
-	displayName="[34th] Uniform Arid Dark";
+	displayName="[34th] Trooper Arid Dark";
 	author="TheBrwnKidd";
-	uniformClass="34thPRC_Armour_Standard_Uniform_Rifleman_Arid_Dark";
+	uniformClass="34thPRC_Armour_Standard_Infantry_Uniform_Arid_Dark";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_Armour_Standard\data\infantry\arid\shirt_arid_dark_co.paa",
@@ -107,11 +107,11 @@ class 34thPRC_Armour_Standard_Trooper_Rifleman_Arid_Dark : HaloInf_Marine_GRFS_F
 		"34thPRC_Armour_Standard\data\infantry\arid\shoulders_arid_dark_co.paa"
 	};
 }
-class 34thPRC_Armour_Standard_Trooper_Rifleman_Woodland_Light : HaloInf_Marine_GRFS_F
+class 34thPRC_Armour_Standard_Infantry_Trooper_Woodland_Light : 34thPRC_Armour_Standard_Infantry_Trooper_Urban_Blue_Medium
 {
-	displayName="[34th] Uniform Woodland Light";
+	displayName="[34th] Trooper Woodland Light";
 	author="TheBrwnKidd";
-	uniformClass="34thPRC_Armour_Standard_Uniform_Rifleman_Woodland_Light";
+	uniformClass="34thPRC_Armour_Standard_Infantry_Uniform_Woodland_Light";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_Armour_Standard\data\infantry\woodland\shirt_woodland_light_co.paa",
@@ -119,11 +119,11 @@ class 34thPRC_Armour_Standard_Trooper_Rifleman_Woodland_Light : HaloInf_Marine_G
 		"34thPRC_Armour_Standard\data\infantry\woodland\shoulders_woodland_light_co.paa"
 	};
 }
-class 34thPRC_Armour_Standard_Trooper_Rifleman_Woodland_Dark : HaloInf_Marine_GRFS_F
+class 34thPRC_Armour_Standard_Infantry_Trooper_Woodland_Dark : 34thPRC_Armour_Standard_Infantry_Trooper_Urban_Blue_Medium
 {
-	displayName="[34th] Uniform Woodland Dark";
+	displayName="[34th] Trooper Woodland Dark";
 	author="TheBrwnKidd";
-	uniformClass="34thPRC_Armour_Standard_Uniform_Rifleman_Woodland_Dark";
+	uniformClass="34thPRC_Armour_Standard_Infantry_Uniform_Woodland_Dark";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_Armour_Standard\data\infantry\woodland\shirt_woodland_dark_co.paa",
@@ -131,11 +131,11 @@ class 34thPRC_Armour_Standard_Trooper_Rifleman_Woodland_Dark : HaloInf_Marine_GR
 		"34thPRC_Armour_Standard\data\infantry\woodland\shoulders_woodland_dark_co.paa"
 	};
 }
-class 34thPRC_Armour_Standard_Trooper_Rifleman_Tropic : HaloInf_Marine_GRFS_F
+class 34thPRC_Armour_Standard_Infantry_Trooper_Tropic : 34thPRC_Armour_Standard_Infantry_Trooper_Urban_Blue_Medium
 {
-	displayName="[34th] Uniform Tropic";
+	displayName="[34th] Trooper Tropic";
 	author="TheBrwnKidd";
-	uniformClass="34thPRC_Armour_Standard_Uniform_Rifleman_Tropic";
+	uniformClass="34thPRC_Armour_Standard_Infantry_Uniform_Tropic";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_Armour_Standard\data\infantry\tropic\shirt_tropic_co.paa",
