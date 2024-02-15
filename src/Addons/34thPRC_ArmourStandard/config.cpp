@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class 34thPRC_Armour_Standard
+	class 34thPRC_ArmourStandard
 	{
 		author="34th PRC Modding Team";
 		units[]={};
