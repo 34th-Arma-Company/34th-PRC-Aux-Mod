@@ -19,7 +19,7 @@ class CfgMarkers
     {
         name="[34th] 34th PRC";
         icon="34thPRC_Markers\data\company_emblem.paa";
-        color[]={0,0,0,1};
+        color[]={1,1,1,1};
         size=40;
         shadow = 0;
         scope = 2;
