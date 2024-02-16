@@ -8,51 +8,36 @@ class CfgPatches
 };
 class CfgMarkerClasses
 {
-    class 34thPRC_Map_Markers
+    class 34thPRC_MapMarkers
 	{
 		displayName="34th PRC Markers";
     };
 };
 class CfgMarkers
 {
-    class 34thPRC_Marker1
+    class 34thPRC_Markers_CompanyEmblem
     {
-        name="[34th] 34th PRC 1";
-        icon="34thPRC_Markers\data\34ParaReconVer1.paa";
+        name="[34th] 34th PRC";
+        icon="34thPRC_Markers\data\company_emblem.paa";
         color[]={0,0,0,1};
         size=40;
         shadow = 0;
         scope = 2;
-        markerClass = "34thPRC_Map_Markers";
+        markerClass = "34thPRC_MapMarkers";
     };
-    class 34thPRC_Marker2
+    class 34thPRC_Markers_MammonActual : 34thPRC_Markers_CompanyEmblem
     {
-        name="[34th] 34th PRC 2";
-        icon="34thPRC_Markers\data\34ParaReconVer2.paa";
-        color[]={0,0,0,1};
-        size=40;
-        shadow = 0;
-        scope = 2;
-        markerClass = "34thPRC_Map_Markers";
+        name="[34th] Mammon 1-Actual";
+        icon="34thPRC_Markers\data\mammon_1-a.paa";
     };
-    class 34thPRC_Marker3
+    class 34thPRC_Markers_Mammon1 : 34thPRC_Markers_CompanyEmblem
     {
-        name="[34th] 34th PRC 3";
-        icon="34thPRC_Markers\data\34ParaReconVer3.paa";
-        color[]={0,0,0,1};
-        size=40;
-        shadow = 0;
-        scope = 2;
-        markerClass = "34thPRC_Map_Markers";
+        name="[34th] Mammon 1-1";
+        icon="34thPRC_Markers\data\mammon_1-1.paa";
     };
-    class 34thPRC_Marker4
+    class 34thPRC_Markers_Mammon2 : 34thPRC_Markers_CompanyEmblem
     {
-        name="[34th] 34th PRC 4";
-        icon="34thPRC_Markers\data\34ParaReconVer4.paa";
-        color[]={0,0,0,1};
-        size=40;
-        shadow = 0;
-        scope = 2;
-        markerClass = "34thPRC_Map_Markers";
+        name="[34th] Mammon 1-2";
+        icon="34thPRC_Markers\data\mammon_1-2.paa";
     };
 };
