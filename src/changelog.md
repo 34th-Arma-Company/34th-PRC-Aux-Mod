@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0]
+### Added
+- Uniform camos for marines
+- Uniform and vest camos for ODST
+- Backpacks for ODST
+### Updated
+- New unit emblem
+- Overhaul of class names (apologies to people who have load-outs this early)
+
 ## [0.1.1]
 ### Updated
 - Updated ODST Vests
