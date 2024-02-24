@@ -146,9 +146,9 @@ class 34thPRC_ArmourStandard_Marines_Trooper_Tropic : 34thPRC_ArmourStandard_Mar
 }
 
 class Halo_Hardcase;
-class 34thPRC_ArmourStandard_Marines_Hardcase_Urban : Halo_Hardcase
+class 34thPRC_ArmourStandard_Marines_Guncase_Urban : Halo_Hardcase
 {
-	displayName="[34th] Hardcase Urban";
+	displayName="[34th] Guncase Urban";
 	author="TheBrwnKidd";
 	ace_gunbag=1;
 	hiddenSelectionsTextures[]=
@@ -156,63 +156,63 @@ class 34thPRC_ArmourStandard_Marines_Hardcase_Urban : Halo_Hardcase
 		"34thPRC_ArmourStandard\data\marines\urban\34_hardcase_urban_co.paa"
 	};
 }
-class 34thPRC_ArmourStandard_Marines_Hardcase_Arctic_Light : 34thPRC_ArmourStandard_Marines_Hardcase_Urban
+class 34thPRC_ArmourStandard_Marines_Guncase_Arctic_Light : 34thPRC_ArmourStandard_Marines_Guncase_Urban
 {
-	displayName="[34th] Hardcase Arctic Light";
+	displayName="[34th] Guncase Arctic Light";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines\arctic\34_hardcase_arctic_light_co.paa"
 	};
 }
-class 34thPRC_ArmourStandard_Marines_Hardcase_Arctic_Dark : 34thPRC_ArmourStandard_Marines_Hardcase_Urban
+class 34thPRC_ArmourStandard_Marines_Guncase_Arctic_Dark : 34thPRC_ArmourStandard_Marines_Guncase_Urban
 {
-	displayName="[34th] Hardcase Arctic Dark";
+	displayName="[34th] Guncase Arctic Dark";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines\arctic\34_hardcase_arctic_dark_co.paa"
 	};
 }
-class 34thPRC_ArmourStandard_Marines_Hardcase_Arid_Light : 34thPRC_ArmourStandard_Marines_Hardcase_Urban
+class 34thPRC_ArmourStandard_Marines_Guncase_Arid_Light : 34thPRC_ArmourStandard_Marines_Guncase_Urban
 {
-	displayName="[34th] Hardcase Arid Light";
+	displayName="[34th] Guncase Arid Light";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines\arid\34_hardcase_arid_light_co.paa"
 	};
 }
-class 34thPRC_ArmourStandard_Marines_Hardcase_Arid_Dark : 34thPRC_ArmourStandard_Marines_Hardcase_Urban
+class 34thPRC_ArmourStandard_Marines_Guncase_Arid_Dark : 34thPRC_ArmourStandard_Marines_Guncase_Urban
 {
-	displayName="[34th] Hardcase Arid Dark";
+	displayName="[34th] Guncase Arid Dark";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines\arid\34_hardcase_arid_dark_co.paa"
 	};
 }
-class 34thPRC_ArmourStandard_Marines_Hardcase_Tropic : 34thPRC_ArmourStandard_Marines_Hardcase_Urban
+class 34thPRC_ArmourStandard_Marines_Guncase_Tropic : 34thPRC_ArmourStandard_Marines_Guncase_Urban
 {
-	displayName="[34th] Hardcase Tropic";
+	displayName="[34th] Guncase Tropic";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines\tropic\34_hardcase_tropic_co.paa"
 	};
 }
-class 34thPRC_ArmourStandard_Marines_Hardcase_Woodland_Light : 34thPRC_ArmourStandard_Marines_Hardcase_Urban
+class 34thPRC_ArmourStandard_Marines_Guncase_Woodland_Light : 34thPRC_ArmourStandard_Marines_Guncase_Urban
 {
-	displayName="[34th] Hardcase Woodland Light";
+	displayName="[34th] Guncase Woodland Light";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines\woodland\34_hardcase_woodland_light_co.paa"
 	};
 }
-class 34thPRC_ArmourStandard_Marines_Hardcase_Woodland_Dark : 34thPRC_ArmourStandard_Marines_Hardcase_Urban
+class 34thPRC_ArmourStandard_Marines_Guncase_Woodland_Dark : 34thPRC_ArmourStandard_Marines_Guncase_Urban
 {
-	displayName="[34th] Hardcase Woodland Dark";
+	displayName="[34th] Guncase Woodland Dark";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
