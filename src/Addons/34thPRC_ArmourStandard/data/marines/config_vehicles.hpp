@@ -144,3 +144,381 @@ class 34thPRC_ArmourStandard_Marines_Trooper_Tropic : 34thPRC_ArmourStandard_Mar
 		"34thPRC_ArmourStandard\data\marines\tropic\shoulders_tropic_co.paa"
 	};
 }
+
+class Halo_Hardcase; // Halo_marine_02
+class 34thPRC_ArmourStandard_Marines_Guncase_Urban : Halo_Hardcase
+{
+	displayName="[34th] Guncase Urban";
+	author="TheBrwnKidd";
+	ace_gunbag=1;
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines\urban\34_hardcase_urban_co.paa"
+	};
+}
+class 34thPRC_ArmourStandard_Marines_Guncase_Arctic_Light : 34thPRC_ArmourStandard_Marines_Guncase_Urban
+{
+	displayName="[34th] Guncase Arctic Light";
+	author="TheBrwnKidd";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines\arctic\34_hardcase_arctic_light_co.paa"
+	};
+}
+class 34thPRC_ArmourStandard_Marines_Guncase_Arctic_Dark : 34thPRC_ArmourStandard_Marines_Guncase_Urban
+{
+	displayName="[34th] Guncase Arctic Dark";
+	author="TheBrwnKidd";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines\arctic\34_hardcase_arctic_dark_co.paa"
+	};
+}
+class 34thPRC_ArmourStandard_Marines_Guncase_Arid_Light : 34thPRC_ArmourStandard_Marines_Guncase_Urban
+{
+	displayName="[34th] Guncase Arid Light";
+	author="TheBrwnKidd";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines\arid\34_hardcase_arid_light_co.paa"
+	};
+}
+class 34thPRC_ArmourStandard_Marines_Guncase_Arid_Dark : 34thPRC_ArmourStandard_Marines_Guncase_Urban
+{
+	displayName="[34th] Guncase Arid Dark";
+	author="TheBrwnKidd";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines\arid\34_hardcase_arid_dark_co.paa"
+	};
+}
+class 34thPRC_ArmourStandard_Marines_Guncase_Tropic : 34thPRC_ArmourStandard_Marines_Guncase_Urban
+{
+	displayName="[34th] Guncase Tropic";
+	author="TheBrwnKidd";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines\tropic\34_hardcase_tropic_co.paa"
+	};
+}
+class 34thPRC_ArmourStandard_Marines_Guncase_Woodland_Light : 34thPRC_ArmourStandard_Marines_Guncase_Urban
+{
+	displayName="[34th] Guncase Woodland Light";
+	author="TheBrwnKidd";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines\woodland\34_hardcase_woodland_light_co.paa"
+	};
+}
+class 34thPRC_ArmourStandard_Marines_Guncase_Woodland_Dark : 34thPRC_ArmourStandard_Marines_Guncase_Urban
+{
+	displayName="[34th] Guncase Woodland Dark";
+	author="TheBrwnKidd";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines\woodland\34_hardcase_woodland_dark_co.paa"
+	};
+}
+
+class 34thPRC_ArmourStandard_Marines_Hardcase_Medic_Urban : Halo_Hardcase
+{
+	displayName="[34th] Medic Hardcase Urban";
+	author="TheBrwnKidd";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines\urban\34_hardcase_medic_urban_co.paa"
+	};
+}
+class 34thPRC_ArmourStandard_Marines_Hardcase_Medic_Arctic_Light : 34thPRC_ArmourStandard_Marines_Hardcase_Medic_Urban
+{
+	displayName="[34th] Medic Hardcase Arctic Light";
+	author="TheBrwnKidd";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines\arctic\34_hardcase_medic_arctic_light_co.paa"
+	};
+}
+class 34thPRC_ArmourStandard_Marines_Hardcase_Medic_Arctic_Dark : 34thPRC_ArmourStandard_Marines_Hardcase_Medic_Urban
+{
+	displayName="[34th] Medic Hardcase Arctic Dark";
+	author="TheBrwnKidd";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines\arctic\34_hardcase_medic_arctic_dark_co.paa"
+	};
+}
+class 34thPRC_ArmourStandard_Marines_Hardcase_Medic_Arid_Light : 34thPRC_ArmourStandard_Marines_Hardcase_Medic_Urban
+{
+	displayName="[34th] Medic Hardcase Arid Light";
+	author="TheBrwnKidd";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines\arid\34_hardcase_medic_arid_light_co.paa"
+	};
+}
+class 34thPRC_ArmourStandard_Marines_Hardcase_Medic_Arid_Dark : 34thPRC_ArmourStandard_Marines_Hardcase_Medic_Urban
+{
+	displayName="[34th] Medic Hardcase Arid Dark";
+	author="TheBrwnKidd";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines\arid\34_hardcase_medic_arid_dark_co.paa"
+	};
+}
+class 34thPRC_ArmourStandard_Marines_Hardcase_Medic_Tropic : 34thPRC_ArmourStandard_Marines_Hardcase_Medic_Urban
+{
+	displayName="[34th] Medic Hardcase Tropic";
+	author="TheBrwnKidd";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines\tropic\34_hardcase_medic_tropic_co.paa"
+	};
+}
+class 34thPRC_ArmourStandard_Marines_Hardcase_Medic_Woodland_Light : 34thPRC_ArmourStandard_Marines_Hardcase_Medic_Urban
+{
+	displayName="[34th] Medic Hardcase Woodland Light";
+	author="TheBrwnKidd";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines\woodland\34_hardcase_medic_woodland_light_co.paa"
+	};
+}
+class 34thPRC_ArmourStandard_Marines_Hardcase_Medic_Woodland_Dark : 34thPRC_ArmourStandard_Marines_Hardcase_Medic_Urban
+{
+	displayName="[34th] Medic Hardcase Woodland Dark";
+	author="TheBrwnKidd";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines\woodland\34_hardcase_medic_woodland_dark_co.paa"
+	};
+}
+
+class Halo_Rucksack_01; // Halo_marine_02
+class 34thPRC_ArmourStandard_Marines_Rucksack_Urban : Halo_Rucksack_01
+{
+    displayName="[34th] Rucksack Urban";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\marines\urban\34_rucksack_urban_co.paa"
+    };
+};
+class 34thPRC_ArmourStandard_Marines_Rucksack_Arctic_Light : 34thPRC_ArmourStandard_Marines_Rucksack_Urban
+{
+    displayName="[34th] Rucksack Arctic Light";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\marines\arctic\34_rucksack_arctic_light_co.paa"
+    };
+};
+class 34thPRC_ArmourStandard_Marines_Rucksack_Arctic_Dark : 34thPRC_ArmourStandard_Marines_Rucksack_Urban
+{
+    displayName="[34th] Rucksack Arctic Dark";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\marines\arctic\34_rucksack_arctic_dark_co.paa"
+    };
+};
+class 34thPRC_ArmourStandard_Marines_Rucksack_Arid_Light : 34thPRC_ArmourStandard_Marines_Rucksack_Urban
+{
+    displayName="[34th] Rucksack Arid Light";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\marines\arid\34_rucksack_arid_light_co.paa"
+    };
+};
+class 34thPRC_ArmourStandard_Marines_Rucksack_Arid_Dark : 34thPRC_ArmourStandard_Marines_Rucksack_Urban
+{
+    displayName="[34th] Rucksack Arid Dark";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\marines\arid\34_rucksack_arid_Dark_co.paa"
+    };
+};
+class 34thPRC_ArmourStandard_Marines_Rucksack_Tropic : 34thPRC_ArmourStandard_Marines_Rucksack_Urban
+{
+    displayName="[34th] Rucksack Tropic";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\marines\tropic\34_rucksack_tropic_co.paa"
+    };
+};
+class 34thPRC_ArmourStandard_Marines_Rucksack_Woodland_Light : 34thPRC_ArmourStandard_Marines_Rucksack_Urban
+{
+    displayName="[34th] Rucksack Woodland Light";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\marines\woodland\34_rucksack_woodland_light_co.paa"
+    };
+};
+class 34thPRC_ArmourStandard_Marines_Rucksack_Woodland_Dark : 34thPRC_ArmourStandard_Marines_Rucksack_Urban
+{
+    displayName="[34th] Rucksack Woodland Dark";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\marines\woodland\34_rucksack_woodland_Dark_co.paa"
+    };
+};
+
+class Halo_Rucksack_02; // Halo_marine_02
+class 34thPRC_ArmourStandard_Marines_Rucksack_Heavy_Urban : Halo_Rucksack_02
+{
+    displayName="[34th] Heavy Rucksack Urban";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\marines\urban\34_rucksack_urban_co.paa",
+        "34thPRC_ArmourStandard\data\marines\urban\34_rucksack_pouches_urban_co.paa"
+    };
+};
+class 34thPRC_ArmourStandard_Marines_Rucksack_Heavy_Arctic_Light : 34thPRC_ArmourStandard_Marines_Rucksack_Heavy_Urban
+{
+    displayName="[34th] Heavy Rucksack Arctic Light";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\marines\arctic\34_rucksack_arctic_light_co.paa",
+        "34thPRC_ArmourStandard\data\marines\arctic\34_rucksack_pouches_arctic_light_co.paa"
+    };
+};
+class 34thPRC_ArmourStandard_Marines_Rucksack_Heavy_Arctic_Dark : 34thPRC_ArmourStandard_Marines_Rucksack_Heavy_Urban
+{
+    displayName="[34th] Heavy Rucksack Arctic Dark";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\marines\arctic\34_rucksack_arctic_dark_co.paa",
+        "34thPRC_ArmourStandard\data\marines\arctic\34_rucksack_pouches_arctic_dark_co.paa"
+    };
+};
+class 34thPRC_ArmourStandard_Marines_Rucksack_Heavy_Arid_Light : 34thPRC_ArmourStandard_Marines_Rucksack_Heavy_Urban
+{
+    displayName="[34th] Heavy Rucksack Arid Light";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\marines\arid\34_rucksack_arid_light_co.paa",
+        "34thPRC_ArmourStandard\data\marines\arid\34_rucksack_pouches_arid_light_co.paa"
+    };
+};
+class 34thPRC_ArmourStandard_Marines_Rucksack_Heavy_Arid_Dark : 34thPRC_ArmourStandard_Marines_Rucksack_Heavy_Urban
+{
+    displayName="[34th] Heavy Rucksack Arid Dark";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\marines\arid\34_rucksack_arid_dark_co.paa",
+        "34thPRC_ArmourStandard\data\marines\arid\34_rucksack_pouches_arid_dark_co.paa"
+    };
+};
+class 34thPRC_ArmourStandard_Marines_Rucksack_Heavy_Tropic : 34thPRC_ArmourStandard_Marines_Rucksack_Heavy_Urban
+{
+    displayName="[34th] Heavy Rucksack Tropic";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\marines\tropic\34_rucksack_tropic_co.paa",
+        "34thPRC_ArmourStandard\data\marines\tropic\34_rucksack_pouches_tropic_co.paa"
+    };
+};
+class 34thPRC_ArmourStandard_Marines_Rucksack_Heavy_Woodland_Light : 34thPRC_ArmourStandard_Marines_Rucksack_Heavy_Urban
+{
+    displayName="[34th] Heavy Rucksack Woodland Light";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\marines\woodland\34_rucksack_woodland_light_co.paa",
+        "34thPRC_ArmourStandard\data\marines\woodland\34_rucksack_pouches_woodland_light_co.paa"
+    };
+};
+class 34thPRC_ArmourStandard_Marines_Rucksack_Heavy_Woodland_Dark : 34thPRC_ArmourStandard_Marines_Rucksack_Heavy_Urban
+{
+    displayName="[34th] Heavy Rucksack Woodland Dark";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\marines\woodland\34_rucksack_woodland_Dark_co.paa",
+        "34thPRC_ArmourStandard\data\marines\woodland\34_rucksack_pouches_woodland_Dark_co.paa"
+    };
+};
+
+class Halo_LR; // Halo_marine_02
+class 34thPRC_ArmourStandard_Marines_Radiopack_Urban : Halo_LR
+{
+    displayName="[34th] Radiopack Urban";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\marines\urban\34_radiopack_urban_co.paa",
+    };
+};
+class 34thPRC_ArmourStandard_Marines_Radiopack_Arctic_Light : 34thPRC_ArmourStandard_Marines_Radiopack_Urban
+{
+    displayName="[34th] Radiopack Arctic Light";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\marines\arctic\34_radiopack_arctic_light_co.paa",
+    };
+};
+class 34thPRC_ArmourStandard_Marines_Radiopack_Arctic_Dark : 34thPRC_ArmourStandard_Marines_Radiopack_Urban
+{
+    displayName="[34th] Radiopack Arctic Dark";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\marines\arctic\34_radiopack_arctic_dark_co.paa",
+    };
+};
+class 34thPRC_ArmourStandard_Marines_Radiopack_Arid_Light : 34thPRC_ArmourStandard_Marines_Radiopack_Urban
+{
+    displayName="[34th] Radiopack Arid Light";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\marines\arid\34_radiopack_arid_light_co.paa",
+    };
+};
+class 34thPRC_ArmourStandard_Marines_Radiopack_Arid_Dark : 34thPRC_ArmourStandard_Marines_Radiopack_Urban
+{
+    displayName="[34th] Radiopack Arid Dark";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\marines\arid\34_radiopack_arid_dark_co.paa",
+    };
+};
+class 34thPRC_ArmourStandard_Marines_Radiopack_Tropic : 34thPRC_ArmourStandard_Marines_Radiopack_Urban
+{
+    displayName="[34th] Radiopack Tropic";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\marines\tropic\34_radiopack_tropic_co.paa",
+    };
+};
+class 34thPRC_ArmourStandard_Marines_Radiopack_Woodland_Light : 34thPRC_ArmourStandard_Marines_Radiopack_Urban
+{
+    displayName="[34th] Radiopack Woodland Light";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\marines\woodland\34_radiopack_woodland_light_co.paa",
+    };
+};
+class 34thPRC_ArmourStandard_Marines_Radiopack_Woodland_Dark : 34thPRC_ArmourStandard_Marines_Radiopack_Urban
+{
+    displayName="[34th] Radiopack Woodland Dark";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\marines\woodland\34_radiopack_woodland_dark_co.paa",
+    };
+};
