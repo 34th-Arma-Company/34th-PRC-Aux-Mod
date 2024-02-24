@@ -146,7 +146,7 @@ class 34thPRC_ArmourStandard_Marines_Trooper_Tropic : 34thPRC_ArmourStandard_Mar
 }
 
 class Halo_Hardcase; // Halo_marine_02
-class 34thPRC_ArmourStandard_Marines_Guncase_Urban : Halo_Hardcase
+class 34thPRC_ArmourStandard_Marines_Hardcase_Urban_Guncase : Halo_Hardcase
 {
 	displayName="[34th] Guncase Urban";
 	author="TheBrwnKidd";
@@ -156,7 +156,7 @@ class 34thPRC_ArmourStandard_Marines_Guncase_Urban : Halo_Hardcase
 		"34thPRC_ArmourStandard\data\marines\urban\34_hardcase_urban_co.paa"
 	};
 }
-class 34thPRC_ArmourStandard_Marines_Guncase_Arctic_Light : 34thPRC_ArmourStandard_Marines_Guncase_Urban
+class 34thPRC_ArmourStandard_Marines_Hardcase_Arctic_Light_Guncase : 34thPRC_ArmourStandard_Marines_Hardcase_Urban_Guncase
 {
 	displayName="[34th] Guncase Arctic Light";
 	author="TheBrwnKidd";
@@ -165,7 +165,7 @@ class 34thPRC_ArmourStandard_Marines_Guncase_Arctic_Light : 34thPRC_ArmourStanda
 		"34thPRC_ArmourStandard\data\marines\arctic\34_hardcase_arctic_light_co.paa"
 	};
 }
-class 34thPRC_ArmourStandard_Marines_Guncase_Arctic_Dark : 34thPRC_ArmourStandard_Marines_Guncase_Urban
+class 34thPRC_ArmourStandard_Marines_Hardcase_Arctic_Dark_Guncase : 34thPRC_ArmourStandard_Marines_Hardcase_Urban_Guncase
 {
 	displayName="[34th] Guncase Arctic Dark";
 	author="TheBrwnKidd";
@@ -174,7 +174,7 @@ class 34thPRC_ArmourStandard_Marines_Guncase_Arctic_Dark : 34thPRC_ArmourStandar
 		"34thPRC_ArmourStandard\data\marines\arctic\34_hardcase_arctic_dark_co.paa"
 	};
 }
-class 34thPRC_ArmourStandard_Marines_Guncase_Arid_Light : 34thPRC_ArmourStandard_Marines_Guncase_Urban
+class 34thPRC_ArmourStandard_Marines_Hardcase_Arid_Light_Guncase : 34thPRC_ArmourStandard_Marines_Hardcase_Urban_Guncase
 {
 	displayName="[34th] Guncase Arid Light";
 	author="TheBrwnKidd";
@@ -183,7 +183,7 @@ class 34thPRC_ArmourStandard_Marines_Guncase_Arid_Light : 34thPRC_ArmourStandard
 		"34thPRC_ArmourStandard\data\marines\arid\34_hardcase_arid_light_co.paa"
 	};
 }
-class 34thPRC_ArmourStandard_Marines_Guncase_Arid_Dark : 34thPRC_ArmourStandard_Marines_Guncase_Urban
+class 34thPRC_ArmourStandard_Marines_Hardcase_Arid_Dark_Guncase : 34thPRC_ArmourStandard_Marines_Hardcase_Urban_Guncase
 {
 	displayName="[34th] Guncase Arid Dark";
 	author="TheBrwnKidd";
@@ -192,7 +192,7 @@ class 34thPRC_ArmourStandard_Marines_Guncase_Arid_Dark : 34thPRC_ArmourStandard_
 		"34thPRC_ArmourStandard\data\marines\arid\34_hardcase_arid_dark_co.paa"
 	};
 }
-class 34thPRC_ArmourStandard_Marines_Guncase_Tropic : 34thPRC_ArmourStandard_Marines_Guncase_Urban
+class 34thPRC_ArmourStandard_Marines_Hardcase_Tropic_Guncase : 34thPRC_ArmourStandard_Marines_Hardcase_Urban_Guncase
 {
 	displayName="[34th] Guncase Tropic";
 	author="TheBrwnKidd";
@@ -201,7 +201,7 @@ class 34thPRC_ArmourStandard_Marines_Guncase_Tropic : 34thPRC_ArmourStandard_Mar
 		"34thPRC_ArmourStandard\data\marines\tropic\34_hardcase_tropic_co.paa"
 	};
 }
-class 34thPRC_ArmourStandard_Marines_Guncase_Woodland_Light : 34thPRC_ArmourStandard_Marines_Guncase_Urban
+class 34thPRC_ArmourStandard_Marines_Hardcase_Woodland_Light_Guncase : 34thPRC_ArmourStandard_Marines_Hardcase_Urban_Guncase
 {
 	displayName="[34th] Guncase Woodland Light";
 	author="TheBrwnKidd";
@@ -210,7 +210,7 @@ class 34thPRC_ArmourStandard_Marines_Guncase_Woodland_Light : 34thPRC_ArmourStan
 		"34thPRC_ArmourStandard\data\marines\woodland\34_hardcase_woodland_light_co.paa"
 	};
 }
-class 34thPRC_ArmourStandard_Marines_Guncase_Woodland_Dark : 34thPRC_ArmourStandard_Marines_Guncase_Urban
+class 34thPRC_ArmourStandard_Marines_Hardcase_Woodland_Dark_Guncase : 34thPRC_ArmourStandard_Marines_Hardcase_Urban_Guncase
 {
 	displayName="[34th] Guncase Woodland Dark";
 	author="TheBrwnKidd";
