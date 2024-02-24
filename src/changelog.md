@@ -8,7 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Added
 - Custom map markers
+- ODST guncase
 - Backpacks for Marines
+### Updated
+- ODST backpack textures
 
 ## [0.2.0]
 ### Added

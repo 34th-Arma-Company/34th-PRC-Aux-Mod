@@ -50,6 +50,58 @@ class 34thPRC_ArmourStandard_ODST_M56S_Woodland : 34thPRC_ArmourStandard_ODST_M5
     };
 };
 
+class 34thPRC_ArmourStandard_ODST_M56S_Urban_Guncase : MA_M56S_Rucksack
+{
+    displayName="[34th] M56S Guncase Urban";
+    author="TheBrwnKidd";
+    ace_gunbag=1;
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst\urban\34_odst_ruck_urban_co.paa";
+        "34thPRC_ArmourStandard\data\odst\34_backpack_radio_red_co.paa"
+    };
+};
+class 34thPRC_ArmourStandard_ODST_M56S_Arctic_Guncase : 34thPRC_ArmourStandard_ODST_M56S_Urban_Guncase
+{
+    displayName="[34th] M56S Guncase Arctic";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst\arctic\34_odst_ruck_arctic_co.paa";
+        "34thPRC_ArmourStandard\data\odst\34_backpack_radio_red_co.paa"
+    };
+};
+class 34thPRC_ArmourStandard_ODST_M56S_Arid_Guncase : 34thPRC_ArmourStandard_ODST_M56S_Urban_Guncase
+{
+    displayName="[34th] M56S Guncase Arid";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst\arid\34_odst_ruck_arid_co.paa";
+        "34thPRC_ArmourStandard\data\odst\34_backpack_radio_red_co.paa"
+    };
+};
+class 34thPRC_ArmourStandard_ODST_M56S_Tropic_Guncase : 34thPRC_ArmourStandard_ODST_M56S_Urban_Guncase
+{
+    displayName="[34th] M56S Guncase Tropic";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst\tropic\34_odst_ruck_tropic_co.paa";
+        "34thPRC_ArmourStandard\data\odst\34_backpack_radio_red_co.paa"
+    };
+};
+class 34thPRC_ArmourStandard_ODST_M56S_Woodland_Guncase : 34thPRC_ArmourStandard_ODST_M56S_Urban_Guncase
+{
+    displayName="[34th] M56S Guncase Woodland";
+    author="TheBrwnKidd";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst\woodland\34_odst_ruck_woodland_co.paa";
+        "34thPRC_ArmourStandard\data\odst\34_backpack_radio_red_co.paa"
+    };
+};
+
 class MA_M56S_Rucksack_Medic; // MA_Armor
 class 34thPRC_ArmourStandard_ODST_M56S_Urban_Medic : MA_M56S_Rucksack_Medic
 {
