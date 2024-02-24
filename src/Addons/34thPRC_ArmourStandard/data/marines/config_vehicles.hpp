@@ -145,7 +145,7 @@ class 34thPRC_ArmourStandard_Marines_Trooper_Tropic : 34thPRC_ArmourStandard_Mar
 	};
 }
 
-class Halo_Hardcase;
+class Halo_Hardcase; // Halo_marine_02
 class 34thPRC_ArmourStandard_Marines_Guncase_Urban : Halo_Hardcase
 {
 	displayName="[34th] Guncase Urban";
@@ -293,7 +293,7 @@ class 34thPRC_ArmourStandard_Marines_Hardcase_Medic_Woodland_Dark : 34thPRC_Armo
 	};
 }
 
-class Halo_Rucksack_01;
+class Halo_Rucksack_01; // Halo_marine_02
 class 34thPRC_ArmourStandard_Marines_Rucksack_Urban : Halo_Rucksack_01
 {
     displayName="[34th] Rucksack Urban";
@@ -367,7 +367,7 @@ class 34thPRC_ArmourStandard_Marines_Rucksack_Woodland_Dark : 34thPRC_ArmourStan
     };
 };
 
-class Halo_Rucksack_02;
+class Halo_Rucksack_02; // Halo_marine_02
 class 34thPRC_ArmourStandard_Marines_Rucksack_Heavy_Urban : Halo_Rucksack_02
 {
     displayName="[34th] Heavy Rucksack Urban";
@@ -449,7 +449,7 @@ class 34thPRC_ArmourStandard_Marines_Rucksack_Heavy_Woodland_Dark : 34thPRC_Armo
     };
 };
 
-class Halo_LR;
+class Halo_LR; // Halo_marine_02
 class 34thPRC_ArmourStandard_Marines_Radiopack_Urban : Halo_LR
 {
     displayName="[34th] Radiopack Urban";
