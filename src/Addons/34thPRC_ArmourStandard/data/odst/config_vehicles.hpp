@@ -3,6 +3,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Urban : MA_M56S_Rucksack
 {
     displayName="[34th] M56S Rucksack Urban";
     author="TheBrwnKidd";
+    ace_gunbag=1;
     hiddenSelectionsTextures[]=
     {
         "34thPRC_ArmourStandard\data\odst\urban\34_odst_ruck_urban_co.paa";
