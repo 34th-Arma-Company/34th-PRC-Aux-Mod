@@ -8,6 +8,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Added
 - Custom map markers
+- Added Ace Gunbag to Standard variant of ODST Backpack
+### Updated
+- Updated ODST backpacks textures
 
 ## [0.2.0]
 ### Added
