@@ -1,7 +1,7 @@
 class DMNS_IHADSS_HELMET_01; // DMNS_Unit_Headgear
-class 34thPRC_ArmourStandard_Aircrew_Helmet: DMNS_IHADSS_HELMET_01
+class 34thPRC_ArmourStandard_Aircrew_Helmet_Urban: DMNS_IHADSS_HELMET_01
 {
-	displayName="[34th] IHADSS Pilot Helmet";
+	displayName="[34th] IHADSS Pilot Helmet Urban";
 	author="Vazya";
 	hiddenSelectionsTextures[]=
 	{
