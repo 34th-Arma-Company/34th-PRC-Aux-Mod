@@ -5,7 +5,7 @@ class 34thPRC_ArmourStandard_MKIV_Helmet : MA_Mjolnir_MKIV_Helmet
     author= "Cappy";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_ArmourStandard\data\mkiv\34_MKIV_Helmet3.paa",
+        "34thPRC_ArmourStandard\data\mkiv\34_MKIV_Helmet.paa",
         "34thPRC_ArmourStandard\data\mkiv\MKIV_Visor_CO.paa"
     };
 };
@@ -16,7 +16,7 @@ class 34thPRC_ArmourStandard_MKIV_Armor: MA_MKIV_Armor
     author= "Cappy"
 	hiddenSelectionsTextures[]=
     {
-            "34thPRC_ArmourStandard\data\mkiv\34_MKIV_Upper3.paa",    //camo4 (Upper Armor)
+            "34thPRC_ArmourStandard\data\mkiv\34_MKIV_Upper.paa",    //camo4 (Upper Armor)
             "34thPRC_ArmourStandard\data\mkiv\MKIV_Lower_CO.paa",    //camo5 (Lower Armor)
     };
 };
