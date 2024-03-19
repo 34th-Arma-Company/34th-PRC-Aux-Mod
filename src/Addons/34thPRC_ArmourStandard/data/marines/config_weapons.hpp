@@ -13,10 +13,6 @@ class 34thPRC_ArmourStandard_Marines_CH252_Urban_NV : HaloInf_Marine_DES_UNSC_NV
 {
 	displayName="[34th] CH252 Urban (NV)";
 	author="TheBrwnKidd & Vazya";
-	hiddenSelections[]=
-	{
-		"_Visor"
-	};
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
@@ -35,10 +31,6 @@ class 34thPRC_ArmourStandard_Marines_CH252_ArcticLight_NV : 34thPRC_ArmourStanda
 {
 	displayName="[34th] CH252 Arctic Light (NV)";
 	author="TheBrwnKidd & Vazya";
-	hiddenSelections[]=
-	{
-		"_Visor"
-	};
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines\arctic\helmet_arctic_light_co.paa"
@@ -57,10 +49,6 @@ class 34thPRC_ArmourStandard_Marines_CH252_ArcticDark_NV : 34thPRC_ArmourStandar
 {
 	displayName="[34th] CH252 Arctic Dark (NV)";
 	author="TheBrwnKidd & Vazya";
-	hiddenSelections[]=
-	{
-		"_Visor"
-	};
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines\arctic\helmet_arctic_dark_co.paa"
@@ -79,10 +67,6 @@ class 34thPRC_ArmourStandard_Marines_CH252_AridLight_NV : 34thPRC_ArmourStandard
 {
 	displayName="[34th] CH252 Arid Light (NV)";
 	author="TheBrwnKidd & Vazya";
-	hiddenSelections[]=
-	{
-		"_Visor"
-	};
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines\arid\helmet_arid_light_co.paa"
@@ -101,10 +85,6 @@ class 34thPRC_ArmourStandard_Marines_CH252_AridDark_NV : 34thPRC_ArmourStandard_
 {
 	displayName="[34th] CH252 Arid Dark (NV)";
 	author="TheBrwnKidd & Vazya";
-	hiddenSelections[]=
-	{
-		"_Visor"
-	};
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines\arid\helmet_arid_dark_co.paa"
@@ -123,10 +103,6 @@ class 34thPRC_ArmourStandard_Marines_CH252_WoodlandLight_NV : 34thPRC_ArmourStan
 {
 	displayName="[34th] CH252 Woodland Light (NV)";
 	author="TheBrwnKidd & Vazya";
-	hiddenSelections[]=
-	{
-		"_Visor"
-	};
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines\woodland\helmet_woodland_light_co.paa"
@@ -145,10 +121,6 @@ class 34thPRC_ArmourStandard_Marines_CH252_WoodlandDark_NV : 34thPRC_ArmourStand
 {
 	displayName="[34th] CH252 Woodland Dark (NV)";
 	author="TheBrwnKidd & Vazya";
-	hiddenSelections[]=
-	{
-		"_Visor"
-	};
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines\woodland\helmet_woodland_dark_co.paa"
@@ -167,10 +139,6 @@ class 34thPRC_ArmourStandard_Marines_CH252_Tropic_NV : 34thPRC_ArmourStandard_Ma
 {
 	displayName="[34th] CH252 Woodland Tropic (NV)";
 	author="TheBrwnKidd & Vazya";
-	hiddenSelections[]=
-	{
-		"_Visor"
-	};
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines\tropic\helmet_tropic_co.paa"
