@@ -6,7 +6,7 @@ class 34thPRC_ArmourStandard_SPI_Helmet : MA_SPI_Helmet
     hiddenSelectionsTextures[]=
     {
         "34thPRC_ArmourStandard\data\spi\34_SPI_Helmet.paa",
-        "34thPRC_ArmourStandard\data\spi\SPI_Visor_Standard.paa"
+        "34thPRC_ArmourStandard\data\spi\34_SPI_Visor_Standard.paa"
     };
 };
 class MA_SPI_Armor; // MA_Armor
@@ -16,6 +16,6 @@ class 34thPRC_ArmourStandard_SPI_Armor: MA_SPI_Armor
     author= "Vazya";
 	hiddenSelectionsTextures[]=
     {
-            "34thPRC_ArmourStandard\data\spi\34_SPI_Armor.paa",    //(Vest)
+        "34thPRC_ArmourStandard\data\spi\34_SPI_Armor.paa",    //(Vest)
     };
 };
