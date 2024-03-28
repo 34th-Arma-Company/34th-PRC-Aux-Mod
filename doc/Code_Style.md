@@ -9,9 +9,7 @@
 
 * Separate each element above with an underscore `_`. Do not separate words if they are part of the same element, e.g. `Urban_Medium_Blue` should be `UrbanMediumBlue`.
 
-
 The weapon part of a uniform is called `Uniform`, the vehicle part is called `Trooper` instead.
-
 
 ## External classes
 When a class from another mod is referenced in our mod we should add a comment labeling what PBO it came from. This should be the internal mod name, often this matches the PBO name but not always. You can find the mod's name in its `config.cpp` file in the BPO.
