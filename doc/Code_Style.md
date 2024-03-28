@@ -4,7 +4,6 @@
 
 * Always start the class name with the PBO name, for our standard armour PBO this is `34thPRC_ArmourStandard`.
 * Then copy the folder structure to the config file, skipping `data`. Seperate each folder with underscores `_`.
-
 * Finally, name the new class. Preferably with a significant part of its display name. If the name matches the folder then don't add it. `Beret_Beret` should be just `Beret`.
 * If you need to add varients then you can add those on the end. Preferably use descriptive names for these e.g. `UrbanMediumBlue_WhiteVisor`. Multiple variants can be used separated with underscores `_`. If you can't think of a meaningful name for the variants then number them. Avoid initials, e.g `NV` should be `NoVisor`.
 
