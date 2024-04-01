@@ -1,6 +1,7 @@
 class MA_Mjolnir_MKVB_Helmet; // MA_Armor
 class MA_Mjolnir_Scout_Helmet; // MA_Armor
-class 34thPRC_ArmourStandard_MKVB_Helmet_GV : MA_Mjolnir_MKVB_Helmet
+class MA_Mjolnir_MKV_Helmet; // MA_Armor
+class 34thPRC_ArmourStandard_MKVB_Helmet : MA_Mjolnir_MKVB_Helmet
 {
     displayName="[34th] MK V[B] Helmet";
     author= "Vazya";
@@ -10,7 +11,7 @@ class 34thPRC_ArmourStandard_MKVB_Helmet_GV : MA_Mjolnir_MKVB_Helmet
         "34thPRC_ArmourStandard\data\mkvb\MKVB\Visors\34_MKVB_Helmet_Visor_Gold.paa"
     };
 };
-class 34thPRC_ArmourStandard_MKVB_Scout_Helmet_GV : MA_Mjolnir_Scout_Helmet
+class 34thPRC_ArmourStandard_MKVB_Scout_Helmet : MA_Mjolnir_Scout_Helmet
 {
     displayName="[34th] Scout Helmet";
     author= "Vazya";
@@ -18,6 +19,16 @@ class 34thPRC_ArmourStandard_MKVB_Scout_Helmet_GV : MA_Mjolnir_Scout_Helmet
     {
         "34thPRC_ArmourStandard\data\mkvb\Scout\Helmet\34_Scout_Helmet.paa",
         "34thPRC_ArmourStandard\data\mkvb\Scout\Visors\34_Scout_Helmet_Visor_Gold.paa"
+    };
+};
+class 34thPRC_ArmourStandard_MKVB_MKV_Helmet : MA_Mjolnir_MKV_Helmet
+{
+    displayName="[34th] MK V Helmet";
+    author= "Vazya";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\mkvb\MKV\Helmet\34_MKV_Helmet.paa",
+        "34thPRC_ArmourStandard\data\mkvb\MKV\Visors\34_MKV_Helmet_Visor_Gold.paa"
     };
 };
 class MA_MKVB_Armor; // MA_Armor

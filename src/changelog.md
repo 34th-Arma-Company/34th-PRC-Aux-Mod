@@ -6,10 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+### Added
 - Mark V B Mjolnir set
-- Mark V Mjolnir Shoulders for Mark V B
-- WIP Mjolnir Scout Helmet for Mark V B
-- WIP Mjolnir ODST SHoulders for Mark V B
+- Mark V Mjolnir Helmet and Shoulders for --> Mark V B
+- Mjolnir Scout Helmet for --> Mark V B (Misriah Armory Scout attachment and vest match)
+- WIP Mjolnir ODST Shoulders for --> Mark V B
 
 ## 0.5.0
 ### Added
