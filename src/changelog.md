@@ -7,10 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 ### Added
-<<<<<<< HEAD
-=======
 - SPI Armour WIP
->>>>>>> 70f8f44e1d7a1a6226eed3cb45fd5d653da10c05
 - Mark V B Mjolnir set
 - Mark V Mjolnir Helmet and Shoulders for --> Mark V B
 - Mjolnir Scout Helmet for --> Mark V B (Misriah Armory Scout attachment and vest match)
