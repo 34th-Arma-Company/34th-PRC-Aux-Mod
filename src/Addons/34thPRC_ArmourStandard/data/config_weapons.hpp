@@ -3,3 +3,4 @@
 #include "marines\config_weapons.hpp"
 #include "mkiv\config_weapons.hpp"
 #include "odst\config_weapons.hpp"
+#include "spi\config_weapons.hpp"
