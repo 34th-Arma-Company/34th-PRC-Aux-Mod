@@ -21,3 +21,7 @@ class CfgWeapons
 {
 	#include "data\config_weapons.hpp"
 };
+class CfgGlasses
+{
+	#include "data\config_glasses.hpp"
+}
