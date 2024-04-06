@@ -1,0 +1,17 @@
+name: "Changelog Reminder"
+on:
+- pull_request_target
+
+jobs:
+  changelog-reminder:
+    permissions:
+      contents: read
+      pull-requests: write
+    runs-on: ubuntu-latest
+    steps:
+      # TODO: test if the files changed includes any files in src, if not then exit early to not prompt pull request author
+      - uses: mskelton/changelog-reminder-action@v3.0.0
+        with:
+          changelogRegex: "changelog.md"
+          message: "Does the changelog need updating in this pull request?"
+          
