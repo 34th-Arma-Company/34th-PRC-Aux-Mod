@@ -1,8 +1,15 @@
 class MA_Mjolnir_MKVB_Helmet; // MA_Armor
-class MA_Mjolnir_Scout_Helmet; // MA_Armor
-class MA_Mjolnir_MKV_Helmet; // MA_Armor
-class MA_Mjolnir_EVA_Helmet; // MA_Armor
-class MA_Mjolnir_ODST_Helmet; // MA_Armor
+class MA_Mjolnir_Scout_Helmet;
+class MA_Mjolnir_MKV_Helmet;
+class MA_Mjolnir_EVA_Helmet;
+class MA_Mjolnir_ODST_Helmet;
+class MA_Mjolnir_HR_EOD_Helmet;
+class MA_Mjolnir_H3_EOD_Helmet;
+class MA_Mjolnir_Mjolnir_AA_Helmet;
+class MA_Mjolnir_Recon_Helmet;
+class MA_Mjolnir_Grenadier_Helmet;
+class MA_Scout_Attachment_NVG; // MA_Armor
+class MA_EOD_CBRN_Attachment_NVG; // MA_Armor
 class 34thPRC_ArmourStandard_Mjolnir_MKVB_Helmet : MA_Mjolnir_MKVB_Helmet
 {
     displayName="[34th] Mjolnir MK V[B] Helmet";
@@ -53,6 +60,56 @@ class 34thPRC_ArmourStandard_Mjolnir_ODST_Helmet : MA_Mjolnir_ODST_Helmet
         "34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Visors\34_ODST_Helmet_Visor_Gold.paa"
     };
 };
+class 34thPRC_ArmourStandard_Mjolnir_EOD_HR_Helmet : MA_Mjolnir_HR_EOD_Helmet
+{
+    displayName="[34th] Mjolnir EOD Helmet";
+    author= "Vazya";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\HR_EOD\Helmet\34_EOD_HR_Helmet.paa",
+        "34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\HR_EOD\Visors\34_EOD_HR_Helmet_Visor_Gold.paa"
+    };
+};
+class 34thPRC_ArmourStandard_Mjolnir_EOD_H3_Helmet : MA_Mjolnir_H3_EOD_Helmet
+{
+    displayName="[34th] Mjolnir EOD[U/A] Helmet";
+    author= "Vazya";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\H3_EOD\Helmet\34_EOD_H3_Helmet.paa",
+        "34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\H3_EOD\Visors\34_EOD_H3_Helmet_Visor_Gold.paa"
+    };
+};
+class 34thPRC_ArmourStandard_Mjolnir_AA_Helmet : MA_Mjolnir_Mjolnir_AA_Helmet
+{
+    displayName="[34th] Mjolnir Air Assault Helmet";
+    author= "Vazya";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\mkvb\Mjolnir_AA\Helmet\34_AA_Helmet.paa",
+        "34thPRC_ArmourStandard\data\mkvb\Mjolnir_AA\Visor\34_AA_Helmet_Visor_Gold.paa"
+    };
+};
+class 34thPRC_ArmourStandard_Mjolnir_Recon_Helmet : MA_Mjolnir_Recon_Helmet
+{
+    displayName="[34th] Mjolnir Recon Helmet";
+    author= "Vazya";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\mkvb\Recon\Helmet\34_Recon_Helmet.paa",
+        "34thPRC_ArmourStandard\data\mkvb\Recon\Visors\34_Recon_Helmet_Visor_Gold.paa"
+    };
+};
+class 34thPRC_ArmourStandard_Mjolnir_Grenadier_Helmet : MA_Mjolnir_Grenadier_Helmet
+{
+    displayName="[34th] Mjolnir Grenadier Helmet";
+    author= "Vazya";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\mkvb\Grenadier\Helmet\34_Grenadier_Helmet.paa",
+        "34thPRC_ArmourStandard\data\mkvb\Grenadier\Visor\34_Grenadier_Helmet_Visor_Gold.paa"
+    };
+};
 class MA_MKVB_Armor; // MA_Armor
 class 34thPRC_ArmourStandard_Mjolnir_MKVB_Armor: MA_MKVB_Armor
 {
@@ -60,7 +117,33 @@ class 34thPRC_ArmourStandard_Mjolnir_MKVB_Armor: MA_MKVB_Armor
     author= "Vazya"
 	hiddenSelectionsTextures[]=
     {
-            "34thPRC_ArmourStandard\data\mkvb\MKVB\34_MKVB_Upper_CO.paa",    //camo4 (Upper Armor)
-            "34thPRC_ArmourStandard\data\mkvb\MKVB\34_MKVB_Lower_CO.paa",    //camo5 (Lower Armor)
+            "34thPRC_ArmourStandard\data\mkvb\MKVB\34_MKVB_Upper.paa",    //camo4 (Upper Armor)
+            "34thPRC_ArmourStandard\data\mkvb\MKVB\34_MKVB_Lower.paa",    //camo5 (Lower Armor)
     };
 };
+class 34_MKVB_Scout_NVG_Attachment: MA_Scout_Attachment_NVG
+{
+		author="Vazya";
+		displayName="[34th] Mjolnir Scout HU/RS Module";
+		visionMode[]=
+		{
+			"Normal",
+			"NVG",
+			"TI"
+		};
+	};
+	class 34_MKVB_EOD_CBRN_NVG_Attachment: MA_EOD_CBRN_Attachment_NVG
+{
+		author="Vazya";
+		displayName="[34th] Mjolnir EOD CBRN Module";
+		hiddenSelectionsTextures[]=
+		{
+			"34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\CBRN\34_EOD_CBRN.paa";
+		};
+		visionMode[]=
+		{
+			"Normal",
+			"NVG",
+			"TI"
+		};
+	};
