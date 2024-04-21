@@ -9,17 +9,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - SPI Armour Set
 - Mjolnir Mark V B armor set
-	- Mjolnir Air Assault Helmet
-	- Mjolnir Commando Helmet
-	- Mjolnir CQC Set
-	- Mjolnir EVA Set
-	- Mjolnir Grenadier Set
-	- Mjolnir EOD Set
-	- Mjolnir MKV Set
-	- Mjolnir ODST Set
-	- Mjolnir Operator Shoulders
-	- Mjolnir Recon Set
-	- Mjolnir Scout Set
+  - Mjolnir Air Assault Helmet
+  - Mjolnir Commando Helmet
+  - Mjolnir CQC Set
+  - Mjolnir EVA Set
+  - Mjolnir Grenadier Set
+  - Mjolnir EOD Set
+  - Mjolnir MKV Set
+  - Mjolnir ODST Set
+  - Mjolnir Operator Shoulders
+  - Mjolnir Recon Set
+  - Mjolnir Scout Set
 - All Bulldogs have radios now
 
 ## 0.5.0
