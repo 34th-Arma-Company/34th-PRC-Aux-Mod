@@ -180,36 +180,36 @@ class 34thPRC_ArmourStandard_Mjolnir_MKVB_Armor: MA_MKVB_Armor
     author= "Vazya"
 	hiddenSelectionsTextures[]=
     {
-            "34thPRC_ArmourStandard\data\mkvb\MKVB\34_MKVB_Upper.paa",    //camo4 (Upper Armor)
-            "34thPRC_ArmourStandard\data\mkvb\MKVB\34_MKVB_Lower.paa",    //camo5 (Lower Armor)
+		"34thPRC_ArmourStandard\data\mkvb\MKVB\34_MKVB_Upper.paa",    //camo4 (Upper Armor)
+		"34thPRC_ArmourStandard\data\mkvb\MKVB\34_MKVB_Lower.paa",    //camo5 (Lower Armor)
     };
 };
 class MA_EOD_CBRN_Attachment_NVG; // MA_Armor
 class MA_Scout_Attachment_NVG;
 class 34_MKVB_EOD_CBRN_NVG_Attachment: MA_EOD_CBRN_Attachment_NVG
 {
-		author="Vazya";
-		displayName="[34th] Mjolnir EOD CBRN Module";
-		hiddenSelectionsTextures[]=
-		{
-			"34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\CBRN\34_EOD_CBRN.paa";
-		};
-		visionMode[]=
-		{
-			"Normal",
-			"NVG",
-			"TI"
-		};
+	author="Vazya";
+	displayName="[34th] Mjolnir EOD CBRN Module";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\CBRN\34_EOD_CBRN.paa";
 	};
+	visionMode[]=
+	{
+		"Normal",
+		"NVG",
+		"TI"
+	};
+};
 
 class 34_MKVB_Scout_NVG_Attachment: MA_Scout_Attachment_NVG
 {
-		author="Vazya";
-		displayName="[34th] Mjolnir Scout HU/RS Module";
-		visionMode[]=
-		{
-			"Normal",
-			"NVG",
-			"TI"
-		};
+	author="Vazya";
+	displayName="[34th] Mjolnir Scout HU/RS Module";
+	visionMode[]=
+	{
+		"Normal",
+		"NVG",
+		"TI"
 	};
+};
