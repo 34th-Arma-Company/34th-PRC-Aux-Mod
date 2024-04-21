@@ -1,38 +1,276 @@
-class Mjolnir_MKV_Shoulders; // MA_Armor
-class Mjolnir_ODST_Shoulders; // MA_Armor
+class Mjolnir_Commando_Shoulders;  //MA_Armor
+class Mjolnir_CQC_Shoulders;
+class Mjolnir_EVA_Shoulders;
+class Mjolnir_Grenadier_Shoulders;
+class Mjolnir_GUNGNIR_Shoulders;
+class Mjolnir_JFO_Shoulders;
+class Mjolnir_MKV_Shoulders;
+class Mjolnir_ODST_Shoulders;
+class Mjolnir_Operator_Shoulders;
+class Mjolnir_Recon_Shoulders;
+class Mjolnir_Security_Shoulders;
+class Mjolnir_Scout_Shoulders;
+class 34thPRC_ArmourStandard_Commando_Shoulders : Mjolnir_Commando_Shoulders
+{
+    displayName="[34th] Mjolnir Commando Shoulders";
+    author="Vazya";
+    hiddenSelectionsTextures[]=
+    {
+		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\CQC\Shoulders\34_CQC_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\CQC\Shoulders\34_CQC_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\EVA\Shoulders\34_EVA_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\EVA\Shoulders\34_EVA_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Shoulders\34_Grenadier_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Shoulders\34_Grenadier_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Gungnir\Shoulders\34_Gungnir_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Gungnir\Shoulders\34_Gungnir_Shoulders.paa",
+		"MA_Armor\data\Vests\MKVB\Shoulders\Hayabusa\Olive_Hayabusa_Shoulders_CO.paa",
+		"MA_Armor\data\Vests\MKVB\Shoulders\Hayabusa\Olive_Hayabusa_Shoulders_CO.paa",
+		"34thPRC_ArmourStandard\data\mkvb\JFO\Shoulders\34_JFO_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\JFO\Shoulders\34_JFO_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkiv\34_MKIV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkiv\34_MKIV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\MKV\Shoulders\34_MKV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\MKV\Shoulders\34_MKV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Shoulders\34_ODST_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Shoulders\34_ODST_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Operator\Shoulders\34_Operator_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Operator\Shoulders\34_Operator_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Recon\Shoulders\34_Recon_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Recon\Shoulders\34_Recon_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+    };
+};
+class 34thPRC_ArmourStandard_CQC_Shoulders : Mjolnir_CQC_Shoulders
+{
+    displayName="[34th] Mjolnir CQC Shoulders";
+    author="Vazya";
+    hiddenSelectionsTextures[]=
+    {
+		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\CQC\Shoulders\34_CQC_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\CQC\Shoulders\34_CQC_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\EVA\Shoulders\34_EVA_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\EVA\Shoulders\34_EVA_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Shoulders\34_Grenadier_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Shoulders\34_Grenadier_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Gungnir\Shoulders\34_Gungnir_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Gungnir\Shoulders\34_Gungnir_Shoulders.paa",
+		"MA_Armor\data\Vests\MKVB\Shoulders\Hayabusa\Olive_Hayabusa_Shoulders_CO.paa",
+		"MA_Armor\data\Vests\MKVB\Shoulders\Hayabusa\Olive_Hayabusa_Shoulders_CO.paa",
+		"34thPRC_ArmourStandard\data\mkvb\JFO\Shoulders\34_JFO_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\JFO\Shoulders\34_JFO_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkiv\34_MKIV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkiv\34_MKIV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\MKV\Shoulders\34_MKV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\MKV\Shoulders\34_MKV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Shoulders\34_ODST_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Shoulders\34_ODST_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Operator\Shoulders\34_Operator_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Operator\Shoulders\34_Operator_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Recon\Shoulders\34_Recon_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Recon\Shoulders\34_Recon_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+    };
+};
+class 34thPRC_ArmourStandard_Mjolnir_EVA_Shoulders : Mjolnir_EVA_Shoulders
+{
+    displayName="[34th] Mjolnir EVA Shoulders";
+    author="Vazya";
+    hiddenSelectionsTextures[]=
+    {
+		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\CQC\Shoulders\34_CQC_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\CQC\Shoulders\34_CQC_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\EVA\Shoulders\34_EVA_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\EVA\Shoulders\34_EVA_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Shoulders\34_Grenadier_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Shoulders\34_Grenadier_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Gungnir\Shoulders\34_Gungnir_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Gungnir\Shoulders\34_Gungnir_Shoulders.paa",
+		"MA_Armor\data\Vests\MKVB\Shoulders\Hayabusa\Olive_Hayabusa_Shoulders_CO.paa",
+		"MA_Armor\data\Vests\MKVB\Shoulders\Hayabusa\Olive_Hayabusa_Shoulders_CO.paa",
+		"34thPRC_ArmourStandard\data\mkvb\JFO\Shoulders\34_JFO_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\JFO\Shoulders\34_JFO_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkiv\34_MKIV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkiv\34_MKIV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\MKV\Shoulders\34_MKV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\MKV\Shoulders\34_MKV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Shoulders\34_ODST_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Shoulders\34_ODST_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Operator\Shoulders\34_Operator_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Operator\Shoulders\34_Operator_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Recon\Shoulders\34_Recon_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Recon\Shoulders\34_Recon_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+    };
+};
+class 34thPRC_ArmourStandard_Mjolnir_Grenadier_Shoulders : Mjolnir_Grenadier_Shoulders
+{
+    displayName="[34th] Mjolnir Grenadier Shoulders";
+    author="Vazya";
+    hiddenSelectionsTextures[]=
+    {
+		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\CQC\Shoulders\34_CQC_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\CQC\Shoulders\34_CQC_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\EVA\Shoulders\34_EVA_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\EVA\Shoulders\34_EVA_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Shoulders\34_Grenadier_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Shoulders\34_Grenadier_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Gungnir\Shoulders\34_Gungnir_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Gungnir\Shoulders\34_Gungnir_Shoulders.paa",
+		"MA_Armor\data\Vests\MKVB\Shoulders\Hayabusa\Olive_Hayabusa_Shoulders_CO.paa",
+		"MA_Armor\data\Vests\MKVB\Shoulders\Hayabusa\Olive_Hayabusa_Shoulders_CO.paa",
+		"34thPRC_ArmourStandard\data\mkvb\JFO\Shoulders\34_JFO_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\JFO\Shoulders\34_JFO_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkiv\34_MKIV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkiv\34_MKIV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\MKV\Shoulders\34_MKV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\MKV\Shoulders\34_MKV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Shoulders\34_ODST_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Shoulders\34_ODST_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Operator\Shoulders\34_Operator_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Operator\Shoulders\34_Operator_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Recon\Shoulders\34_Recon_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Recon\Shoulders\34_Recon_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+    };
+};
+class 34thPRC_ArmourStandard_Mjolnir_Gungnir_Shoulders : Mjolnir_Gungnir_Shoulders
+{
+    displayName="[34th] Mjolnir Gungnir Shoulders";
+    author="Vazya";
+    hiddenSelectionsTextures[]=
+    {
+		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\CQC\Shoulders\34_CQC_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\CQC\Shoulders\34_CQC_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\EVA\Shoulders\34_EVA_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\EVA\Shoulders\34_EVA_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Shoulders\34_Grenadier_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Shoulders\34_Grenadier_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Gungnir\Shoulders\34_Gungnir_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Gungnir\Shoulders\34_Gungnir_Shoulders.paa",
+		"MA_Armor\data\Vests\MKVB\Shoulders\Hayabusa\Olive_Hayabusa_Shoulders_CO.paa",
+		"MA_Armor\data\Vests\MKVB\Shoulders\Hayabusa\Olive_Hayabusa_Shoulders_CO.paa",
+		"34thPRC_ArmourStandard\data\mkvb\JFO\Shoulders\34_JFO_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\JFO\Shoulders\34_JFO_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkiv\34_MKIV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkiv\34_MKIV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\MKV\Shoulders\34_MKV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\MKV\Shoulders\34_MKV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Shoulders\34_ODST_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Shoulders\34_ODST_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Operator\Shoulders\34_Operator_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Operator\Shoulders\34_Operator_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Recon\Shoulders\34_Recon_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Recon\Shoulders\34_Recon_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+    };
+};
+class 34thPRC_ArmourStandard_Mjolnir_JFO_Shoulders : Mjolnir_JFO_Shoulders
+{
+    displayName="[34th] Mjolnir JFO Shoulders";
+    author="Vazya";
+    hiddenSelectionsTextures[]=
+    {
+		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\CQC\Shoulders\34_CQC_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\CQC\Shoulders\34_CQC_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\EVA\Shoulders\34_EVA_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\EVA\Shoulders\34_EVA_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Shoulders\34_Grenadier_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Shoulders\34_Grenadier_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Gungnir\Shoulders\34_Gungnir_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Gungnir\Shoulders\34_Gungnir_Shoulders.paa",
+		"MA_Armor\data\Vests\MKVB\Shoulders\Hayabusa\Olive_Hayabusa_Shoulders_CO.paa",
+		"MA_Armor\data\Vests\MKVB\Shoulders\Hayabusa\Olive_Hayabusa_Shoulders_CO.paa",
+		"34thPRC_ArmourStandard\data\mkvb\JFO\Shoulders\34_JFO_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\JFO\Shoulders\34_JFO_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkiv\34_MKIV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkiv\34_MKIV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\MKV\Shoulders\34_MKV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\MKV\Shoulders\34_MKV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Shoulders\34_ODST_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Shoulders\34_ODST_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Operator\Shoulders\34_Operator_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Operator\Shoulders\34_Operator_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Recon\Shoulders\34_Recon_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Recon\Shoulders\34_Recon_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+    };
+};
 class 34thPRC_ArmourStandard_MKV_Shoulders : Mjolnir_MKV_Shoulders
 {
     displayName="[34th] Mjolnir MK V Shoulders";
     author="Vazya";
     hiddenSelectionsTextures[]=
     {
-		"MA_Armor\data\Vests\MKVB\Shoulders\Commando\Olive_Commando_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Commando\Olive_Commando_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\CQC\Olive_CQC_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\CQC\Olive_CQC_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\EVA\Olive_EVA_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\EVA\Olive_EVA_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Grenadier\Olive_Grenadier_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Grenadier\Olive_Grenadier_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Gungnir\Olive_GUNGNIR_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Gungnir\Olive_GUNGNIR_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Hayabusa\Olive_Hayabusa_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Hayabusa\Olive_Hayabusa_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\JFO\Olive_JFO_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\JFO\Olive_JFO_Shoulders_CO.paa",
-        "34thPRC_ArmourStandard\data\mkiv\34_MKIV_Shoulders.paa",
-        "34thPRC_ArmourStandard\data\mkiv\34_MKIV_Shoulders.paa",
-        "34thPRC_ArmourStandard\data\mkvb\MKV\Shoulders\34_MKV_Shoulders_CO.paa",
-        "34thPRC_ArmourStandard\data\mkvb\MKV\Shoulders\34_MKV_Shoulders_CO.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Shoulders\34_ODST_Shoulders_CO.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Shoulders\34_ODST_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Operator\Olive_Operator_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Operator\Olive_Operator_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Recon\Olive_Recon_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Recon\Olive_Recon_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Security\Olive_Security_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Security\Olive_Security_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Scout\Olive_Scout_Shoulders_CO.paa"
+		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\CQC\Shoulders\34_CQC_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\CQC\Shoulders\34_CQC_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\EVA\Shoulders\34_EVA_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\EVA\Shoulders\34_EVA_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Shoulders\34_Grenadier_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Shoulders\34_Grenadier_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Gungnir\Shoulders\34_Gungnir_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Gungnir\Shoulders\34_Gungnir_Shoulders.paa",
+		"MA_Armor\data\Vests\MKVB\Shoulders\Hayabusa\Olive_Hayabusa_Shoulders_CO.paa",
+		"MA_Armor\data\Vests\MKVB\Shoulders\Hayabusa\Olive_Hayabusa_Shoulders_CO.paa",
+		"34thPRC_ArmourStandard\data\mkvb\JFO\Shoulders\34_JFO_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\JFO\Shoulders\34_JFO_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkiv\34_MKIV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkiv\34_MKIV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\MKV\Shoulders\34_MKV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\MKV\Shoulders\34_MKV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Shoulders\34_ODST_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Shoulders\34_ODST_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Operator\Shoulders\34_Operator_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Operator\Shoulders\34_Operator_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Recon\Shoulders\34_Recon_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Recon\Shoulders\34_Recon_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+    };
+};
+class 34thPRC_ArmourStandard_MKVB_Shoulders : Mjolnir_MKV_Shoulders
+{
+	// Invisible sholders so that we can still have inventory
+    displayName="[34th] Mjolnir MK V[B] Shoulders";
+    author="Vazya";
+    hiddenSelectionsTextures[]=
+    {
+		"34thPRC_ArmourStandard\data\mkvb\MKVB\Shoulders\34_MKVB_Shoulders_CO.paa",
+		"34thPRC_ArmourStandard\data\mkvb\MKVB\Shoulders\34_MKVB_Shoulders_CO.paa",
     };
 };
 class 34thPRC_ArmourStandard_Mjolnir_ODST_Shoulders : Mjolnir_ODST_Shoulders
@@ -41,32 +279,141 @@ class 34thPRC_ArmourStandard_Mjolnir_ODST_Shoulders : Mjolnir_ODST_Shoulders
     author="Vazya";
     hiddenSelectionsTextures[]=
     {
-		"MA_Armor\data\Vests\MKVB\Shoulders\Commando\Olive_Commando_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Commando\Olive_Commando_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\CQC\Olive_CQC_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\CQC\Olive_CQC_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\EVA\Olive_EVA_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\EVA\Olive_EVA_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Grenadier\Olive_Grenadier_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Grenadier\Olive_Grenadier_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Gungnir\Olive_GUNGNIR_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Gungnir\Olive_GUNGNIR_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Hayabusa\Olive_Hayabusa_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Hayabusa\Olive_Hayabusa_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\JFO\Olive_JFO_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\JFO\Olive_JFO_Shoulders_CO.paa",
-        "34thPRC_ArmourStandard\data\mkiv\34_MKIV_Shoulders.paa",
-        "34thPRC_ArmourStandard\data\mkiv\34_MKIV_Shoulders.paa",
-        "34thPRC_ArmourStandard\data\mkvb\MKV\Shoulders\34_MKV_Shoulders_CO.paa",
-        "34thPRC_ArmourStandard\data\mkvb\MKV\Shoulders\34_MKV_Shoulders_CO.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Shoulders\34_ODST_Shoulders_CO.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Shoulders\34_ODST_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Operator\Olive_Operator_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Operator\Olive_Operator_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Recon\Olive_Recon_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Recon\Olive_Recon_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Security\Olive_Security_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Security\Olive_Security_Shoulders_CO.paa",
-        "MA_Armor\data\Vests\MKVB\Shoulders\Scout\Olive_Scout_Shoulders_CO.paa"
+		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\CQC\Shoulders\34_CQC_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\CQC\Shoulders\34_CQC_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\EVA\Shoulders\34_EVA_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\EVA\Shoulders\34_EVA_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Shoulders\34_Grenadier_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Shoulders\34_Grenadier_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Gungnir\Shoulders\34_Gungnir_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Gungnir\Shoulders\34_Gungnir_Shoulders.paa",
+		"MA_Armor\data\Vests\MKVB\Shoulders\Hayabusa\Olive_Hayabusa_Shoulders_CO.paa",
+		"MA_Armor\data\Vests\MKVB\Shoulders\Hayabusa\Olive_Hayabusa_Shoulders_CO.paa",
+		"34thPRC_ArmourStandard\data\mkvb\JFO\Shoulders\34_JFO_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\JFO\Shoulders\34_JFO_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkiv\34_MKIV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkiv\34_MKIV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\MKV\Shoulders\34_MKV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\MKV\Shoulders\34_MKV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Shoulders\34_ODST_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Shoulders\34_ODST_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Operator\Shoulders\34_Operator_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Operator\Shoulders\34_Operator_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Recon\Shoulders\34_Recon_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Recon\Shoulders\34_Recon_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+    };
+};
+class 34thPRC_ArmourStandard_Mjolnir_Operator_Shoulders : Mjolnir_Operator_Shoulders
+{
+    displayName="[34th] Mjolnir Operator Shoulders";
+    author="Vazya";
+    hiddenSelectionsTextures[]=
+    {
+		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\CQC\Shoulders\34_CQC_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\CQC\Shoulders\34_CQC_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\EVA\Shoulders\34_EVA_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\EVA\Shoulders\34_EVA_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Shoulders\34_Grenadier_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Shoulders\34_Grenadier_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Gungnir\Shoulders\34_Gungnir_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Gungnir\Shoulders\34_Gungnir_Shoulders.paa",
+		"MA_Armor\data\Vests\MKVB\Shoulders\Hayabusa\Olive_Hayabusa_Shoulders_CO.paa",
+		"MA_Armor\data\Vests\MKVB\Shoulders\Hayabusa\Olive_Hayabusa_Shoulders_CO.paa",
+		"34thPRC_ArmourStandard\data\mkvb\JFO\Shoulders\34_JFO_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\JFO\Shoulders\34_JFO_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkiv\34_MKIV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkiv\34_MKIV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\MKV\Shoulders\34_MKV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\MKV\Shoulders\34_MKV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Shoulders\34_ODST_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Shoulders\34_ODST_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Operator\Shoulders\34_Operator_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Operator\Shoulders\34_Operator_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Recon\Shoulders\34_Recon_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Recon\Shoulders\34_Recon_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+    };
+};
+class 34thPRC_ArmourStandard_Mjolnir_Recon_Shoulders : Mjolnir_Recon_Shoulders
+{
+    displayName="[34th] Mjolnir Recon Shoulders";
+    author="Vazya";
+    hiddenSelectionsTextures[]=
+    {
+		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\CQC\Shoulders\34_CQC_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\CQC\Shoulders\34_CQC_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\EVA\Shoulders\34_EVA_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\EVA\Shoulders\34_EVA_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Shoulders\34_Grenadier_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Shoulders\34_Grenadier_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Gungnir\Shoulders\34_Gungnir_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Gungnir\Shoulders\34_Gungnir_Shoulders.paa",
+		"MA_Armor\data\Vests\MKVB\Shoulders\Hayabusa\Olive_Hayabusa_Shoulders_CO.paa",
+		"MA_Armor\data\Vests\MKVB\Shoulders\Hayabusa\Olive_Hayabusa_Shoulders_CO.paa",
+		"34thPRC_ArmourStandard\data\mkvb\JFO\Shoulders\34_JFO_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\JFO\Shoulders\34_JFO_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkiv\34_MKIV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkiv\34_MKIV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\MKV\Shoulders\34_MKV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\MKV\Shoulders\34_MKV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Shoulders\34_ODST_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Shoulders\34_ODST_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Operator\Shoulders\34_Operator_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Operator\Shoulders\34_Operator_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Recon\Shoulders\34_Recon_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Recon\Shoulders\34_Recon_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+    };
+};
+class 34thPRC_ArmourStandard_Mjolnir_Scout_Shoulders : Mjolnir_Scout_Shoulders
+{
+    displayName="[34th] Mjolnir Scout Shoulders";
+    author="Vazya";
+    hiddenSelectionsTextures[]=
+    {
+		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\CQC\Shoulders\34_CQC_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\CQC\Shoulders\34_CQC_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\EVA\Shoulders\34_EVA_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\EVA\Shoulders\34_EVA_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Shoulders\34_Grenadier_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Shoulders\34_Grenadier_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Gungnir\Shoulders\34_Gungnir_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Gungnir\Shoulders\34_Gungnir_Shoulders.paa",
+		"MA_Armor\data\Vests\MKVB\Shoulders\Hayabusa\Olive_Hayabusa_Shoulders_CO.paa",
+		"MA_Armor\data\Vests\MKVB\Shoulders\Hayabusa\Olive_Hayabusa_Shoulders_CO.paa",
+		"34thPRC_ArmourStandard\data\mkvb\JFO\Shoulders\34_JFO_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\JFO\Shoulders\34_JFO_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkiv\34_MKIV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkiv\34_MKIV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\MKV\Shoulders\34_MKV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\MKV\Shoulders\34_MKV_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Shoulders\34_ODST_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Shoulders\34_ODST_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Operator\Shoulders\34_Operator_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Operator\Shoulders\34_Operator_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Recon\Shoulders\34_Recon_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Recon\Shoulders\34_Recon_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
     };
 };
