@@ -11,6 +11,7 @@ class CfgPatches
 			"Halo_marine_02", // Misriah Armory Tactical Gear and Equipment
 			"MA_Armor",	// Misriah Armory
 			"Optre_UNSC_Units",	// OPTRE DEV
+			"34thPRC_Overrides" // 34th PRC Aux Mod
 		};
 	};
 };
