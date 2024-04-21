@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Mark V Mjolnir Helmet and Shoulders for Mark V B
 - Mjolnir Scout Helmet for Mark V B (Misriah Armory Scout attachment and vest match)
 - WIP Mjolnir ODST Shoulders for Mark V B
+- All Bulldogs have radios now
 
 ## 0.5.0
 ### Added
