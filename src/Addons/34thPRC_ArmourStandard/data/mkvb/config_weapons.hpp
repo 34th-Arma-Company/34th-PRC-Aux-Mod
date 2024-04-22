@@ -89,7 +89,7 @@ class 34thPRC_ArmourStandard_Mjolnir_JFO_Helmet : MA_Mjolnir_JFO_Helmet
     author= "Vazya";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_ArmourStandard\data\mkvb\Gungnir\Helmet\34_JFO_Helmet.paa",
+        "34thPRC_ArmourStandard\data\mkvb\JFO\Helmet\34_JFO_Helmet.paa",
         "34thPRC_ArmourStandard\data\mkvb\JFO\Visor\34_JFO_Helmet_Visor_Gold.paa"
     };
 };
