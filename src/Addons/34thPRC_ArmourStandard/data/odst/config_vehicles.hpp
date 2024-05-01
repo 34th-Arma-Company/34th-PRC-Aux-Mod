@@ -206,8 +206,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Woodland_Radio : 34thPRC_ArmourStandard_O
     };
 };
 
-
-class MA_M56S_BDU_Base;
+class MA_M56S_BDU_Base; // MA_Armor
 class 34thPRC_ArmourStandard_ODST_Trooper_UrbanRed : MA_M56S_BDU_Base
 {
 	uniformClass="34thPRC_ArmourStandard_ODST_Uniform_UrbanRed";

@@ -7,10 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+### Added
+- MkVB Security shoulder
+- New class names for several things
+
 ### Updated
 - Display name changes
   - Searchability should be improved
   - It should also be clearer when a backpack is for ODST use only
+- Mark some items as old, these will be removed later
 
 ## 0.6.0
 ### Added
