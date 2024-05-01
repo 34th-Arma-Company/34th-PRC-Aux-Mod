@@ -7,10 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## 0.7.0
 ### Added
 - MkVB Security shoulder
+  - No texture, but the placeholder class was missing
 - New class names for several things
-
 ### Updated
 - Display name changes
   - Searchability should be improved
