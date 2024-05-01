@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+### Updated
+- Display name changes
+  - Searchability should be improved
+  - It should also be clearer when a backpack is for ODST use only
+
 ## 0.6.0
 ### Added
 - SPI Armour Set

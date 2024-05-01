@@ -1,7 +1,7 @@
 class Mjolnir_MKIV_Shoulders; // MA_Armor
 class 34thPRC_ArmourStandard_MKIV_Shoulders : Mjolnir_MKIV_Shoulders
 {
-    displayName="[34th] MKIV Shoulders";
+    displayName="[34th] Mjolnir MKIV Shoulders";
     author="Cappy";
     hiddenSelectionsTextures[]=
     {

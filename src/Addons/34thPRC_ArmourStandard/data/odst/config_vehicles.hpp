@@ -1,7 +1,7 @@
 class MA_M56S_Rucksack; // MA_Armor
 class 34thPRC_ArmourStandard_ODST_M56S_Urban : MA_M56S_Rucksack
 {
-    displayName="[34th] M56S Rucksack Urban";
+    displayName="[34th] M56S ODST Rucksack Urban";
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
@@ -11,7 +11,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Urban : MA_M56S_Rucksack
 };
 class 34thPRC_ArmourStandard_ODST_M56S_Arctic : 34thPRC_ArmourStandard_ODST_M56S_Urban
 {
-    displayName="[34th] M56S Rucksack Arctic";
+    displayName="[34th] M56S ODST Rucksack Arctic";
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
@@ -21,7 +21,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Arctic : 34thPRC_ArmourStandard_ODST_M56S
 };
 class 34thPRC_ArmourStandard_ODST_M56S_Arid : 34thPRC_ArmourStandard_ODST_M56S_Urban
 {
-    displayName="[34th] M56S Rucksack Arid";
+    displayName="[34th] M56S ODST Rucksack Arid";
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
@@ -31,7 +31,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Arid : 34thPRC_ArmourStandard_ODST_M56S_U
 };
 class 34thPRC_ArmourStandard_ODST_M56S_Tropic : 34thPRC_ArmourStandard_ODST_M56S_Urban
 {
-    displayName="[34th] M56S Rucksack Tropic";
+    displayName="[34th] M56S ODST Rucksack Tropic";
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
@@ -41,7 +41,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Tropic : 34thPRC_ArmourStandard_ODST_M56S
 };
 class 34thPRC_ArmourStandard_ODST_M56S_Woodland : 34thPRC_ArmourStandard_ODST_M56S_Urban
 {
-    displayName="[34th] M56S Rucksack Woodland";
+    displayName="[34th] M56S ODST Rucksack Woodland";
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
@@ -52,7 +52,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Woodland : 34thPRC_ArmourStandard_ODST_M5
 
 class 34thPRC_ArmourStandard_ODST_M56S_Urban_Guncase : MA_M56S_Rucksack
 {
-    displayName="[34th] M56S Guncase Urban";
+    displayName="[34th] M56S ODST Guncase Urban";
     author="TheBrwnKidd";
     ace_gunbag=1;
     hiddenSelectionsTextures[]=
@@ -63,7 +63,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Urban_Guncase : MA_M56S_Rucksack
 };
 class 34thPRC_ArmourStandard_ODST_M56S_Arctic_Guncase : 34thPRC_ArmourStandard_ODST_M56S_Urban_Guncase
 {
-    displayName="[34th] M56S Guncase Arctic";
+    displayName="[34th] M56S ODST Guncase Arctic";
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
@@ -73,7 +73,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Arctic_Guncase : 34thPRC_ArmourStandard_O
 };
 class 34thPRC_ArmourStandard_ODST_M56S_Arid_Guncase : 34thPRC_ArmourStandard_ODST_M56S_Urban_Guncase
 {
-    displayName="[34th] M56S Guncase Arid";
+    displayName="[34th] M56S ODST Guncase Arid";
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
@@ -83,7 +83,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Arid_Guncase : 34thPRC_ArmourStandard_ODS
 };
 class 34thPRC_ArmourStandard_ODST_M56S_Tropic_Guncase : 34thPRC_ArmourStandard_ODST_M56S_Urban_Guncase
 {
-    displayName="[34th] M56S Guncase Tropic";
+    displayName="[34th] M56S ODST Guncase Tropic";
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
@@ -93,7 +93,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Tropic_Guncase : 34thPRC_ArmourStandard_O
 };
 class 34thPRC_ArmourStandard_ODST_M56S_Woodland_Guncase : 34thPRC_ArmourStandard_ODST_M56S_Urban_Guncase
 {
-    displayName="[34th] M56S Guncase Woodland";
+    displayName="[34th] M56S ODST Guncase Woodland";
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
@@ -105,7 +105,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Woodland_Guncase : 34thPRC_ArmourStandard
 class MA_M56S_Rucksack_Medic; // MA_Armor
 class 34thPRC_ArmourStandard_ODST_M56S_Urban_Medic : MA_M56S_Rucksack_Medic
 {
-    displayName="[34th] M56S Medic Rucksack Urban";
+    displayName="[34th] M56S ODST Medic Rucksack Urban";
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
@@ -115,7 +115,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Urban_Medic : MA_M56S_Rucksack_Medic
 };
 class 34thPRC_ArmourStandard_ODST_M56S_Arctic_Medic : 34thPRC_ArmourStandard_ODST_M56S_Urban_Medic
 {
-    displayName="[34th] M56S Medic Rucksack Arctic";
+    displayName="[34th] M56S ODST Medic Rucksack Arctic";
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
@@ -125,7 +125,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Arctic_Medic : 34thPRC_ArmourStandard_ODS
 };
 class 34thPRC_ArmourStandard_ODST_M56S_Arid_Medic : 34thPRC_ArmourStandard_ODST_M56S_Urban_Medic
 {
-    displayName="[34th] M56S Medic Rucksack Arid";
+    displayName="[34th] M56S ODST Medic Rucksack Arid";
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
@@ -135,7 +135,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Arid_Medic : 34thPRC_ArmourStandard_ODST_
 };
 class 34thPRC_ArmourStandard_ODST_M56S_Tropic_Medic : 34thPRC_ArmourStandard_ODST_M56S_Urban_Medic
 {
-    displayName="[34th] M56S Medic Rucksack Tropic";
+    displayName="[34th] M56S ODST Medic Rucksack Tropic";
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
@@ -145,7 +145,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Tropic_Medic : 34thPRC_ArmourStandard_ODS
 };
 class 34thPRC_ArmourStandard_ODST_M56S_Woodland_Medic : 34thPRC_ArmourStandard_ODST_M56S_Urban_Medic
 {
-    displayName="[34th] M56S Medic Rucksack Woodland";
+    displayName="[34th] M56S ODST Medic Rucksack Woodland";
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
@@ -157,7 +157,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Woodland_Medic : 34thPRC_ArmourStandard_O
 class MA_M56S_Rucksack_Radio; // MA_Armor
 class 34thPRC_ArmourStandard_ODST_M56S_Urban_Radio : MA_M56S_Rucksack_Radio
 {
-    displayName="[34th] M56S Radio Rucksack Urban";
+    displayName="[34th] M56S ODST Radio Rucksack Urban";
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
       {
@@ -167,7 +167,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Urban_Radio : MA_M56S_Rucksack_Radio
 };
 class 34thPRC_ArmourStandard_ODST_M56S_Arctic_Radio : 34thPRC_ArmourStandard_ODST_M56S_Urban_Radio
 {
-    displayName="[34th] M56S Radio Rucksack Arctic";
+    displayName="[34th] M56S ODST Radio Rucksack Arctic";
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
       {
@@ -177,7 +177,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Arctic_Radio : 34thPRC_ArmourStandard_ODS
 };
 class 34thPRC_ArmourStandard_ODST_M56S_Arid_Radio : 34thPRC_ArmourStandard_ODST_M56S_Urban_Radio
 {
-    displayName="[34th] M56S Radio Rucksack Arid";
+    displayName="[34th] M56S ODST Radio Rucksack Arid";
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
       {
@@ -187,7 +187,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Arid_Radio : 34thPRC_ArmourStandard_ODST_
 };
 class 34thPRC_ArmourStandard_ODST_M56S_Tropic_Radio : 34thPRC_ArmourStandard_ODST_M56S_Urban_Radio
 {
-    displayName="[34th] M56S Radio Rucksack Tropic";
+    displayName="[34th] M56S ODST Radio Rucksack Tropic";
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
       {
@@ -197,7 +197,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Tropic_Radio : 34thPRC_ArmourStandard_ODS
 };
 class 34thPRC_ArmourStandard_ODST_M56S_Woodland_Radio : 34thPRC_ArmourStandard_ODST_M56S_Urban_Radio
 {
-    displayName="[34th] M56S Radio Rucksack Woodland";
+    displayName="[34th] M56S ODST Radio Rucksack Woodland";
     author="TheBrwnKidd";
     hiddenSelectionsTextures[]=
       {
