@@ -12,7 +12,7 @@ class Mjolnir_Security_Shoulders;
 class Mjolnir_Scout_Shoulders;
 class 34thPRC_ArmourStandard_Commando_Shoulders : Mjolnir_Commando_Shoulders
 {
-    displayName="[34th] Mjolnir Commando Shoulders";
+    displayName="[34th] Mjolnir MkV[B] Commando Shoulders";
     author="Vazya";
     hiddenSelectionsTextures[]=
     {
@@ -48,7 +48,7 @@ class 34thPRC_ArmourStandard_Commando_Shoulders : Mjolnir_Commando_Shoulders
 };
 class 34thPRC_ArmourStandard_CQC_Shoulders : Mjolnir_CQC_Shoulders
 {
-    displayName="[34th] Mjolnir CQC Shoulders";
+    displayName="[34th] Mjolnir MkV[B] CQC Shoulders";
     author="Vazya";
     hiddenSelectionsTextures[]=
     {
@@ -84,7 +84,7 @@ class 34thPRC_ArmourStandard_CQC_Shoulders : Mjolnir_CQC_Shoulders
 };
 class 34thPRC_ArmourStandard_Mjolnir_EVA_Shoulders : Mjolnir_EVA_Shoulders
 {
-    displayName="[34th] Mjolnir EVA Shoulders";
+    displayName="[34th] Mjolnir MkV[B] EVA Shoulders";
     author="Vazya";
     hiddenSelectionsTextures[]=
     {
@@ -120,7 +120,7 @@ class 34thPRC_ArmourStandard_Mjolnir_EVA_Shoulders : Mjolnir_EVA_Shoulders
 };
 class 34thPRC_ArmourStandard_Mjolnir_Grenadier_Shoulders : Mjolnir_Grenadier_Shoulders
 {
-    displayName="[34th] Mjolnir Grenadier Shoulders";
+    displayName="[34th] Mjolnir MkV[B] Grenadier Shoulders";
     author="Vazya";
     hiddenSelectionsTextures[]=
     {
@@ -156,7 +156,7 @@ class 34thPRC_ArmourStandard_Mjolnir_Grenadier_Shoulders : Mjolnir_Grenadier_Sho
 };
 class 34thPRC_ArmourStandard_Mjolnir_Gungnir_Shoulders : Mjolnir_Gungnir_Shoulders
 {
-    displayName="[34th] Mjolnir Gungnir Shoulders";
+    displayName="[34th] Mjolnir MkV[B] Gungnir Shoulders";
     author="Vazya";
     hiddenSelectionsTextures[]=
     {
@@ -192,7 +192,7 @@ class 34thPRC_ArmourStandard_Mjolnir_Gungnir_Shoulders : Mjolnir_Gungnir_Shoulde
 };
 class 34thPRC_ArmourStandard_Mjolnir_JFO_Shoulders : Mjolnir_JFO_Shoulders
 {
-    displayName="[34th] Mjolnir JFO Shoulders";
+    displayName="[34th] Mjolnir MkV[B] JFO Shoulders";
     author="Vazya";
     hiddenSelectionsTextures[]=
     {
@@ -228,7 +228,7 @@ class 34thPRC_ArmourStandard_Mjolnir_JFO_Shoulders : Mjolnir_JFO_Shoulders
 };
 class 34thPRC_ArmourStandard_MKV_Shoulders : Mjolnir_MKV_Shoulders
 {
-    displayName="[34th] Mjolnir MK V Shoulders";
+    displayName="[34th] Mjolnir MkV[B] MK V Shoulders";
     author="Vazya";
     hiddenSelectionsTextures[]=
     {
@@ -275,7 +275,7 @@ class 34thPRC_ArmourStandard_MKVB_Shoulders : Mjolnir_MKV_Shoulders
 };
 class 34thPRC_ArmourStandard_Mjolnir_ODST_Shoulders : Mjolnir_ODST_Shoulders
 {
-    displayName="[34th] Mjolnir ODST Shoulders";
+    displayName="[34th] Mjolnir MkV[B] ODST Shoulders";
     author="Vazya";
     hiddenSelectionsTextures[]=
     {
@@ -311,7 +311,7 @@ class 34thPRC_ArmourStandard_Mjolnir_ODST_Shoulders : Mjolnir_ODST_Shoulders
 };
 class 34thPRC_ArmourStandard_Mjolnir_Operator_Shoulders : Mjolnir_Operator_Shoulders
 {
-    displayName="[34th] Mjolnir Operator Shoulders";
+    displayName="[34th] Mjolnir MkV[B] Operator Shoulders";
     author="Vazya";
     hiddenSelectionsTextures[]=
     {
@@ -347,7 +347,7 @@ class 34thPRC_ArmourStandard_Mjolnir_Operator_Shoulders : Mjolnir_Operator_Shoul
 };
 class 34thPRC_ArmourStandard_Mjolnir_Recon_Shoulders : Mjolnir_Recon_Shoulders
 {
-    displayName="[34th] Mjolnir Recon Shoulders";
+    displayName="[34th] Mjolnir MkV[B] Recon Shoulders";
     author="Vazya";
     hiddenSelectionsTextures[]=
     {
@@ -383,7 +383,7 @@ class 34thPRC_ArmourStandard_Mjolnir_Recon_Shoulders : Mjolnir_Recon_Shoulders
 };
 class 34thPRC_ArmourStandard_Mjolnir_Scout_Shoulders : Mjolnir_Scout_Shoulders
 {
-    displayName="[34th] Mjolnir Scout Shoulders";
+    displayName="[34th] Mjolnir MkV[B] Scout Shoulders";
     author="Vazya";
     hiddenSelectionsTextures[]=
     {

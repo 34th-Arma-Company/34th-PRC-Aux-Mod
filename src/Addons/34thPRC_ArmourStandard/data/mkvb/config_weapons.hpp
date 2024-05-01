@@ -16,7 +16,7 @@ class MA_Mjolnir_Recon_Helmet;
 class MA_Mjolnir_Scout_Helmet;
 class 34thPRC_ArmourStandard_Mjolnir_Commando_Helmet : MA_Mjolnir_Commando_Helmet
 {
-    displayName="[34th] Mjolnir Commando Helmet";
+    displayName="[34th] Mjolnir MkV[B] Commando Helmet";
     author= "Vazya";
     hiddenSelectionsTextures[]=
     {
@@ -26,7 +26,7 @@ class 34thPRC_ArmourStandard_Mjolnir_Commando_Helmet : MA_Mjolnir_Commando_Helme
 };
 class 34thPRC_ArmourStandard_Mjolnir_CQC_Helmet : MA_Mjolnir_CQC_Helmet
 {
-    displayName="[34th] Mjolnir CQC Helmet";
+    displayName="[34th] Mjolnir MkV[B] CQC Helmet";
     author= "Vazya";
     hiddenSelectionsTextures[]=
     {
@@ -36,7 +36,7 @@ class 34thPRC_ArmourStandard_Mjolnir_CQC_Helmet : MA_Mjolnir_CQC_Helmet
 };
 class 34thPRC_ArmourStandard_Mjolnir_EOD_HR_Helmet : MA_Mjolnir_HR_EOD_Helmet
 {
-    displayName="[34th] Mjolnir EOD Helmet";
+    displayName="[34th] Mjolnir MkV[B] EOD Helmet";
     author= "Vazya";
     hiddenSelectionsTextures[]=
     {
@@ -46,7 +46,7 @@ class 34thPRC_ArmourStandard_Mjolnir_EOD_HR_Helmet : MA_Mjolnir_HR_EOD_Helmet
 };
 class 34thPRC_ArmourStandard_Mjolnir_EOD_H3_Helmet : MA_Mjolnir_H3_EOD_Helmet
 {
-    displayName="[34th] Mjolnir EOD[U/A] Helmet";
+    displayName="[34th] Mjolnir MkV[B] EOD[U/A] Helmet";
     author= "Vazya";
     hiddenSelectionsTextures[]=
     {
@@ -56,7 +56,7 @@ class 34thPRC_ArmourStandard_Mjolnir_EOD_H3_Helmet : MA_Mjolnir_H3_EOD_Helmet
 };
 class 34thPRC_ArmourStandard_Mjolnir_EVA_Helmet : MA_Mjolnir_EVA_Helmet
 {
-    displayName="[34th] Mjolnir EVA Helmet";
+    displayName="[34th] Mjolnir MkV[B] EVA Helmet";
     author= "Vazya";
     hiddenSelectionsTextures[]=
     {
@@ -66,7 +66,7 @@ class 34thPRC_ArmourStandard_Mjolnir_EVA_Helmet : MA_Mjolnir_EVA_Helmet
 };
 class 34thPRC_ArmourStandard_Mjolnir_Grenadier_Helmet : MA_Mjolnir_Grenadier_Helmet
 {
-    displayName="[34th] Mjolnir Grenadier Helmet";
+    displayName="[34th] Mjolnir MkV[B] Grenadier Helmet";
     author= "Vazya";
     hiddenSelectionsTextures[]=
     {
@@ -76,7 +76,7 @@ class 34thPRC_ArmourStandard_Mjolnir_Grenadier_Helmet : MA_Mjolnir_Grenadier_Hel
 };
 class 34thPRC_ArmourStandard_Mjolnir_Gungnir_Helmet : MA_Mjolnir_GUNGNIR_Helmet
 {
-    displayName="[34th] Mjolnir Gungnir Helmet";
+    displayName="[34th] Mjolnir MkV[B] Gungnir Helmet";
     author= "Vazya";
     hiddenSelectionsTextures[]=
     {
@@ -85,7 +85,7 @@ class 34thPRC_ArmourStandard_Mjolnir_Gungnir_Helmet : MA_Mjolnir_GUNGNIR_Helmet
 };
 class 34thPRC_ArmourStandard_Mjolnir_JFO_Helmet : MA_Mjolnir_JFO_Helmet
 {
-    displayName="[34th] Mjolnir JFO Helmet";
+    displayName="[34th] Mjolnir MkV[B] JFO Helmet";
     author= "Vazya";
     hiddenSelectionsTextures[]=
     {
@@ -95,7 +95,7 @@ class 34thPRC_ArmourStandard_Mjolnir_JFO_Helmet : MA_Mjolnir_JFO_Helmet
 };
 class 34thPRC_ArmourStandard_Mjolnir_AA_Helmet : MA_Mjolnir_Mjolnir_AA_Helmet
 {
-    displayName="[34th] Mjolnir Air Assault Helmet";
+    displayName="[34th] Mjolnir MkV[B] Air Assault Helmet";
     author= "Vazya";
     hiddenSelectionsTextures[]=
     {
@@ -105,7 +105,7 @@ class 34thPRC_ArmourStandard_Mjolnir_AA_Helmet : MA_Mjolnir_Mjolnir_AA_Helmet
 };
 class 34thPRC_ArmourStandard_Mjolnir_ODST_Helmet : MA_Mjolnir_ODST_Helmet
 {
-    displayName="[34th] Mjolnir ODST Helmet";
+    displayName="[34th] Mjolnir MkV[B] ODST Helmet";
     author= "Vazya";
     hiddenSelectionsTextures[]=
     {
@@ -115,7 +115,7 @@ class 34thPRC_ArmourStandard_Mjolnir_ODST_Helmet : MA_Mjolnir_ODST_Helmet
 };
 class 34thPRC_ArmourStandard_Mjolnir_MKV_Helmet : MA_Mjolnir_MKV_Helmet
 {
-    displayName="[34th] Mjolnir MK V Helmet";
+    displayName="[34th] Mjolnir MkV[B] MK V Helmet";
     author= "Vazya";
     hiddenSelectionsTextures[]=
     {
@@ -135,7 +135,7 @@ class 34thPRC_ArmourStandard_Mjolnir_MKVB_Helmet : MA_Mjolnir_MKVB_Helmet
 };
 class 34thPRC_ArmourStandard_Mjolnir_MP_Helmet : MA_Mjolnir_MP_Helmet
 {
-    displayName="[34th] Mjolnir MP Helmet";
+    displayName="[34th] Mjolnir MkV[B] MP Helmet";
     author= "Vazya";
     hiddenSelectionsTextures[]=
     {
@@ -145,7 +145,7 @@ class 34thPRC_ArmourStandard_Mjolnir_MP_Helmet : MA_Mjolnir_MP_Helmet
 };
 class 34thPRC_ArmourStandard_Mjolnir_Pilot_Helmet : MA_Mjolnir_Pilot_Helmet
 {
-    displayName="[34th] Mjolnir Pilot Helmet";
+    displayName="[34th] Mjolnir MkV[B] Pilot Helmet";
     author= "Vazya";
     hiddenSelectionsTextures[]=
     {
@@ -155,7 +155,7 @@ class 34thPRC_ArmourStandard_Mjolnir_Pilot_Helmet : MA_Mjolnir_Pilot_Helmet
 };
 class 34thPRC_ArmourStandard_Mjolnir_Recon_Helmet : MA_Mjolnir_Recon_Helmet
 {
-    displayName="[34th] Mjolnir Recon Helmet";
+    displayName="[34th] Mjolnir MkV[B] Recon Helmet";
     author= "Vazya";
     hiddenSelectionsTextures[]=
     {
@@ -165,7 +165,7 @@ class 34thPRC_ArmourStandard_Mjolnir_Recon_Helmet : MA_Mjolnir_Recon_Helmet
 };
 class 34thPRC_ArmourStandard_Mjolnir_Scout_Helmet : MA_Mjolnir_Scout_Helmet
 {
-    displayName="[34th] Mjolnir Scout Helmet";
+    displayName="[34th] Mjolnir MkV[B] Scout Helmet";
     author= "Vazya";
     hiddenSelectionsTextures[]=
     {
@@ -189,7 +189,7 @@ class MA_Scout_Attachment_NVG;
 class 34_MKVB_EOD_CBRN_NVG_Attachment: MA_EOD_CBRN_Attachment_NVG
 {
 	author="Vazya";
-	displayName="[34th] Mjolnir EOD CBRN Module";
+	displayName="[34th] Mjolnir MkV[B] EOD CBRN Module";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\CBRN\34_EOD_CBRN.paa";
@@ -205,7 +205,7 @@ class 34_MKVB_EOD_CBRN_NVG_Attachment: MA_EOD_CBRN_Attachment_NVG
 class 34_MKVB_Scout_NVG_Attachment: MA_Scout_Attachment_NVG
 {
 	author="Vazya";
-	displayName="[34th] Mjolnir Scout HU/RS Module";
+	displayName="[34th] Mjolnir MkV[B] Scout HU/RS Module";
 	visionMode[]=
 	{
 		"Normal",
