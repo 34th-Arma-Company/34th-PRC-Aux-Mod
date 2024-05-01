@@ -202,7 +202,7 @@ class 34thPRC_ArmourStandard_MkVB_Armor: MA_MKVB_Armor
 };
 class 34thPRC_ArmourStandard_Mjolnir_MKVB_Armor: 34thPRC_ArmourStandard_MkVB_Armor
 {
-    displayName="[34th-old] Mjolnir MK V[B] Armor"";
+    displayName="[34th-old] Mjolnir MK V[B] Armor";
 };
 
 class MA_EOD_CBRN_Attachment_NVG; // MA_Armor
