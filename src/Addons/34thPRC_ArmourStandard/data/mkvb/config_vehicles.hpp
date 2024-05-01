@@ -79,7 +79,7 @@ class 34thPRC_ArmourStandard_MkVB_CQC_Shoulders : Mjolnir_CQC_Shoulders
 };
 class 34thPRC_ArmourStandard_CQC_Shoulders : 34thPRC_ArmourStandard_MkVB_CQC_Shoulders
 {
-    displayName="[34th] Mjolnir MkV[B] CQC Shoulders";
+    displayName="[34th-old] Mjolnir MkV[B] CQC Shoulders";
 };
 
 class Mjolnir_EVA_Shoulders; //MA_Armor
@@ -121,7 +121,7 @@ class 34thPRC_ArmourStandard_MkVB_EVA_Shoulders : Mjolnir_EVA_Shoulders
 };
 class 34thPRC_ArmourStandard_Mjolnir_EVA_Shoulders : 34thPRC_ArmourStandard_MkVB_EVA_Shoulders
 {
-    displayName="[34th] Mjolnir MkV[B] EVA Shoulders";
+    displayName="[34th-old] Mjolnir MkV[B] EVA Shoulders";
 };
 
 class Mjolnir_Grenadier_Shoulders; //MA_Armor
@@ -163,7 +163,7 @@ class 34thPRC_ArmourStandard_MkVB_Grenadier_Shoulders : Mjolnir_Grenadier_Should
 };
 class 34thPRC_ArmourStandard_Mjolnir_Grenadier_Shoulders : 34thPRC_ArmourStandard_MkVB_Grenadier_Shoulders
 {
-    displayName="[34th] Mjolnir MkV[B] Grenadier Shoulders";
+    displayName="[34th-old] Mjolnir MkV[B] Grenadier Shoulders";
 };
 
 class Mjolnir_GUNGNIR_Shoulders; //MA_Armor
@@ -205,7 +205,7 @@ class 34thPRC_ArmourStandard_MkVB_Gungnir_Shoulders : Mjolnir_Gungnir_Shoulders
 };
 class 34thPRC_ArmourStandard_Mjolnir_Gungnir_Shoulders : 34thPRC_ArmourStandard_MkVB_Gungnir_Shoulders
 {
-    displayName="[34th] Mjolnir MkV[B] Gungnir Shoulders";
+    displayName="[34th-old] Mjolnir MkV[B] Gungnir Shoulders";
 };
 
 class Mjolnir_JFO_Shoulders; //MA_Armor
@@ -247,7 +247,7 @@ class 34thPRC_ArmourStandard_MkVB_JFO_Shoulders : Mjolnir_JFO_Shoulders
 };
 class 34thPRC_ArmourStandard_Mjolnir_JFO_Shoulders : 34thPRC_ArmourStandard_MkVB_JFO_Shoulders
 {
-    displayName="[34th] Mjolnir MkV[B] JFO Shoulders";
+    displayName="[34th-old] Mjolnir MkV[B] JFO Shoulders";
 };
 
 class Mjolnir_MKV_Shoulders; //MA_Armor
@@ -289,7 +289,7 @@ class 34thPRC_ArmourStandard_MkVB_MKV_Shoulders : Mjolnir_MKV_Shoulders
 };
 class 34thPRC_ArmourStandard_MKV_Shoulders : 34thPRC_ArmourStandard_MkVB_MKV_Shoulders
 {
-    displayName="[34th] Mjolnir MkV[B] MK V Shoulders";
+    displayName="[34th-old] Mjolnir MkV[B] MK V Shoulders";
 };
 class 34thPRC_ArmourStandard_MkVB_Shoulders : Mjolnir_MKV_Shoulders
 {
@@ -342,7 +342,7 @@ class 34thPRC_ArmourStandard_MkVB_ODST_Shoulders : Mjolnir_ODST_Shoulders
 };
 class 34thPRC_ArmourStandard_Mjolnir_ODST_Shoulders : 34thPRC_ArmourStandard_MkVB_ODST_Shoulders
 {
-    displayName="[34th] Mjolnir MkV[B] ODST Shoulders";
+    displayName="[34th-old] Mjolnir MkV[B] ODST Shoulders";
 };
 
 class Mjolnir_Operator_Shoulders; //MA_Armor
@@ -384,7 +384,7 @@ class 34thPRC_ArmourStandard_MkVB_Operator_Shoulders : Mjolnir_Operator_Shoulder
 };
 class 34thPRC_ArmourStandard_Mjolnir_Operator_Shoulders : 34thPRC_ArmourStandard_MkVB_Operator_Shoulders
 {
-    displayName="[34th] Mjolnir MkV[B] Operator Shoulders";
+    displayName="[34th-old] Mjolnir MkV[B] Operator Shoulders";
 };
 
 class Mjolnir_Recon_Shoulders; //MA_Armor
@@ -426,7 +426,7 @@ class 34thPRC_ArmourStandard_MkVB_Recon_Shoulders : Mjolnir_Recon_Shoulders
 };
 class 34thPRC_ArmourStandard_Mjolnir_Recon_Shoulders : 34thPRC_ArmourStandard_MkVB_Recon_Shoulders
 {
-    displayName="[34th] Mjolnir MkV[B] Recon Shoulders";
+    displayName="[34th-old] Mjolnir MkV[B] Recon Shoulders";
 };
 
 class Mjolnir_Security_Shoulders; //MA_Armor
@@ -506,5 +506,5 @@ class 34thPRC_ArmourStandard_MkVB_Scout_Shoulders : Mjolnir_Scout_Shoulders
 };
 class 34thPRC_ArmourStandard_Mjolnir_Scout_Shoulders : 34thPRC_ArmourStandard_MkVB_Scout_Shoulders
 {
-    displayName="[34th] Mjolnir MkV[B] Scout Shoulders";
+    displayName="[34th-old] Mjolnir MkV[B] Scout Shoulders";
 };
