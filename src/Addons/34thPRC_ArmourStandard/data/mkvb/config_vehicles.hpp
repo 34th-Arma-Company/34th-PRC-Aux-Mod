@@ -294,7 +294,7 @@ class 34thPRC_ArmourStandard_MKV_Shoulders : 34thPRC_ArmourStandard_MkVB_MKV_Sho
 class 34thPRC_ArmourStandard_MkVB_Shoulders : Mjolnir_MKV_Shoulders
 {
 	// Invisible sholders so that we can still have inventory
-    displayName="[34th] Mjolnir MK V[B] Shoulders";
+    displayName="[34th] Mjolnir MkV[B] Shoulders";
     author="Vazya";
     hiddenSelectionsTextures[]=
     {

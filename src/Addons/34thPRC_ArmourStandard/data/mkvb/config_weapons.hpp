@@ -132,7 +132,7 @@ class 34thPRC_ArmourStandard_MkVB_MKV_Helmet : MA_Mjolnir_MKV_Helmet
 class MA_Mjolnir_MKVB_Helmet; // MA_Armor
 class 34thPRC_ArmourStandard_Mkvb_Helmet : MA_Mjolnir_MKVB_Helmet
 {
-    displayName="[34th] Mjolnir MK V[B] Helmet";
+    displayName="[34th] Mjolnir MkV[B] Helmet";
     author= "Vazya";
     hiddenSelectionsTextures[]=
     {
