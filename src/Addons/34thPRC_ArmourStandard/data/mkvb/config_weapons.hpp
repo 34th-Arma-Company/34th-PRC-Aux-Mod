@@ -37,7 +37,7 @@ class 34thPRC_ArmourStandard_MkVB_EOD_HR_Helmet : MA_Mjolnir_HR_EOD_Helmet
 class MA_Mjolnir_H3_EOD_Helmet; // MA_Armor
 class 34thPRC_ArmourStandard_MkVB_EOD_H3_Helmet : MA_Mjolnir_H3_EOD_Helmet
 {
-    displayName="[34th] Mjolnir MkV[B] EOD[U/A] Helmet";
+    displayName="[34th] Mjolnir MkV[B] EOD [U/A] Helmet";
     author= "Vazya";
     hiddenSelectionsTextures[]=
     {
