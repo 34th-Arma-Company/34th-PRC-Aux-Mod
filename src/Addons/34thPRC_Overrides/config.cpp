@@ -6,7 +6,8 @@ class CfgPatches
 		units[]={};
 		requiredAddons[] =
 		{
-			"DMNS_Vehicles_Bulldog" // UNSC Foundries
+			"DMNS_Vehicles_Bulldog", // UNSC Foundries
+			"DMNS_Vehicles_M511_Springbok" // UNSC Foundries
 		};
 	};
 };
