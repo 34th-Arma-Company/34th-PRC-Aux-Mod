@@ -10,6 +10,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Intercom for springboks
 
+### Updated
+- Fixed some display names that had typos
+
 ## 0.7.0
 ### Added
 - MkVB Security shoulder
