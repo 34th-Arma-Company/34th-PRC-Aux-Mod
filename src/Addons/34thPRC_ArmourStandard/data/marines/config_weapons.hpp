@@ -128,7 +128,7 @@ class 34thPRC_ArmourStandard_Marines_CH252_WoodlandDark_NoVisor : 34thPRC_Armour
 }
 class 34thPRC_ArmourStandard_Marines_CH252_Tropic : 34thPRC_ArmourStandard_Marines_CH252_Urban
 {
-	displayName="[34th] CH252 Woodland Tropic";
+	displayName="[34th] CH252 Tropic";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{
@@ -137,7 +137,7 @@ class 34thPRC_ArmourStandard_Marines_CH252_Tropic : 34thPRC_ArmourStandard_Marin
 }
 class 34thPRC_ArmourStandard_Marines_CH252_Tropic_NoVisor : 34thPRC_ArmourStandard_Marines_CH252_Urban_NoVisor
 {
-	displayName="[34th] CH252 Woodland Tropic (No Visor)";
+	displayName="[34th] CH252 Tropic (No Visor)";
 	author="TheBrwnKidd & Vazya";
 	hiddenSelectionsTextures[]=
 	{

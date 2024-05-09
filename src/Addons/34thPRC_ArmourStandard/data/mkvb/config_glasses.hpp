@@ -28,7 +28,7 @@ class MA_MVB_Grenadier_Kit; // MA_Armor
 class 34thPRC_ArmourStandard_MkVB_Grenadier_Kit: MA_MVB_Grenadier_Kit
 {
 	author="Vazya";
-	displayName="[34th] Mjolnir MkV[B] Grenadier Chestplate[U/A]";
+	displayName="[34th] Mjolnir MkV[B] Grenadier Chestplate [U/A]";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Chest\34_Grenadier_Rig.paa";
