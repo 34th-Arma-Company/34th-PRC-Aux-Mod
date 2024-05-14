@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+### updated
+- Fix popup error with the invisible mkvb shoulders
+
 ## 0.8.0
 ### Added
 - Intercom for springboks
