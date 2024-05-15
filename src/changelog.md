@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## 0.8.1
 ### Updated
 - Fix popup error with the invisible mkvb shoulders
 - Add a fake mod to fix dependency on sc_uniforms
