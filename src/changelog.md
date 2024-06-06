@@ -8,11 +8,45 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Added
 - Invisible exosuit
-- SPI Armour WIP
-- Mark V B Mjolnir default set
-- Mark V Mjolnir Helmet and Shoulders for Mark V B
-- Mjolnir Scout Helmet for Mark V B (Misriah Armory Scout attachment and vest match)
-- WIP Mjolnir ODST Shoulders for Mark V B
+
+## 0.8.1
+### Updated
+- Fix popup error with the invisible mkvb shoulders
+- Add a fake mod to fix dependency on sc_uniforms
+
+## 0.8.0
+### Added
+- Intercom for springboks
+### Updated
+- Fixed some display names that had typos
+
+## 0.7.0
+### Added
+- MkVB Security shoulder
+  - No texture, but the placeholder class was missing
+- New class names for several things
+### Updated
+- Display name changes
+  - Searchability should be improved
+  - It should also be clearer when a backpack is for ODST use only
+- Mark some items as old, these will be removed later
+
+## 0.6.0
+### Added
+- SPI Armour Set
+- Mjolnir Mark V B armor set
+  - Mjolnir Air Assault Helmet
+  - Mjolnir Commando Helmet
+  - Mjolnir CQC Set
+  - Mjolnir EVA Set
+  - Mjolnir Grenadier Set
+  - Mjolnir EOD Set
+  - Mjolnir MKV Set
+  - Mjolnir ODST Set
+  - Mjolnir Operator Shoulders
+  - Mjolnir Recon Set
+  - Mjolnir Scout Set
+- All Bulldogs have radios now
 
 ## 0.5.0
 ### Added

@@ -10,6 +10,7 @@ class CfgPatches
 			"A3_Characters_F_EPB", // Vanilla
 			"Halo_marine_02", // Misriah Armory Tactical Gear and Equipment
 			"MA_Armor",	// Misriah Armory
+			"34thPRC_Overrides", // 34th PRC Aux Mod
 			"WBK_EpsmSystem", // E.P.S.M ExoMod Remastered
 			"PhoenixSystems_Exosuits" // E.P.S.M ExoMod Remastered
 		};
@@ -23,6 +24,10 @@ class CfgWeapons
 {
 	#include "data\config_weapons.hpp"
 };
+class CfgGlasses
+{
+	#include "data\config_glasses.hpp"
+}
 
 class Extended_InitPost_EventHandlers {
     class CAManBase {
