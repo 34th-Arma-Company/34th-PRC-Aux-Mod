@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+### Removed
+- Old spartan equipment
+
 ## 0.8.1
 ### Updated
 - Fix popup error with the invisible mkvb shoulders
