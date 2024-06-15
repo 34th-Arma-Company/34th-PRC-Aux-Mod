@@ -265,7 +265,7 @@ class 34thPRC_ArmourStandard_MkVB_MKV_Shoulders : Mjolnir_MKV_Shoulders
 };
 class 34thPRC_ArmourStandard_MkVB_Shoulders : Mjolnir_MKV_Shoulders
 {
-	// Invisible sholders so that we can still have inventory
+	// Invisible shoulders so that we can still have inventory
     displayName="[34th] Mjolnir MkV[B] Shoulders";
     author="Vazya";
 	model="\Halo_marine\null.p3d";
