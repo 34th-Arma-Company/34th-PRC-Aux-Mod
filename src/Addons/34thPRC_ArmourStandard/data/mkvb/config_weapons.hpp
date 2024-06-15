@@ -200,10 +200,6 @@ class 34thPRC_ArmourStandard_MkVB_Armor: MA_MKVB_Armor
 		"34thPRC_ArmourStandard\data\mkvb\MKVB\34_MKVB_Lower.paa",    //camo5 (Lower Armor)
     };
 };
-class 34thPRC_ArmourStandard_Mjolnir_MKVB_Armor: 34thPRC_ArmourStandard_MkVB_Armor
-{
-    displayName="[34th-old] Mjolnir MKV[B] Armor";
-};
 
 class MA_EOD_CBRN_Attachment_NVG; // MA_Armor
 class 34thPRC_ArmourStandard_MkVB_EOD_CBRN_NVG: MA_EOD_CBRN_Attachment_NVG
