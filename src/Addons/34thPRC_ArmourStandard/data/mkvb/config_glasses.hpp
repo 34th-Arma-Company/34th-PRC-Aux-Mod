@@ -1,10 +1,8 @@
 class MA_MKVB_ODST_Chest; // MA_Armor
-class MA_MKVB_Grenadier_Chest;
-class MA_MVB_Grenadier_Kit;
-class 34_MKVB_ODST_Chest: MA_MKVB_ODST_Chest
+class 34thPRC_ArmourStandard_MkVB_ODST_Chest: MA_MKVB_ODST_Chest
 {
 	author="Vazya";
-	displayName="[34th] ODST Chestplate";
+	displayName="[34th] Mjolnir MkV[B] ODST Chestplate";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Chest\34_Grenadier_Rig.paa";
@@ -13,10 +11,11 @@ class 34_MKVB_ODST_Chest: MA_MKVB_ODST_Chest
 		"MA_Armor\data\Vests\MKVB\Attachments\Scout\Woodland_Scout_Vest_CO.paa"
 	};
 };
-class 34_MKVB_Grenadier_Chest: MA_MKVB_Grenadier_Chest
+class MA_MKVB_Grenadier_Chest; // MA_Armor
+class 34thPRC_ArmourStandard_MkVB_Grenadier_Chest: MA_MKVB_Grenadier_Chest
 {
 	author="Vazya";
-	displayName="[34th] Grenadier Chestplate";
+	displayName="[34th] Mjolnir MkV[B] Grenadier Chestplate";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Chest\34_Grenadier_Rig.paa";
@@ -25,10 +24,11 @@ class 34_MKVB_Grenadier_Chest: MA_MKVB_Grenadier_Chest
 		"MA_Armor\data\Vests\MKVB\Attachments\Scout\Woodland_Scout_Vest_CO.paa"
 	};
 };
-class 34_MKVB_Grenadier_Kit: MA_MVB_Grenadier_Kit
+class MA_MVB_Grenadier_Kit; // MA_Armor
+class 34thPRC_ArmourStandard_MkVB_Grenadier_Kit: MA_MVB_Grenadier_Kit
 {
 	author="Vazya";
-	displayName="[34th] Grenadier Chestplate[U/A]";
+	displayName="[34th] Mjolnir MkV[B] Grenadier Chestplate [U/A]";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Chest\34_Grenadier_Rig.paa";
