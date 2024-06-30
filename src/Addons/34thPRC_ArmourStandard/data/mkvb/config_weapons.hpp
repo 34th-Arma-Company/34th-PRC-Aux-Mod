@@ -189,7 +189,7 @@ class 34thPRC_ArmourStandard_MkVB_Scout_Helmet : MA_Mjolnir_Scout_Helmet
     };
 };
 
-class 34thPRC_ArmourStandard_Gungnir_ArcticLight : 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet
+class 34thPRC_ArmourStandard_Gungnir_Helmet_ArcticLight : 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet
 {
      displayName="[34th] Gungnir Arctic Light";
      author= "Raine";
@@ -199,7 +199,7 @@ class 34thPRC_ArmourStandard_Gungnir_ArcticLight : 34thPRC_ArmourStandard_MkVB_G
 	};
 };
 
-class 34thPRC_ArmourStandard_Gungnir_ArcticDark : 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet
+class 34thPRC_ArmourStandard_Gungnir_Helmet_ArcticDark : 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet
 {
      displayName="[34th] Gungnir Arctic Dark";
      author= "Raine";
@@ -209,7 +209,7 @@ class 34thPRC_ArmourStandard_Gungnir_ArcticDark : 34thPRC_ArmourStandard_MkVB_Gu
 	};
 };
 
-class 34thPRC_ArmourStandard_Gungnir_AridDark : 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet
+class 34thPRC_ArmourStandard_Gungnir_Helmet_AridDark : 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet
 {
      displayName="[34th] Gungnir Arid Dark";
      author= "Raine";
@@ -219,7 +219,7 @@ class 34thPRC_ArmourStandard_Gungnir_AridDark : 34thPRC_ArmourStandard_MkVB_Gung
 	};
 };
 
-class 34thPRC_ArmourStandard_Gungnir_AridLight : 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet
+class 34thPRC_ArmourStandard_Gungnir_Helmet_AridLight : 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet
 {
      displayName="[34th] Gungnir Arid Light";
      author= "Raine";
@@ -229,7 +229,7 @@ class 34thPRC_ArmourStandard_Gungnir_AridLight : 34thPRC_ArmourStandard_MkVB_Gun
 	};
 };
 
-class 34thPRC_ArmourStandard_Gungnir_WoodlandDark : 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet
+class 34thPRC_ArmourStandard_Gungnir_Helmet_WoodlandDark : 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet
 {
      displayName="[34th] Gungnir Woodland Dark";
      author= "Raine";
@@ -239,7 +239,7 @@ class 34thPRC_ArmourStandard_Gungnir_WoodlandDark : 34thPRC_ArmourStandard_MkVB_
 	};
 };
 
-class 34thPRC_ArmourStandard_Gungnir_WoodlandLight : 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet
+class 34thPRC_ArmourStandard_Gungnir_Helmet_WoodlandLight : 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet
 {
      displayName="[34th] Gungnir Woodland Light";
      author= "Raine";
@@ -249,7 +249,7 @@ class 34thPRC_ArmourStandard_Gungnir_WoodlandLight : 34thPRC_ArmourStandard_MkVB
 	};
 };
 
-class 34thPRC_ArmourStandard_Gungnir_Tropic : 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet
+class 34thPRC_ArmourStandard_Gungnir_Helmet_Tropic : 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet
 {
      displayName="[34th] Gungnir Tropic";
      author= "Raine";
@@ -259,7 +259,7 @@ class 34thPRC_ArmourStandard_Gungnir_Tropic : 34thPRC_ArmourStandard_MkVB_Gungni
 	};
 };
 
-class 34thPRC_ArmourStandard_Gungnir_Urban : 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet
+class 34thPRC_ArmourStandard_Gungnir_Helmet_Urban : 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet
 {
      displayName="[34th] Gungnir Urban";
      author= "Raine";
