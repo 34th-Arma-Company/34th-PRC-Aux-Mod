@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Mjolnir Mark V B
   - Mjolnir Commando helmet texture fixed
 ### Added
+- Marine Gungnir helmets
 - Mjolnir Mark V B
   - Mjolnir CQC helmet
   - Mjolnir Gungnir helmet
