@@ -16,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Mjolnir JFO helmet
   - Mjolnir MP helmet
   - Mjolnir Pilot helmet
+- Add a fake mod to fix dependency on aceax_gearinfo
 
 ### Removed
 - Old spartan equipment
