@@ -1,4 +1,4 @@
-class CfgPatches 
+class CfgPatches
 {
 	class SEC_Guest_Pack
 	{
@@ -19,7 +19,7 @@ class CfgPatches
 		{
 
 		};
-		weapons[] = 
+		weapons[] =
 		{
 
 		};
@@ -38,7 +38,7 @@ class CfgPatches
 	class H_HelmetB;
 	class MA_MKVB_Armor;
 	class MA_Mjolnir_MKVB_Helmet;
-	
+
 	class SEC_Guest_MKVB_ArmorCore: MA_MKVB_Armor
 	{
 		scope=2;
@@ -77,8 +77,8 @@ class CfgPatches
 	class CfgVehicles
 {
 		class B_Kitbag_rgr;
-		class Mjolnir_MKV_Shoulders; 
-		
+		class Mjolnir_MKV_Shoulders;
+
 		class SEC_Guest_MKVB_Shoulders : Mjolnir_MKV_Shoulders
     {
         scope=2;
