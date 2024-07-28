@@ -28,7 +28,8 @@ class CfgPatches
 		requiredVersion=0.1;
 	};
 };
-	class CfgWeapons
+
+class CfgWeapons
 {
 	class VestItem;
 	class ItemInfo;
@@ -61,6 +62,7 @@ class CfgPatches
 			"SEC_GuestPack\data\MKVB\Steel_MKV_Lower_CO.paa"
 		};
 	};
+
 	class SEC_Guest_MKVB_Helmet: MA_Mjolnir_MKVB_Helmet
 	{
 		scope=2;
@@ -74,12 +76,13 @@ class CfgPatches
 		};
 	};
 };
-	class CfgVehicles
-{
-		class B_Kitbag_rgr;
-		class Mjolnir_MKV_Shoulders;
 
-		class SEC_Guest_MKVB_Shoulders : Mjolnir_MKV_Shoulders
+class CfgVehicles
+{
+	class B_Kitbag_rgr;
+	class Mjolnir_MKV_Shoulders;
+
+	class SEC_Guest_MKVB_Shoulders : Mjolnir_MKV_Shoulders
     {
         scope=2;
 		scopeArsenal=2;
