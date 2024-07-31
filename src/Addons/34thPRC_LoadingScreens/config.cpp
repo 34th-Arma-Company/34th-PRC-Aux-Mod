@@ -31,7 +31,7 @@ class RscTitles
 	{
 		class BackgroundNoise: RscPicture
 		{
-			text="\34thPRC_LoadingScreens\data\loading1.jpg";
+			text="\34thPRC_LoadingScreens\data\splash_screen.paa";
 		};
 	};
 	class brokenhud: SplashNoise
