@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Added
 - SEC Guest Pack
+- Loading screens (thanks Cain)
 
 ## 0.9.0
 ### Updated
