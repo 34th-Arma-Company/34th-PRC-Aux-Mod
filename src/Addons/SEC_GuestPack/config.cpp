@@ -61,6 +61,82 @@ class CfgWeapons
             "SEC_GuestPack\data\MKVB\Steel_MKV_Upper_CO.paa",
 			"SEC_GuestPack\data\MKVB\Steel_MKV_Lower_CO.paa"
 		};
+		class ItemInfo: VestItem
+        {
+            vestType="Rebreather";
+            hiddenSelections[]=
+            {
+                "camo1",
+                "camo2",
+            //    "mkvb_upper",
+            //    "mkvb_lower"
+            };
+            hiddenSelectionsTextures[]=
+            {
+            	"SEC_GuestPack\data\MKVB\Steel_MKV_Upper_CO.paa",
+				"SEC_GuestPack\data\MKVB\Steel_MKV_Lower_CO.paa"
+            };
+            uniformModel="MA_Armor\data\Vests\MKVB\MKVB_Armor.p3d";
+            containerClass="Supply250";
+            mass=20;
+            passThrough=0.1;
+            modelSides[]={6};
+            class HitpointsProtectionInfo
+            {
+                class Neck
+                {
+                    hitpointName="HitNeck";
+                    armor=15;
+                    passThrough=0.5;
+                };
+                class Legs
+                {
+                    hitpointName="HitLegs";
+                    armor=15;
+                    passThrough=0.5;
+                };
+                class Arms
+                {
+                    hitpointName="HitArms";
+                    armor=10;
+                    passThrough=0.1;
+                };
+                class Hands
+                {
+                    hitpointName="HitHands";
+                    armor=15;
+                    passThrough=0.1;
+                };
+                class Chest
+                {
+                    hitpointName="HitChest";
+                    armor=25;
+                    passThrough=0.1;
+                };
+                class Diaphragm
+                {
+                    hitpointName="HitDiaphragm";
+                    armor=20;
+                    passThrough=0.1;
+                };
+                class Abdomen
+                {
+                    hitpointName="HitAbdomen";
+                    armor=20;
+                    passThrough=0.1;
+                };
+                class Pelvis
+                {
+                    hitpointName="HitPelvis";
+                    armor=20;
+                    passThrough=0.1;
+                };
+                class Body
+                {
+                    hitpointName="HitBody";
+                    passThrough=0.1;
+                };
+            };
 	};
 
 	class SEC_Guest_MKVB_Helmet: MA_Mjolnir_MKVB_Helmet
