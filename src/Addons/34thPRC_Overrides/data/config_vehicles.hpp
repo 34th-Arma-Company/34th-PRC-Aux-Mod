@@ -1,2 +1,1 @@
-#include "bulldog\config_vehicles.hpp"
-#include "springbok\config_vehicles.hpp"
+#include "vehicles\config_vehicles.hpp"
