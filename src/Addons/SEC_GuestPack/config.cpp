@@ -137,6 +137,7 @@ class CfgWeapons
                     passThrough=0.1;
                 };
             };
+		};
 	};
 
 	class SEC_Guest_MKVB_Helmet: MA_Mjolnir_MKVB_Helmet
