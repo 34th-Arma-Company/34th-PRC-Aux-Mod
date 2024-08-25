@@ -453,6 +453,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_VisorGlasses : 34thPR
 }
 
 
+// Ambrose did all of the uniforms
 class MA_Marine_BDU_Heavy;
 class MA_Marine_BDU_Light;
 class MA_Marine_BDU_Medium;
