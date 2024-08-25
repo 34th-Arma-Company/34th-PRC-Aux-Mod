@@ -6,8 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+### Updated
+- Invisible MkVb shoulders now use hidden selection stuff instead of a bad p3d
+- SEC Guest Pack: Less protection
+
+## 0.10.0
 ### Added
 - SEC Guest Pack
+- Loading screens (thanks Cain)
 
 ## 0.9.0
 ### Updated
@@ -22,7 +28,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Mjolnir MP helmet
   - Mjolnir Pilot helmet
 - Add a fake mod to fix dependency on aceax_gearinfo
-
 ### Removed
 - Old spartan equipment
 
