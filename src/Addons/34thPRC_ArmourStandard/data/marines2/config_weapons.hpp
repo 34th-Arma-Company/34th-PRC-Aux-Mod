@@ -259,7 +259,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece : CH252_Helmet_
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses : CH252_Helmet_VisorGlasses
 {
-	displayName="[34th] CH252-2 Urban (Medic)  (Visor Glasses)";
+	displayName="[34th] CH252-2 Urban (Medic) (Visor Glasses)";
 	author="";
 	hiddenSelectionsTextures[]=
 	{
@@ -304,7 +304,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic_EyePiece : 34thPRC_Armo
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic_VisorGlasses : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses
 {
-	displayName="[34th] CH252-2 Arctic (Medic)  (Visor Glasses)";
+	displayName="[34th] CH252-2 Arctic (Medic) (Visor Glasses)";
 	author="";
 	hiddenSelectionsTextures[]=
 	{
@@ -349,7 +349,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_EyePiece : 34thPRC_Armour
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_VisorGlasses : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses
 {
-	displayName="[34th] CH252-2 Arid (Medic)  (Visor Glasses)";
+	displayName="[34th] CH252-2 Arid (Medic) (Visor Glasses)";
 	author="";
 	hiddenSelectionsTextures[]=
 	{
@@ -394,7 +394,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic_EyePiece : 34thPRC_Armo
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic_VisorGlasses : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses
 {
-	displayName="[34th] CH252-2 Tropic (Medic)  (Visor Glasses)";
+	displayName="[34th] CH252-2 Tropic (Medic) (Visor Glasses)";
 	author="";
 	hiddenSelectionsTextures[]=
 	{
