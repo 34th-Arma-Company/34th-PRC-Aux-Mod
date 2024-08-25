@@ -8,7 +8,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban : CH252_Helmet_Standard
 	author=""; // TODO: Author
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -18,7 +23,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece : CH252_Helmet_EyePie
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -28,7 +38,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses : CH252_Helmet_Vi
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -38,7 +53,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arctic : 34thPRC_ArmourStandard_Mari
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -48,7 +68,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_EyePiece : 34thPRC_ArmourStan
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -58,7 +83,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_VisorGlasses : 34thPRC_Armour
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -68,7 +98,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arid : 34thPRC_ArmourStandard_Marine
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -78,7 +113,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arid_EyePiece : 34thPRC_ArmourStanda
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -88,7 +128,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arid_VisorGlasses : 34thPRC_ArmourSt
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -98,7 +143,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Tropic : 34thPRC_ArmourStandard_Mari
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -108,7 +158,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_EyePiece : 34thPRC_ArmourStan
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -118,7 +173,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_VisorGlasses : 34thPRC_Armour
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -128,7 +188,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland : 34thPRC_ArmourStandard_Ma
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -138,7 +203,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_EyePiece : 34thPRC_ArmourSt
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -148,7 +218,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_VisorGlasses : 34thPRC_Armo
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -158,7 +233,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic : CH252_Helmet_Standard
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -168,7 +248,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece_Medic : CH252_Helmet_
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -178,7 +263,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses_Medic : CH252_Hel
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -188,7 +278,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic : 34thPRC_ArmourStandar
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -198,7 +293,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_EyePiece_Medic : 34thPRC_Armo
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -208,7 +308,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_VisorGlasses_Medic : 34thPRC_
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -218,7 +323,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic : 34thPRC_ArmourStandard_
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -228,7 +338,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arid_EyePiece_Medic : 34thPRC_Armour
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -238,7 +353,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arid_VisorGlasses_Medic : 34thPRC_Ar
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -248,7 +368,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic : 34thPRC_ArmourStandar
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -258,7 +383,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_EyePiece_Medic : 34thPRC_Armo
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -268,7 +398,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_VisorGlasses_Medic : 34thPRC_
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -278,7 +413,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic : 34thPRC_ArmourStand
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -288,7 +428,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_EyePiece_Medic : 34thPRC_Ar
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
@@ -298,7 +443,12 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_VisorGlasses_Medic : 34thPR
 	author="";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines\urban\helmet_urban_co.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
+        "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
 }
 
