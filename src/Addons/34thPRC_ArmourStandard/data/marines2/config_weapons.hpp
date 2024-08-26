@@ -534,3 +534,219 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy_NoCollar: MA_Marine_BD
         uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy_NoCollar";
     };
 };
+class 34thPRC_ArmourStandard_Marines2_Uniform_Arctic_Light: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light
+{
+    displayName="[34th] Marine Cross Branch BDU Arctic (Light)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Arctic_Light";
+    };
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Arctic_Medium: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium
+{
+    displayName="[34th] Marine Cross Branch BDU Arctic (Medium)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Arctic_Medium";
+    };
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Arctic_Heavy: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy
+{
+    displayName="[34th] Marine Cross Branch BDU Arctic (Heavy)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Arctic_Heavy";
+    };
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Arctic_Light_NoCollar: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light_NoCollar
+{
+    displayName="[34th] Marine Cross Branch BDU Arctic (Light) (No Collar)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Arctic_Light_NoCollar";
+    };
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Arctic_Medium_NoCollar: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium_NoCollar
+{
+    displayName="[34th] Marine Cross Branch BDU Arctic (Medium) (No Collar)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Arctic_Medium_NoCollar";
+    };
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Arctic_Heavy_NoCollar: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy_NoCollar
+{
+    displayName="[34th] Marine Cross Branch BDU Arctic (Heavy) (No Collar)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Arctic_Heavy_NoCollar";
+    };
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Light: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light
+{
+    displayName="[34th] Marine Cross Branch BDU Arid (Light)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Arid_Light";
+    };
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Medium: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium
+{
+    displayName="[34th] Marine Cross Branch BDU Arid (Medium)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Arid_Medium";
+    };
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Heavy: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy
+{
+    displayName="[34th] Marine Cross Branch BDU Arid (Heavy)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Arid_Heavy";
+    };
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Light_NoCollar: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light_NoCollar
+{
+    displayName="[34th] Marine Cross Branch BDU Arid (Light) (No Collar)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Arid_Light_NoCollar";
+    };
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Medium_NoCollar: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium_NoCollar
+{
+    displayName="[34th] Marine Cross Branch BDU Arid (Medium) (No Collar)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Arid_Medium_NoCollar";
+    };
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Heavy_NoCollar: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy_NoCollar
+{
+    displayName="[34th] Marine Cross Branch BDU Arid (Heavy) (No Collar)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Arid_Heavy_NoCollar";
+    };
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Tropic_Light: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light
+{
+    displayName="[34th] Marine Cross Branch BDU Tropic (Light)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Tropic_Light";
+    };
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Tropic_Medium: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium
+{
+    displayName="[34th] Marine Cross Branch BDU Tropic (Medium)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Tropic_Medium";
+    };
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Tropic_Heavy: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy
+{
+    displayName="[34th] Marine Cross Branch BDU Tropic (Heavy)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Tropic_Heavy";
+    };
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Tropic_Light_NoCollar: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light_NoCollar
+{
+    displayName="[34th] Marine Cross Branch BDU Tropic (Light) (No Collar)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Tropic_Light_NoCollar";
+    };
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Tropic_Medium_NoCollar: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium_NoCollar
+{
+    displayName="[34th] Marine Cross Branch BDU Tropic (Medium) (No Collar)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Tropic_Medium_NoCollar";
+    };
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Tropic_Heavy_NoCollar: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy_NoCollar
+{
+    displayName="[34th] Marine Cross Branch BDU Tropic (Heavy) (No Collar)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Tropic_Heavy_NoCollar";
+    };
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Light: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light
+{
+    displayName="[34th] Marine Cross Branch BDU Woodland (Light)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Woodland_Light";
+    };
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Medium: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium
+{
+    displayName="[34th] Marine Cross Branch BDU Woodland (Medium)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Woodland_Medium";
+    };
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Heavy: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy
+{
+    displayName="[34th] Marine Cross Branch BDU Woodland (Heavy)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Woodland_Heavy";
+    };
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Light_NoCollar: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light_NoCollar
+{
+    displayName="[34th] Marine Cross Branch BDU Woodland (Light) (No Collar)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Woodland_Light_NoCollar";
+    };
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Medium_NoCollar: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium_NoCollar
+{
+    displayName="[34th] Marine Cross Branch BDU Woodland (Medium) (No Collar)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Woodland_Medium_NoCollar";
+    };
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Heavy_NoCollar: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy_NoCollar
+{
+    displayName="[34th] Marine Cross Branch BDU Woodland (Heavy) (No Collar)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Woodland_Heavy_NoCollar";
+    };
+};
