@@ -236,7 +236,7 @@ class 34thPRC_ArmourStandard_Marines_Uniform_UrbanRedLight : 34thPRC_ArmourStand
 }
 class 34thPRC_ArmourStandard_Marines_Uniform_UrbanRedDark : 34thPRC_ArmourStandard_Marines_Uniform_UrbanBlueMedium
 {
-	displayName="[34th] Uniform Urban Red_Dark";
+	displayName="[34th] Uniform Urban Red Dark";
 	author="TheBrwnKidd";
 	hiddenSelectionsTextures[]=
 	{

@@ -284,7 +284,7 @@ class 34thPRC_ArmourStandard_ODST_M56R_Woodland_Medic: 34thPRC_ArmourStandard_OD
     };
 };
 
-class U_B_CombatUniform_mcam; // A3_Characters_F
+// class U_B_CombatUniform_mcam; // A3_Characters_F - we have this in marines2 now too
 class MA_M56S_BDU : U_B_CombatUniform_mcam // MA_Armor
 {
 	class ItemInfo;
