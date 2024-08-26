@@ -15,7 +15,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban : CH252_Helmet_Standard
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece : CH252_Helmet_EyePiece
 {
@@ -30,7 +30,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece : CH252_Helmet_EyePie
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses : CH252_Helmet_VisorGlasses
 {
@@ -45,7 +45,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses : CH252_Helmet_Vi
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Arctic : 34thPRC_ArmourStandard_Marines2_CH252_Urban
 {
@@ -60,7 +60,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arctic : 34thPRC_ArmourStandard_Mari
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_EyePiece : 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece
 {
@@ -75,7 +75,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_EyePiece : 34thPRC_ArmourStan
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_VisorGlasses : 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses
 {
@@ -90,7 +90,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_VisorGlasses : 34thPRC_Armour
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Arid : 34thPRC_ArmourStandard_Marines2_CH252_Urban
 {
@@ -105,7 +105,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arid : 34thPRC_ArmourStandard_Marine
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Arid_EyePiece : 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece
 {
@@ -120,7 +120,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arid_EyePiece : 34thPRC_ArmourStanda
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Arid_VisorGlasses : 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses
 {
@@ -135,7 +135,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arid_VisorGlasses : 34thPRC_ArmourSt
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Tropic : 34thPRC_ArmourStandard_Marines2_CH252_Urban
 {
@@ -150,7 +150,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Tropic : 34thPRC_ArmourStandard_Mari
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_EyePiece : 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece
 {
@@ -165,7 +165,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_EyePiece : 34thPRC_ArmourStan
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_VisorGlasses : 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses
 {
@@ -180,7 +180,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_VisorGlasses : 34thPRC_Armour
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Woodland : 34thPRC_ArmourStandard_Marines2_CH252_Urban
 {
@@ -195,7 +195,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland : 34thPRC_ArmourStandard_Ma
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_EyePiece : 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece
 {
@@ -210,7 +210,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_EyePiece : 34thPRC_ArmourSt
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_VisorGlasses : 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses
 {
@@ -225,7 +225,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_VisorGlasses : 34thPRC_Armo
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic : CH252_Helmet_Standard
 {
@@ -240,7 +240,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic : CH252_Helmet_Standard
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece : CH252_Helmet_EyePiece
 {
@@ -255,7 +255,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece : CH252_Helmet_
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses : CH252_Helmet_VisorGlasses
 {
@@ -270,7 +270,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses : CH252_Hel
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic
 {
@@ -285,7 +285,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic : 34thPRC_ArmourStandar
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic_EyePiece : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece
 {
@@ -300,7 +300,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic_EyePiece : 34thPRC_Armo
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic_VisorGlasses : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses
 {
@@ -315,7 +315,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic_VisorGlasses : 34thPRC_
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic
 {
@@ -330,7 +330,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic : 34thPRC_ArmourStandard_
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_EyePiece : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece
 {
@@ -345,7 +345,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_EyePiece : 34thPRC_Armour
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_VisorGlasses : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses
 {
@@ -360,7 +360,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_VisorGlasses : 34thPRC_Ar
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic
 {
@@ -375,7 +375,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic : 34thPRC_ArmourStandar
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic_EyePiece : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece
 {
@@ -390,7 +390,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic_EyePiece : 34thPRC_Armo
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic_VisorGlasses : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses
 {
@@ -405,7 +405,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic_VisorGlasses : 34thPRC_
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic
 {
@@ -420,7 +420,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic : 34thPRC_ArmourStand
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_EyePiece : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece
 {
@@ -435,7 +435,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_EyePiece : 34thPRC_Ar
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_VisorGlasses : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses
 {
@@ -450,7 +450,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_VisorGlasses : 34thPR
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
 	};
-}
+};
 
 
 class U_B_CombatUniform_mcam; // A3_Characters_F
