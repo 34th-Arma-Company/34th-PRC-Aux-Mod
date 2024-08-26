@@ -489,7 +489,6 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light: MA_Marine_BDU_Light
         uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Urban_Light";
     };
 };
-
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium: MA_Marine_BDU_Medium
 {
     displayName="[34th] Marine Cross Branch BDU Urban (Medium)";
@@ -499,7 +498,6 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium: MA_Marine_BDU_Medium
         uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium";
     };
 };
-
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy: MA_Marine_BDU_Heavy
 {
     displayName="[34th] Marine Cross Branch BDU Urban (Heavy)";
@@ -509,7 +507,6 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy: MA_Marine_BDU_Heavy
         uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy";
     };
 };
-
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light_NoCollar: MA_Marine_BDU_Light
 {
     displayName="[34th] Marine Cross Branch BDU Urban (Light) (No Collar)";
@@ -519,7 +516,6 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light_NoCollar: MA_Marine_BD
         uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Urban_Light_NoCollar";
     };
 };
-
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium_NoCollar: MA_Marine_BDU_Medium
 {
     displayName="[34th] Marine Cross Branch BDU Urban (Medium) (No Collar)";
@@ -529,7 +525,6 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium_NoCollar: MA_Marine_B
         uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium_NoCollar";
     };
 };
-
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy_NoCollar: MA_Marine_BDU_Heavy
 {
     displayName="[34th] Marine Cross Branch BDU Urban (Heavy) (No Collar)";

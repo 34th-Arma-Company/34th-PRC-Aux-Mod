@@ -22,7 +22,6 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Light: MA_Marine_Light_BDU
         "34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa"
     };
 };
-
 class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium: MA_Marine_Medium_BDU
 {
     UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium";
@@ -40,7 +39,6 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium: MA_Marine_Medium_BDU
         "34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa"
     };
 };
-
 class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy: MA_Marine_Heavy_BDU
 {
     UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy";
@@ -58,7 +56,6 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy: MA_Marine_Heavy_BDU
         "34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa"
     };
 };
-
 class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Light_NoCollar: MA_Marine_Light_BDU_NC
 {
     UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light_NoCollar";
@@ -76,7 +73,6 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Light_NoCollar: MA_Marine_Li
         "34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa"
     };
 };
-
 class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium_NoCollar: MA_Marine_Medium_BDU_NC
 {
     UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium_NoCollar";
@@ -94,7 +90,6 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium_NoCollar: MA_Marine_M
         "34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa"
     };
 };
-
 class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy_NoCollar: MA_Marine_Heavy_BDU_NC
 {
     UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy_NoCollar";
