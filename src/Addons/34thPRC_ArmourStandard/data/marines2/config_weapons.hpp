@@ -1,6 +1,6 @@
-class CH252_Helmet_Standard;
-class CH252_Helmet_EyePiece;
-class CH252_Helmet_VisorGlasses;
+class CH252_Helmet_Standard; // MA_Armor
+class CH252_Helmet_EyePiece; // MA_Armor
+class CH252_Helmet_VisorGlasses; // MA_Armor
 
 class 34thPRC_ArmourStandard_Marines2_CH252_Urban : CH252_Helmet_Standard
 {
@@ -453,12 +453,89 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_VisorGlasses : 34thPR
 }
 
 
-// Ambrose did all of the uniforms
-class MA_Marine_BDU_Heavy;
-class MA_Marine_BDU_Light;
-class MA_Marine_BDU_Medium;
+class U_B_CombatUniform_mcam; // A3_Characters_F
 
-// no collar
-class MA_Marine_BDU_Heavy_NC;
-class MA_Marine_BDU_Light_NC;
-class MA_Marine_BDU_Medium_NC;
+class MA_Marine_BDU_Light: U_B_CombatUniform_mcam // MA_Armor
+{
+	class ItemInfo;
+};
+class MA_Marine_BDU_Medium: U_B_CombatUniform_mcam // MA_Armor
+{
+	class ItemInfo;
+};
+class MA_Marine_BDU_Heavy: U_B_CombatUniform_mcam // MA_Armor
+{
+	class ItemInfo;
+};
+class MA_Marine_BDU_Light_NC: U_B_CombatUniform_mcam // MA_Armor
+{
+	class ItemInfo;
+};
+class MA_Marine_BDU_Medium_NC: U_B_CombatUniform_mcam // MA_Armor
+{
+	class ItemInfo;
+};
+class MA_Marine_BDU_Heavy_NC: U_B_CombatUniform_mcam // MA_Armor
+{
+	class ItemInfo;
+};
+
+class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light: MA_Marine_BDU_Light
+{
+    displayName="[34th] Marine Cross Branch BDU Urban (Light)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Urban_Light";
+    };
+};
+
+class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium: MA_Marine_BDU_Medium
+{
+    displayName="[34th] Marine Cross Branch BDU Urban (Medium)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium";
+    };
+};
+
+class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy: MA_Marine_BDU_Heavy
+{
+    displayName="[34th] Marine Cross Branch BDU Urban (Heavy)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy";
+    };
+};
+
+class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light_NoCollar: MA_Marine_BDU_Light
+{
+    displayName="[34th] Marine Cross Branch BDU Urban (Light) (No Collar)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Urban_Light_NoCollar";
+    };
+};
+
+class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium_NoCollar: MA_Marine_BDU_Medium
+{
+    displayName="[34th] Marine Cross Branch BDU Urban (Medium) (No Collar)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium_NoCollar";
+    };
+};
+
+class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy_NoCollar: MA_Marine_BDU_Heavy
+{
+    displayName="[34th] Marine Cross Branch BDU Urban (Heavy) (No Collar)";
+    author="Ambrose";
+    class ItemInfo: ItemInfo
+    {
+        uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy_NoCollar";
+    };
+};
