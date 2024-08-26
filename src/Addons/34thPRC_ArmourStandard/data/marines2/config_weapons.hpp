@@ -9,8 +9,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban : CH252_Helmet_Standard
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -24,8 +24,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece : CH252_Helmet_EyePie
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -39,8 +39,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses : CH252_Helmet_Vi
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -54,8 +54,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arctic : 34thPRC_ArmourStandard_Mari
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\arctic\White_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\arctic\White_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\arctic\White_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\arctic\White_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\arctic\White_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -69,8 +69,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_EyePiece : 34thPRC_ArmourStan
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\arctic\White_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\arctic\White_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\arctic\White_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\arctic\White_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\arctic\White_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -84,8 +84,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_VisorGlasses : 34thPRC_Armour
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\arctic\White_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\arctic\White_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\arctic\White_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\arctic\White_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\arctic\White_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -99,8 +99,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arid : 34thPRC_ArmourStandard_Marine
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\arid\Tan_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\arid\Tan_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\arid\Tan_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\arid\Tan_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\arid\Tan_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -114,8 +114,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arid_EyePiece : 34thPRC_ArmourStanda
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\arid\Tan_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\arid\Tan_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\arid\Tan_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\arid\Tan_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\arid\Tan_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -129,8 +129,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arid_VisorGlasses : 34thPRC_ArmourSt
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\arid\Tan_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\arid\Tan_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\arid\Tan_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\arid\Tan_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\arid\Tan_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -144,8 +144,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Tropic : 34thPRC_ArmourStandard_Mari
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\tropic\Brown_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\tropic\Brown_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\tropic\Brown_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\tropic\Brown_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\tropic\Brown_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -159,8 +159,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_EyePiece : 34thPRC_ArmourStan
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\tropic\Brown_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\tropic\Brown_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\tropic\Brown_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\tropic\Brown_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\tropic\Brown_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -174,8 +174,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_VisorGlasses : 34thPRC_Armour
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\tropic\Brown_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\tropic\Brown_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\tropic\Brown_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\tropic\Brown_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\tropic\Brown_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -189,8 +189,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland : 34thPRC_ArmourStandard_Ma
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\woodland\Green_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\woodland\Green_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\woodland\Green_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\woodland\Green_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\woodland\Green_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -204,8 +204,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_EyePiece : 34thPRC_ArmourSt
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\woodland\Green_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\woodland\Green_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\woodland\Green_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\woodland\Green_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\woodland\Green_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -219,8 +219,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_VisorGlasses : 34thPRC_Armo
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\woodland\Green_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\woodland\Green_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\woodland\Green_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\woodland\Green_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\woodland\Green_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -234,8 +234,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic : CH252_Helmet_Standard
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -249,8 +249,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece : CH252_Helmet_
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -264,8 +264,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses : CH252_Hel
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -279,8 +279,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic : 34thPRC_ArmourStandar
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\arctic\Medic_White_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\arctic\Medic_White_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\arctic\Medic_White_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\arctic\Medic_White_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\arctic\Medic_White_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -294,8 +294,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic_EyePiece : 34thPRC_Armo
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\arctic\Medic_White_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\arctic\Medic_White_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\arctic\Medic_White_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\arctic\Medic_White_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\arctic\Medic_White_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -309,8 +309,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic_VisorGlasses : 34thPRC_
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\arctic\Medic_White_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\arctic\Medic_White_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\arctic\Medic_White_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\arctic\Medic_White_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\arctic\Medic_White_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -324,8 +324,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic : 34thPRC_ArmourStandard_
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\arid\Medic_Tan_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\arid\Medic_Tan_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\arid\Medic_Tan_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\arid\Medic_Tan_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\arid\Medic_Tan_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -339,8 +339,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_EyePiece : 34thPRC_Armour
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\arid\Medic_Tan_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\arid\Medic_Tan_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\arid\Medic_Tan_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\arid\Medic_Tan_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\arid\Medic_Tan_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -354,8 +354,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_VisorGlasses : 34thPRC_Ar
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\arid\Medic_Tan_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\arid\Medic_Tan_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\arid\Medic_Tan_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\arid\Medic_Tan_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\arid\Medic_Tan_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -369,8 +369,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic : 34thPRC_ArmourStandar
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\tropic\Medic_Brown_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\tropic\Medic_Brown_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\tropic\Medic_Brown_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\tropic\Medic_Brown_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\tropic\Medic_Brown_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -384,8 +384,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic_EyePiece : 34thPRC_Armo
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\tropic\Medic_Brown_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\tropic\Medic_Brown_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\tropic\Medic_Brown_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\tropic\Medic_Brown_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\tropic\Medic_Brown_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -399,8 +399,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic_VisorGlasses : 34thPRC_
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\tropic\Medic_Brown_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\tropic\Medic_Brown_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\tropic\Medic_Brown_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\tropic\Medic_Brown_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\tropic\Medic_Brown_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -414,8 +414,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic : 34thPRC_ArmourStand
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\woodland\Medic_Green_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\woodland\Medic_Green_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\woodland\Medic_Green_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\woodland\Medic_Green_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\woodland\Medic_Green_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -429,8 +429,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_EyePiece : 34thPRC_Ar
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\woodland\Medic_Green_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\woodland\Medic_Green_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\woodland\Medic_Green_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\woodland\Medic_Green_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\woodland\Medic_Green_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -444,8 +444,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_VisorGlasses : 34thPR
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\woodland\Medic_Green_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\woodland\Medic_Green_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines\woodland\Medic_Green_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\woodland\Medic_Green_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\woodland\Medic_Green_TrooperHelmet.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
         "MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
