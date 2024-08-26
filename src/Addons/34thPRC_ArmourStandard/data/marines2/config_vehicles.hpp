@@ -7,6 +7,7 @@ class MA_Marine_Medium_BDU_NC; // MA_Armor
 
 class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Light: MA_Marine_Light_BDU
 {
+	scope=1;
     UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
     hiddenSelectionsTextures[]=
     {
@@ -24,6 +25,7 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Light: MA_Marine_Light_BDU
 };
 class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium: MA_Marine_Medium_BDU
 {
+	scope=1;
     UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium";
     hiddenSelectionsTextures[]=
     {
@@ -41,6 +43,7 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium: MA_Marine_Medium_BDU
 };
 class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy: MA_Marine_Heavy_BDU
 {
+	scope=1;
     UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy";
     hiddenSelectionsTextures[]=
     {
@@ -58,6 +61,7 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy: MA_Marine_Heavy_BDU
 };
 class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Light_NoCollar: MA_Marine_Light_BDU_NC
 {
+	scope=1;
     UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light_NoCollar";
     hiddenSelectionsTextures[]=
     {
@@ -75,6 +79,7 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Light_NoCollar: MA_Marine_Li
 };
 class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium_NoCollar: MA_Marine_Medium_BDU_NC
 {
+	scope=1;
     UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium_NoCollar";
     hiddenSelectionsTextures[]=
     {
@@ -92,6 +97,7 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium_NoCollar: MA_Marine_M
 };
 class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy_NoCollar: MA_Marine_Heavy_BDU_NC
 {
+	scope=1;
     UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy_NoCollar";
     hiddenSelectionsTextures[]=
     {
