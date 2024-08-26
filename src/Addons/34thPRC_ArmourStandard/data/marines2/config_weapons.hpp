@@ -454,7 +454,6 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_VisorGlasses : 34thPR
 
 
 class U_B_CombatUniform_mcam; // A3_Characters_F
-
 class MA_Marine_BDU_Light: U_B_CombatUniform_mcam // MA_Armor
 {
 	class ItemInfo;
