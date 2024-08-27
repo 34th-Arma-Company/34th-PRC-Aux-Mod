@@ -13,7 +13,9 @@ class CfgPatches
 			"OPTRE_UNSC_Units_Army", // OPTRE
 			"OPTRE_FC_Units_Marines", // OPTRE FC
 			"OPTRE_Weapons", // OPTRE
-			"Split_Weapons_Ammo" // UNSC Foundries
+			"Split_Weapons_Ammo", // UNSC Foundries
+			"Misriah_Armory_Weapons", // Misriah Armory
+			"ace_grenades" // ACE
 		};
 	};
 };
