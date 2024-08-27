@@ -8,12 +8,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Added
 - New marine armour
-- New attachment support for various UNSC Foundries weapons
+- New attachment support for various UNSC Foundries weapons (Thanks SEC for providing configs for this)
  - BR55 family
  - M392
  - MA5A Family
  - MA5B
  - SRS99RM
+- New ammo support for some weapons
+ - GRL-45: Illumination flares and HuntIR
+ - Bulldog: 8 Gauge rounds from UNSC Foundries
 
 ### Updated
 - Invisible MkVb shoulders now use hidden selection stuff instead of a bad p3d

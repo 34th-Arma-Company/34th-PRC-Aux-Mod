@@ -11,7 +11,12 @@ class CfgPatches
 			"DMNS_Vehicles_M511_Springbok", // UNSC Foundries
 			"19_UNSC_Weapons", // UNSC Foundries
 			"OPTRE_UNSC_Units_Army", // OPTRE
-			"OPTRE_FC_Units_Marines" // OPTRE FC
+			"OPTRE_FC_Units_Marines", // OPTRE FC
+			"OPTRE_Weapons", // OPTRE
+			"Split_Weapons_Ammo", // UNSC Foundries
+			"Misriah_Armory_Weapons", // Misriah Armory
+			"ace_grenades", // ACE
+			"ace_huntir" // ACE
 		};
 	};
 };
@@ -22,4 +27,8 @@ class CfgVehicles
 class CfgWeapons
 {
 	#include "data\config_weapons.hpp"
+};
+class CfgMagazines
+{
+	#include "data\config_magazines.hpp"
 };
