@@ -30,3 +30,10 @@ class 34thPRC_Overrides_Weapons_Grl45_Flare_IR: GRL45_6rnd_Flare_CIR
 	descriptionShort="6 Round IR Illumination Flares";
 	ammo = "ACE_40mm_Flare_ir"; // ace_grenades
 };
+class 34thPRC_Overrides_Weapons_Grl45_HuntIR: GRL45_6rnd_Flare_White
+{
+	displayName="[34th] 6Rnd HuntIR";
+	displayNameShort=" HuntIR"
+	descriptionShort="6 Round HuntIR";
+	ammo = "F_HuntIR"; // ace_huntir
+};
