@@ -22,3 +22,11 @@ class 34thPRC_Overrides_Weapons_Grl45_Flare_Green: GRL45_6rnd_Flare_Green
 	descriptionShort="6 Round Green Illumination Flares";
 	ammo = "ACE_40mm_Flare_green"; // ace_grenades
 };
+class GRL45_6rnd_Flare_CIR; // Misriah_Armory_Weapons
+class 34thPRC_Overrides_Weapons_Grl45_Flare_IR: GRL45_6rnd_Flare_CIR
+{
+	displayName="[34th] 6Rnd IR Illumination Flares";
+	displayNameShort="IR Flare"
+	descriptionShort="6 Round IR Illumination Flares";
+	ammo = "ACE_40mm_Flare_ir"; // ace_grenades
+};
