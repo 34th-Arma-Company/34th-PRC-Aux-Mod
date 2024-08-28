@@ -47,6 +47,8 @@ class 19_UNSC_MA5A_gl: arifle_19_UNSC_MA5A_gl_Base_F // 19_UNSC_Weapons
 		{
 			compatibleitems[]+=
 			{
+				"41st_Bayonet2",
+				"145_Inches_Barrel_Bayonet",
 				"muzzle_snds_b",
 				"muzzle_snds_h_mg_blk_f",
 				"ace_muzzle_mzls_b",
