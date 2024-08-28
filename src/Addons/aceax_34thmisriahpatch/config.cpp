@@ -186,7 +186,7 @@ class XtdGearInfos
 		class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy
 		{
 			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
-			variant = "light";
+			variant = "heavy";
 			camo = "urban";
 			collar = "up";
 		};
@@ -207,7 +207,7 @@ class XtdGearInfos
 		class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy_NoCollar
 		{
 			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
-			variant = "light";
+			variant = "heavy";
 			camo = "urban";
 			collar = "down";
 		};
@@ -228,7 +228,7 @@ class XtdGearInfos
 		class 34thPRC_ArmourStandard_Marines2_Uniform_Arctic_Heavy
 		{
 			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
-			variant = "light";
+			variant = "heavy";
 			camo = "arctic";
 			collar = "up";
 		};
@@ -249,7 +249,7 @@ class XtdGearInfos
 		class 34thPRC_ArmourStandard_Marines2_Uniform_Arctic_Heavy_NoCollar
 		{
 			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
-			variant = "light";
+			variant = "heavy";
 			camo = "arctic";
 			collar = "down";
 		};
@@ -270,7 +270,7 @@ class XtdGearInfos
 		class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Heavy
 		{
 			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
-			variant = "light";
+			variant = "heavy";
 			camo = "arid";
 			collar = "up";
 		};
@@ -291,7 +291,7 @@ class XtdGearInfos
 		class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Heavy_NoCollar
 		{
 			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
-			variant = "light";
+			variant = "heavy";
 			camo = "arid";
 			collar = "down";
 		};
@@ -312,7 +312,7 @@ class XtdGearInfos
 		class 34thPRC_ArmourStandard_Marines2_Uniform_Tropic_Heavy
 		{
 			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
-			variant = "light";
+			variant = "heavy";
 			camo = "tropic";
 			collar = "up";
 		};
@@ -333,7 +333,7 @@ class XtdGearInfos
 		class 34thPRC_ArmourStandard_Marines2_Uniform_Tropic_Heavy_NoCollar
 		{
 			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
-			variant = "light";
+			variant = "heavy";
 			camo = "tropic";
 			collar = "down";
 		};
@@ -354,7 +354,7 @@ class XtdGearInfos
 		class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Heavy
 		{
 			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
-			variant = "light";
+			variant = "heavy";
 			camo = "woodland";
 			collar = "up";
 		};
@@ -375,7 +375,7 @@ class XtdGearInfos
 		class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Heavy_NoCollar
 		{
 			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
-			variant = "light";
+			variant = "heavy";
 			camo = "woodland";
 			collar = "down";
 		};
@@ -445,32 +445,32 @@ class XtdGearInfos
 		// MA ODST Uniforms
 		class 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed
 		{
-			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
+			model = "34thPRC_ArmourStandard_ODST_Uniform_UrbanRed";
 			camo = "urbanRed";
 		};
 		class 34thPRC_ArmourStandard_ODST_Uniform_UrbanBlue
 		{
-			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
+			model = "34thPRC_ArmourStandard_ODST_Uniform_UrbanRed";
 			camo = "urbanBlue";
 		};
 		class 34thPRC_ArmourStandard_ODST_Uniform_Arctic
 		{
-			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
+			model = "34thPRC_ArmourStandard_ODST_Uniform_UrbanRed";
 			camo = "arctic";
 		};
 		class 34thPRC_ArmourStandard_ODST_Uniform_Arid
 		{
-			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
+			model = "34thPRC_ArmourStandard_ODST_Uniform_UrbanRed";
 			camo = "arid";
 		};
 		class 34thPRC_ArmourStandard_ODST_Uniform_Tropic
 		{
-			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
+			model = "34thPRC_ArmourStandard_ODST_Uniform_UrbanRed";
 			camo = "tropic";
 		};
 		class 34thPRC_ArmourStandard_ODST_Uniform_Woodland
 		{
-			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
+			model = "34thPRC_ArmourStandard_ODST_Uniform_UrbanRed";
 			camo = "woodland";
 		};
 	};
