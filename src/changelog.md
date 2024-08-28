@@ -15,7 +15,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - MA5B
  - SRS99RM
  - M7
-- New attachment support for the MA2B (Thanks SEC for the config for this)
+- New attachment support for various Misriah Armoury weapons
+ - MA2B (Thanks SEC for the config for this)
+ - Sidekick
 - New ammo support for some weapons
  - GRL-45: Illumination flares and HuntIR
  - Bulldog: 8 Gauge rounds from UNSC Foundries
