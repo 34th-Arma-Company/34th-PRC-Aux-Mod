@@ -16,7 +16,8 @@ class CfgPatches
 			"Split_Weapons_Ammo", // UNSC Foundries
 			"Misriah_Armory_Weapons", // Misriah Armory
 			"ace_grenades", // ACE
-			"ace_huntir" // ACE
+			"ace_huntir", // ACE
+			"OPTRE_Weapons_Shotgun" // OPTRE
 		};
 	};
 };
