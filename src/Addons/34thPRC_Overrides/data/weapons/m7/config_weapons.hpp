@@ -77,4 +77,4 @@ class 34thPRC_Overrides_Weapons_M7_Flashlight : 19_UNSC_M7_LAM
 
 		};
 	};
-}
+};
