@@ -25,6 +25,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Updated
 - Invisible MkVb shoulders now use hidden selection stuff instead of a bad p3d
 - SEC Guest Pack: Less protection
+- Marked old marine uniforms/helmets/backpacks with `[34th old]` tag
 
 ## 0.10.0
 ### Added
