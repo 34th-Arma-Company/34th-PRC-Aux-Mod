@@ -38,9 +38,43 @@ class 19_UNSC_M7: arifle_19_UNSC_m7_Base_F // 19_UNSC_Weapons
 	};
 };
 
-class OPTRE_M45_Flashlight; // OPTRE_Weapons_Shotgun
-class 34thPRC_Overrides_Weapons_M7_Flashlight : OPTRE_M45_Flashlight
+class 19_UNSC_M7_LAM; // 19_UNSC_Weapons
+class InventoryFlashLightItem_Base_F; // Vanilla?
+class 34thPRC_Overrides_Weapons_M7_Flashlight : 19_UNSC_M7_LAM
 {
 	displayName = "[34th] M7 Flashlight";
-	model = "\UNSC_F_Weapons\weapons\AR_data\attachments\MA5A_LAM.p3d"; // 19_UNSC_Weapons
+	class ItemInfo: InventoryFlashLightItem_Base_F // Mostly copied from OPTRE's M45 flashlight
+	{
+		mass=1;
+		class FlashLight
+		{
+			color[]={180,160,130};
+			ambient[]={0.89999998,0.80000001,0.69999999};
+			intensity=100;
+			size=1;
+			innerAngle=5;
+			outerAngle=100;
+			coneFadeCoef=10;
+			position="laser";
+			direction="laser_dir";
+			useFlare=1;
+			flareSize=1.5;
+			flareMaxDistance=100;
+			dayLight=0;
+			class Attenuation
+			{
+				start=0;
+				constant=0.5;
+				linear=0.1;
+				quadratic=0.2;
+				hardLimitStart=27;
+				hardLimitEnd=34;
+			};
+			scale[]={0};
+		};
+		class Pointer
+		{
+
+		};
+	};
 }
