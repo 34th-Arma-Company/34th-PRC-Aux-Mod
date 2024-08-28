@@ -12,7 +12,9 @@ class MA_MA2B_AR: MA_Rifle_Base // Misriah_Armory_Weapons
 				"ace_muzzle_mzls_b",
 				"optre_ma5suppressor",
 				"optre_m6_silencer",
-				"OPTRE_M7_Silencer"
+				"OPTRE_M7_Silencer",
+				"41st_Bayonet2",
+				"145_Inches_Barrel_Bayonet"
 			};
 		};
 		class CowsSlot: CowsSlot
