@@ -15,17 +15,20 @@ class 19_UNSC_M7: arifle_19_UNSC_m7_Base_F // 19_UNSC_Weapons
 		{
 			compatibleitems[]+=
 			{
-			"19_UNSC_evo",
-			"OPTRE_M12_Optic",
-			"OPTRE_M12_Optic_Red",
-			"OPTRE_M12_Optic_Green",
-			"OPTRE_M6C_Scope",
-			"Optre_Recon_Sight",
-			"Optre_Recon_Sight_Red",
-			"Optre_Recon_Sight_Green",
-			"Optre_Recon_Sight_Desert",
-			"Optre_Recon_Sight_UNSC",
-			"Optre_Recon_Sight_Snow"
+				"19_UNSC_evo",
+				"OPTRE_M12_Optic",
+				"OPTRE_M12_Optic_Red",
+				"OPTRE_M12_Optic_Green",
+				"OPTRE_M6C_Scope",
+				"Optre_Recon_Sight",
+				"Optre_Recon_Sight_Red",
+				"Optre_Recon_Sight_Green",
+				"Optre_Recon_Sight_Desert",
+				"Optre_Recon_Sight_UNSC",
+				"Optre_Recon_Sight_Snow",
+				"TCF_REC_holo",
+				"TCF_REC_holo_Gre",
+				"TCF_REC_holo_Red"
 			};
 		};
 		class PointerSlot: PointerSlot
