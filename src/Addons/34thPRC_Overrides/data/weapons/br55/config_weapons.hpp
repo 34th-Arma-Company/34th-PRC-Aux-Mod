@@ -74,7 +74,7 @@ class 19_UNSC_br55_gl: arifle_19_UNSC_br55_gl_Base_F // 19_UNSC_Weapons
 };
 class 19_UNSC_br55: 19_UNSC_br55_gl // 19_UNSC_Weapons
 {
-	class WeaponSlotsInfo
+	class WeaponSlotsInfo: WeaponSlotsInfo
 	{
 		class MuzzleSlot: MuzzleSlot
 		{
