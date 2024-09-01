@@ -1,5 +1,3 @@
-#define _ARMA_
-
 class CfgPatches
 {
 	class 34thPRC_AceArsenalExtended
