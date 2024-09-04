@@ -7,7 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 ### Added
-- Ace Arsenal Extended support for Marine and ODST helmets, uniforms, and vests.
+- Ace Arsenal Extended support for various items
+ - Marine and ODST helmets
+ - Marine and ODST uniforms
+ - ODST vests
+ - ODST backpacks
 
 ### Updated
 - Fix a bug with the BR55 not showing it's muzzle attachments

@@ -1,5 +1,3 @@
-#define _ARMA_
-
 class CfgPatches
 {
 	class 34thPRC_AceArsenalExtended
@@ -7,8 +5,10 @@ class CfgPatches
 		author = "34th PRC Modding Team, J.Koko";
 		units[] = {};
 		requiredAddons[] = {
-			"34thPRC_ArmourStandard" // 34th PRC Aux Mod
+			"34thPRC_ArmourStandard", // 34th PRC Aux Mod
+			"aceax_gearinfo" // Ace Arsenal Extended
 		};
+		skipWhenMissingDependencies = 1;
 	};
 };
 
@@ -275,6 +275,138 @@ class XtdGearModels
 				class maroon
 				{
 					label = "Maroon";
+				};
+			};
+		};
+	};
+
+	class cfgVehicles
+	{
+		class 34thPRC_ArmourStandard_ODST_M56S_Urban
+		{
+			label = "[34thPRC] M56S ODST Rucksack";
+			author = "34th PRC Modding Team";
+			options[] = {"camo"};
+			class camo
+			{
+				alwaysSelectable = 1;
+				changeingame = 0;
+				values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
+				class urban
+				{
+					label = "Urban";
+				};
+				class arctic
+				{
+					label = "Arctic";
+				};
+				class arid
+				{
+					label = "Arid";
+				};
+				class tropic
+				{
+					label = "Tropic";
+				};
+				class woodland
+				{
+					label = "Woodland";
+				};
+			};
+		};
+		class 34thPRC_ArmourStandard_ODST_M56S_Urban_Guncase
+		{
+			label = "[34thPRC] M56S ODST Guncase";
+			author = "34th PRC Modding Team";
+			options[] = {"camo"};
+			class camo
+			{
+				alwaysSelectable = 1;
+				changeingame = 0;
+				values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
+				class urban
+				{
+					label = "Urban";
+				};
+				class arctic
+				{
+					label = "Arctic";
+				};
+				class arid
+				{
+					label = "Arid";
+				};
+				class tropic
+				{
+					label = "Tropic";
+				};
+				class woodland
+				{
+					label = "Woodland";
+				};
+			};
+		};
+		class 34thPRC_ArmourStandard_ODST_M56S_Urban_Medic
+		{
+			label = "[34thPRC] M56S ODST Medic Rucksack";
+			author = "34th PRC Modding Team";
+			options[] = {"camo"};
+			class camo
+			{
+				alwaysSelectable = 1;
+				changeingame = 0;
+				values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
+				class urban
+				{
+					label = "Urban";
+				};
+				class arctic
+				{
+					label = "Arctic";
+				};
+				class arid
+				{
+					label = "Arid";
+				};
+				class tropic
+				{
+					label = "Tropic";
+				};
+				class woodland
+				{
+					label = "Woodland";
+				};
+			};
+		};
+		class 34thPRC_ArmourStandard_ODST_M56S_Urban_Radio
+		{
+			label = "[34thPRC] M56S ODST Radio Rucksack";
+			author = "34th PRC Modding Team";
+			options[] = {"camo"};
+			class camo
+			{
+				alwaysSelectable = 1;
+				changeingame = 0;
+				values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
+				class urban
+				{
+					label = "Urban";
+				};
+				class arctic
+				{
+					label = "Arctic";
+				};
+				class arid
+				{
+					label = "Arid";
+				};
+				class tropic
+				{
+					label = "Tropic";
+				};
+				class woodland
+				{
+					label = "Woodland";
 				};
 			};
 		};
@@ -862,6 +994,110 @@ class XtdGearInfos
 			model = "34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor";
 			camo = "woodland";
 			visor = "maroon";
+		};
+	};
+
+	class cfgVehicles
+	{
+		class 34thPRC_ArmourStandard_ODST_M56S_Urban
+		{
+			model = "34thPRC_ArmourStandard_ODST_M56S_Urban";
+			camo = "urban";
+		};
+		class 34thPRC_ArmourStandard_ODST_M56S_Arctic
+		{
+			model = "34thPRC_ArmourStandard_ODST_M56S_Urban";
+			camo = "arctic";
+		};
+		class 34thPRC_ArmourStandard_ODST_M56S_Arid
+		{
+			model = "34thPRC_ArmourStandard_ODST_M56S_Urban";
+			camo = "arid";
+		};
+		class 34thPRC_ArmourStandard_ODST_M56S_Tropic
+		{
+			model = "34thPRC_ArmourStandard_ODST_M56S_Urban";
+			camo = "tropic";
+		};
+		class 34thPRC_ArmourStandard_ODST_M56S_Woodland
+		{
+			model = "34thPRC_ArmourStandard_ODST_M56S_Urban";
+			camo = "woodland";
+		};
+		class 34thPRC_ArmourStandard_ODST_M56S_Urban_Guncase
+		{
+			model = "34thPRC_ArmourStandard_ODST_M56S_Urban_Guncase";
+			camo = "urban";
+		};
+		class 34thPRC_ArmourStandard_ODST_M56S_Arctic_Guncase
+		{
+			model = "34thPRC_ArmourStandard_ODST_M56S_Urban_Guncase";
+			camo = "arctic";
+		};
+		class 34thPRC_ArmourStandard_ODST_M56S_Arid_Guncase
+		{
+			model = "34thPRC_ArmourStandard_ODST_M56S_Urban_Guncase";
+			camo = "arid";
+		};
+		class 34thPRC_ArmourStandard_ODST_M56S_Tropic_Guncase
+		{
+			model = "34thPRC_ArmourStandard_ODST_M56S_Urban_Guncase";
+			camo = "tropic";
+		};
+		class 34thPRC_ArmourStandard_ODST_M56S_Woodland_Guncase
+		{
+			model = "34thPRC_ArmourStandard_ODST_M56S_Urban_Guncase";
+			camo = "woodland";
+		};
+		class 34thPRC_ArmourStandard_ODST_M56S_Urban_Medic
+		{
+			model = "34thPRC_ArmourStandard_ODST_M56S_Urban_Medic";
+			camo = "urban";
+		};
+		class 34thPRC_ArmourStandard_ODST_M56S_Arctic_Medic
+		{
+			model = "34thPRC_ArmourStandard_ODST_M56S_Urban_Medic";
+			camo = "arctic";
+		};
+		class 34thPRC_ArmourStandard_ODST_M56S_Arid_Medic
+		{
+			model = "34thPRC_ArmourStandard_ODST_M56S_Urban_Medic";
+			camo = "arid";
+		};
+		class 34thPRC_ArmourStandard_ODST_M56S_tropic_Medic
+		{
+			model = "34thPRC_ArmourStandard_ODST_M56S_Urban_Medic";
+			camo = "tropic";
+		};
+		class 34thPRC_ArmourStandard_ODST_M56S_Woodland_Medic
+		{
+			model = "34thPRC_ArmourStandard_ODST_M56S_Urban_Medic";
+			camo = "woodland";
+		};
+		class 34thPRC_ArmourStandard_ODST_M56S_Urban_Radio
+		{
+			model = "34thPRC_ArmourStandard_ODST_M56S_Urban_Radio";
+			camo = "urban";
+		};
+		class 34thPRC_ArmourStandard_ODST_M56S_Arctic_Radio
+		{
+			model = "34thPRC_ArmourStandard_ODST_M56S_Urban_Radio";
+			camo = "arctic";
+		};
+		class 34thPRC_ArmourStandard_ODST_M56S_Arid_Radio
+		{
+			model = "34thPRC_ArmourStandard_ODST_M56S_Urban_Radio";
+			camo = "arid";
+		};
+		class 34thPRC_ArmourStandard_ODST_M56S_Tropic_Radio
+		{
+			model = "34thPRC_ArmourStandard_ODST_M56S_Urban_Radio";
+			camo = "tropic";
+		};
+		class 34thPRC_ArmourStandard_ODST_M56S_Woodland_Radio
+		{
+			model = "34thPRC_ArmourStandard_ODST_M56S_Urban_Radio";
+			camo = "woodland";
 		};
 	};
 };
