@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Ace Arsenal Extended support for Marine and ODST helmets, uniforms, and vests.
 
+### Updated
+- Fix a bug with the BR55 not showing it's muzzle attachments
+
 ### Removed
 - Old AAX startup error message patch
 
