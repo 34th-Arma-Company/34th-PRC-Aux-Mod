@@ -10,8 +10,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Urban blue marine uniforms
 
 ### Updated
-- Renamed existing marine urban uniform to urban red
-- Rename ODST uniforms in AAX to Urban Red and Urban Blue intsead of Red and Blue
+- Changed existing marine urban uniform's display name to mention urban red
+- Rename ODST uniforms in AAX to Urban Red and Urban Blue instead of Red and Blue
 
 ## 0.12.0
 ### Added
