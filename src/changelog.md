@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+### Added
+- Urban blue marine uniforms
+
+### Updated
+- Changed existing marine urban uniform's display name to mention urban red
+- Rename ODST uniforms in AAX to Urban Red and Urban Blue instead of Red and Blue
 
 ## 0.12.0
 ### Added

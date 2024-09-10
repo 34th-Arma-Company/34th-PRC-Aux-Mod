@@ -44,10 +44,14 @@ class XtdGearModels
 			{
 				alwaysSelectable = 1;
 				changeingame = 0;
-				values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
-				class urban
+				values[] = {"urbanRed", "urbanBlue", "arctic", "arid", "tropic", "woodland"};
+				class urbanRed
 				{
-					label = "Urban";
+					label = "Urban Red";
+				};
+				class urbanBlue
+				{
+					label = "Urban Blue";
 				};
 				class arctic
 				{
@@ -140,11 +144,11 @@ class XtdGearModels
 				values[] = {"urbanRed", "urbanBlue", "arctic", "arid", "tropic", "woodland"};
 				class urbanRed
 				{
-					label = "Red";
+					label = "Urban Red";
 				};
 				class urbanBlue
 				{
-					label = "Blue";
+					label = "Urban Blue";
 				};
 				class arctic
 				{
@@ -421,42 +425,83 @@ class XtdGearInfos
 		{
 			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 			variant = "light";
-			camo = "urban";
+			camo = "urbanRed";
 			collar = "up";
 		};
 		class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium
 		{
 			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 			variant = "medium";
-			camo = "urban";
+			camo = "urbanRed";
 			collar = "up";
 		};
 		class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy
 		{
 			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 			variant = "heavy";
-			camo = "urban";
+			camo = "urbanRed";
 			collar = "up";
 		};
 		class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light_NoCollar
 		{
 			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 			variant = "light";
-			camo = "urban";
+			camo = "urbanRed";
 			collar = "down";
 		};
 		class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium_NoCollar
 		{
 			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 			variant = "medium";
-			camo = "urban";
+			camo = "urbanRed";
 			collar = "down";
 		};
 		class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy_NoCollar
 		{
 			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 			variant = "heavy";
-			camo = "urban";
+			camo = "urbanRed";
+			collar = "down";
+		};class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Light
+		{
+			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+			variant = "light";
+			camo = "urbanBlue";
+			collar = "up";
+		};
+		class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Medium
+		{
+			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+			variant = "medium";
+			camo = "urbanBlue";
+			collar = "up";
+		};
+		class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Heavy
+		{
+			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+			variant = "heavy";
+			camo = "urbanBlue";
+			collar = "up";
+		};
+		class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Light_NoCollar
+		{
+			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+			variant = "light";
+			camo = "urbanBlue";
+			collar = "down";
+		};
+		class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Medium_NoCollar
+		{
+			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+			variant = "medium";
+			camo = "urbanBlue";
+			collar = "down";
+		};
+		class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Heavy_NoCollar
+		{
+			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+			variant = "heavy";
+			camo = "urbanBlue";
 			collar = "down";
 		};
 		class 34thPRC_ArmourStandard_Marines2_Uniform_Arctic_Light
