@@ -144,11 +144,11 @@ class XtdGearModels
 				values[] = {"urbanRed", "urbanBlue", "arctic", "arid", "tropic", "woodland"};
 				class urbanRed
 				{
-					label = "Red";
+					label = "Urban Red";
 				};
 				class urbanBlue
 				{
-					label = "Blue";
+					label = "Urban Blue";
 				};
 				class arctic
 				{
