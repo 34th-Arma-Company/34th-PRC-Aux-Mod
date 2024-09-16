@@ -51,9 +51,7 @@ try {
 		$folderName = $folder.Name
 		$pboName = $folderName+".pbo"
 		Write-Output ("Building "+$pboName)
-		#& "$command" "-pack" (".\src\Addons\"+$folderName) (".\build\Addons\"+$pboName) | out-null
-		#Invoke-Expression "$($command)" # "-pack" (".\src\Addons\"+$folderName) (".\build\Addons\"+$pboName) -NoNewScope # -ErrorVariable errorLog
-		Start-Process "$($command)" "-pack", (".\src\Addons\"+$folderName), (".\build\Addons\"+$pboName) -NoNewWindow -Wait # -ErrorVariable errorLog
+		Start-Process "$($command)" "-pack", (".\src\Addons\"+$folderName), (".\build\Addons\"+$pboName) -NoNewWindow -Wait
 		if(-not (Test-Path (".\build\Addons\"+$pboName))){
 			throw ("Failed to pack ``.\build\Addons\"+$pboName+"``\n"+$error)
 		}
