@@ -52,9 +52,6 @@ try {
 		$pboName = $folderName+".pbo"
 		Write-Output ("Building "+$pboName)
 		Start-Process "$($command)" "-pack", (".\src\Addons\"+$folderName), (".\build\Addons\"+$pboName) -NoNewWindow -Wait
-		if(-not (Test-Path (".\build\Addons\"+$pboName))){
-			throw ("Failed to pack ``.\build\Addons\"+$pboName+"``\n"+$error)
-		}
 	}
 
 	$jobs = @()
@@ -79,6 +76,14 @@ try {
 			Write-Error ($job.ChildJobs[0].JobStateInfo.Error.Description)
 		} else {
 			Write-Output (Receive-Job $job)
+		}
+	}
+
+	foreach($folder in $foldersToPack){
+		$folderName = $folder.Name
+		$pboName = $folderName+".pbo"
+		if(-not (Test-Path (".\build\Addons\"+$pboName))){
+			throw ("Failed to pack ``.\build\Addons\"+$pboName+"``\n"+$error)
 		}
 	}
 
