@@ -53,7 +53,6 @@ try {
 			Set-Location "C:\MyStuff\Projects\Arma 3 Modding\mods\34th PRC Aux Mod"
 			$folderName = $folder.Name
 			$pboName = $folderName+".pbo"
-			Write-Output ("Building "+$pboName)
 			Start-Process "$($command)" "-pack", (".\src\Addons\"+$folderName), (".\build\Addons\"+$pboName) -NoNewWindow -Wait
 		}
 
