@@ -43,15 +43,48 @@ try {
 	New-Item -Path ".\build\Addons\Keys" -Force -ItemType "directory" -ErrorAction Stop | out-null
 
 	$foldersToPack = Get-ChildItem ".\src\Addons" | Where-Object {$_.Name -ne "Keys"}
-	foreach ($folder in $foldersToPack) {
+
+	$buildPboCodeBlock = {
+		Param($folder, $command)
+
+		Set-Location "C:\MyStuff\Projects\Arma 3 Modding\mods\34th PRC Aux Mod"
 		$folderName = $folder.Name
 		$pboName = $folderName+".pbo"
 		Write-Output ("Building "+$pboName)
-		& "$($config.pboPackCommand)" "-pack" (".\src\Addons\"+$folderName) (".\build\Addons\"+$pboName) | out-null
+		#& "$command" "-pack" (".\src\Addons\"+$folderName) (".\build\Addons\"+$pboName) | out-null
+		#Invoke-Expression "$($command)" # "-pack" (".\src\Addons\"+$folderName) (".\build\Addons\"+$pboName) -NoNewScope # -ErrorVariable errorLog
+		Start-Process "$($command)" "-pack", (".\src\Addons\"+$folderName), (".\build\Addons\"+$pboName) -NoNewWindow -Wait # -ErrorVariable errorLog
 		if(-not (Test-Path (".\build\Addons\"+$pboName))){
-			throw ("Failed to pack ``"+".\build\Addons\"+$pboName+"``")
+			#throw ("Failed to pack ``.\build\Addons\"+$pboName+"``\n"+$error)
 		}
 	}
+
+	$jobs = @()
+	$command = $config.pboPackCommand
+	Write-Output $command
+
+	foreach($folder in $foldersToPack){
+		$running = @(Get-Job | Where-Object { $_.State -eq 'Running' })
+		if ($running.Count -ge 1) {
+			$running | Wait-Job -Any | Out-Null
+		}
+		Write-Output ("Starting background build for "+$folder.Name+".pbo")
+		$jobs += Start-Job -Scriptblock $buildPboCodeBlock -ArgumentList $folder, $command
+	}
+
+	Write-Output "Waiting for background builds to finish"
+	Wait-Job $jobs | Out-Null
+
+	foreach($job in $jobs)
+	{
+		if ($job.State -eq 'Failed') {
+			Write-Error ($job.ChildJobs[0].JobStateInfo.Error.Description)
+		} else {
+			Write-Output (Receive-Job $job)
+		}
+	}
+
+	Remove-Job $jobs
 
 	Write-Output "Build complete"
 	if($SkipPause -eq $false) {
