@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## 0.14.0
+### Added
+- UNSC Foundries styled gunbag for marines.
+
+## 0.13.0
+### Added
+- Urban blue marine uniforms
+
+### Updated
+- Changed existing marine urban uniform's display name to mention urban red
+- Rename ODST uniforms in AAX to Urban Red and Urban Blue instead of Red and Blue
+
 ## 0.12.0
 ### Added
 - Ace Arsenal Extended support for various items
