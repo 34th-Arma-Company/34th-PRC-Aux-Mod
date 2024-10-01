@@ -9,7 +9,7 @@ class CfgPatches
 		};
 		requiredAddons[] =
 		{
-			"34thPRC_Faction", // 34th PRC Aux Mod
+			"34thPRC_FactionBrimstone", // 34th PRC Aux Mod
 			"DMNS_Vehicles_M808B", // UNSC Foundries
 		};
 	};
