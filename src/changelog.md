@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 ### Added
-- Scorpion
+- Scorpion (preview for health/armour changes, no textures yet due to bugs)
 
 ## 0.14.0
 ### Added
