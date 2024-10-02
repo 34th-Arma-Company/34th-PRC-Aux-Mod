@@ -159,26 +159,26 @@ class 34thPRC_Vehicles_Scorpion : DMNS_M808B_F
 }
 class 34thPRC_Vehicles_Scorpion_1 : 34thPRC_Vehicles_Scorpion
 {
-	displayName="[34th] 900 M808B Scorpion MBT";
+	displayName="[34th-test] 900 M808B Scorpion MBT";
 	armor=900;
 }
 class 34thPRC_Vehicles_Scorpion_2 : 34thPRC_Vehicles_Scorpion
 {
-	displayName="[34th] 950 M808B Scorpion MBT";
+	displayName="[34th-test] 950 M808B Scorpion MBT";
 	armor=950;
 }
 class 34thPRC_Vehicles_Scorpion_3 : 34thPRC_Vehicles_Scorpion
 {
-	displayName="[34th] 1000 M808B Scorpion MBT";
+	displayName="[34th-test] 1000 M808B Scorpion MBT";
 	armor=1000;
 }
 class 34thPRC_Vehicles_Scorpion_4 : 34thPRC_Vehicles_Scorpion
 {
-	displayName="[34th] 1100 M808B Scorpion MBT";
+	displayName="[34th-test] 1100 M808B Scorpion MBT";
 	armor=1100;
 }
 class 34thPRC_Vehicles_Scorpion_5 : 34thPRC_Vehicles_Scorpion
 {
-	displayName="[34th] 1200 M808B Scorpion MBT";
+	displayName="[34th-test] 1200 M808B Scorpion MBT";
 	armor=1200;
 }
