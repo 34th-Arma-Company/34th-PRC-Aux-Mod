@@ -48,9 +48,9 @@ try {
 	if($config.parallelise){
 
 		$buildPboCodeBlock = {
-			Param($folder, $command)
+			Param($workingDirectory, $folder, $command)
 
-			Set-Location "C:\MyStuff\Projects\Arma 3 Modding\mods\34th PRC Aux Mod"
+			Set-Location $workingDirectory
 			$folderName = $folder.Name
 			$pboName = $folderName+".pbo"
 			Start-Process "$($command)" "-pack", (".\src\Addons\"+$folderName), (".\build\Addons\"+$pboName) -NoNewWindow -Wait
@@ -58,6 +58,7 @@ try {
 
 		$jobs = @()
 		$command = $config.pboPackCommand
+		$workingDirectory = Get-Location
 
 		foreach($folder in $foldersToPack){
 			$running = @(Get-Job | Where-Object { $_.State -eq 'Running' })
@@ -65,7 +66,7 @@ try {
 				$running | Wait-Job -Any | Out-Null
 			}
 			Write-Output ("Starting background build for "+$folder.Name+".pbo")
-			$jobs += Start-Job -Scriptblock $buildPboCodeBlock -ArgumentList $folder, $command
+			$jobs += Start-Job -Scriptblock $buildPboCodeBlock -ArgumentList $workingDirectory, $folder, $command
 		}
 
 		Write-Output "Waiting for background builds to finish"
