@@ -70,15 +70,95 @@ class 34thPRC_ArmourStandard_MkVB_Grenadier_Helmet : MA_Mjolnir_Grenadier_Helmet
     };
 };
 
-class MA_Mjolnir_GUNGNIR_Helmet; // MA_Armor
-class 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet : MA_Mjolnir_GUNGNIR_Helmet
+class MA_Mjolnir_Gungnir_Helmet; // MA_Armor
+class 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet : MA_Mjolnir_Gungnir_Helmet
 {
     displayName="[34th] Mjolnir MkV[B] Gungnir Helmet";
     author= "Vazya";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_ArmourStandard\data\mkvb\Gungnir\Helmet\34_Grenadier_Helmet.paa",
+        "34thPRC_ArmourStandard\data\mkvb\Gungnir\Helmet\34_Gungnir_Helmet.paa",
     };
+};
+
+class 34thPRC_ArmourStandard_Gungnir_Helmet_ArcticLight : 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet
+{
+     displayName="[34th] Gungnir Arctic Light";
+     author= "Raine";
+     hiddenSelectionsTextures[]=
+     {
+         "34thPRC_ArmourStandard\data\mkvb\Gungnir\Helmet\34_Gungnir_Arctic_Light_co.paa"
+	};
+};
+
+class 34thPRC_ArmourStandard_Gungnir_Helmet_ArcticDark : 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet
+{
+     displayName="[34th] Gungnir Arctic Dark";
+     author= "Raine";
+     hiddenSelectionsTextures[]=
+     {
+         "34thPRC_ArmourStandard\data\mkvb\Gungnir\Helmet\34_Gungnir_Arctic_Dark_co.paa"
+	};
+};
+
+class 34thPRC_ArmourStandard_Gungnir_Helmet_AridDark : 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet
+{
+     displayName="[34th] Gungnir Arid Dark";
+     author= "Raine";
+     hiddenSelectionsTextures[]=
+     {
+         "34thPRC_ArmourStandard\data\mkvb\Gungnir\Helmet\34_Gungnir_Arid_Dark_co.paa"
+	};
+};
+
+class 34thPRC_ArmourStandard_Gungnir_Helmet_AridLight : 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet
+{
+     displayName="[34th] Gungnir Arid Light";
+     author= "Raine";
+     hiddenSelectionsTextures[]=
+     {
+         "34thPRC_ArmourStandard\data\mkvb\Gungnir\Helmet\34_Gungnir_Arid_Light_co.paa"
+	};
+};
+
+class 34thPRC_ArmourStandard_Gungnir_Helmet_WoodlandDark : 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet
+{
+     displayName="[34th] Gungnir Woodland Dark";
+     author= "Raine";
+     hiddenSelectionsTextures[]=
+     {
+         "34thPRC_ArmourStandard\data\mkvb\Gungnir\Helmet\34_Gungnir_Woodland_Dark_co.paa"
+	};
+};
+
+class 34thPRC_ArmourStandard_Gungnir_Helmet_WoodlandLight : 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet
+{
+     displayName="[34th] Gungnir Woodland Light";
+     author= "Raine";
+     hiddenSelectionsTextures[]=
+     {
+         "34thPRC_ArmourStandard\data\mkvb\Gungnir\Helmet\34_Gungnir_Woodland_Light_co.paa"
+	};
+};
+
+class 34thPRC_ArmourStandard_Gungnir_Helmet_Tropic : 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet
+{
+     displayName="[34th] Gungnir Tropic";
+     author= "Raine";
+     hiddenSelectionsTextures[]=
+     {
+         "34thPRC_ArmourStandard\data\mkvb\Gungnir\Helmet\34_Gungnir_Tropic_co.paa"
+	};
+};
+
+class 34thPRC_ArmourStandard_Gungnir_Helmet_Urban : 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet
+{
+     displayName="[34th] Gungnir Urban";
+     author= "Raine";
+     hiddenSelectionsTextures[]=
+     {
+		"34thPRC_ArmourStandard\data\mkvb\Gungnir\Helmet\34_Gungnir_Urban_co.paa"
+	};
 };
 
 class MA_Mjolnir_JFO_Helmet; // MA_Armor
@@ -88,7 +168,7 @@ class 34thPRC_ArmourStandard_MkVB_JFO_Helmet : MA_Mjolnir_JFO_Helmet
     author= "Vazya";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_ArmourStandard\data\mkvb\Gungnir\Helmet\34_JFO_Helmet.paa",
+        "34thPRC_ArmourStandard\data\mkvb\JFO\Helmet\34_JFO_Helmet.paa",
         "34thPRC_ArmourStandard\data\mkvb\JFO\Visor\34_JFO_Helmet_Visor_Gold.paa"
     };
 };
@@ -193,16 +273,12 @@ class MA_MKVB_Armor; // MA_Armor
 class 34thPRC_ArmourStandard_MkVB_Armor: MA_MKVB_Armor
 {
     displayName="[34th] Mjolnir MKV[B] Armor";
-    author= "Vazya"
+    author= "Vazya";
 	hiddenSelectionsTextures[]=
     {
 		"34thPRC_ArmourStandard\data\mkvb\MKVB\34_MKVB_Upper.paa",    //camo4 (Upper Armor)
-		"34thPRC_ArmourStandard\data\mkvb\MKVB\34_MKVB_Lower.paa",    //camo5 (Lower Armor)
+		"34thPRC_ArmourStandard\data\mkvb\MKVB\34_MKVB_Lower.paa"    //camo5 (Lower Armor)
     };
-};
-class 34thPRC_ArmourStandard_Mjolnir_MKVB_Armor: 34thPRC_ArmourStandard_MkVB_Armor
-{
-    displayName="[34th-old] Mjolnir MKV[B] Armor";
 };
 
 class MA_EOD_CBRN_Attachment_NVG; // MA_Armor
@@ -212,7 +288,7 @@ class 34thPRC_ArmourStandard_MkVB_EOD_CBRN_NVG: MA_EOD_CBRN_Attachment_NVG
 	displayName="[34th] Mjolnir MkV[B] EOD CBRN Module";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\CBRN\34_EOD_CBRN.paa";
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\CBRN\34_EOD_CBRN.paa"
 	};
 	visionMode[]=
 	{

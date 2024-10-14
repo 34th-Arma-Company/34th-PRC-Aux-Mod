@@ -8,7 +8,6 @@ class CfgPatches
 		{
 			"A3_Characters_F", // Vanilla
 			"A3_Characters_F_EPB", // Vanilla
-			"Halo_marine_02", // Misriah Armory Tactical Gear and Equipment
 			"MA_Armor",	// Misriah Armory
 			"34thPRC_Overrides", // 34th PRC Aux Mod
 			"WBK_EpsmSystem", // E.P.S.M ExoMod Remastered

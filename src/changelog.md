@@ -8,6 +8,88 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Added
 - Invisible exosuit
+- CQB shoulders for ODST vest (urban camo only for now)
+
+### Updated
+- Scorpion textures added (only green camo for now)
+
+### Removed
+- Old marine armour
+
+## 0.15.0
+### Added
+- Scorpion (preview for health/armour changes, no textures yet due to bugs)
+
+## 0.14.0
+### Added
+- UNSC Foundries styled gunbag for marines.
+
+## 0.13.0
+### Added
+- Urban blue marine uniforms
+
+### Updated
+- Changed existing marine urban uniform's display name to mention urban red
+- Rename ODST uniforms in AAX to Urban Red and Urban Blue instead of Red and Blue
+
+## 0.12.0
+### Added
+- Ace Arsenal Extended support for various items
+ - Marine and ODST helmets
+ - Marine and ODST uniforms
+ - ODST vests
+ - ODST backpacks
+
+### Updated
+- Fix a bug with the BR55 not showing it's muzzle attachments
+- Marine's urban BDU texture
+- Marine's tropic uniform
+
+### Removed
+- Old AAX startup error message patch
+
+## 0.11.0
+### Added
+- New marine armour
+- New attachment support for various UNSC Foundries weapons (Thanks SEC for providing configs for almost all of these)
+ - BR55 family
+ - M392
+ - MA5A Family
+ - MA5B
+ - SRS99RM
+ - M7
+- New attachment support for various Misriah Armoury weapons
+ - MA2B (Thanks SEC for the config for this)
+ - Sidekick
+- New ammo support for some weapons
+ - GRL-45: Illumination flares and HuntIR
+ - Bulldog: 8 Gauge rounds from UNSC Foundries
+
+### Updated
+- Invisible MkVb shoulders now use hidden selection stuff instead of a bad p3d
+- SEC Guest Pack: Less protection
+- Marked old marine uniforms/helmets/backpacks with `[34th old]` tag
+
+## 0.10.0
+### Added
+- SEC Guest Pack
+- Loading screens (thanks Cain)
+
+## 0.9.0
+### Updated
+- Mjolnir Mark V B
+  - Mjolnir Commando helmet texture fixed
+### Added
+- Marine Gungnir helmets
+- Mjolnir Mark V B
+  - Mjolnir CQC helmet
+  - Mjolnir Gungnir helmet
+  - Mjolnir JFO helmet
+  - Mjolnir MP helmet
+  - Mjolnir Pilot helmet
+- Add a fake mod to fix dependency on aceax_gearinfo
+### Removed
+- Old spartan equipment
 
 ## 0.8.1
 ### Updated
