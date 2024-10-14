@@ -766,7 +766,6 @@ class XtdGearInfos
 			shoulders = "cqb";
 		}
 
-
 		// MA ODST Uniforms
 		class 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed
 		{
