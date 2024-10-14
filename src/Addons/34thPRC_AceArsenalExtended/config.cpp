@@ -693,7 +693,7 @@ class XtdGearInfos
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "urban";
 			medic = "standard";
-			cqb = "standard";		
+			cqb = "standard";
 		};
 		class 34thPRC_ArmourStandard_ODST_M56R_Arid
 		{
@@ -758,14 +758,14 @@ class XtdGearInfos
 			medic = "isMedic";
 			cqb = "standard";
 		}
-		class 34thPRC_ArmourStandard_ODST_M56R_CQB
+		class 34thPRC_ArmourStandard_ODST_M56R_Urban_CQB
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "urban";
 			medic = "standard";
 			cqb = "isCQB";
 		}
-		
+
 
 		// MA ODST Uniforms
 		class 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed
