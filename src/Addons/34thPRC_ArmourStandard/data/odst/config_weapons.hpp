@@ -104,7 +104,7 @@ class MA_M56R_Vest; // MA_Armor
 class 34thPRC_ArmourStandard_ODST_M56R_Urban: MA_M56R_Vest
 {
     displayName="[34th] M56R Combat Armour Urban";
-    author= "TheBrwnKidd"
+    author= "TheBrwnKidd";
 	hiddenSelectionsTextures[]=
     {
             "MA_Armor\data\Vests\H3_ODST\H3_Upper_Armor_co.paa",       //camo1 (H3 Upper Armor)
@@ -122,7 +122,7 @@ class 34thPRC_ArmourStandard_ODST_M56R_Urban: MA_M56R_Vest
 class 34thPRC_ArmourStandard_ODST_M56R_Arid: 34thPRC_ArmourStandard_ODST_M56R_Urban
 {
     displayName="[34th] M56R Combat Armour Arid";
-    author= "TheBrwnKidd"
+    author= "TheBrwnKidd";
 	hiddenSelectionsTextures[]=
     {
             "MA_Armor\data\Vests\H3_ODST\H3_Upper_Armor_co.paa",       //camo1 (H3 Upper Armor)
@@ -140,7 +140,7 @@ class 34thPRC_ArmourStandard_ODST_M56R_Arid: 34thPRC_ArmourStandard_ODST_M56R_Ur
 class 34thPRC_ArmourStandard_ODST_M56R_Arctic: 34thPRC_ArmourStandard_ODST_M56R_Urban
 {
     displayName="[34th] M56R Combat Armour Arctic";
-    author= "TheBrwnKidd"
+    author= "TheBrwnKidd";
 	hiddenSelectionsTextures[]=
     {
             "MA_Armor\data\Vests\H3_ODST\H3_Upper_Armor_co.paa",       //camo1 (H3 Upper Armor)
@@ -158,7 +158,7 @@ class 34thPRC_ArmourStandard_ODST_M56R_Arctic: 34thPRC_ArmourStandard_ODST_M56R_
 class 34thPRC_ArmourStandard_ODST_M56R_Woodland: 34thPRC_ArmourStandard_ODST_M56R_Urban
 {
     displayName="[34th] M56R Combat Armour Woodland";
-    author= "TheBrwnKidd"
+    author= "TheBrwnKidd";
 	hiddenSelectionsTextures[]=
     {
             "MA_Armor\data\Vests\H3_ODST\H3_Upper_Armor_co.paa",       //camo1 (H3 Upper Armor)
@@ -176,7 +176,7 @@ class 34thPRC_ArmourStandard_ODST_M56R_Woodland: 34thPRC_ArmourStandard_ODST_M56
 class 34thPRC_ArmourStandard_ODST_M56R_Tropic: 34thPRC_ArmourStandard_ODST_M56R_Urban
 {
     displayName="[34th] M56R Combat Armour Tropic";
-    author= "TheBrwnKidd"
+    author= "TheBrwnKidd";
 	hiddenSelectionsTextures[]=
     {
             "MA_Armor\data\Vests\H3_ODST\H3_Upper_Armor_co.paa",       //camo1 (H3 Upper Armor)
@@ -196,7 +196,7 @@ class MA_M56R_Medic_Vest; // MA_Armor
 class 34thPRC_ArmourStandard_ODST_M56R_Urban_Medic: MA_M56R_Medic_Vest
 {
     displayName="[34th] M56R Combat Armour Urban (Medic)";
-    author= "TheBrwnKidd"
+    author= "TheBrwnKidd";
 	hiddenSelectionsTextures[]=
     {
             "MA_Armor\data\Vests\H3_ODST\H3_Upper_Armor_co.paa",       //camo1 (H3 Upper Armor)
@@ -214,7 +214,7 @@ class 34thPRC_ArmourStandard_ODST_M56R_Urban_Medic: MA_M56R_Medic_Vest
 class 34thPRC_ArmourStandard_ODST_M56R_Arctic_Medic: 34thPRC_ArmourStandard_ODST_M56R_Urban_Medic
 {
     displayName="[34th] M56R Combat Armour Arctic (Medic)";
-    author= "TheBrwnKidd"
+    author= "TheBrwnKidd";
 	hiddenSelectionsTextures[]=
     {
             "MA_Armor\data\Vests\H3_ODST\H3_Upper_Armor_co.paa",       //camo1 (H3 Upper Armor)
@@ -232,7 +232,7 @@ class 34thPRC_ArmourStandard_ODST_M56R_Arctic_Medic: 34thPRC_ArmourStandard_ODST
 class 34thPRC_ArmourStandard_ODST_M56R_Arid_Medic: 34thPRC_ArmourStandard_ODST_M56R_Urban_Medic
 {
     displayName="[34th] M56R Combat Armour Arid (Medic)";
-    author= "TheBrwnKidd"
+    author= "TheBrwnKidd";
 	hiddenSelectionsTextures[]=
     {
             "MA_Armor\data\Vests\H3_ODST\H3_Upper_Armor_co.paa",       //camo1 (H3 Upper Armor)
@@ -250,7 +250,7 @@ class 34thPRC_ArmourStandard_ODST_M56R_Arid_Medic: 34thPRC_ArmourStandard_ODST_M
 class 34thPRC_ArmourStandard_ODST_M56R_Tropic_Medic: 34thPRC_ArmourStandard_ODST_M56R_Urban_Medic
 {
     displayName="[34th] M56R Combat Armour Tropic (Medic)";
-    author= "TheBrwnKidd"
+    author= "TheBrwnKidd";
 	hiddenSelectionsTextures[]=
     {
             "MA_Armor\data\Vests\H3_ODST\H3_Upper_Armor_co.paa",       //camo1 (H3 Upper Armor)
@@ -268,7 +268,7 @@ class 34thPRC_ArmourStandard_ODST_M56R_Tropic_Medic: 34thPRC_ArmourStandard_ODST
 class 34thPRC_ArmourStandard_ODST_M56R_Woodland_Medic: 34thPRC_ArmourStandard_ODST_M56R_Urban_Medic
 {
     displayName="[34th] M56R Combat Armour Woodland (Medic)";
-    author= "TheBrwnKidd"
+    author= "TheBrwnKidd";
 	hiddenSelectionsTextures[]=
     {
             "MA_Armor\data\Vests\H3_ODST\H3_Upper_Armor_co.paa",       //camo1 (H3 Upper Armor)
@@ -291,7 +291,7 @@ class MA_M56S_BDU : U_B_CombatUniform_mcam // MA_Armor
 }
 class 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed : MA_M56S_BDU
 {
-    author="TheBrwnKidd"
+    author="TheBrwnKidd";
     displayName="[34th] M56S Uniform Urban Red";
     class ItemInfo : ItemInfo
     {
@@ -300,7 +300,7 @@ class 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed : MA_M56S_BDU
 };
 class 34thPRC_ArmourStandard_ODST_Uniform_UrbanBlue : 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed
 {
-    author="TheBrwnKidd"
+    author="TheBrwnKidd";
     displayName="[34th] M56S Uniform Urban Blue";
     class ItemInfo : ItemInfo
     {
@@ -309,7 +309,7 @@ class 34thPRC_ArmourStandard_ODST_Uniform_UrbanBlue : 34thPRC_ArmourStandard_ODS
 };
 class 34thPRC_ArmourStandard_ODST_Uniform_Arctic : 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed
 {
-    author="TheBrwnKidd"
+    author="TheBrwnKidd";
     displayName="[34th] M56S Uniform Arctic";
     class ItemInfo : ItemInfo
     {
@@ -318,7 +318,7 @@ class 34thPRC_ArmourStandard_ODST_Uniform_Arctic : 34thPRC_ArmourStandard_ODST_U
 };
 class 34thPRC_ArmourStandard_ODST_Uniform_Arid : 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed
 {
-    author="TheBrwnKidd"
+    author="TheBrwnKidd";
     displayName="[34th] M56S Uniform Arid";
     class ItemInfo : ItemInfo
     {
@@ -327,7 +327,7 @@ class 34thPRC_ArmourStandard_ODST_Uniform_Arid : 34thPRC_ArmourStandard_ODST_Uni
 };
 class 34thPRC_ArmourStandard_ODST_Uniform_Tropic : 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed
 {
-    author="TheBrwnKidd"
+    author="TheBrwnKidd";
     displayName="[34th] M56S Uniform Tropic";
     class ItemInfo : ItemInfo
     {
@@ -336,7 +336,7 @@ class 34thPRC_ArmourStandard_ODST_Uniform_Tropic : 34thPRC_ArmourStandard_ODST_U
 };
 class 34thPRC_ArmourStandard_ODST_Uniform_Woodland : 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed
 {
-    author="TheBrwnKidd"
+    author="TheBrwnKidd";
     displayName="[34th] M56S Uniform Woodland";
     class ItemInfo : ItemInfo
     {
