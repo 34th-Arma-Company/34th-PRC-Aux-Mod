@@ -9,11 +9,6 @@ class 34thPRC_ArmourStandard_MKIV_Helmet : MA_Mjolnir_MKIV_Helmet
 {
     displayName="[34th] Mjolnir MKIV Helmet";
     author= "Cappy";
-    hiddenSelections[]=
-    {
-        "camo1",
-        "camo2"
-     };
 	hiddenSelectionsTextures[]=
     {
         "34thPRC_ArmourStandard\data\mkiv\MKIV_Helmet_34_CO.paa",
@@ -24,17 +19,8 @@ class 34thPRC_ArmourStandard_MKIV_Helmet : MA_Mjolnir_MKIV_Helmet
 		"34thPRC_ArmourStandard\data\mkiv\MKIV_Helmet.rvmat",
 		"34thPRC_ArmourStandard\data\mkiv\MKIV_Visor.rvmat"
 	};
-	class ItemInfo : HeadgearItem
+	class ItemInfo : ItemInfo
 	{
-		uniformModel = "MA_Armor_ORION\data\Helmets\MKIV\MKIV_Helmet_Spartan.p3d";
-		mass = 50;
-		modelSides[] = { 6 };
-		allowedSlots[] = { 801,901,701,605 };
-		hiddenSelections[] =
-		{
-			"camo1",
-			"camo2"
-		};
 		hiddenSelectionsTextures[] =
 		{
 		"34thPRC_ArmourStandard\data\mkiv\MKIV_Helmet_34_CO.paa",
@@ -66,21 +52,9 @@ class 34thPRC_ArmourStandard_MKIV_Armor: MA_MKIV_Armor
         "34thPRC_ArmourStandard\data\mkiv\MKIV_Shoulders.rvmat",
         "34thPRC_ArmourStandard\data\mkiv\MKIV_Shoulders.rvmat"
     };
-	class ItemInfo : VestItem
+	class ItemInfo : ItemInfo
     {
-    	vestType = "Rebreather";
-    	hiddenSelections[] =
-        {
-            "camo1",
-            "camo2",
-            "camo3",
-            "camo4",
-            //    "mkvb_upper",
-            //    "mkvb_lower",
-            //    "mkiv_left",
-            //    "mkiv_right"
-        };
-         hiddenSelectionsTextures[] =
+        hiddenSelectionsTextures[] =
         {
         "34thPRC_ArmourStandard\data\mkiv\MKIV_Upper_34_CO.paa",
         "34thPRC_ArmourStandard\data\mkiv\MKIV_Lower_34_CO.paa",
