@@ -1,10 +1,10 @@
 class MA_Mjolnir_MKIV_Helmet; // MA_Armor
 class VestItem;
-    class ItemInfo;
-    class HeadgearItem;
-    class V_PlateCarrier1_rgr;
-    class UniformItem;
-    class H_HelmetB;
+class ItemInfo;
+class HeadgearItem;
+class V_PlateCarrier1_rgr;
+class UniformItem;
+class H_HelmetB;
 class 34thPRC_ArmourStandard_MKIV_Helmet : MA_Mjolnir_MKIV_Helmet
 {
     displayName="[34th] Mjolnir MKIV Helmet";
@@ -20,32 +20,32 @@ class 34thPRC_ArmourStandard_MKIV_Helmet : MA_Mjolnir_MKIV_Helmet
         "34thPRC_ArmourStandard\data\mkiv\MKIV_Visor_34_CO.paa"
     };
 	hiddenSelectionsMaterials[] =
-     {
-        "34thPRC_ArmourStandard\data\mkiv\MKIV_Helmet.rvmat",
-        "34thPRC_ArmourStandard\data\mkiv\MKIV_Visor.rvmat"
-     };
+	{
+		"34thPRC_ArmourStandard\data\mkiv\MKIV_Helmet.rvmat",
+		"34thPRC_ArmourStandard\data\mkiv\MKIV_Visor.rvmat"
+	};
 	class ItemInfo : HeadgearItem
-        {
-            uniformModel = "MA_Armor_ORION\data\Helmets\MKIV\MKIV_Helmet_Spartan.p3d";
-            mass = 50;
-            modelSides[] = { 6 };
-            allowedSlots[] = { 801,901,701,605 };
-            hiddenSelections[] =
-            {
-                "camo1",
-                "camo2"
-            };
-            hiddenSelectionsTextures[] =
-            {
-            "34thPRC_ArmourStandard\data\mkiv\MKIV_Helmet_34_CO.paa",
-        	"34thPRC_ArmourStandard\data\mkiv\MKIV_Visor_34_CO.paa"
-            };
-            hiddenSelectionsMaterials[] =
-            {
-            "34thPRC_ArmourStandard\data\mkiv\MKIV_Helmet.rvmat",
-        	"34thPRC_ArmourStandard\data\mkiv\MKIV_Visor.rvmat"
-            };
+	{
+		uniformModel = "MA_Armor_ORION\data\Helmets\MKIV\MKIV_Helmet_Spartan.p3d";
+		mass = 50;
+		modelSides[] = { 6 };
+		allowedSlots[] = { 801,901,701,605 };
+		hiddenSelections[] =
+		{
+			"camo1",
+			"camo2"
 		};
+		hiddenSelectionsTextures[] =
+		{
+		"34thPRC_ArmourStandard\data\mkiv\MKIV_Helmet_34_CO.paa",
+		"34thPRC_ArmourStandard\data\mkiv\MKIV_Visor_34_CO.paa"
+		};
+		hiddenSelectionsMaterials[] =
+		{
+		"34thPRC_ArmourStandard\data\mkiv\MKIV_Helmet.rvmat",
+		"34thPRC_ArmourStandard\data\mkiv\MKIV_Visor.rvmat"
+		};
+	};
 };
 class MA_MKIV_Armor; // MA_Armor
 class 34thPRC_ArmourStandard_MKIV_Armor: MA_MKIV_Armor
