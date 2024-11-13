@@ -569,6 +569,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_EyePiece_Purple : 34thPRC_Arm
 	{
 		"34thPRC_ArmourStandard\data\marines2\tropic\Brown_TrooperHelmet.paa",
 		"34thPRC_ArmourStandard\data\marines2\tropic\Brown_TrooperHelmet.paa",
+		"34thPRC_ArmourStandard\data\marines2\tropic\Brown_TrooperHelmet.paa",
 		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
 		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
 		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
