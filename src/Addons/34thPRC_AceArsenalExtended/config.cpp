@@ -850,7 +850,7 @@ class XtdGearInfos
 			camo = "urban";
 			eyewear = "visor";
 			medic = "false";
-			color = "orange"
+			eyewear_color = "orange"
 	   };
 
 		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece_Blue
@@ -859,7 +859,7 @@ class XtdGearInfos
 			camo = "urban";
 			eyewear = "eyepiece";
 			medic = "false";
-			color = "blue";
+			eyewear_color = "blue";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses_Blue
 		{
@@ -867,7 +867,7 @@ class XtdGearInfos
 			camo = "urban";
 			eyewear = "visor";
 			medic = "false";
-			color = "blue";
+			eyewear_color = "blue";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece_Orange
 		{
@@ -875,7 +875,7 @@ class XtdGearInfos
 			camo = "urban";
 			eyewear = "eyepiece";
 			medic = "false";
-			color = "orange";
+			eyewear_color = "orange";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses_Green
 		{
@@ -883,7 +883,7 @@ class XtdGearInfos
 			camo = "urban";
 			eyewear = "visor";
 			medic = "false";
-			color = "green";
+			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece_Red
 		{
@@ -891,7 +891,7 @@ class XtdGearInfos
 			camo = "urban";
 			eyewear = "eyepiece";
 			medic = "false";
-			color = "red";
+			eyewear_color = "red";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses_Red
 		{
@@ -899,7 +899,7 @@ class XtdGearInfos
 			camo = "urban";
 			eyewear = "visor";
 			medic = "false";
-			color = "red";
+			eyewear_color = "red";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece_Purple
 		{
@@ -907,7 +907,7 @@ class XtdGearInfos
 			camo = "urban";
 			eyewear = "eyepiece";
 			medic = "false";
-			color = "purple";
+			eyewear_color = "purple";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses_Purple
 		{
@@ -915,7 +915,7 @@ class XtdGearInfos
 			camo = "urban";
 			eyewear = "visor";
 			medic = "false";
-			color = "purple";
+			eyewear_color = "purple";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic
 		{
@@ -930,7 +930,7 @@ class XtdGearInfos
 			camo = "arctic";
 			eyewear = "eyepiece";
 			medic = "false";
-			color = "green";
+			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_VisorGlasses
 		{
@@ -938,7 +938,7 @@ class XtdGearInfos
 			camo = "arctic";
 			eyewear = "visor";
 			medic = "false";
-			color = "orange";
+			eyewear_color = "orange";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_EyePiece_Blue
 		{
@@ -946,7 +946,7 @@ class XtdGearInfos
 			camo = "arctic";
 			eyewear = "eyepiece";
 			medic = "false";
-			color = "blue";
+			eyewear_color = "blue";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_VisorGlasses_Blue
 		{
@@ -954,7 +954,7 @@ class XtdGearInfos
 			camo = "arctic";
 			eyewear = "visor";
 			medic = "false";
-			color = "blue";
+			eyewear_color = "blue";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_EyePiece_Orange
 		{
@@ -962,7 +962,7 @@ class XtdGearInfos
 			camo = "arctic";
 			eyewear = "eyepiece";
 			medic = "false";
-			color = "orange";
+			eyewear_color = "orange";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_VisorGlasses_Green
 		{
@@ -970,7 +970,7 @@ class XtdGearInfos
 			camo = "arctic";
 			eyewear = "visor";
 			medic = "false";
-			color = "green";
+			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_EyePiece_Red
 		{
@@ -978,7 +978,7 @@ class XtdGearInfos
 			camo = "arctic";
 			eyewear = "eyepiece";
 			medic = "false";
-			color = "red";
+			eyewear_color = "red";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_VisorGlasses_Red
 		{
@@ -986,7 +986,7 @@ class XtdGearInfos
 			camo = "arctic";
 			eyewear = "visor";
 			medic = "false";
-			color = "red";
+			eyewear_color = "red";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_EyePiece_Purple
 		{
@@ -994,7 +994,7 @@ class XtdGearInfos
 			camo = "arctic";
 			eyewear = "eyepiece";
 			medic = "false";
-			color = "purple";
+			eyewear_color = "purple";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_VisorGlasses_Purple
 		{
@@ -1002,7 +1002,7 @@ class XtdGearInfos
 			camo = "arctic";
 			eyewear = "visor";
 			medic = "false";
-			color = "purple";
+			eyewear_color = "purple";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arid
 		{
@@ -1017,7 +1017,7 @@ class XtdGearInfos
 			camo = "arid";
 			eyewear = "eyepiece";
 			medic = "false";
-			color = "green";
+			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_VisorGlasses
 		{
@@ -1025,7 +1025,7 @@ class XtdGearInfos
 			camo = "arid";
 			eyewear = "visor";
 			medic = "false";
-			color = "orange";
+			eyewear_color = "orange";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_EyePiece_Blue
 		{
@@ -1033,7 +1033,7 @@ class XtdGearInfos
 			camo = "arid";
 			eyewear = "eyepiece";
 			medic = "false";
-			color = "blue";
+			eyewear_color = "blue";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_VisorGlasses_Blue
 		{
@@ -1041,7 +1041,7 @@ class XtdGearInfos
 			camo = "arid";
 			eyewear = "visor";
 			medic = "false";
-			color = "blue";
+			eyewear_color = "blue";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_EyePiece_Orange
 		{
@@ -1049,7 +1049,7 @@ class XtdGearInfos
 			camo = "arid";
 			eyewear = "eyepiece";
 			medic = "false";
-			color = "orange";
+			eyewear_color = "orange";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_VisorGlasses_Green
 		{
@@ -1057,7 +1057,7 @@ class XtdGearInfos
 			camo = "arid";
 			eyewear = "visor";
 			medic = "false";
-			color = "green";
+			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_EyePiece_Purple
 		{
@@ -1065,7 +1065,7 @@ class XtdGearInfos
 			camo = "arid";
 			eyewear = "eyepiece";
 			medic = "false";
-			color = "purple";
+			eyewear_color = "purple";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_VisorGlasses_Purple
 		{
@@ -1073,7 +1073,7 @@ class XtdGearInfos
 			camo = "arid";
 			eyewear = "visor";
 			medic = "false";
-			color = "purple";
+			eyewear_color = "purple";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_EyePiece_Red
 		{
@@ -1081,7 +1081,7 @@ class XtdGearInfos
 			camo = "arid";
 			eyewear = "eyepiece";
 			medic = "false";
-			color = "red";
+			eyewear_color = "red";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_VisorGlasses_Red
 		{
@@ -1089,7 +1089,7 @@ class XtdGearInfos
 			camo = "arid";
 			eyewear = "visor";
 			medic = "false";
-			color = "red";
+			eyewear_color = "red";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic
 		{
@@ -1104,7 +1104,7 @@ class XtdGearInfos
 			camo = "tropic";
 			eyewear = "eyepiece";
 			medic = "false";
-			color = "green";
+			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_VisorGlasses
 		{
@@ -1112,7 +1112,7 @@ class XtdGearInfos
 			camo = "tropic";
 			eyewear = "visor";
 			medic = "false";
-			color = "orange";
+			eyewear_color = "orange";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_EyePiece_Blue
 		{
@@ -1120,7 +1120,7 @@ class XtdGearInfos
 			camo = "tropic";
 			eyewear = "eyepiece";
 			medic = "false";
-			color = "blue";
+			eyewear_color = "blue";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_VisorGlasses_Blue
 		{
@@ -1128,7 +1128,7 @@ class XtdGearInfos
 			camo = "tropic";
 			eyewear = "visor";
 			medic = "false";
-			color = "blue";
+			eyewear_color = "blue";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_EyePiece_Orange
 		{
@@ -1136,7 +1136,7 @@ class XtdGearInfos
 			camo = "tropic";
 			eyewear = "eyepiece";
 			medic = "false";
-			color = "orange";
+			eyewear_color = "orange";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_VisorGlasses_Green
 		{
@@ -1144,7 +1144,7 @@ class XtdGearInfos
 			camo = "tropic";
 			eyewear = "visor";
 			medic = "false";
-			color = "green";
+			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_EyePiece_Purple
 		{
@@ -1152,7 +1152,7 @@ class XtdGearInfos
 			camo = "tropic";
 			eyewear = "eyepiece";
 			medic = "false";
-			color = "purple";
+			eyewear_color = "purple";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_VisorGlasses_Purple
 		{
@@ -1160,7 +1160,7 @@ class XtdGearInfos
 			camo = "tropic";
 			eyewear = "visor";
 			medic = "false";
-			color = "purple";
+			eyewear_color = "purple";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_EyePiece_Red
 		{
@@ -1168,7 +1168,7 @@ class XtdGearInfos
 			camo = "tropic";
 			eyewear = "eyepiece";
 			medic = "false";
-			color = "red";
+			eyewear_color = "red";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_VisorGlasses_Red
 		{
@@ -1176,7 +1176,7 @@ class XtdGearInfos
 			camo = "tropic";
 			eyewear = "visor";
 			medic = "false";
-			color = "red";
+			eyewear_color = "red";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland
 		{
@@ -1191,7 +1191,7 @@ class XtdGearInfos
 			camo = "woodland";
 			eyewear = "eyepiece";
 			medic = "false";
-			color = "green";
+			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_VisorGlasses
 		{
@@ -1199,7 +1199,7 @@ class XtdGearInfos
 			camo = "woodland";
 			eyewear = "visor";
 			medic = "false";
-			color = "orange";
+			eyewear_color = "orange";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_EyePiece_Blue
 		{
@@ -1207,7 +1207,7 @@ class XtdGearInfos
 			camo = "woodland";
 			eyewear = "eyepiece";
 			medic = "false";
-			color = "blue";
+			eyewear_color = "blue";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_VisorGlasses_Blue
 		{
@@ -1215,7 +1215,7 @@ class XtdGearInfos
 			camo = "woodland";
 			eyewear = "visor";
 			medic = "false";
-			color = "blue";
+			eyewear_color = "blue";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_EyePiece_Orange
 		{
@@ -1223,7 +1223,7 @@ class XtdGearInfos
 			camo = "woodland";
 			eyewear = "eyepiece";
 			medic = "false";
-			color = "orange";
+			eyewear_color = "orange";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_VisorGlasses_Green
 		{
@@ -1231,7 +1231,7 @@ class XtdGearInfos
 			camo = "woodland";
 			eyewear = "visor";
 			medic = "false";
-			color = "green";
+			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_EyePiece_Purple
 		{
@@ -1239,7 +1239,7 @@ class XtdGearInfos
 			camo = "woodland";
 			eyewear = "eyepiece";
 			medic = "false";
-			color = "purple";
+			eyewear_color = "purple";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_VisorGlasses_Purple
 		{
@@ -1247,7 +1247,7 @@ class XtdGearInfos
 			camo = "woodland";
 			eyewear = "visor";
 			medic = "false";
-			color = "purple";
+			eyewear_color = "purple";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_EyePiece_Red
 		{
@@ -1255,7 +1255,7 @@ class XtdGearInfos
 			camo = "woodland";
 			eyewear = "eyepiece";
 			medic = "false";
-			color = "red";
+			eyewear_color = "red";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_VisorGlasses_Red
 		{
@@ -1263,7 +1263,7 @@ class XtdGearInfos
 			camo = "woodland";
 			eyewear = "visor";
 			medic = "false";
-			color = "red";
+			eyewear_color = "red";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic
 		{
@@ -1278,7 +1278,7 @@ class XtdGearInfos
 			camo = "urban";
 			eyewear = "eyepiece";
 			medic = "true";
-			color = "green";
+			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses
 		{
@@ -1286,7 +1286,7 @@ class XtdGearInfos
 			camo = "urban";
 			eyewear = "visor";
 			medic = "true";
-			color = "orange";
+			eyewear_color = "orange";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece_Blue
 		{
@@ -1294,7 +1294,7 @@ class XtdGearInfos
 			camo = "urban";
 			eyewear = "eyepiece";
 			medic = "true";
-			color = "blue";
+			eyewear_color = "blue";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses_Blue
 		{
@@ -1302,7 +1302,7 @@ class XtdGearInfos
 			camo = "urban";
 			eyewear = "visor";
 			medic = "true";
-			color = "blue";
+			eyewear_color = "blue";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece_Orange
 		{
@@ -1310,7 +1310,7 @@ class XtdGearInfos
 			camo = "urban";
 			eyewear = "eyepiece";
 			medic = "true";
-			color = "orange";
+			eyewear_color = "orange";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses_Green
 		{
@@ -1318,7 +1318,7 @@ class XtdGearInfos
 			camo = "urban";
 			eyewear = "visor";
 			medic = "true";
-			color = "green";
+			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece_Purple
 		{
@@ -1326,7 +1326,7 @@ class XtdGearInfos
 			camo = "urban";
 			eyewear = "eyepiece";
 			medic = "true";
-			color = "purple";
+			eyewear_color = "purple";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses_Purple
 		{
@@ -1334,7 +1334,7 @@ class XtdGearInfos
 			camo = "urban";
 			eyewear = "visor";
 			medic = "true";
-			color = "purple";
+			eyewear_color = "purple";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece_Red
 		{
@@ -1342,7 +1342,7 @@ class XtdGearInfos
 			camo = "urban";
 			eyewear = "eyepiece";
 			medic = "true";
-			color = "red";
+			eyewear_color = "red";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses_Red
 		{
@@ -1350,7 +1350,7 @@ class XtdGearInfos
 			camo = "urban";
 			eyewear = "visor";
 			medic = "true";
-			color = "red";
+			eyewear_color = "red";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic
 		{
@@ -1365,7 +1365,7 @@ class XtdGearInfos
 			camo = "arctic";
 			eyewear = "eyepiece";
 			medic = "true";
-			color = "green";
+			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic_VisorGlasses
 		{
@@ -1373,7 +1373,7 @@ class XtdGearInfos
 			camo = "arctic";
 			eyewear = "visor";
 			medic = "true";
-			color = "orange";
+			eyewear_color = "orange";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic_EyePiece_Blue
 		{
@@ -1381,7 +1381,7 @@ class XtdGearInfos
 			camo = "arctic";
 			eyewear = "eyepiece";
 			medic = "true";
-			color = "blue";
+			eyewear_color = "blue";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic_VisorGlasses_Blue
 		{
@@ -1389,7 +1389,7 @@ class XtdGearInfos
 			camo = "arctic";
 			eyewear = "visor";
 			medic = "true";
-			color = "blue";
+			eyewear_color = "blue";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic_EyePiece_Orange
 		{
@@ -1397,7 +1397,7 @@ class XtdGearInfos
 			camo = "arctic";
 			eyewear = "eyepiece";
 			medic = "true";
-			color = "orange";
+			eyewear_color = "orange";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic_VisorGlasses_Green
 		{
@@ -1405,7 +1405,7 @@ class XtdGearInfos
 			camo = "arctic";
 			eyewear = "visor";
 			medic = "true";
-			color = "green";
+			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic_EyePiece_Purple
 		{
@@ -1413,7 +1413,7 @@ class XtdGearInfos
 			camo = "arctic";
 			eyewear = "eyepiece";
 			medic = "true";
-			color = "purple";
+			eyewear_color = "purple";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic_VisorGlasses_Purple
 		{
@@ -1421,7 +1421,7 @@ class XtdGearInfos
 			camo = "arctic";
 			eyewear = "visor";
 			medic = "true";
-			color = "purple";
+			eyewear_color = "purple";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic_EyePiece_Red
 		{
@@ -1429,7 +1429,7 @@ class XtdGearInfos
 			camo = "arctic";
 			eyewear = "eyepiece";
 			medic = "true";
-			color = "red";
+			eyewear_color = "red";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic_VisorGlasses_Red
 		{
@@ -1437,7 +1437,7 @@ class XtdGearInfos
 			camo = "arctic";
 			eyewear = "visor";
 			medic = "true";
-			color = "red";
+			eyewear_color = "red";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic
 		{
@@ -1452,7 +1452,7 @@ class XtdGearInfos
 			camo = "arid";
 			eyewear = "eyepiece";
 			medic = "true";
-			color = "green";
+			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_VisorGlasses
 		{
@@ -1460,7 +1460,7 @@ class XtdGearInfos
 			camo = "arid";
 			eyewear = "visor";
 			medic = "true";
-			color = "orange";
+			eyewear_color = "orange";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_EyePiece_Blue
 		{
@@ -1468,7 +1468,7 @@ class XtdGearInfos
 			camo = "arid";
 			eyewear = "eyepiece";
 			medic = "true";
-			color = "blue";
+			eyewear_color = "blue";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_VisorGlasses_Blue
 		{
@@ -1476,7 +1476,7 @@ class XtdGearInfos
 			camo = "arid";
 			eyewear = "visor";
 			medic = "true";
-			color = "blue";
+			eyewear_color = "blue";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_EyePiece_Orange
 		{
@@ -1484,7 +1484,7 @@ class XtdGearInfos
 			camo = "arid";
 			eyewear = "eyepiece";
 			medic = "true";
-			color = "orange";
+			eyewear_color = "orange";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_VisorGlasses_Green
 		{
@@ -1492,7 +1492,7 @@ class XtdGearInfos
 			camo = "arid";
 			eyewear = "visor";
 			medic = "true";
-			color = "green";
+			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_EyePiece_Purple
 		{
@@ -1500,7 +1500,7 @@ class XtdGearInfos
 			camo = "arid";
 			eyewear = "eyepiece";
 			medic = "true";
-			color = "purple";
+			eyewear_color = "purple";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_VisorGlasses_Purple
 		{
@@ -1508,7 +1508,7 @@ class XtdGearInfos
 			camo = "arid";
 			eyewear = "visor";
 			medic = "true";
-			color = "purple";
+			eyewear_color = "purple";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_EyePiece_Red
 		{
@@ -1516,7 +1516,7 @@ class XtdGearInfos
 			camo = "arid";
 			eyewear = "eyepiece";
 			medic = "true";
-			color = "red";
+			eyewear_color = "red";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_VisorGlasses_Red
 		{
@@ -1524,7 +1524,7 @@ class XtdGearInfos
 			camo = "arid";
 			eyewear = "visor";
 			medic = "true";
-			color = "red";
+			eyewear_color = "red";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic
 		{
@@ -1539,7 +1539,7 @@ class XtdGearInfos
 			camo = "tropic";
 			eyewear = "eyepiece";
 			medic = "true";
-			color = "green";
+			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic_VisorGlasses
 		{
@@ -1547,7 +1547,7 @@ class XtdGearInfos
 			camo = "tropic";
 			eyewear = "visor";
 			medic = "true";
-			color = "orange";
+			eyewear_color = "orange";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic_EyePiece_Blue
 		{
@@ -1555,7 +1555,7 @@ class XtdGearInfos
 			camo = "tropic";
 			eyewear = "eyepiece";
 			medic = "true";
-			color = "blue";
+			eyewear_color = "blue";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic_VisorGlasses_Blue
 		{
@@ -1563,7 +1563,7 @@ class XtdGearInfos
 			camo = "tropic";
 			eyewear = "visor";
 			medic = "true";
-			color = "blue";
+			eyewear_color = "blue";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic_EyePiece_Orange
 		{
@@ -1571,7 +1571,7 @@ class XtdGearInfos
 			camo = "tropic";
 			eyewear = "eyepiece";
 			medic = "true";
-			color = "orange";
+			eyewear_color = "orange";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic_VisorGlasses_Green
 		{
@@ -1579,7 +1579,7 @@ class XtdGearInfos
 			camo = "tropic";
 			eyewear = "visor";
 			medic = "true";
-			color = "green";
+			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic_EyePiece_Purple
 		{
@@ -1587,7 +1587,7 @@ class XtdGearInfos
 			camo = "tropic";
 			eyewear = "eyepiece";
 			medic = "true";
-			color = "purple";
+			eyewear_color = "purple";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic_VisorGlasses_Purple
 		{
@@ -1595,7 +1595,7 @@ class XtdGearInfos
 			camo = "tropic";
 			eyewear = "visor";
 			medic = "true";
-			color = "purple";
+			eyewear_color = "purple";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic_EyePiece_Red
 		{
@@ -1603,7 +1603,7 @@ class XtdGearInfos
 			camo = "tropic";
 			eyewear = "eyepiece";
 			medic = "true";
-			color = "red";
+			eyewear_color = "red";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic_VisorGlasses_Red
 		{
@@ -1611,7 +1611,7 @@ class XtdGearInfos
 			camo = "tropic";
 			eyewear = "visor";
 			medic = "true";
-			color = "red";
+			eyewear_color = "red";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic
 		{
@@ -1626,7 +1626,7 @@ class XtdGearInfos
 			camo = "woodland";
 			eyewear = "eyepiece";
 			medic = "true";
-			color = "green";
+			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_VisorGlasses
 		{
@@ -1634,7 +1634,7 @@ class XtdGearInfos
 			camo = "woodland";
 			eyewear = "visor";
 			medic = "true";
-			color = "orange";
+			eyewear_color = "orange";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_EyePiece_Blue
 		{
@@ -1642,7 +1642,7 @@ class XtdGearInfos
 			camo = "woodland";
 			eyewear = "eyepiece";
 			medic = "true";
-			color = "blue";
+			eyewear_color = "blue";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_VisorGlasses_Blue
 		{
@@ -1650,7 +1650,7 @@ class XtdGearInfos
 			camo = "woodland";
 			eyewear = "visor";
 			medic = "true";
-			color = "blue";
+			eyewear_color = "blue";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_EyePiece_Orange
 		{
@@ -1658,7 +1658,7 @@ class XtdGearInfos
 			camo = "woodland";
 			eyewear = "eyepiece";
 			medic = "true";
-			color = "orange";
+			eyewear_color = "orange";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_VisorGlasses_Green
 		{
@@ -1666,7 +1666,7 @@ class XtdGearInfos
 			camo = "woodland";
 			eyewear = "visor";
 			medic = "true";
-			color = "green";
+			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_EyePiece_Purple
 		{
@@ -1674,7 +1674,7 @@ class XtdGearInfos
 			camo = "woodland";
 			eyewear = "eyepiece";
 			medic = "true";
-			color = "purple";
+			eyewear_color = "purple";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_VisorGlasses_Purple
 		{
@@ -1682,7 +1682,7 @@ class XtdGearInfos
 			camo = "woodland";
 			eyewear = "visor";
 			medic = "true";
-			color = "purple";
+			eyewear_color = "purple";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_EyePiece_Red
 		{
@@ -1690,7 +1690,7 @@ class XtdGearInfos
 			camo = "woodland";
 			eyewear = "eyepiece";
 			medic = "true";
-			color = "red";
+			eyewear_color = "red";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_VisorGlasses_Red
 		{
@@ -1698,7 +1698,7 @@ class XtdGearInfos
 			camo = "woodland";
 			eyewear = "visor";
 			medic = "true";
-			color = "red";
+			eyewear_color = "red";
 		};
 
 		// MA ODST Helmets
