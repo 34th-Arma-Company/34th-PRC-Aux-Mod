@@ -248,7 +248,8 @@ class XtdGearModels
 					label = "Medic";
 				};
 			};
-			class color
+			class eyewear_color
+
 			{
 			
 				alwaysSelectable = 1;
