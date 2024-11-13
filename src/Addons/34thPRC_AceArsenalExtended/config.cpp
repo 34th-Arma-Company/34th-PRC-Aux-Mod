@@ -188,7 +188,8 @@ class XtdGearModels
 		{
 			label = "[34thPRC] CH252 Helmets";
 			author = "34th PRC Modding Team, J. Koko";
-			options[] = {"camo", "eyewear", "medic", "color"};
+			options[] = {"camo", "eyewear", "medic", "eyewear_color"};
+
 			class camo
 			{
 				alwaysSelectable = 1;
