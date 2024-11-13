@@ -705,7 +705,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_EyePiece_Orange : 34thPRC_A
 		"34thPRC_ArmourStandard\data\marines2\woodland\Green_TrooperHelmet.paa",
 		"34thPRC_ArmourStandard\data\marines2\woodland\Green_TrooperHelmet.paa",
 		"34thPRC_ArmourStandard\data\marines2\woodland\Green_TrooperHelmet.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAcxcessories_Orange_CA.paa",
+		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
 		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
 		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
 	};
