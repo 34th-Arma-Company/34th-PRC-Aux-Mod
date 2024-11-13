@@ -841,7 +841,8 @@ class XtdGearInfos
 			camo = "urban";
 			eyewear = "eyepiece";
 			medic = "false";
-			color = "green"
+			eyewear_color = "green"
+
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses
 		{
