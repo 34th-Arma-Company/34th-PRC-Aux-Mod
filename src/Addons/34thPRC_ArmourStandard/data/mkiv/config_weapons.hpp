@@ -23,13 +23,13 @@ class 34thPRC_ArmourStandard_MKIV_Helmet : MA_Mjolnir_MKIV_Helmet
 	{
 		hiddenSelectionsTextures[] =
 		{
-		"34thPRC_ArmourStandard\data\mkiv\MKIV_Helmet_34_CO.paa",
-		"34thPRC_ArmourStandard\data\mkiv\MKIV_Visor_34_CO.paa"
+			"34thPRC_ArmourStandard\data\mkiv\MKIV_Helmet_34_CO.paa",
+			"34thPRC_ArmourStandard\data\mkiv\MKIV_Visor_34_CO.paa"
 		};
 		hiddenSelectionsMaterials[] =
 		{
-		"34thPRC_ArmourStandard\data\mkiv\MKIV_Helmet.rvmat",
-		"34thPRC_ArmourStandard\data\mkiv\MKIV_Visor.rvmat"
+			"34thPRC_ArmourStandard\data\mkiv\MKIV_Helmet.rvmat",
+			"34thPRC_ArmourStandard\data\mkiv\MKIV_Visor.rvmat"
 		};
 	};
 };
@@ -56,17 +56,17 @@ class 34thPRC_ArmourStandard_MKIV_Armor: MA_MKIV_Armor
     {
         hiddenSelectionsTextures[] =
         {
-        "34thPRC_ArmourStandard\data\mkiv\MKIV_Upper_34_CO.paa",
-        "34thPRC_ArmourStandard\data\mkiv\MKIV_Lower_34_CO.paa",
-    	"34thPRC_ArmourStandard\data\mkiv\MKIV_Shoulders_34_CO.paa",
-    	"34thPRC_ArmourStandard\data\mkiv\MKIV_Shoulders_34_CO.paa"
+			"34thPRC_ArmourStandard\data\mkiv\MKIV_Upper_34_CO.paa",
+			"34thPRC_ArmourStandard\data\mkiv\MKIV_Lower_34_CO.paa",
+			"34thPRC_ArmourStandard\data\mkiv\MKIV_Shoulders_34_CO.paa",
+			"34thPRC_ArmourStandard\data\mkiv\MKIV_Shoulders_34_CO.paa"
         };
         hiddenSelectionsMaterials[] =
         {
-        "34thPRC_ArmourStandard\data\mkiv\MKIV_Upper.rvmat",
-        "34thPRC_ArmourStandard\data\mkiv\MKIV_Lower.rvmat",
-        "34thPRC_ArmourStandard\data\mkiv\MKIV_Shoulders.rvmat",
-        "34thPRC_ArmourStandard\data\mkiv\MKIV_Shoulders.rvmat"
+			"34thPRC_ArmourStandard\data\mkiv\MKIV_Upper.rvmat",
+			"34thPRC_ArmourStandard\data\mkiv\MKIV_Lower.rvmat",
+			"34thPRC_ArmourStandard\data\mkiv\MKIV_Shoulders.rvmat",
+			"34thPRC_ArmourStandard\data\mkiv\MKIV_Shoulders.rvmat"
         };
 	};
 };
