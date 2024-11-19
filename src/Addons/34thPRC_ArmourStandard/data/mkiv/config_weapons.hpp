@@ -1,10 +1,5 @@
 class MA_Mjolnir_MKIV_Helmet; // MA_Armor
-class VestItem;
 class ItemInfo;
-class HeadgearItem;
-class V_PlateCarrier1_rgr;
-class UniformItem;
-class H_HelmetB;
 class 34thPRC_ArmourStandard_MKIV_Helmet : MA_Mjolnir_MKIV_Helmet
 {
 	displayName="[34th] Mjolnir MKIV Helmet";
@@ -70,5 +65,3 @@ class 34thPRC_ArmourStandard_MKIV_Armor: MA_MKIV_Armor
 		};
 	};
 };
-
-
