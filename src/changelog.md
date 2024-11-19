@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - 5 color variants for the marine helmet eyewear
 
+### Updated
+- New textures and materials for the Mjolnir MkIV
+
 ## 0.16.0
 ### Added
 - CQB shoulders for ODST vest (urban camo only for now)
