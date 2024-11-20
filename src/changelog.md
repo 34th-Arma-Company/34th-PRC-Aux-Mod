@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Added
 - 5 color variants for the marine helmet eyewear
-- New loading screens
+- New loading screens (Thank you Konkord)
 
 ### Updated
 - New textures and materials for the Mjolnir MkIV
