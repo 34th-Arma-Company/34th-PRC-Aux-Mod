@@ -26,7 +26,7 @@ class XtdGearModels
 				label = "Variant";
 				alwaysSelectable = 1;
 				changeingame = 0;
-				values[] = {"light", "medium", "heavy"};
+				values[] = {"light", "medium", "heavy", "shoulderless"};
 				class light
 				{
 					label = "Light";
@@ -38,6 +38,10 @@ class XtdGearModels
 				class heavy
 				{
 					label = "Heavy";
+				};
+				class shoulderless
+				{
+					label = "Shoulderless";
 				};
 			};
 			class camo
@@ -146,6 +150,71 @@ class XtdGearModels
 				};
 			};
 		};
+		//Ma ODST Armor New
+		class 34thPRC_ArmourStandard_ODST_M52_Urban
+		{
+			label = "[34thPRC] ODST Armors";
+			author = "34th PRC Modding Team, Over Yandere";
+			options[] = {"camo", "medic", "shoulders"};
+			class camo
+			{
+				alwaysSelectable = 1;
+				changeingame = 0;
+				values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
+				class urban
+				{
+					label = "Urban";
+				};
+				class arctic
+				{
+					label = "Arctic";
+				};
+				class arid
+				{
+					label = "Arid";
+				};
+				class tropic
+				{
+					label = "Tropic";
+				};
+				class woodland
+				{
+					label = "Woodland";
+				};
+			};
+			class medic
+			{
+				alwaysSelectable = 1;
+				changeingame = 0;
+				values[] = {"standard", "isMedic"};
+				class standard
+				{
+					label = "Non-Medic";
+				};
+				class isMedic
+				{
+					label = "Medic";
+				};
+			};
+			class shoulders
+			{
+				alwaysSelectable = 1;
+				changeingame = 0;
+				values[] = {"standard", "cqb", "marksman"};
+				class standard
+				{
+					label = "Standard";
+				};
+				class cqb
+				{
+					label = "CQB";
+				};
+				class marksman
+				{
+					label = "Marksman";
+				};
+			};
+		};
 		class 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed
 		{
 			label = "[34thPRC] ODST Uniforms";
@@ -251,7 +320,7 @@ class XtdGearModels
 			class eyewear_color
 
 			{
-			
+
 				alwaysSelectable = 1;
 				changeingame = 0;
 				values[] = {"blue", "green", "red", "purple", "orange"};
@@ -322,6 +391,57 @@ class XtdGearModels
 				class maroon
 				{
 					label = "Maroon";
+				};
+			};
+		};
+		//MA ODST Helmet New
+		class 34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor
+		{
+			label = "[34thPRC] ODST CH252D Helmets";
+			author = "34th PRC Modding Team, Over Yandere";
+			options[] = {"camo", "visor"};
+			class camo
+			{
+				alwaysSelectable = 1;
+				changeingame = 0;
+				values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
+				class urban
+				{
+					label = "Urban";
+				};
+				class arctic
+				{
+					label = "Arctic";
+				};
+				class arid
+				{
+					label = "Arid";
+				};
+				class tropic
+				{
+					label = "Tropic";
+				};
+				class woodland
+				{
+					label = "Woodland";
+				};
+			};
+			class visor
+			{
+				alwaysSelectable = 1;
+				changeingame = 0;
+				values[] = {"silver", "red", "gold"};
+				class silver
+				{
+					label = "Silver";
+				};
+				class maroon
+				{
+					label = "Red";
+				};
+				class gold
+				{
+					label = "Gold";
 				};
 			};
 		};
@@ -485,6 +605,13 @@ class XtdGearInfos
 			camo = "urbanRed";
 			collar = "up";
 		};
+		class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_NS
+		{
+			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+			variant = "shoulderless";
+			camo = "urbanRed";
+			collar = "up";
+		};
 		class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light_NoCollar
 		{
 			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
@@ -523,6 +650,13 @@ class XtdGearInfos
 		{
 			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 			variant = "heavy";
+			camo = "urbanBlue";
+			collar = "up";
+		};
+		class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_NS
+		{
+			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+			variant = "shoulderless";
 			camo = "urbanBlue";
 			collar = "up";
 		};
@@ -568,6 +702,13 @@ class XtdGearInfos
 			camo = "arctic";
 			collar = "up";
 		};
+		class 34thPRC_ArmourStandard_Marines2_Uniform_Arctic_NS
+		{
+			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+			variant = "shoulderless";
+			camo = "arctic";
+			collar = "up";
+		};
 		class 34thPRC_ArmourStandard_Marines2_Uniform_Arctic_Light_NoCollar
 		{
 			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
@@ -607,6 +748,13 @@ class XtdGearInfos
 		{
 			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 			variant = "heavy";
+			camo = "arid";
+			collar = "up";
+		};
+		class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_NS
+		{
+			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+			variant = "shoulderless";
 			camo = "arid";
 			collar = "up";
 		};
@@ -652,6 +800,13 @@ class XtdGearInfos
 			camo = "tropic";
 			collar = "up";
 		};
+		class 34thPRC_ArmourStandard_Marines2_Uniform_Tropic_NS
+		{
+			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+			variant = "shoulderless";
+			camo = "tropic";
+			collar = "up";
+		};
 		class 34thPRC_ArmourStandard_Marines2_Uniform_Tropic_Light_NoCollar
 		{
 			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
@@ -694,6 +849,13 @@ class XtdGearInfos
 			camo = "woodland";
 			collar = "up";
 		};
+		class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_NS
+		{
+			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+			variant = "shoulderless";
+			camo = "woodland";
+			collar = "up";
+		};
 		class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Light_NoCollar
 		{
 			model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
@@ -715,6 +877,15 @@ class XtdGearInfos
 			camo = "woodland";
 			collar = "down";
 		};
+
+		//MA ODST Vest New
+		class 34thPRC_ArmourStandard_ODST_M52_Urban
+		{
+			model="4thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="urban";
+			medic="standard";
+			shoulders="standard";
+		}
 
 		// MA ODST Vests
 		class 34thPRC_ArmourStandard_ODST_M56R_Urban
@@ -1700,6 +1871,98 @@ class XtdGearInfos
 			medic = "true";
 			eyewear_color = "red";
 		};
+
+		//MA ODST Helmets CH252D New
+		class 34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor
+		{
+			model= "34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor";
+			camo= "urban";
+			visor= "silver";
+		};
+		class 34thPRC_ArmourStandard_ODST_CH252D_Urban_RedVisor
+		{
+			model= "34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor";
+			camo= "urban";
+			visor= "red";
+		};
+		class 34thPRC_ArmourStandard_ODST_CH252D_Urban_GoldVisor
+		{
+			model= "34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor";
+			camo= "urban";
+			visor= "gold";
+		};
+		class 34thPRC_ArmourStandard_ODST_CHCH252D_Arid_SilverVisor
+		{
+			model="34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor";
+			camo="arid";
+			visor="silver";
+		};
+		class 34thPRC_ArmourStandard_ODST_CH252D_Arid_RedVisor
+		{
+			model="34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor";
+			camo="arid";
+			visor="red";
+		};
+		class 34thPRC_ArmourStandard_ODST_CH252D_Arid_GoldVisor
+		{
+			model="34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor";
+			camo="arid";
+			visor="gold";
+		};
+		class 34thPRC_ArmourStandard_ODST_CH252D_Arctic_SilverVisor
+		{
+			model="34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor";
+			camo="arctic";
+			visor="silver";
+		};
+		class 34thPRC_ArmourStandard_ODST_CH252D_Arctic_RedVisor
+		{
+			model="34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor";
+			camo="arctic";
+			visor="red";
+		};
+		class 34thPRC_ArmourStandard_ODST_CH252D_Arctic_GoldVisor
+		{
+			model="34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor";
+			camo="arctic";
+			visor="gold";
+		};
+		class 34thPRC_ArmourStandard_ODST_CH252D_Tropic_SilverVisor
+		{
+			model="34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor";
+			camo="tropic";
+			visor="silver";
+		};
+		class 34thPRC_ArmourStandard_ODST_CH252D_Tropic_RedVisor
+		{
+			model="34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor";
+			camo="tropic";
+			visor="red";
+		};
+		class 34thPRC_ArmourStandard_ODST_CH252D_Tropic_GoldVisor
+		{
+			model="34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor";
+			camo="tropic";
+			visor="gold";
+		};
+		class 34thPRC_ArmourStandard_ODST_CH252D_Woodland_SilverVisor
+		{
+			model="34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor";
+			camo="woodland";
+			visor="silver";
+		};
+		class 34thPRC_ArmourStandard_ODST_CH252D_Woodland_RedVisor
+		{
+			model="34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor";
+			camo="woodland";
+			visor="red";
+		};
+		class 34thPRC_ArmourStandard_ODST_CH252D_Woodland_GoldVisor
+		{
+			model="34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor";
+			camo="woodland";
+			visor="gold";
+		}
 
 		// MA ODST Helmets
 		class 34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor
