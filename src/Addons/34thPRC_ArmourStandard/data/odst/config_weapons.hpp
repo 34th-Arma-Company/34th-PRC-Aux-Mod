@@ -254,6 +254,9 @@ class 34thPRC_ArmourStandard_ODST_M56SR_Woodland_MarooonVisor : 34thPRC_ArmourSt
 
 
 class M52_ODST_Vest_ODST;
+class M52_ODST_Vest_Marksman;
+class M52_ODST_Vest_CQB;
+
 class 34thPRC_ArmourStandard_ODST_M52_Urban : M52_ODST_Vest_ODST
 {
     displayName="[34th] M52 Combat Armour Urban";
@@ -291,7 +294,709 @@ class 34thPRC_ArmourStandard_ODST_M52_Urban : M52_ODST_Vest_ODST
         "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
     };
 };
-
+class 34thPRC_ArmourStandard_ODST_M52_Medic_Urban : 34thPRC_ArmourStandard_ODST_M52_Urban
+{
+    displayName="[34th] M52 Combat Armour (Corpsman) Urban";
+    author="Over Yandere";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_CQB.paa", //CQB Left
+    	"34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_CQB.paa", //CQB Right
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Marksman.paa", //Marksman_Left
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Marksman.paa", //Marksman_Right
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Vest_Medic.paa", //ODST_Bracer_Left
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Vest_Medic.paa", //ODST_Bracer_Right
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Vest_Medic.paa", //ODST_Chest
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Shoulders_Medic.paa", //ODST_Left
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Shoulders_Medic.paa", //ODST_Right
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //LShoulderRadio
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //RShoulderRadio
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //StomachPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //TorsoPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistBack
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPRight
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRLeft
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+    };
+};
+class 34thPRC_ArmourStandard_ODST_M52_Marksman_Urban : M52_ODST_Vest_Marksman
+{
+    displayName="[34th] M52 Combat Armour (Marksman) Urban";
+    author="Over Yandere";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_CQB.paa", //CQB Left
+    	"34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_CQB.paa", //CQB Right
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Marksman.paa", //Marksman_Left
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Marksman.paa", //Marksman_Right
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Vest.paa", //ODST_Bracer_Left
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Vest.paa", //ODST_Bracer_Right
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Vest.paa", //ODST_Chest
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Shoulders.paa", //ODST_Left
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Shoulders.paa", //ODST_Right
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //LShoulderRadio
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //RShoulderRadio
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //StomachPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //TorsoPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistBack
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPRight
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRLeft
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+    };
+};
+class 34thPRC_ArmourStandard_ODST_M52_CQB_Urban : M52_ODST_Vest_CQB
+{
+    displayName="[34th] M52 Combat Armour (CQB) Urban";
+    author="Over Yandere";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_CQB.paa", //CQB Left
+    	"34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_CQB.paa", //CQB Right
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Marksman.paa", //Marksman_Left
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Marksman.paa", //Marksman_Right
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Vest.paa", //ODST_Bracer_Left
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Vest.paa", //ODST_Bracer_Right
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Vest.paa", //ODST_Chest
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Shoulders.paa", //ODST_Left
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Shoulders.paa", //ODST_Right
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //LShoulderRadio
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //RShoulderRadio
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //StomachPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //TorsoPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistBack
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPRight
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRLeft
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+    };
+};
+class 34thPRC_ArmourStandard_ODST_M52_Arid : 34thPRC_ArmourStandard_ODST_M52_Urban
+{
+    displayName="[34th] M52 Combat Armour Arid";
+    author="Over Yandere";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_CQB.paa", //CQB Left
+    	"34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_CQB.paa", //CQB Right
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Marksman.paa", //Marksman_Left
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Marksman.paa", //Marksman_Right
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Vest.paa", //ODST_Bracer_Left
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Vest.paa", //ODST_Bracer_Right
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Vest.paa", //ODST_Chest
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Shoulders.paa", //ODST_Left
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Shoulders.paa", //ODST_Right
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //LShoulderRadio
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //RShoulderRadio
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //StomachPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //TorsoPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistBack
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPRight
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRLeft
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+    };
+};
+class 34thPRC_ArmourStandard_ODST_M52_Medic_Arid : 34thPRC_ArmourStandard_ODST_M52_Urban
+{
+    displayName="[34th] M52 Combat Armour (Corpsman) Arid";
+    author="Over Yandere";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_CQB.paa", //CQB Left
+    	"34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_CQB.paa", //CQB Right
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Marksman.paa", //Marksman_Left
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Marksman.paa", //Marksman_Right
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Vest_Medic.paa", //ODST_Bracer_Left
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Vest_Medic.paa", //ODST_Bracer_Right
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Vest_Medic.paa", //ODST_Chest
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Shoulders_Medic.paa", //ODST_Left
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Shoulders_Medic.paa", //ODST_Right
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //LShoulderRadio
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //RShoulderRadio
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //StomachPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //TorsoPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistBack
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPRight
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRLeft
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+    };
+};
+class 34thPRC_ArmourStandard_ODST_M52_Marksman_Arid : 34thPRC_ArmourStandard_ODST_M52_Urban
+{
+    displayName="[34th] M52 Combat Armour (Marksman) Arid";
+    author="Over Yandere";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_CQB.paa", //CQB Left
+    	"34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_CQB.paa", //CQB Right
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Marksman.paa", //Marksman_Left
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Marksman.paa", //Marksman_Right
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Vest.paa", //ODST_Bracer_Left
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Vest.paa", //ODST_Bracer_Right
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Vest.paa", //ODST_Chest
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Shoulders.paa", //ODST_Left
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Shoulders.paa", //ODST_Right
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //LShoulderRadio
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //RShoulderRadio
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //StomachPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //TorsoPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistBack
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPRight
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRLeft
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+    };
+};
+class 34thPRC_ArmourStandard_ODST_M52_CQB_Arid : 34thPRC_ArmourStandard_ODST_M52_CQB_Urban
+{
+    displayName="[34th] M52 Combat Armour (CQB) Arid";
+    author="Over Yandere";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_CQB.paa", //CQB Left
+    	"34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_CQB.paa", //CQB Right
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Marksman.paa", //Marksman_Left
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Marksman.paa", //Marksman_Right
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Vest.paa", //ODST_Bracer_Left
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Vest.paa", //ODST_Bracer_Right
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Vest.paa", //ODST_Chest
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Shoulders.paa", //ODST_Left
+        "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Shoulders.paa", //ODST_Right
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //LShoulderRadio
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //RShoulderRadio
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //StomachPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //TorsoPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistBack
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPRight
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRLeft
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+    };
+};
+class 34thPRC_ArmourStandard_ODST_M52_Arctic : 34thPRC_ArmourStandard_ODST_M52_Urban
+{
+	displayName="[34th] M52 Combat Armour Arctic";
+    author="Over Yandere";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_CQB.paa", //CQB Left
+    	"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_CQB.paa", //CQB Right
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Marksman.paa", //Marksman_Left
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Marksman.paa", //Marksman_Right
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Vest.paa", //ODST_Bracer_Left
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Vest.paa", //ODST_Bracer_Right
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Vest.paa", //ODST_Chest
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Artic_ODST_Shoulders.paa", //ODST_Left
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Shoulders.paa", //ODST_Right
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //LShoulderRadio
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //RShoulderRadio
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //StomachPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //TorsoPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistBack
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPRight
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRLeft
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+    };
+};
+class 34thPRC_ArmourStandard_ODST_M52_Medic_Arctic : 34thPRC_ArmourStandard_ODST_M52_Urban
+{
+	displayName="[34th] M52 Combat Armour (Corpsman) Arctic";
+    author="Over Yandere";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_CQB.paa", //CQB Left
+    	"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_CQB.paa", //CQB Right
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Marksman.paa", //Marksman_Left
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Marksman.paa", //Marksman_Right
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Vest_Medic.paa", //ODST_Bracer_Left
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Vest_Medic.paa", //ODST_Bracer_Right
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Vest_Medic.paa", //ODST_Chest
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Artic_ODST_Shoulders_Medic.paa", //ODST_Left
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Shoulders_Medic.paa", //ODST_Right
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //LShoulderRadio
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //RShoulderRadio
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //StomachPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //TorsoPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistBack
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPRight
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRLeft
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+    };
+};
+class 34thPRC_ArmourStandard_ODST_M52_Marksman_Arctic : 34thPRC_ArmourStandard_ODST_M52_Marksman_Urban
+{
+	displayName="[34th] M52 Combat Armour (Marksman) Arctic";
+    author="Over Yandere";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_CQB.paa", //CQB Left
+    	"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_CQB.paa", //CQB Right
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Marksman.paa", //Marksman_Left
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Marksman.paa", //Marksman_Right
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Vest.paa", //ODST_Bracer_Left
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Vest.paa", //ODST_Bracer_Right
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Vest.paa", //ODST_Chest
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Artic_ODST_Shoulders.paa", //ODST_Left
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Shoulders.paa", //ODST_Right
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //LShoulderRadio
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //RShoulderRadio
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //StomachPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //TorsoPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistBack
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPRight
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRLeft
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+    };
+};
+class 34thPRC_ArmourStandard_ODST_M52_CQB_Arctic : 34thPRC_ArmourStandard_ODST_M52_CQB_Urban
+{
+	displayName="[34th] M52 Combat Armour (CQB) Arctic";
+    author="Over Yandere";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_CQB.paa", //CQB Left
+    	"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_CQB.paa", //CQB Right
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Marksman.paa", //Marksman_Left
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Marksman.paa", //Marksman_Right
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Vest.paa", //ODST_Bracer_Left
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Vest.paa", //ODST_Bracer_Right
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Vest.paa", //ODST_Chest
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Artic_ODST_Shoulders.paa", //ODST_Left
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Shoulders.paa", //ODST_Right
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //LShoulderRadio
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //RShoulderRadio
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //StomachPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //TorsoPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistBack
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPRight
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRLeft
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+    };
+};
+class 34thPRC_ArmourStandard_ODST_M52_Tropic : 34thPRC_ArmourStandard_ODST_M52_Urban
+{
+	displayName="[34th] M52 Combat Armour Tropic";
+    author="Over Yandere";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Left
+    	"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Right
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Left
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Right
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Left
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Right
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Chest
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Left
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Right
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //LShoulderRadio
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //RShoulderRadio
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //StomachPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //TorsoPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistBack
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPRight
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRLeft
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+    };
+};
+class 34thPRC_ArmourStandard_ODST_M52_Medic_Tropic : 34thPRC_ArmourStandard_ODST_M52_Urban
+{
+	displayName="[34th] M52 Combat Armour (Corpsman) Tropic";
+    author="Over Yandere";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Left
+    	"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Right
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Left
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Right
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Bracer_Left
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Bracer_Right
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Chest
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders_Medic.paa", //ODST_Left
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders_Medic.paa", //ODST_Right
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //LShoulderRadio
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //RShoulderRadio
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //StomachPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //TorsoPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistBack
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPRight
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRLeft
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+    };
+};
+class 34thPRC_ArmourStandard_ODST_M52_Marksman_Tropic : 34thPRC_ArmourStandard_ODST_M52_Marksman_Urban
+{
+	displayName="[34th] M52 Combat Armour (Marksman) Tropic";
+    author="Over Yandere";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Left
+    	"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Right
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Left
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Right
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Left
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Right
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Chest
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Left
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Right
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //LShoulderRadio
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //RShoulderRadio
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //StomachPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //TorsoPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistBack
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPRight
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRLeft
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+    };
+};
+class 34thPRC_ArmourStandard_ODST_M52_CQB_Tropic : 34thPRC_ArmourStandard_ODST_M52_CQB_Urban
+{
+displayName="[34th] M52 Combat Armour (CQB) Tropic";
+    author="Over Yandere";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Left
+    	"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Right
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Left
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Right
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Left
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Right
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Chest
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Left
+        "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Right
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //LShoulderRadio
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //RShoulderRadio
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //StomachPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //TorsoPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistBack
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPRight
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRLeft
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+    };
+};
+class 34thPRC_ArmourStandard_ODST_M52_Woodland : 34thPRC_ArmourStandard_ODST_M52_Urban
+{
+	displayName="[34th] M52 Combat Armour Woodland";
+    author="Over Yandere";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_CQB.paa", //CQB Left
+    	"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_CQB.paa", //CQB Right
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Left
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Right
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Vest.paa", //ODST_Bracer_Left
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Vest.paa", //ODST_Bracer_Right
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Vest.paa", //ODST_Chest
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Shoulders.paa", //ODST_Left
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Shoulders.paa", //ODST_Right
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //LShoulderRadio
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //RShoulderRadio
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //StomachPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //TorsoPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistBack
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPRight
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRLeft
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+    };
+};
+class 34thPRC_ArmourStandard_ODST_M52_Medic_Woodland : 34thPRC_ArmourStandard_ODST_M52_Urban
+{
+	displayName="[34th] M52 Combat Armour (Corpsman) Woodland";
+    author="Over Yandere";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_CQB.paa", //CQB Left
+    	"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_CQB.paa", //CQB Right
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Left
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Right
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Vest_Medic.paa", //ODST_Bracer_Left
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Vest_Medic.paa", //ODST_Bracer_Right
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Vest_Medic.paa", //ODST_Chest
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Shoulders_Medic.paa", //ODST_Left
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Shoulders_Medic.paa", //ODST_Right
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //LShoulderRadio
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //RShoulderRadio
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //StomachPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //TorsoPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistBack
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPRight
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRLeft
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+    };
+};
+class 34thPRC_ArmourStandard_ODST_M52_Marksman_Woodland : 34thPRC_ArmourStandard_ODST_M52_Marksman_Urban
+{
+	displayName="[34th] M52 Combat Armour (Marksman) Woodland";
+    author="Over Yandere";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_CQB.paa", //CQB Left
+    	"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_CQB.paa", //CQB Right
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Left
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Right
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Vest.paa", //ODST_Bracer_Left
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Vest.paa", //ODST_Bracer_Right
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Vest.paa", //ODST_Chest
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Shoulders.paa", //ODST_Left
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Shoulders.paa", //ODST_Right
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //LShoulderRadio
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //RShoulderRadio
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //StomachPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //TorsoPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistBack
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPRight
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRLeft
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+    };
+};
+class 34thPRC_ArmourStandard_ODST_M52_CQB_Woodland : 34thPRC_ArmourStandard_ODST_M52_CQB_Urban
+{
+	displayName="[34th] M52 Combat Armour (CQB) Woodland";
+    author="Over Yandere";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_CQB.paa", //CQB Left
+    	"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_CQB.paa", //CQB Right
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Left
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Marksman.paa", //Marksman_Right
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Vest.paa", //ODST_Bracer_Left
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Vest.paa", //ODST_Bracer_Right
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Vest.paa", //ODST_Chest
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Shoulders.paa", //ODST_Left
+        "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Shoulders.paa", //ODST_Right
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //LShoulderRadio
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //RShoulderRadio
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //StomachPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //TorsoPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistBack
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPRight
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRLeft
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+    };
+};
 
 class MA_M56R_Vest; // MA_Armor
 class 34thPRC_ArmourStandard_ODST_M56R_Urban: MA_M56R_Vest

@@ -881,9 +881,142 @@ class XtdGearInfos
 		//MA ODST Vest New
 		class 34thPRC_ArmourStandard_ODST_M52_Urban
 		{
-			model="4thPRC_ArmourStandard_ODST_M52_Urban";
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
 			camo="urban";
 			medic="standard";
+			shoulders="standard";
+		}
+		class 34thPRC_ArmourStandard_ODST_M52_Marksman_Urban
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="urban";
+			medic="standard";
+			shoulders="marksman";
+		}
+		class 34thPRC_ArmourStandard_ODST_M52_CQB_Urban
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="urban";
+			medic="standard";
+			shoulders="cqb";
+		}
+		class 34thPRC_ArmourStandard_ODST_M52_Medic_Urban
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="urban";
+			medic="isMedic";
+			shoulders="standard";
+		}
+		class 34thPRC_ArmourStandard_ODST_M52_Arid
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="arid";
+			medic="standard";
+			shoulders="standard";
+		}
+		class 34thPRC_ArmourStandard_ODST_M52_Marksman_Arid
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="arid";
+			medic="standard";
+			shoulders="marksman";
+		}
+		class 34thPRC_ArmourStandard_ODST_M52_CQB_Arid
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="arid";
+			medic="standard";
+			shoulders="cqb";
+		}
+		class 34thPRC_ArmourStandard_ODST_M52_Medic_Arid
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="arid";
+			medic="isMedic";
+			shoulders="standard";
+		}
+		class 34thPRC_ArmourStandard_ODST_M52_Arctic
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="arctic";
+			medic="standard";
+			shoulders="standard";
+		}
+		class 34thPRC_ArmourStandard_ODST_M52_Marksman_Arctic
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="arctic";
+			medic="standard";
+			shoulders="marksman";
+		}
+		class 34thPRC_ArmourStandard_ODST_M52_CQB_Arctic
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="arctic";
+			medic="standard";
+			shoulders="cqb";
+		}
+		class 34thPRC_ArmourStandard_ODST_M52_Medic_Arctic
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="arctic";
+			medic="isMedic";
+			shoulders="standard";
+		}
+		class 34thPRC_ArmourStandard_ODST_M52_Tropic
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="tropic";
+			medic="standard";
+			shoulders="standard";
+		}
+		class 34thPRC_ArmourStandard_ODST_M52_Marksman_Tropic
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="tropic";
+			medic="standard";
+			shoulders="marksman";
+		}
+		class 34thPRC_ArmourStandard_ODST_M52_CQB_Tropic
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="tropic";
+			medic="standard";
+			shoulders="cqb";
+		}
+		class 34thPRC_ArmourStandard_ODST_M52_Medic_Tropic
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="tropic";
+			medic="isMedic";
+			shoulders="standard";
+		}
+		class 34thPRC_ArmourStandard_ODST_M52_Woodland
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="woodland";
+			medic="standard";
+			shoulders="standard";
+		}
+		class 34thPRC_ArmourStandard_ODST_M52_Marksman_Woodland
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="woodland";
+			medic="standard";
+			shoulders="marksman";
+		}
+		class 34thPRC_ArmourStandard_ODST_M52_CQB_Woodland
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="woodland";
+			medic="standard";
+			shoulders="cqb";
+		}
+		class 34thPRC_ArmourStandard_ODST_M52_Medic_Woodland
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="woodland";
+			medic="isMedic";
 			shoulders="standard";
 		}
 
