@@ -6,9 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
-
 ### Added
-- 5 color variants for the marine helmet eyewear
 - CH252D ODST Helmet
 - 5 camo variants for new ODST CH252D Helmet
 - 3 visor colors for the new ODST CH252D Helmet
@@ -17,6 +15,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 3 alt vest variants
 - Shoulderless Crossbranch BDU
 - 5 camo patterns for shoulderless BDU
+
+## 0.17.0
+### Added
+- 5 color variants for the marine helmet eyewear
+- New loading screens (Thank you Konkord)
 
 ### Updated
 - New textures and materials for the Mjolnir MkIV
