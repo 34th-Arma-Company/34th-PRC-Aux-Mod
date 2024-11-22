@@ -566,7 +566,7 @@ class 34thPRC_ArmourStandard_ODST_M52_Arctic : 34thPRC_ArmourStandard_ODST_M52_U
         "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Vest.paa", //ODST_Bracer_Left
         "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Vest.paa", //ODST_Bracer_Right
         "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Vest.paa", //ODST_Chest
-        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Artic_ODST_Shoulders.paa", //ODST_Left
+        "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Shoulders.paa", //ODST_Left
         "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Shoulders.paa", //ODST_Right
         "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
         "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
@@ -1184,7 +1184,7 @@ class 34thPRC_ArmourStandard_ODST_M56R_Woodland_Medic: 34thPRC_ArmourStandard_OD
 class MA_M56R_CQB_Vest; //MA_Armor
 class 34thPRC_ArmourStandard_ODST_M56R_Urban_CQB : MA_M56R_CQB_Vest
 {
-    displayNAme="[34th] M56R Combat Armour Urban (CQB)";
+    displayName="[34th] M56R Combat Armour Urban (CQB)";
     author="OverYandere";
     hiddenSelectionsTextures[]=
     {
