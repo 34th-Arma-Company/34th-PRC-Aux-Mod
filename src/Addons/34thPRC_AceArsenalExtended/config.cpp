@@ -6,7 +6,7 @@ class CfgPatches
 		units[] = {};
 		requiredAddons[] = {
 			"34thPRC_ArmourStandard", // 34th PRC Aux Mod
-			"34thPRC_CustomArmour", //34th PRC Aux Mod
+			"34thPRC_ArmourCustom", //34th PRC Aux Mod
 			"aceax_gearinfo" // Ace Arsenal Extended
 		};
 		skipWhenMissingDependencies = 1;
@@ -1164,24 +1164,24 @@ class XtdGearInfos
 		}
 
 		//M52 Customs
-		class 34thPRC_CustomArmour_ODST_M52_Yandere_Urban
+		class 34thPRC_ArmourCustom_ODST_M52_Yandere_Urban
 		{
-			model="34thPRC_CustomArmour_ODST_M52_Yandere_Urban";
+			model="34thPRC_ArmourCustom_ODST_M52_Yandere_Urban";
 			player="yandere";
 			camo="urban";
 			medic="standard";
 			shoulders="standard";
 		};
-		class 34thPRC_CustomArmour_ODST_M52_Marksman_Yandere_Urban
+		class 34thPRC_ArmourCustom_ODST_M52_Marksman_Yandere_Urban
 		{
-			model="34thPRC_CustomArmour_ODST_M52_Yandere_Urban";
+			model="34thPRC_ArmourCustom_ODST_M52_Yandere_Urban";
 			camo="urban";
 			medic="standard";
 			shoulders="marksman";
 		};
-		class 34thPRC_CustomArmour_ODST_M52_CQB_Yandere_Urban
+		class 34thPRC_ArmourCustom_ODST_M52_CQB_Yandere_Urban
 		{
-			model="34thPRC_CustomArmour_ODST_M52_Yandere_Urban";
+			model="34thPRC_ArmourCustom_ODST_M52_Yandere_Urban";
 			player="yandere";
 			camo="urban";
 			medic="standard";
@@ -2267,30 +2267,30 @@ class XtdGearInfos
 		}
 
 		//Custom CH252D Helmets, Group 1: Yandere,
-		class 34thPRC_CustomArmour_ODST_CH2552D_Yandere_Urban_CustomVisor
+		class 34thPRC_ArmourCustom_ODST_CH2552D_Yandere_Urban_CustomVisor
 		{
-			model="34thPRC_CustomArmour_ODST_CH2552D_Yandere_Urban_CustomVisor";
+			model="34thPRC_ArmourCustom_ODST_CH2552D_Yandere_Urban_CustomVisor";
 			player="yandere";
 			camo="urban";
 			visor="custom";
 		};
-		class 34thPRC_CustomArmour_ODST_CH252D_Yandere_Urban_SilverVisor
+		class 34thPRC_ArmourCustom_ODST_CH252D_Yandere_Urban_SilverVisor
 		{
-			model="34thPRC_CustomArmour_ODST_CH2552D_Yandere_Urban_CustomVisor";
+			model="34thPRC_ArmourCustom_ODST_CH2552D_Yandere_Urban_CustomVisor";
 			player="yandere";
 			camo="urban";
 			visor="silver";
 		};
-		class 34thPRC_CustomArmour_ODST_CH252D_Yandere_Urban_RedVisor
+		class 34thPRC_ArmourCustom_ODST_CH252D_Yandere_Urban_RedVisor
 		{
-			model="34thPRC_CustomArmour_ODST_CH2552D_Yandere_Urban_CustomVisor";
+			model="34thPRC_ArmourCustom_ODST_CH2552D_Yandere_Urban_CustomVisor";
 			player="yandere";
 			camo="urban";
 			visor="red";
 		};
-		class 34thPRC_CustomArmour_ODST_CH252D_Yandere_Urban_GoldVisor
+		class 34thPRC_ArmourCustom_ODST_CH252D_Yandere_Urban_GoldVisor
 		{
-			model="34thPRC_CustomArmour_ODST_CH2552D_Yandere_Urban_CustomVisor";
+			model="34thPRC_ArmourCustom_ODST_CH2552D_Yandere_Urban_CustomVisor";
 			player="yandere";
 			camo="urban";
 			visor="gold";
