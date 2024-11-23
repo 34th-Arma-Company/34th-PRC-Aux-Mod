@@ -6,7 +6,6 @@ class CfgPatches
 		units[] = {};
 		requiredAddons[] = {
 			"34thPRC_ArmourStandard", // 34th PRC Aux Mod
-			"34thPRC_ArmourCustom", //34th PRC Aux Mod
 			"aceax_gearinfo" // Ace Arsenal Extended
 		};
 		skipWhenMissingDependencies = 1;
@@ -157,81 +156,6 @@ class XtdGearModels
 			label = "[34thPRC] ODST Armors";
 			author = "34th PRC Modding Team, Over Yandere";
 			options[] = {"camo", "medic", "shoulders"};
-			class camo
-			{
-				alwaysSelectable = 1;
-				changeingame = 0;
-				values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
-				class urban
-				{
-					label = "Urban";
-				};
-				class arctic
-				{
-					label = "Arctic";
-				};
-				class arid
-				{
-					label = "Arid";
-				};
-				class tropic
-				{
-					label = "Tropic";
-				};
-				class woodland
-				{
-					label = "Woodland";
-				};
-			};
-			class medic
-			{
-				alwaysSelectable = 1;
-				changeingame = 0;
-				values[] = {"standard", "isMedic"};
-				class standard
-				{
-					label = "Non-Medic";
-				};
-				class isMedic
-				{
-					label = "Medic";
-				};
-			};
-			class shoulders
-			{
-				alwaysSelectable = 1;
-				changeingame = 0;
-				values[] = {"standard", "cqb", "marksman"};
-				class standard
-				{
-					label = "Standard";
-				};
-				class cqb
-				{
-					label = "CQB";
-				};
-				class marksman
-				{
-					label = "Marksman";
-				};
-			};
-		};
-		//Custom M52 Group 1: Yandere
-		class 34thPRC_ArmourStandard_ODST_M52_Yandere_Urban
-		{
-			label = "[34thPRC] ODST Armors";
-			author = "34th PRC Modding Team, Over Yandere";
-			options[] = {"player", "camo", "medic", "shoulders"};
-			class player
-			{
-				alwaysSelectable = 1;
-				changeingame = 0;
-				values[]={"yandere"};
-				class yandere
-				{
-					label = "Yandere";
-				};
-			}
 			class camo
 			{
 				alwaysSelectable = 1;
@@ -522,71 +446,6 @@ class XtdGearModels
 			};
 		};
 
-		//Custom ODST Helmets Group 1: Yandere,
-		class 34thPRC_ArmourStandard_ODST_CH252D_Yandere_Urban_CustomVisor
-		{
-			label = "[34thPRC] ODST CH252D Helmets";
-			author = "34th PRC Modding Team, Over Yandere";
-			options[] = {"player","camo", "visor"};
-			class player
-			{
-				alwaysSelectable= 1;
-				changeingame =0;
-				values[]= {"yandere"};
-				class yandere
-				{
-					label = "Yandere";
-				}
-			}
-			class camo
-			{
-				alwaysSelectable = 1;
-				changeingame = 0;
-				values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
-				class urban
-				{
-					label = "Urban";
-				};
-				class arctic
-				{
-					label = "Arctic";
-				};
-				class arid
-				{
-					label = "Arid";
-				};
-				class tropic
-				{
-					label = "Tropic";
-				};
-				class woodland
-				{
-					label = "Woodland";
-				};
-			};
-			class visor
-			{
-				alwaysSelectable = 1;
-				changeingame = 0;
-				values[] = {"silver", "red", "gold", "custom"};
-				class silver
-				{
-					label = "Silver";
-				};
-				class maroon
-				{
-					label = "Red";
-				};
-				class gold
-				{
-					label = "Gold";
-				};
-				class custom
-				{
-					label = "Custom";
-				};
-			};
-		};
 
 	};
 
@@ -1162,32 +1021,6 @@ class XtdGearInfos
 			medic="isMedic";
 			shoulders="standard";
 		}
-
-		//M52 Customs
-		class 34thPRC_ArmourCustom_ODST_M52_Yandere_Urban
-		{
-			model="34thPRC_ArmourCustom_ODST_M52_Yandere_Urban";
-			player="yandere";
-			camo="urban";
-			medic="standard";
-			shoulders="standard";
-		};
-		class 34thPRC_ArmourCustom_ODST_M52_Marksman_Yandere_Urban
-		{
-			model="34thPRC_ArmourCustom_ODST_M52_Yandere_Urban";
-			camo="urban";
-			medic="standard";
-			shoulders="marksman";
-		};
-		class 34thPRC_ArmourCustom_ODST_M52_CQB_Yandere_Urban
-		{
-			model="34thPRC_ArmourCustom_ODST_M52_Yandere_Urban";
-			player="yandere";
-			camo="urban";
-			medic="standard";
-			shoulders="cqb";
-		};
-		//Medic Yan Here
 
 		// MA ODST Vests (Old)
 		class 34thPRC_ArmourStandard_ODST_M56R_Urban
@@ -2265,37 +2098,6 @@ class XtdGearInfos
 			camo="woodland";
 			visor="gold";
 		}
-
-		//Custom CH252D Helmets, Group 1: Yandere,
-		class 34thPRC_ArmourCustom_ODST_CH2552D_Yandere_Urban_CustomVisor
-		{
-			model="34thPRC_ArmourCustom_ODST_CH2552D_Yandere_Urban_CustomVisor";
-			player="yandere";
-			camo="urban";
-			visor="custom";
-		};
-		class 34thPRC_ArmourCustom_ODST_CH252D_Yandere_Urban_SilverVisor
-		{
-			model="34thPRC_ArmourCustom_ODST_CH2552D_Yandere_Urban_CustomVisor";
-			player="yandere";
-			camo="urban";
-			visor="silver";
-		};
-		class 34thPRC_ArmourCustom_ODST_CH252D_Yandere_Urban_RedVisor
-		{
-			model="34thPRC_ArmourCustom_ODST_CH2552D_Yandere_Urban_CustomVisor";
-			player="yandere";
-			camo="urban";
-			visor="red";
-		};
-		class 34thPRC_ArmourCustom_ODST_CH252D_Yandere_Urban_GoldVisor
-		{
-			model="34thPRC_ArmourCustom_ODST_CH2552D_Yandere_Urban_CustomVisor";
-			player="yandere";
-			camo="urban";
-			visor="gold";
-		};
-
 
 		// MA ODST Helmets (OLD)
 		class 34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor
