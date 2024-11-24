@@ -91,11 +91,174 @@ class XtdGearModels
 				};
 			};
 		};
+
+		//Ma ODST Armor New
+		class 34thPRC_ArmourStandard_ODST_M52_Urban
+		{
+			label = "[34thPRC] ODST Armors";
+			author = "34th PRC Modding Team, Over Yandere";
+			options[] = {"camo", "medic", "variant"};
+			class camo
+			{
+				alwaysSelectable = 1;
+				changeingame = 0;
+				values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
+				class urban
+				{
+					label = "Urban";
+				};
+				class arctic
+				{
+					label = "Arctic";
+				};
+				class arid
+				{
+					label = "Arid";
+				};
+				class tropic
+				{
+					label = "Tropic";
+				};
+				class woodland
+				{
+					label = "Woodland";
+				};
+			};
+			class medic
+			{
+				alwaysSelectable = 1;
+				changeingame = 0;
+				values[] = {"standard", "isMedic"};
+				class standard
+				{
+					label = "Non-Medic";
+				};
+				class isMedic
+				{
+					label = "Medic";
+				};
+			};
+			class variant
+			{
+				alwaysSelectable = 1;
+				changeingame = 0;
+				values[] = {"a", "b", "c", "cqb", "marksman"};
+				class a
+				{
+					label = "M52-A";
+				};
+				class b
+				{
+					label = "M52-B";
+				};
+				class c
+				{
+					label = "M52-C";
+				};
+				class cqb
+				{
+					label = "CQB";
+				};
+				class marksman
+				{
+					label = "Marksman";
+				};
+			};
+		};
+
+		//MA ODST Armor (Old)
 		class 34thPRC_ArmourStandard_ODST_M56R_Urban
 		{
 			label = "[34thPRC] ODST Armors";
-			author = "34th PRC Modding Team, J. Koko";
-			options[] = {"camo", "medic", "shoulders"};
+			author = "34th PRC Modding Team, Over Yandere";
+			options[] = {"camo", "medic", "variant"};
+			class camo
+			{
+				alwaysSelectable = 1;
+				changeingame = 0;
+				values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
+				class urban
+				{
+					label = "Urban";
+				};
+				class arctic
+				{
+					label = "Arctic";
+				};
+				class arid
+				{
+					label = "Arid";
+				};
+				class tropic
+				{
+					label = "Tropic";
+				};
+				class woodland
+				{
+					label = "Woodland";
+				};
+			};
+			class medic
+			{
+				alwaysSelectable = 1;
+				changeingame = 0;
+				values[] = {"standard", "isMedic"};
+				class standard
+				{
+					label = "Non-Medic";
+				};
+				class isMedic
+				{
+					label = "Medic";
+				};
+			};
+			class variant
+			{
+				alwaysSelectable = 1;
+				changeingame = 0;
+				values[] = {"a", "b", "c", "cqb", "marksman"};
+				class a
+				{
+					label = "M52-A";
+				};
+				class b
+				{
+					label = "M52-B";
+				};
+				class c
+				{
+					label = "M52-C";
+				};
+				class cqb
+				{
+					label = "CQB";
+				};
+				class marksman
+				{
+					label = "Marksman";
+				};
+			};
+		};
+		//Custom M52 Group 1: Yandere
+		class 34thPRC_CustomArmour_ODST_M52_Yandere_Urban
+		{
+			label = "[34thPRC] ODST Custom Armors";
+			author = "34th PRC Modding Team, Over Yandere";
+			options[] = {"player", "camo", "medic", "shoulders"};
+			class player
+			{
+				alwaysSelectable = 1;
+				changeingame = 0;
+				values[]={"yandere"};
+				class yandere
+				{
+					label = "Yandere";
+				};
+				class Player2
+				{
+					label = "Player2";
+				};
+			}
 			class camo
 			{
 				alwaysSelectable = 1;
@@ -141,67 +304,6 @@ class XtdGearModels
 				alwaysSelectable = 1;
 				changeingame = 0;
 				values[] = {"standard", "cqb"};
-				class standard
-				{
-					label = "Standard";
-				};
-				class cqb
-				{
-					label = "CQB";
-				};
-			};
-		};
-		//Ma ODST Armor New
-		class 34thPRC_ArmourStandard_ODST_M52_Urban
-		{
-			label = "[34thPRC] ODST Armors";
-			author = "34th PRC Modding Team, Over Yandere";
-			options[] = {"camo", "medic", "shoulders"};
-			class camo
-			{
-				alwaysSelectable = 1;
-				changeingame = 0;
-				values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
-				class urban
-				{
-					label = "Urban";
-				};
-				class arctic
-				{
-					label = "Arctic";
-				};
-				class arid
-				{
-					label = "Arid";
-				};
-				class tropic
-				{
-					label = "Tropic";
-				};
-				class woodland
-				{
-					label = "Woodland";
-				};
-			};
-			class medic
-			{
-				alwaysSelectable = 1;
-				changeingame = 0;
-				values[] = {"standard", "isMedic"};
-				class standard
-				{
-					label = "Non-Medic";
-				};
-				class isMedic
-				{
-					label = "Medic";
-				};
-			};
-			class shoulders
-			{
-				alwaysSelectable = 1;
-				changeingame = 0;
-				values[] = {"standard", "cqb", "marksman"};
 				class standard
 				{
 					label = "Standard";
@@ -337,8 +439,7 @@ class XtdGearModels
 		{
 			label = "[34thPRC] CH252 Helmets";
 			author = "34th PRC Modding Team, J. Koko";
-			options[] = {"camo", "eyewear", "medic", "eyewear_color"};
-
+			options[] = {"camo", "eyewear", "medic"};
 			class camo
 			{
 				alwaysSelectable = 1;
@@ -397,37 +498,65 @@ class XtdGearModels
 					label = "Medic";
 				};
 			};
-			class eyewear_color
+		};
 
+		//MA ODST Helmet New
+		class 34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor
+		{
+			label = "[34thPRC] ODST CH252D Helmets";
+			author = "34th PRC Modding Team, Over Yandere";
+			options[] = {"camo", "visor"};
+			class camo
 			{
-
 				alwaysSelectable = 1;
 				changeingame = 0;
-				values[] = {"blue", "green", "red", "purple", "orange"};
-				class blue
+				values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
+				class urban
 				{
-					label = "Blue";
+					label = "Urban";
 				};
-				class green
+				class arctic
 				{
-					label = "Green";
+					label = "Arctic";
 				};
-				class red
+				class arid
+				{
+					label = "Arid";
+				};
+				class tropic
+				{
+					label = "Tropic";
+				};
+				class woodland
+				{
+					label = "Woodland";
+				};
+			};
+			class visor
+			{
+				alwaysSelectable = 1;
+				changeingame = 0;
+				values[] = {"silver", "red", "gold", "dp"};
+				class silver
+				{
+					label = "Silver";
+				};
+				class maroon
 				{
 					label = "Red";
 				};
-				class purple
+				class gold
 				{
-					label = "Purple";
+					label = "Gold";
 				};
-				class orange
+				class dp
 				{
-					label = "Orange";
+					label = "Depolarized";
 				};
 			};
 		};
 
-		// MA ODST Helmets
+		// MA ODST Helmets (Old)
 		class 34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor
 		{
 			label = "[34thPRC] ODST Helmets";
@@ -471,53 +600,6 @@ class XtdGearModels
 				class maroon
 				{
 					label = "Maroon";
-				};
-			};
-		};
-		//MA ODST Helmet New
-		class 34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor
-		{
-			label = "[34thPRC] ODST CH252D Helmets";
-			author = "34th PRC Modding Team, Over Yandere";
-			options[] = {"camo", "visor"};
-			class camo
-			{
-				alwaysSelectable = 1;
-				changeingame = 0;
-				values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
-				class urban
-				{
-					label = "Urban";
-				};
-				class arctic
-				{
-					label = "Arctic";
-				};
-				class arid
-				{
-					label = "Arid";
-				};
-				class tropic
-				{
-					label = "Tropic";
-				};
-				class woodland
-				{
-					label = "Woodland";
-				};
-			};
-			class visor
-			{
-				alwaysSelectable = 1;
-				changeingame = 0;
-				values[] = {"silver", "red", "gold"};
-				class silver
-				{
-					label = "Silver";
-				};
-				class maroon
-				{
-					label = "Red";
 				};
 				class gold
 				{
@@ -1035,141 +1117,211 @@ class XtdGearInfos
 			model="34thPRC_ArmourStandard_ODST_M52_Urban";
 			camo="urban";
 			medic="standard";
-			shoulders="standard";
-		}
+			variant="a";
+		};
+		class 34thPRC_ArmourStandard_ODST_M52_B_Urban
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="urban";
+			medic="standard";
+			variant="b";
+		};
+		class 34thPRC_ArmourStandard_ODST_M52_C_Urban
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="urban";
+			medic="standard";
+			variant="c";
+		};
 		class 34thPRC_ArmourStandard_ODST_M52_Marksman_Urban
 		{
 			model="34thPRC_ArmourStandard_ODST_M52_Urban";
 			camo="urban";
 			medic="standard";
-			shoulders="marksman";
-		}
+			variant="marksman";
+		};
 		class 34thPRC_ArmourStandard_ODST_M52_CQB_Urban
 		{
 			model="34thPRC_ArmourStandard_ODST_M52_Urban";
 			camo="urban";
 			medic="standard";
-			shoulders="cqb";
-		}
+			variant="cqb";
+		};
 		class 34thPRC_ArmourStandard_ODST_M52_Medic_Urban
 		{
 			model="34thPRC_ArmourStandard_ODST_M52_Urban";
 			camo="urban";
 			medic="isMedic";
-			shoulders="standard";
-		}
+			variant="a";
+		};
 		class 34thPRC_ArmourStandard_ODST_M52_Arid
 		{
 			model="34thPRC_ArmourStandard_ODST_M52_Urban";
 			camo="arid";
 			medic="standard";
-			shoulders="standard";
-		}
+			variant="a";
+		};
+		class 34thPRC_ArmourStandard_ODST_M52_B_Arid
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="arid";
+			medic="standard";
+			variant="b";
+		};
+		class 34thPRC_ArmourStandard_ODST_M52_C_Arid
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="arid";
+			medic="standard";
+			variant="c";
+		};
 		class 34thPRC_ArmourStandard_ODST_M52_Marksman_Arid
 		{
 			model="34thPRC_ArmourStandard_ODST_M52_Urban";
 			camo="arid";
 			medic="standard";
-			shoulders="marksman";
-		}
+			variant="marksman";
+		};
 		class 34thPRC_ArmourStandard_ODST_M52_CQB_Arid
 		{
 			model="34thPRC_ArmourStandard_ODST_M52_Urban";
 			camo="arid";
 			medic="standard";
-			shoulders="cqb";
-		}
+			variant="cqb";
+		};
 		class 34thPRC_ArmourStandard_ODST_M52_Medic_Arid
 		{
 			model="34thPRC_ArmourStandard_ODST_M52_Urban";
 			camo="arid";
 			medic="isMedic";
-			shoulders="standard";
-		}
+			variant="a";
+		};
 		class 34thPRC_ArmourStandard_ODST_M52_Arctic
 		{
 			model="34thPRC_ArmourStandard_ODST_M52_Urban";
 			camo="arctic";
 			medic="standard";
-			shoulders="standard";
-		}
+			variant="a";
+		};
+		class 34thPRC_ArmourStandard_ODST_M52_B_Arctic
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="arctic";
+			medic="standard";
+			variant="b";
+		};
+		class 34thPRC_ArmourStandard_ODST_M52_C_Arctic
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="arctic";
+			medic="standard";
+			variant="c";
+		};
 		class 34thPRC_ArmourStandard_ODST_M52_Marksman_Arctic
 		{
 			model="34thPRC_ArmourStandard_ODST_M52_Urban";
 			camo="arctic";
 			medic="standard";
-			shoulders="marksman";
-		}
+			variant="marksman";
+		};
 		class 34thPRC_ArmourStandard_ODST_M52_CQB_Arctic
 		{
 			model="34thPRC_ArmourStandard_ODST_M52_Urban";
 			camo="arctic";
 			medic="standard";
-			shoulders="cqb";
-		}
+			variant="cqb";
+		};
 		class 34thPRC_ArmourStandard_ODST_M52_Medic_Arctic
 		{
 			model="34thPRC_ArmourStandard_ODST_M52_Urban";
 			camo="arctic";
 			medic="isMedic";
-			shoulders="standard";
-		}
+			variant="a";
+		};
 		class 34thPRC_ArmourStandard_ODST_M52_Tropic
 		{
 			model="34thPRC_ArmourStandard_ODST_M52_Urban";
 			camo="tropic";
 			medic="standard";
-			shoulders="standard";
-		}
+			variant="a";
+		};
+		class 34thPRC_ArmourStandard_ODST_M52_B_Tropic
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="tropic";
+			medic="standard";
+			variant="b";
+		};
+		class 34thPRC_ArmourStandard_ODST_M52_C_Tropic
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="tropic";
+			medic="standard";
+			variant="c";
+		};
 		class 34thPRC_ArmourStandard_ODST_M52_Marksman_Tropic
 		{
 			model="34thPRC_ArmourStandard_ODST_M52_Urban";
 			camo="tropic";
 			medic="standard";
-			shoulders="marksman";
-		}
+			variant="marksman";
+		};
 		class 34thPRC_ArmourStandard_ODST_M52_CQB_Tropic
 		{
 			model="34thPRC_ArmourStandard_ODST_M52_Urban";
 			camo="tropic";
 			medic="standard";
-			shoulders="cqb";
-		}
+			variant="cqb";
+		};
 		class 34thPRC_ArmourStandard_ODST_M52_Medic_Tropic
 		{
 			model="34thPRC_ArmourStandard_ODST_M52_Urban";
 			camo="tropic";
 			medic="isMedic";
-			shoulders="standard";
-		}
+			variant="a";
+		};
 		class 34thPRC_ArmourStandard_ODST_M52_Woodland
 		{
 			model="34thPRC_ArmourStandard_ODST_M52_Urban";
 			camo="woodland";
 			medic="standard";
-			shoulders="standard";
-		}
+			variant="a";
+		};
+		class 34thPRC_ArmourStandard_ODST_M52_B_Woodland
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="woodland";
+			medic="standard";
+			variant="b";
+		};
+		class 34thPRC_ArmourStandard_ODST_M52_C_Woodland
+		{
+			model="34thPRC_ArmourStandard_ODST_M52_Urban";
+			camo="woodland";
+			medic="standard";
+			variant="c";
+		};
 		class 34thPRC_ArmourStandard_ODST_M52_Marksman_Woodland
 		{
 			model="34thPRC_ArmourStandard_ODST_M52_Urban";
 			camo="woodland";
 			medic="standard";
-			shoulders="marksman";
-		}
+			variant="marksman";
+		};
 		class 34thPRC_ArmourStandard_ODST_M52_CQB_Woodland
 		{
 			model="34thPRC_ArmourStandard_ODST_M52_Urban";
 			camo="woodland";
 			medic="standard";
-			shoulders="cqb";
-		}
+			variant="cqb";
+		};
 		class 34thPRC_ArmourStandard_ODST_M52_Medic_Woodland
 		{
 			model="34thPRC_ArmourStandard_ODST_M52_Urban";
 			camo="woodland";
 			medic="isMedic";
-			shoulders="standard";
-		}
+			variant="a";
+		};
 
 		//M52 Customs
 		class 34thPRC_ArmourCustom_ODST_M52_Yandere_Urban
@@ -1219,72 +1371,72 @@ class XtdGearInfos
 			camo = "arid";
 			medic = "standard";
 			shoulders = "standard";
-		}
+		};
 		class 34thPRC_ArmourStandard_ODST_M56R_Arctic
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "arctic";
 			medic = "standard";
 			shoulders = "standard";
-		}
+		};
 		class 34thPRC_ArmourStandard_ODST_M56R_Woodland
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "woodland";
 			medic = "standard";
 			shoulders = "standard";
-		}
+		};
 		class 34thPRC_ArmourStandard_ODST_M56R_Tropic
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "tropic";
 			medic = "standard";
 			shoulders = "standard";
-		}
+		};
 		class 34thPRC_ArmourStandard_ODST_M56R_Urban_Medic
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "urban";
 			medic = "isMedic";
 			shoulders = "standard";
-		}
+		};
 		class 34thPRC_ArmourStandard_ODST_M56R_Arctic_Medic
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "arctic";
 			medic = "isMedic";
 			shoulders = "standard";
-		}
+		};
 		class 34thPRC_ArmourStandard_ODST_M56R_Arid_Medic
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "arid";
 			medic = "isMedic";
 			shoulders = "standard";
-		}
+		};
 		class 34thPRC_ArmourStandard_ODST_M56R_Tropic_Medic
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "tropic";
 			medic = "isMedic";
 			shoulders = "standard";
-		}
+		};
 		class 34thPRC_ArmourStandard_ODST_M56R_Woodland_Medic
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "woodland";
 			medic = "isMedic";
 			shoulders = "standard";
-		}
+		};
 		class 34thPRC_ArmourStandard_ODST_M56R_Urban_CQB
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 			camo = "urban";
 			medic = "standard";
 			shoulders = "cqb";
-		}
+		};
 
-		// MA ODST Uniforms (Old)
+		// MA ODST Uniforms
 		class 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed
 		{
 			model = "34thPRC_ArmourStandard_ODST_Uniform_UrbanRed";
@@ -1330,8 +1482,6 @@ class XtdGearInfos
 			camo = "urban";
 			eyewear = "eyepiece";
 			medic = "false";
-			eyewear_color = "green"
-
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses
 		{
@@ -1339,72 +1489,6 @@ class XtdGearInfos
 			camo = "urban";
 			eyewear = "visor";
 			medic = "false";
-			eyewear_color = "orange"
-	   };
-
-		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece_Blue
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "urban";
-			eyewear = "eyepiece";
-			medic = "false";
-			eyewear_color = "blue";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses_Blue
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "urban";
-			eyewear = "visor";
-			medic = "false";
-			eyewear_color = "blue";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece_Orange
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "urban";
-			eyewear = "eyepiece";
-			medic = "false";
-			eyewear_color = "orange";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses_Green
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "urban";
-			eyewear = "visor";
-			medic = "false";
-			eyewear_color = "green";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece_Red
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "urban";
-			eyewear = "eyepiece";
-			medic = "false";
-			eyewear_color = "red";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses_Red
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "urban";
-			eyewear = "visor";
-			medic = "false";
-			eyewear_color = "red";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece_Purple
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "urban";
-			eyewear = "eyepiece";
-			medic = "false";
-			eyewear_color = "purple";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses_Purple
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "urban";
-			eyewear = "visor";
-			medic = "false";
-			eyewear_color = "purple";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic
 		{
@@ -1419,7 +1503,6 @@ class XtdGearInfos
 			camo = "arctic";
 			eyewear = "eyepiece";
 			medic = "false";
-			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_VisorGlasses
 		{
@@ -1427,71 +1510,6 @@ class XtdGearInfos
 			camo = "arctic";
 			eyewear = "visor";
 			medic = "false";
-			eyewear_color = "orange";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_EyePiece_Blue
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arctic";
-			eyewear = "eyepiece";
-			medic = "false";
-			eyewear_color = "blue";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_VisorGlasses_Blue
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arctic";
-			eyewear = "visor";
-			medic = "false";
-			eyewear_color = "blue";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_EyePiece_Orange
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arctic";
-			eyewear = "eyepiece";
-			medic = "false";
-			eyewear_color = "orange";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_VisorGlasses_Green
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arctic";
-			eyewear = "visor";
-			medic = "false";
-			eyewear_color = "green";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_EyePiece_Red
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arctic";
-			eyewear = "eyepiece";
-			medic = "false";
-			eyewear_color = "red";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_VisorGlasses_Red
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arctic";
-			eyewear = "visor";
-			medic = "false";
-			eyewear_color = "red";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_EyePiece_Purple
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arctic";
-			eyewear = "eyepiece";
-			medic = "false";
-			eyewear_color = "purple";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_VisorGlasses_Purple
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arctic";
-			eyewear = "visor";
-			medic = "false";
-			eyewear_color = "purple";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arid
 		{
@@ -1506,7 +1524,6 @@ class XtdGearInfos
 			camo = "arid";
 			eyewear = "eyepiece";
 			medic = "false";
-			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_VisorGlasses
 		{
@@ -1514,71 +1531,6 @@ class XtdGearInfos
 			camo = "arid";
 			eyewear = "visor";
 			medic = "false";
-			eyewear_color = "orange";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_EyePiece_Blue
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arid";
-			eyewear = "eyepiece";
-			medic = "false";
-			eyewear_color = "blue";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_VisorGlasses_Blue
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arid";
-			eyewear = "visor";
-			medic = "false";
-			eyewear_color = "blue";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_EyePiece_Orange
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arid";
-			eyewear = "eyepiece";
-			medic = "false";
-			eyewear_color = "orange";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_VisorGlasses_Green
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arid";
-			eyewear = "visor";
-			medic = "false";
-			eyewear_color = "green";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_EyePiece_Purple
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arid";
-			eyewear = "eyepiece";
-			medic = "false";
-			eyewear_color = "purple";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_VisorGlasses_Purple
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arid";
-			eyewear = "visor";
-			medic = "false";
-			eyewear_color = "purple";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_EyePiece_Red
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arid";
-			eyewear = "eyepiece";
-			medic = "false";
-			eyewear_color = "red";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_VisorGlasses_Red
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arid";
-			eyewear = "visor";
-			medic = "false";
-			eyewear_color = "red";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic
 		{
@@ -1593,7 +1545,6 @@ class XtdGearInfos
 			camo = "tropic";
 			eyewear = "eyepiece";
 			medic = "false";
-			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_VisorGlasses
 		{
@@ -1601,71 +1552,6 @@ class XtdGearInfos
 			camo = "tropic";
 			eyewear = "visor";
 			medic = "false";
-			eyewear_color = "orange";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_EyePiece_Blue
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "tropic";
-			eyewear = "eyepiece";
-			medic = "false";
-			eyewear_color = "blue";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_VisorGlasses_Blue
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "tropic";
-			eyewear = "visor";
-			medic = "false";
-			eyewear_color = "blue";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_EyePiece_Orange
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "tropic";
-			eyewear = "eyepiece";
-			medic = "false";
-			eyewear_color = "orange";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_VisorGlasses_Green
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "tropic";
-			eyewear = "visor";
-			medic = "false";
-			eyewear_color = "green";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_EyePiece_Purple
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "tropic";
-			eyewear = "eyepiece";
-			medic = "false";
-			eyewear_color = "purple";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_VisorGlasses_Purple
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "tropic";
-			eyewear = "visor";
-			medic = "false";
-			eyewear_color = "purple";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_EyePiece_Red
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "tropic";
-			eyewear = "eyepiece";
-			medic = "false";
-			eyewear_color = "red";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_VisorGlasses_Red
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "tropic";
-			eyewear = "visor";
-			medic = "false";
-			eyewear_color = "red";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland
 		{
@@ -1680,7 +1566,6 @@ class XtdGearInfos
 			camo = "woodland";
 			eyewear = "eyepiece";
 			medic = "false";
-			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_VisorGlasses
 		{
@@ -1688,71 +1573,6 @@ class XtdGearInfos
 			camo = "woodland";
 			eyewear = "visor";
 			medic = "false";
-			eyewear_color = "orange";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_EyePiece_Blue
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "woodland";
-			eyewear = "eyepiece";
-			medic = "false";
-			eyewear_color = "blue";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_VisorGlasses_Blue
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "woodland";
-			eyewear = "visor";
-			medic = "false";
-			eyewear_color = "blue";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_EyePiece_Orange
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "woodland";
-			eyewear = "eyepiece";
-			medic = "false";
-			eyewear_color = "orange";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_VisorGlasses_Green
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "woodland";
-			eyewear = "visor";
-			medic = "false";
-			eyewear_color = "green";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_EyePiece_Purple
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "woodland";
-			eyewear = "eyepiece";
-			medic = "false";
-			eyewear_color = "purple";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_VisorGlasses_Purple
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "woodland";
-			eyewear = "visor";
-			medic = "false";
-			eyewear_color = "purple";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_EyePiece_Red
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "woodland";
-			eyewear = "eyepiece";
-			medic = "false";
-			eyewear_color = "red";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_VisorGlasses_Red
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "woodland";
-			eyewear = "visor";
-			medic = "false";
-			eyewear_color = "red";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic
 		{
@@ -1767,7 +1587,6 @@ class XtdGearInfos
 			camo = "urban";
 			eyewear = "eyepiece";
 			medic = "true";
-			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses
 		{
@@ -1775,71 +1594,6 @@ class XtdGearInfos
 			camo = "urban";
 			eyewear = "visor";
 			medic = "true";
-			eyewear_color = "orange";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece_Blue
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "urban";
-			eyewear = "eyepiece";
-			medic = "true";
-			eyewear_color = "blue";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses_Blue
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "urban";
-			eyewear = "visor";
-			medic = "true";
-			eyewear_color = "blue";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece_Orange
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "urban";
-			eyewear = "eyepiece";
-			medic = "true";
-			eyewear_color = "orange";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses_Green
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "urban";
-			eyewear = "visor";
-			medic = "true";
-			eyewear_color = "green";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece_Purple
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "urban";
-			eyewear = "eyepiece";
-			medic = "true";
-			eyewear_color = "purple";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses_Purple
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "urban";
-			eyewear = "visor";
-			medic = "true";
-			eyewear_color = "purple";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece_Red
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "urban";
-			eyewear = "eyepiece";
-			medic = "true";
-			eyewear_color = "red";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses_Red
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "urban";
-			eyewear = "visor";
-			medic = "true";
-			eyewear_color = "red";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic
 		{
@@ -1854,7 +1608,6 @@ class XtdGearInfos
 			camo = "arctic";
 			eyewear = "eyepiece";
 			medic = "true";
-			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic_VisorGlasses
 		{
@@ -1862,71 +1615,6 @@ class XtdGearInfos
 			camo = "arctic";
 			eyewear = "visor";
 			medic = "true";
-			eyewear_color = "orange";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic_EyePiece_Blue
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arctic";
-			eyewear = "eyepiece";
-			medic = "true";
-			eyewear_color = "blue";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic_VisorGlasses_Blue
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arctic";
-			eyewear = "visor";
-			medic = "true";
-			eyewear_color = "blue";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic_EyePiece_Orange
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arctic";
-			eyewear = "eyepiece";
-			medic = "true";
-			eyewear_color = "orange";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic_VisorGlasses_Green
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arctic";
-			eyewear = "visor";
-			medic = "true";
-			eyewear_color = "green";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic_EyePiece_Purple
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arctic";
-			eyewear = "eyepiece";
-			medic = "true";
-			eyewear_color = "purple";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic_VisorGlasses_Purple
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arctic";
-			eyewear = "visor";
-			medic = "true";
-			eyewear_color = "purple";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic_EyePiece_Red
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arctic";
-			eyewear = "eyepiece";
-			medic = "true";
-			eyewear_color = "red";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arctic_Medic_VisorGlasses_Red
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arctic";
-			eyewear = "visor";
-			medic = "true";
-			eyewear_color = "red";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic
 		{
@@ -1941,7 +1629,6 @@ class XtdGearInfos
 			camo = "arid";
 			eyewear = "eyepiece";
 			medic = "true";
-			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_VisorGlasses
 		{
@@ -1949,71 +1636,6 @@ class XtdGearInfos
 			camo = "arid";
 			eyewear = "visor";
 			medic = "true";
-			eyewear_color = "orange";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_EyePiece_Blue
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arid";
-			eyewear = "eyepiece";
-			medic = "true";
-			eyewear_color = "blue";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_VisorGlasses_Blue
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arid";
-			eyewear = "visor";
-			medic = "true";
-			eyewear_color = "blue";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_EyePiece_Orange
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arid";
-			eyewear = "eyepiece";
-			medic = "true";
-			eyewear_color = "orange";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_VisorGlasses_Green
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arid";
-			eyewear = "visor";
-			medic = "true";
-			eyewear_color = "green";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_EyePiece_Purple
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arid";
-			eyewear = "eyepiece";
-			medic = "true";
-			eyewear_color = "purple";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_VisorGlasses_Purple
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arid";
-			eyewear = "visor";
-			medic = "true";
-			eyewear_color = "purple";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_EyePiece_Red
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arid";
-			eyewear = "eyepiece";
-			medic = "true";
-			eyewear_color = "red";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_VisorGlasses_Red
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "arid";
-			eyewear = "visor";
-			medic = "true";
-			eyewear_color = "red";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic
 		{
@@ -2028,7 +1650,6 @@ class XtdGearInfos
 			camo = "tropic";
 			eyewear = "eyepiece";
 			medic = "true";
-			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic_VisorGlasses
 		{
@@ -2036,71 +1657,6 @@ class XtdGearInfos
 			camo = "tropic";
 			eyewear = "visor";
 			medic = "true";
-			eyewear_color = "orange";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic_EyePiece_Blue
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "tropic";
-			eyewear = "eyepiece";
-			medic = "true";
-			eyewear_color = "blue";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic_VisorGlasses_Blue
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "tropic";
-			eyewear = "visor";
-			medic = "true";
-			eyewear_color = "blue";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic_EyePiece_Orange
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "tropic";
-			eyewear = "eyepiece";
-			medic = "true";
-			eyewear_color = "orange";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic_VisorGlasses_Green
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "tropic";
-			eyewear = "visor";
-			medic = "true";
-			eyewear_color = "green";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic_EyePiece_Purple
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "tropic";
-			eyewear = "eyepiece";
-			medic = "true";
-			eyewear_color = "purple";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic_VisorGlasses_Purple
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "tropic";
-			eyewear = "visor";
-			medic = "true";
-			eyewear_color = "purple";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic_EyePiece_Red
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "tropic";
-			eyewear = "eyepiece";
-			medic = "true";
-			eyewear_color = "red";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Tropic_Medic_VisorGlasses_Red
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "tropic";
-			eyewear = "visor";
-			medic = "true";
-			eyewear_color = "red";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic
 		{
@@ -2115,7 +1671,6 @@ class XtdGearInfos
 			camo = "woodland";
 			eyewear = "eyepiece";
 			medic = "true";
-			eyewear_color = "green";
 		};
 		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_VisorGlasses
 		{
@@ -2123,71 +1678,6 @@ class XtdGearInfos
 			camo = "woodland";
 			eyewear = "visor";
 			medic = "true";
-			eyewear_color = "orange";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_EyePiece_Blue
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "woodland";
-			eyewear = "eyepiece";
-			medic = "true";
-			eyewear_color = "blue";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_VisorGlasses_Blue
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "woodland";
-			eyewear = "visor";
-			medic = "true";
-			eyewear_color = "blue";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_EyePiece_Orange
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "woodland";
-			eyewear = "eyepiece";
-			medic = "true";
-			eyewear_color = "orange";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_VisorGlasses_Green
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "woodland";
-			eyewear = "visor";
-			medic = "true";
-			eyewear_color = "green";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_EyePiece_Purple
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "woodland";
-			eyewear = "eyepiece";
-			medic = "true";
-			eyewear_color = "purple";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_VisorGlasses_Purple
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "woodland";
-			eyewear = "visor";
-			medic = "true";
-			eyewear_color = "purple";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_EyePiece_Red
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "woodland";
-			eyewear = "eyepiece";
-			medic = "true";
-			eyewear_color = "red";
-		};
-		class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_VisorGlasses_Red
-		{
-			model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
-			camo = "woodland";
-			eyewear = "visor";
-			medic = "true";
-			eyewear_color = "red";
 		};
 
 		//MA ODST Helmets CH252D New
@@ -2209,6 +1699,12 @@ class XtdGearInfos
 			camo= "urban";
 			visor= "gold";
 		};
+		class 34thPRC_ArmourStandard_ODST_CH252D_Urban_DP
+		{
+			model= "34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor";
+			camo= "urban";
+			visor= "dp";
+		};
 		class 34thPRC_ArmourStandard_ODST_CHCH252D_Arid_SilverVisor
 		{
 			model="34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor";
@@ -2226,6 +1722,12 @@ class XtdGearInfos
 			model="34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor";
 			camo="arid";
 			visor="gold";
+		};
+		class 34thPRC_ArmourStandard_ODST_CH252D_Arid_DP
+		{
+			model= "34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor";
+			camo= "arid";
+			visor= "dp";
 		};
 		class 34thPRC_ArmourStandard_ODST_CH252D_Arctic_SilverVisor
 		{
@@ -2245,6 +1747,12 @@ class XtdGearInfos
 			camo="arctic";
 			visor="gold";
 		};
+		class 34thPRC_ArmourStandard_ODST_CH252D_Arctic_DP
+		{
+			model= "34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor";
+			camo= "arctic";
+			visor= "dp";
+		};
 		class 34thPRC_ArmourStandard_ODST_CH252D_Tropic_SilverVisor
 		{
 			model="34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor";
@@ -2263,6 +1771,12 @@ class XtdGearInfos
 			camo="tropic";
 			visor="gold";
 		};
+		class 34thPRC_ArmourStandard_ODST_CH252D_Tropic_DP
+		{
+			model= "34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor";
+			camo= "tropic";
+			visor= "dp";
+		};
 		class 34thPRC_ArmourStandard_ODST_CH252D_Woodland_SilverVisor
 		{
 			model="34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor";
@@ -2280,7 +1794,13 @@ class XtdGearInfos
 			model="34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor";
 			camo="woodland";
 			visor="gold";
-		}
+		};
+		class 34thPRC_ArmourStandard_ODST_CH252D_Woodland_DP
+		{
+			model= "34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor";
+			camo= "woodland";
+			visor= "dp";
+		};
 
 		//Custom CH252D Helmets, Group 1: Yandere,
 		class 34thPRC_ArmourCustom_ODST_CH2552D_Yandere_Urban_CustomVisor
@@ -2326,7 +1846,7 @@ class XtdGearInfos
 			visor="silver";
 		};
 
-		// MA ODST Helmets (OLD)
+		// MA ODST Helmets (Old)
 		class 34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor
 		{
 			model = "34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor";

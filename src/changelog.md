@@ -7,22 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 ### Added
-- CH252D ODST Helmet
-- 5 camo variants for new ODST CH252D Helmet
-- 3 visor colors for the new ODST CH252D Helmet
-- M52 ODST Vest
-- 5 camo variants for new ODST M52 Vest
-- 3 alt vest variants
-- Shoulderless Crossbranch BDU
-- 5 camo patterns for shoulderless BDU
+- No Shoulder Crosbranch BDU option in 6 camo patterns
+- CH252D Helmet in 5 camo patterns and 3 visor colors
+- CH252D Deploarized in 5 camo patterns
+- M52D ODST Armour in 5 camo patterns with 5 armor variants
 
-## 0.17.0
-### Added
-- 5 color variants for the marine helmet eyewear
-- New loading screens (Thank you Konkord)
-
-### Updated
-- New textures and materials for the Mjolnir MkIV
 
 ## 0.16.0
 ### Added
