@@ -217,9 +217,9 @@ class XtdGearModels
 			};
 		};
 		//Custom M52 Group 1: Yandere
-		class 34thPRC_ArmourStandard_ODST_M52_Yandere_Urban
+		class 34thPRC_CustomArmour_ODST_M52_Yandere_Urban
 		{
-			label = "[34thPRC] ODST Armors";
+			label = "[34thPRC] ODST Custom Armors";
 			author = "34th PRC Modding Team, Over Yandere";
 			options[] = {"player", "camo", "medic", "shoulders"};
 			class player
@@ -230,6 +230,10 @@ class XtdGearModels
 				class yandere
 				{
 					label = "Yandere";
+				};
+				class Player2
+				{
+					label = "Player2";
 				};
 			}
 			class camo
@@ -525,19 +529,23 @@ class XtdGearModels
 		//Custom ODST Helmets Group 1: Yandere,
 		class 34thPRC_ArmourStandard_ODST_CH252D_Yandere_Urban_CustomVisor
 		{
-			label = "[34thPRC] ODST CH252D Helmets";
+			label = "[34thPRC] ODST CH252D Custom Helmets";
 			author = "34th PRC Modding Team, Over Yandere";
 			options[] = {"player","camo", "visor"};
 			class player
 			{
 				alwaysSelectable= 1;
 				changeingame =0;
-				values[]= {"yandere"};
+				values[]= {"yandere","player2"};
 				class yandere
 				{
 					label = "Yandere";
-				}
-			}
+				};
+				class player2
+				{
+					label = "Player2";
+				};
+			};
 			class camo
 			{
 				alwaysSelectable = 1;
@@ -1188,6 +1196,14 @@ class XtdGearInfos
 			shoulders="cqb";
 		};
 		//Medic Yan Here
+		class 34thPRC_CustomArmour_ODST_M52_Yandere_Arid
+		{
+			model="34thPRC_CustomArmour_ODST_M52_Yandere_Urban";
+			player="yandere";
+			camo="arid";
+			medic="standard";
+			shoulders="standard";
+		}
 
 		// MA ODST Vests (Old)
 		class 34thPRC_ArmourStandard_ODST_M56R_Urban
@@ -2295,7 +2311,20 @@ class XtdGearInfos
 			camo="urban";
 			visor="gold";
 		};
-
+		class 34thPRC_CustomArmour_ODST_CH2552D_Yandere_Arid_CustomVisor
+		{
+			model="34thPRC_CustomArmour_ODST_CH2552D_Yandere_Urban_CustomVisor";
+			player="yandere";
+			camo="arid";
+			visor="custom";
+		};
+		class 34thPRC_CustomArmour_ODST_CH252D_Yandere_Arid_SilverVisor
+		{
+			model="34thPRC_CustomArmour_ODST_CH2552D_Yandere_Urban_CustomVisor";
+			player="yandere";
+			camo="arid";
+			visor="silver";
+		};
 
 		// MA ODST Helmets (OLD)
 		class 34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor
