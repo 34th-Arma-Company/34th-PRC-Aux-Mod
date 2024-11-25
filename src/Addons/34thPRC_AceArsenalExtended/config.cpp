@@ -14,9 +14,9 @@ class CfgPatches
 
 class XtdGearModels
 {
-	#include "data\aax_models.hpp"
+	#include "data\aax_models\config.hpp"
 };
 class XtdGearInfos
 {
-	#include "data\aax_infos.hpp"
+	#include "data\aax_infos\config.hpp"
 };

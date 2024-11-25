@@ -1,6 +1,6 @@
-
 class cfgWeapons
 {
+
 	class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light
 	{
 		label = "[34thPRC] Uniforms";
@@ -68,102 +68,6 @@ class cfgWeapons
 			class down
 			{
 				label = "No Collar";
-			};
-		};
-	};
-	class 34thPRC_ArmourStandard_ODST_M56R_Urban
-	{
-		label = "[34thPRC] ODST Armors";
-		author = "34th PRC Modding Team, J. Koko";
-		options[] = {"camo", "medic", "shoulders"};
-		class camo
-		{
-			alwaysSelectable = 1;
-			changeingame = 0;
-			values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
-			class urban
-			{
-				label = "Urban";
-			};
-			class arctic
-			{
-				label = "Arctic";
-			};
-			class arid
-			{
-				label = "Arid";
-			};
-			class tropic
-			{
-				label = "Tropic";
-			};
-			class woodland
-			{
-				label = "Woodland";
-			};
-		};
-		class medic
-		{
-			alwaysSelectable = 1;
-			changeingame = 0;
-			values[] = {"standard", "isMedic"};
-			class standard
-			{
-				label = "Non-Medic";
-			};
-			class isMedic
-			{
-				label = "Medic";
-			};
-		};
-		class shoulders
-		{
-			alwaysSelectable = 1;
-			changeingame = 0;
-			values[] = {"standard", "cqb"};
-			class standard
-			{
-				label = "Standard";
-			};
-			class cqb
-			{
-				label = "CQB";
-			};
-		};
-	};
-	class 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed
-	{
-		label = "[34thPRC] ODST Uniforms";
-		author = "34th PRC Modding Team, J. Koko";
-		options[] = {"camo"};
-		class camo
-		{
-			alwaysSelectable = 1;
-			changeingame = 0;
-			values[] = {"urbanRed", "urbanBlue", "arctic", "arid", "tropic", "woodland"};
-			class urbanRed
-			{
-				label = "Urban Red";
-			};
-			class urbanBlue
-			{
-				label = "Urban Blue";
-			};
-			class arctic
-			{
-				label = "Arctic";
-			};
-			class arid
-			{
-				label = "Arid";
-			};
-			class tropic
-			{
-				label = "Tropic";
-			};
-			class woodland
-			{
-				label = "Woodland";
 			};
 		};
 	};
@@ -263,6 +167,104 @@ class cfgWeapons
 		};
 	};
 
+
+	class 34thPRC_ArmourStandard_ODST_M56R_Urban
+	{
+		label = "[34thPRC] ODST Armors";
+		author = "34th PRC Modding Team, J. Koko";
+		options[] = {"camo", "medic", "shoulders"};
+		class camo
+		{
+			alwaysSelectable = 1;
+			changeingame = 0;
+			values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
+			class urban
+			{
+				label = "Urban";
+			};
+			class arctic
+			{
+				label = "Arctic";
+			};
+			class arid
+			{
+				label = "Arid";
+			};
+			class tropic
+			{
+				label = "Tropic";
+			};
+			class woodland
+			{
+				label = "Woodland";
+			};
+		};
+		class medic
+		{
+			alwaysSelectable = 1;
+			changeingame = 0;
+			values[] = {"standard", "isMedic"};
+			class standard
+			{
+				label = "Non-Medic";
+			};
+			class isMedic
+			{
+				label = "Medic";
+			};
+		};
+		class shoulders
+		{
+			alwaysSelectable = 1;
+			changeingame = 0;
+			values[] = {"standard", "cqb"};
+			class standard
+			{
+				label = "Standard";
+			};
+			class cqb
+			{
+				label = "CQB";
+			};
+		};
+	};
+	class 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed
+	{
+		label = "[34thPRC] ODST Uniforms";
+		author = "34th PRC Modding Team, J. Koko";
+		options[] = {"camo"};
+		class camo
+		{
+			alwaysSelectable = 1;
+			changeingame = 0;
+			values[] = {"urbanRed", "urbanBlue", "arctic", "arid", "tropic", "woodland"};
+			class urbanRed
+			{
+				label = "Urban Red";
+			};
+			class urbanBlue
+			{
+				label = "Urban Blue";
+			};
+			class arctic
+			{
+				label = "Arctic";
+			};
+			class arid
+			{
+				label = "Arid";
+			};
+			class tropic
+			{
+				label = "Tropic";
+			};
+			class woodland
+			{
+				label = "Woodland";
+			};
+		};
+	};
+
 	// MA ODST Helmets
 	class 34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor
 	{
@@ -310,6 +312,8 @@ class cfgWeapons
 			};
 		};
 	};
+
+
 };
 
 class cfgVehicles
@@ -442,4 +446,5 @@ class cfgVehicles
 			};
 		};
 	};
+
 };
