@@ -42,4 +42,5 @@ No trailing whitespace at the end of a line.
 Paths inside of the PBO are to be lowercase, the config should also use lowercase when pointing to files.
 
 ### Texture file / .paa names
-Texture file names should be lowercase with words sperated by underscores `_`.
+Texture file names should be lowercase with words sperated by underscores `_`, and should not have information that can be gleaned from the folder structure.
+
