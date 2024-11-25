@@ -244,7 +244,7 @@ class XtdGearModels
 		{
 			label = "[34thPRC] ODST Custom Armors";
 			author = "34th PRC Modding Team, Over Yandere";
-			options[] = {"player", "camo", "medic", "shoulders"};
+			options[] = {"player", "camo", "medic", "variant"};
 			class player
 			{
 				alwaysSelectable = 1;
@@ -299,93 +299,22 @@ class XtdGearModels
 					label = "Medic";
 				};
 			};
-			class shoulders
+			class variant
 			{
 				alwaysSelectable = 1;
 				changeingame = 0;
-				values[] = {"standard", "cqb"};
-				class standard
+				values[] = {"a", "b", "c", "cqb", "marksman"};
+				class a
 				{
-					label = "Standard";
+					label = "M52-A";
 				};
-				class cqb
+				class b
 				{
-					label = "CQB";
+					label = "M52-B";
 				};
-				class marksman
+				class c
 				{
-					label = "Marksman";
-				};
-			};
-		};
-		//Custom M52 Group 1: Yandere
-		class 34thPRC_CustomArmour_ODST_M52_Yandere_Urban
-		{
-			label = "[34thPRC] ODST Custom Armors";
-			author = "34th PRC Modding Team, Over Yandere";
-			options[] = {"player", "camo", "medic", "shoulders"};
-			class player
-			{
-				alwaysSelectable = 1;
-				changeingame = 0;
-				values[]={"yandere"};
-				class yandere
-				{
-					label = "Yandere";
-				};
-				class Player2
-				{
-					label = "Player2";
-				};
-			}
-			class camo
-			{
-				alwaysSelectable = 1;
-				changeingame = 0;
-				values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
-				class urban
-				{
-					label = "Urban";
-				};
-				class arctic
-				{
-					label = "Arctic";
-				};
-				class arid
-				{
-					label = "Arid";
-				};
-				class tropic
-				{
-					label = "Tropic";
-				};
-				class woodland
-				{
-					label = "Woodland";
-				};
-			};
-			class medic
-			{
-				alwaysSelectable = 1;
-				changeingame = 0;
-				values[] = {"standard", "isMedic"};
-				class standard
-				{
-					label = "Non-Medic";
-				};
-				class isMedic
-				{
-					label = "Medic";
-				};
-			};
-			class shoulders
-			{
-				alwaysSelectable = 1;
-				changeingame = 0;
-				values[] = {"standard", "cqb", "marksman"};
-				class standard
-				{
-					label = "Standard";
+					label = "M52-C";
 				};
 				class cqb
 				{
@@ -658,7 +587,7 @@ class XtdGearModels
 			{
 				alwaysSelectable = 1;
 				changeingame = 0;
-				values[] = {"silver", "red", "gold", "custom"};
+				values[] = {"silver", "red", "gold", "custom", "dp"};
 				class silver
 				{
 					label = "Silver";
@@ -674,6 +603,10 @@ class XtdGearModels
 				class custom
 				{
 					label = "Custom";
+				};
+				class dp
+				{
+					label = "Depolarized"
 				};
 			};
 		};
@@ -1324,37 +1257,37 @@ class XtdGearInfos
 		};
 
 		//M52 Customs
-		class 34thPRC_ArmourCustom_ODST_M52_Yandere_Urban
+		class 34thPRC_ArmourCustom_ODST_Yandere_M52_Urban
 		{
 			model="34thPRC_ArmourCustom_ODST_M52_Yandere_Urban";
 			player="yandere";
 			camo="urban";
 			medic="standard";
-			shoulders="standard";
+			variant="a";
 		};
-		class 34thPRC_ArmourCustom_ODST_M52_Marksman_Yandere_Urban
+		class 34thPRC_ArmourCustom_ODST_Yandere_M52_Marksman_Urban
 		{
 			model="34thPRC_ArmourCustom_ODST_M52_Yandere_Urban";
 			camo="urban";
 			medic="standard";
-			shoulders="marksman";
+			variant="marksman";
 		};
-		class 34thPRC_ArmourCustom_ODST_M52_CQB_Yandere_Urban
+		class 34thPRC_ArmourCustom_ODST_Yandere_M52_CQB_Urban
 		{
 			model="34thPRC_ArmourCustom_ODST_M52_Yandere_Urban";
 			player="yandere";
 			camo="urban";
 			medic="standard";
-			shoulders="cqb";
+			variant="cqb";
 		};
 		//Medic Yan Here
-		class 34thPRC_CustomArmour_ODST_M52_Yandere_Arid
+		class 34thPRC_CustomArmour_ODST_Yandere_M52_Arid
 		{
 			model="34thPRC_CustomArmour_ODST_M52_Yandere_Urban";
 			player="yandere";
 			camo="arid";
 			medic="standard";
-			shoulders="standard";
+			variant="a";
 		}
 
 		// MA ODST Vests (Old)
