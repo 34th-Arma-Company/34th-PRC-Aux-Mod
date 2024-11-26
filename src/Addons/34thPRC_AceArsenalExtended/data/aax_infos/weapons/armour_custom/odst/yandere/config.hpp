@@ -48,7 +48,7 @@ class 34thPRC_CustomArmour_ODST_CH252D_Yandere_SilverVisor_Arid
     camo="arid";
     visor="silver";
 };
-class 34thPRC_CustomArmour_Yandere_ODST_CH252D_RedVisor_Aird
+class 34thPRC_CustomArmour_Yandere_ODST_CH252D_RedVisor_Arid
 {
     model="34thPRC_ArmourCustom_ODST_CH2552D_Yandere_CustomVisor_Urban";
     player="yandere";
@@ -83,7 +83,7 @@ class 34thPRC_CustomArmour_ODST_CH252D_Yandere_SilverVisor_Arctic
     camo="arctic";
     visor="silver";
 };
-class 34thPRC_CustomArmour_Yandere_ODST_CH252D_RedVisor_Aird
+class 34thPRC_CustomArmour_Yandere_ODST_CH252D_RedVisor_Arctic
 {
     model="34thPRC_ArmourCustom_ODST_CH2552D_Yandere_CustomVisor_Urban";
     player="yandere";
@@ -118,7 +118,7 @@ class 34thPRC_CustomArmour_ODST_CH252D_Yandere_SilverVisor_Tropic
     camo="tropic";
     visor="silver";
 };
-class 34thPRC_CustomArmour_Yandere_ODST_CH252D_RedVisor_Aird
+class 34thPRC_CustomArmour_Yandere_ODST_CH252D_RedVisor_Tropic
 {
     model="34thPRC_ArmourCustom_ODST_CH2552D_Yandere_CustomVisor_Urban";
     player="yandere";
@@ -153,7 +153,7 @@ class 34thPRC_CustomArmour_ODST_CH252D_Yandere_SilverVisor_Woodland
     camo="woodland";
     visor="silver";
 };
-class 34thPRC_CustomArmour_Yandere_ODST_CH252D_RedVisor_Aird
+class 34thPRC_CustomArmour_Yandere_ODST_CH252D_RedVisor_Woodland
 {
     model="34thPRC_ArmourCustom_ODST_CH2552D_Yandere_CustomVisor_Urban";
     player="yandere";
@@ -176,7 +176,7 @@ class 34thPRC_ArmourCustom_Yandere_CH252D_DP_Woodland
 };
 
 //Yandere Custom M52
-class 34thPRC_ArmourCustom_Yandere_ODST_M52_Urban
+class 34thPRC_ArmourCustom_ODST_Yandere_M52_Urban
 {
     model="34thPRC_ArmourCustom_ODST_M52_Yandere_Urban";
     player="yandere";
@@ -241,7 +241,7 @@ class 34thPRC_ArmourCustom_Yandere_ODST_M52_C_Arid
 class 34thPRC_ArmourCustom_Yandere_ODST_M52_Marksman_Arid
 {
     model="34thPRC_ArmourCustom_ODST_M52_Yandere_Urban";
-    camo="aird";
+    camo="arid";
     variant="marksman";
 };
 class 34thPRC_ArmourCustom_Yandere_ODST_M52_CQB_Arid
