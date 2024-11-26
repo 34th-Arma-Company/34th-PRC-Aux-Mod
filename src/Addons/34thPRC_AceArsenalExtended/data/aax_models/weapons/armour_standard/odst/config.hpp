@@ -1,172 +1,144 @@
-// MA ODST Vests
 class 34thPRC_ArmourStandard_ODST_M56R_Urban
 {
-	model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
-	camo = "urban";
-	medic = "standard";
-	shoulders = "standard";
+	label = "[34thPRC] ODST Armors";
+	author = "34th PRC Modding Team, J. Koko";
+	options[] = {"camo", "medic", "shoulders"};
+	class camo
+	{
+		alwaysSelectable = 1;
+		changeingame = 0;
+		values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
+		class urban
+		{
+			label = "Urban";
+		};
+		class arctic
+		{
+			label = "Arctic";
+		};
+		class arid
+		{
+			label = "Arid";
+		};
+		class tropic
+		{
+			label = "Tropic";
+		};
+		class woodland
+		{
+			label = "Woodland";
+		};
+	};
+	class medic
+	{
+		alwaysSelectable = 1;
+		changeingame = 0;
+		values[] = {"standard", "isMedic"};
+		class standard
+		{
+			label = "Non-Medic";
+		};
+		class isMedic
+		{
+			label = "Medic";
+		};
+	};
+	class shoulders
+	{
+		alwaysSelectable = 1;
+		changeingame = 0;
+		values[] = {"standard", "cqb"};
+		class standard
+		{
+			label = "Standard";
+		};
+		class cqb
+		{
+			label = "CQB";
+		};
+	};
 };
-class 34thPRC_ArmourStandard_ODST_M56R_Arid
-{
-	model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
-	camo = "arid";
-	medic = "standard";
-	shoulders = "standard";
-}
-class 34thPRC_ArmourStandard_ODST_M56R_Arctic
-{
-	model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
-	camo = "arctic";
-	medic = "standard";
-	shoulders = "standard";
-}
-class 34thPRC_ArmourStandard_ODST_M56R_Woodland
-{
-	model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
-	camo = "woodland";
-	medic = "standard";
-	shoulders = "standard";
-}
-class 34thPRC_ArmourStandard_ODST_M56R_Tropic
-{
-	model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
-	camo = "tropic";
-	medic = "standard";
-	shoulders = "standard";
-}
-class 34thPRC_ArmourStandard_ODST_M56R_Urban_Medic
-{
-	model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
-	camo = "urban";
-	medic = "isMedic";
-	shoulders = "standard";
-}
-class 34thPRC_ArmourStandard_ODST_M56R_Arctic_Medic
-{
-	model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
-	camo = "arctic";
-	medic = "isMedic";
-	shoulders = "standard";
-}
-class 34thPRC_ArmourStandard_ODST_M56R_Arid_Medic
-{
-	model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
-	camo = "arid";
-	medic = "isMedic";
-	shoulders = "standard";
-}
-class 34thPRC_ArmourStandard_ODST_M56R_Tropic_Medic
-{
-	model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
-	camo = "tropic";
-	medic = "isMedic";
-	shoulders = "standard";
-}
-class 34thPRC_ArmourStandard_ODST_M56R_Woodland_Medic
-{
-	model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
-	camo = "woodland";
-	medic = "isMedic";
-	shoulders = "standard";
-}
-class 34thPRC_ArmourStandard_ODST_M56R_Urban_CQB
-{
-	model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
-	camo = "urban";
-	medic = "standard";
-	shoulders = "cqb";
-}
-
-// MA ODST Uniforms
 class 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed
 {
-	model = "34thPRC_ArmourStandard_ODST_Uniform_UrbanRed";
-	camo = "urbanRed";
-};
-class 34thPRC_ArmourStandard_ODST_Uniform_UrbanBlue
-{
-	model = "34thPRC_ArmourStandard_ODST_Uniform_UrbanRed";
-	camo = "urbanBlue";
-};
-class 34thPRC_ArmourStandard_ODST_Uniform_Arctic
-{
-	model = "34thPRC_ArmourStandard_ODST_Uniform_UrbanRed";
-	camo = "arctic";
-};
-class 34thPRC_ArmourStandard_ODST_Uniform_Arid
-{
-	model = "34thPRC_ArmourStandard_ODST_Uniform_UrbanRed";
-	camo = "arid";
-};
-class 34thPRC_ArmourStandard_ODST_Uniform_Tropic
-{
-	model = "34thPRC_ArmourStandard_ODST_Uniform_UrbanRed";
-	camo = "tropic";
-};
-class 34thPRC_ArmourStandard_ODST_Uniform_Woodland
-{
-	model = "34thPRC_ArmourStandard_ODST_Uniform_UrbanRed";
-	camo = "woodland";
+	label = "[34thPRC] ODST Uniforms";
+	author = "34th PRC Modding Team, J. Koko";
+	options[] = {"camo"};
+	class camo
+	{
+		alwaysSelectable = 1;
+		changeingame = 0;
+		values[] = {"urbanRed", "urbanBlue", "arctic", "arid", "tropic", "woodland"};
+		class urbanRed
+		{
+			label = "Urban Red";
+		};
+		class urbanBlue
+		{
+			label = "Urban Blue";
+		};
+		class arctic
+		{
+			label = "Arctic";
+		};
+		class arid
+		{
+			label = "Arid";
+		};
+		class tropic
+		{
+			label = "Tropic";
+		};
+		class woodland
+		{
+			label = "Woodland";
+		};
+	};
 };
 
 // MA ODST Helmets
 class 34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor
 {
-	model = "34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor";
-	camo = "urban";
-	visor = "white";
-};
-class 34thPRC_ArmourStandard_ODST_M56SR_Urban_MarooonVisor
-{
-	model = "34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor";
-	camo = "urban";
-	visor = "maroon";
-};
-class 34thPRC_ArmourStandard_ODST_M56SR_Arctic_WhiteVisor
-{
-	model = "34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor";
-	camo = "arctic";
-	visor = "white";
-};
-class 34thPRC_ArmourStandard_ODST_M56SR_Arctic_MarooonVisor
-{
-	model = "34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor";
-	camo = "arctic";
-	visor = "maroon";
-};
-class 34thPRC_ArmourStandard_ODST_M56SR_Arid_WhiteVisor
-{
-	model = "34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor";
-	camo = "arid";
-	visor = "white";
-};
-class 34thPRC_ArmourStandard_ODST_M56SR_Arid_MarooonVisor
-{
-	model = "34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor";
-	camo = "arid";
-	visor = "maroon";
-};
-class 34thPRC_ArmourStandard_ODST_M56SR_Tropic_WhiteVisor
-{
-	model = "34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor";
-	camo = "tropic";
-	visor = "white";
-};
-class 34thPRC_ArmourStandard_ODST_M56SR_Tropic_MarooonVisor
-{
-	model = "34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor";
-	camo = "tropic";
-	visor = "maroon";
-};
-class 34thPRC_ArmourStandard_ODST_M56SR_Woodland_WhiteVisor
-{
-	model = "34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor";
-	camo = "woodland";
-	visor = "white";
-};
-class 34thPRC_ArmourStandard_ODST_M56SR_Woodland_MarooonVisor
-{
-	model = "34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor";
-	camo = "woodland";
-	visor = "maroon";
+	label = "[34thPRC] ODST Helmets";
+	author = "34th PRC Modding Team, J. Koko";
+	options[] = {"camo", "visor"};
+	class camo
+	{
+		alwaysSelectable = 1;
+		changeingame = 0;
+		values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
+		class urban
+		{
+			label = "Urban";
+		};
+		class arctic
+		{
+			label = "Arctic";
+		};
+		class arid
+		{
+			label = "Arid";
+		};
+		class tropic
+		{
+			label = "Tropic";
+		};
+		class woodland
+		{
+			label = "Woodland";
+		};
+	};
+	class visor
+	{
+		alwaysSelectable = 1;
+		changeingame = 0;
+		values[] = {"white", "maroon"};
+		class white
+		{
+			label = "White";
+		};
+		class maroon
+		{
+			label = "Maroon";
+		};
+	};
 };
