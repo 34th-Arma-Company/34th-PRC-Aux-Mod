@@ -14,8 +14,8 @@ class 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban : CH252D_Helmet
     author="Over Yandere";
     hiddenSelectionsTextures[]=
     {
-        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Helmet.paa",
-        "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Silvervisor.paa"
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Helmet.paa",// Helmet Texture
+        "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Silvervisor.paa" // Visor Texture
     };
 };
 class 34thPRC_ArmourStandard_ODST_CH252D_RedVisor_Urban : 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban
