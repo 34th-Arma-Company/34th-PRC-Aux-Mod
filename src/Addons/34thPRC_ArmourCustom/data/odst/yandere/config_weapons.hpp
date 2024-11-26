@@ -1,12 +1,3 @@
-//Includes
-class 34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor; //34thPRC_ArmourStandard
-class 34thPRC_ArmourStandard_ODST_CH252D_Urban_DP; //34thPRC_ArmourStandard
-class 34thPRC_ArmourStandard_ODST_M52_Urban; //34thPRC_ArmourStandard //Variant A / default
-class 34thPRC_ArmourStandard_ODST_M52_Marksman_Urban; //34thPRC_ArmourStandard //Marksman shoulders and bobs
-class 34thPRC_ArmourStandard_ODST_M52_CQB_Urban; //34thPRC_ArmourStandard //CQB Shoulders and bobs
-class 34thPRC_ArmourStandard_ODST_M52_B_Urban; //34thPRC_ArmourStandard //Variant B
-class 34thPRC_ArmourStandard_ODST_M52_C_Urban; //34thPRC_ArmourStandard //Variant C
-
 //Yandere Custom, Helmets -> Armors
 class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_CustomVisor_Urban : 34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor
 {
@@ -18,7 +9,7 @@ class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_CustomVisor_Urban : 34thPRC_Armou
 		"34thPRC_ArmourCustom\data\odst\yandere\visor\yandere_odst_visor.paa"
 	};
 };
-class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_SilverVisor_Urban : 34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor
+class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_SilverVisor_Urban : 34thPRC_ArmourCustom_ODST_Yandere_CH252D_CustomVisor_Urban
 {
     displayName="[34th] CH252D Urban 'Yandere' (Silver Visor)";
     author="Over Yandere";
@@ -28,7 +19,7 @@ class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_SilverVisor_Urban : 34thPRC_Armou
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Silvervisor.paa"
     };
 };
-class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_RedVisor_Urban : 34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor
+class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_RedVisor_Urban : 34thPRC_ArmourCustom_ODST_Yandere_CH252D_CustomVisor_Urban
 {
 	displayName="[34th] CH252D Urban 'Yandere' (Red Visor)";
     author="Over Yandere";
@@ -38,7 +29,7 @@ class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_RedVisor_Urban : 34thPRC_ArmourSt
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Redvisor.paa"
     };
 }
-class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_GoldVisor_Urban : 34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor
+class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_GoldVisor_Urban : 34thPRC_ArmourCustom_ODST_Yandere_CH252D_CustomVisor_Urban
 {
 	displayName="[34th] CH252D Urban 'Yandere' (Gold Visor)";
     author="Over Yandere";
@@ -48,7 +39,7 @@ class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_GoldVisor_Urban : 34thPRC_ArmourS
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Goldvisor.paa"
     };
 }
-class 34thPRC_ArmourCustom_Yandere_CH252D_DP_Urban : 34thPRC_ArmourCustom_Yandere_CH252D_DP_Urban
+class 34thPRC_ArmourCustom_Yandere_CH252D_DP_Urban : 34thPRC_ArmourStandard_ODST_CH252D_Urban_DP
 {
 	displayName="[34th] CH252D Urban 'Yandere' (Depolarized)";
     author="Over Yandere";
@@ -68,7 +59,7 @@ class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_CustomVisor_Arid : 34thPRC_Armour
 		"34thPRC_ArmourCustom\data\odst\yandere\visor\yandere_odst_visor.paa"
 	};
 };
-class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_SilverVisor_Arid : 34thPRC_ArmourCustom_ODST_Yandere_CH252D_SilverVisor_Urban
+class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_SilverVisor_Arid : 34thPRC_ArmourCustom_ODST_Yandere_CH252D_CustomVisor_Urban
 {
     displayName="[34th] CH252D Arid 'Yandere' (Silver Visor)";
     author="Over Yandere";
@@ -78,7 +69,7 @@ class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_SilverVisor_Arid : 34thPRC_Armour
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Silvervisor.paa"
     };
 };
-class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_RedVisor_Arid : 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban
+class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_RedVisor_Arid : 34thPRC_ArmourCustom_ODST_Yandere_CH252D_CustomVisor_Urban
 {
 	displayName="[34th] CH252D Arid 'Yandere' (Red Visor)";
     author="Over Yandere";
@@ -88,7 +79,7 @@ class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_RedVisor_Arid : 34thPRC_ArmourSta
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Redvisor.paa"
     };
 }
-class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_GoldVisor_Arid : 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban
+class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_GoldVisor_Arid : 34thPRC_ArmourCustom_ODST_Yandere_CH252D_CustomVisor_Urban
 {
 	displayName="[34th] CH252D Arid 'Yandere' (Gold Visor)";
     author="Over Yandere";
@@ -98,7 +89,7 @@ class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_GoldVisor_Arid : 34thPRC_ArmourSt
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Goldvisor.paa"
     };
 }
-class 34thPRC_ArmourCustom_Yandere_CH252D_DP_Arid : 34thPRC_ArmourStandard_ODST_CH252D_DP_Urban
+class 34thPRC_ArmourCustom_Yandere_CH252D_DP_Arid : 34thPRC_ArmourCustom_Yandere_CH252D_DP_Urban
 {
 	displayName="[34th] CH252D Arid 'Yandere' (Depolarized)";
     author="Over Yandere";
@@ -118,7 +109,7 @@ class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_CustomVisor_Arctic : 34thPRC_Armo
 		"34thPRC_ArmourCustom\data\odst\yandere\visor\yandere_odst_visor.paa"
 	};
 };
-class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_SilverVisor_Arctic : 34thPRC_ArmourCustom_ODST_Yandere_CH252D_SilverVisor_Urban
+class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_SilverVisor_Arctic : 34thPRC_ArmourCustom_ODST_Yandere_CH252D_CustomVisor_Urban
 {
     displayName="[34th] CH252D Arctic 'Yandere' (Silver Visor)";
     author="Over Yandere";
@@ -128,7 +119,7 @@ class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_SilverVisor_Arctic : 34thPRC_Armo
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Silvervisor.paa"
     };
 };
-class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_RedVisor_Arctic : 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban
+class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_RedVisor_Arctic : 34thPRC_ArmourCustom_ODST_Yandere_CH252D_CustomVisor_Urban
 {
 	displayName="[34th] CH252D Arctic 'Yandere' (Red Visor)";
     author="Over Yandere";
@@ -138,7 +129,7 @@ class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_RedVisor_Arctic : 34thPRC_ArmourS
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Redvisor.paa"
     };
 }
-class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_GoldVisor_Arctic : 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban
+class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_GoldVisor_Arctic : 34thPRC_ArmourCustom_ODST_Yandere_CH252D_CustomVisor_Urban
 {
 	displayName="[34th] CH252D Arctic 'Yandere' (Gold Visor)";
     author="Over Yandere";
@@ -148,7 +139,7 @@ class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_GoldVisor_Arctic : 34thPRC_Armour
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Goldvisor.paa"
     };
 }
-class 34thPRC_ArmourCustom_Yandere_CH252D_DP_Arctic : 34thPRC_ArmourStandard_ODST_CH252D_DP_Urban
+class 34thPRC_ArmourCustom_Yandere_CH252D_DP_Arctic : 34thPRC_ArmourCustom_Yandere_CH252D_DP_Urban
 {
 	displayName="[34th] CH252D Arctic 'Yandere' (Depolarized)";
     author="Over Yandere";
@@ -168,7 +159,7 @@ class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_CustomVisor_Tropic : 34thPRC_Armo
 		"34thPRC_ArmourCustom\data\odst\yandere\visor\yandere_odst_visor.paa"
 	};
 };
-class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_SilverVisor_Tropic : 34thPRC_ArmourCustom_ODST_Yandere_CH252D_SilverVisor_Urban
+class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_SilverVisor_Tropic : 34thPRC_ArmourCustom_ODST_Yandere_CH252D_CustomVisor_Urban
 {
     displayName="[34th] CH252D Tropic 'Yandere' (Silver Visor)";
     author="Over Yandere";
@@ -178,7 +169,7 @@ class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_SilverVisor_Tropic : 34thPRC_Armo
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Silvervisor.paa"
     };
 };
-class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_RedVisor_Tropic : 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban
+class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_RedVisor_Tropic : 34thPRC_ArmourCustom_ODST_Yandere_CH252D_CustomVisor_Urban
 {
 	displayName="[34th] CH252D Tropic 'Yandere' (Red Visor)";
     author="Over Yandere";
@@ -188,7 +179,7 @@ class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_RedVisor_Tropic : 34thPRC_ArmourS
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Redvisor.paa"
     };
 }
-class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_GoldVisor_Tropic : 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban
+class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_GoldVisor_Tropic : 34thPRC_ArmourCustom_ODST_Yandere_CH252D_CustomVisor_Urban
 {
 	displayName="[34th] CH252D Tropic 'Yandere' (Gold Visor)";
     author="Over Yandere";
@@ -198,7 +189,7 @@ class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_GoldVisor_Tropic : 34thPRC_Armour
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Goldvisor.paa"
     };
 }
-class 34thPRC_ArmourCustom_Yandere_CH252D_DP_Tropic : 34thPRC_ArmourStandard_ODST_CH252D_DP_Urban
+class 34thPRC_ArmourCustom_Yandere_CH252D_DP_Tropic : 34thPRC_ArmourCustom_Yandere_CH252D_DP_Urban
 {
 	displayName="[34th] CH252D Tropic 'Yandere' (Depolarized)";
     author="Over Yandere";
@@ -218,7 +209,7 @@ class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_CustomVisor_Woodland : 34thPRC_Ar
 		"34thPRC_ArmourCustom\data\odst\yandere\visor\yandere_odst_visor.paa"
 	};
 };
-class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_SilverVisor_Woodland : 34thPRC_ArmourCustom_ODST_Yandere_CH252D_SilverVisor_Urban
+class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_SilverVisor_Woodland : 34thPRC_ArmourCustom_ODST_Yandere_CH252D_CustomVisor_Urban
 {
     displayName="[34th] CH252D Woodland 'Yandere' (Silver Visor)";
     author="Over Yandere";
@@ -228,7 +219,7 @@ class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_SilverVisor_Woodland : 34thPRC_Ar
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Silvervisor.paa"
     };
 };
-class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_RedVisor_Woodland : 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban
+class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_RedVisor_Woodland : 34thPRC_ArmourCustom_ODST_Yandere_CH252D_CustomVisor_Urban
 {
 	displayName="[34th] CH252D Woodland 'Yandere' (Red Visor)";
     author="Over Yandere";
@@ -238,7 +229,7 @@ class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_RedVisor_Woodland : 34thPRC_Armou
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Redvisor.paa"
     };
 }
-class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_GoldVisor_Woodland : 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban
+class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_GoldVisor_Woodland : 34thPRC_ArmourCustom_ODST_Yandere_CH252D_CustomVisor_Urban
 {
 	displayName="[34th] CH252D Woodland 'Yandere' (Gold Visor)";
     author="Over Yandere";
@@ -248,7 +239,7 @@ class 34thPRC_ArmourCustom_ODST_Yandere_CH252D_GoldVisor_Woodland : 34thPRC_Armo
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Goldvisor.paa"
     };
 }
-class 34thPRC_ArmourCustom_Yandere_CH252D_DP_Woodland : 34thPRC_ArmourStandard_ODST_CH252D_DP_Urban
+class 34thPRC_ArmourCustom_Yandere_CH252D_DP_Woodland : 34thPRC_ArmourCustom_Yandere_CH252D_DP_Urban
 {
 	displayName="[34th] CH252D Woodland 'Yandere' (Depolarized)";
     author="Over Yandere";
@@ -299,6 +290,43 @@ class 34thPRC_ArmourCustom_ODST_Yandere_M52_Urban : 34thPRC_ArmourStandard_ODST_
 class 34thPRC_ArmourCustom_ODST_Yandere_M52_B_Urban : 34thPRC_ArmourStandard_ODST_M52_B_Urban
 {
     displayName="[34th] M52-B Combat Armour 'Yandere' Urban";
+    author="Over Yandere";
+    hiddenSelectionsTextures[]=
+    {
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_CQB.paa", //CQB Left
+    	"34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_CQB.paa", //CQB Right
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Marksman.paa", //Marksman_Left
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Marksman.paa", //Marksman_Right
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Vest.paa", //ODST_Bracer_Left
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Vest.paa", //ODST_Bracer_Right
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Vest.paa", //ODST_Chest
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Shoulders.paa", //ODST_Left
+        "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Shoulders.paa", //ODST_Right
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //LShoulderRadio
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //RShoulderRadio
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //StomachPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //TorsoPMRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //TorsoPouch
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistBack
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistGRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //WaistPRight
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRLeft
+        "MA_Armor\data\Backpacks\ODST_Rucksack\Attachments\Backpack_Radio_ODST_co.paa", //WaistRRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSLeft
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
+        "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+    };
+};
+class 34thPRC_ArmourCustom_ODST_Yandere_M52_C_Urban : 34thPRC_ArmourStandard_ODST_M52_C_Urban
+{
+	displayName="[34th] M52-C Combat Armour 'Yandere' Urban";
     author="Over Yandere";
     hiddenSelectionsTextures[]=
     {
