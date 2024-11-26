@@ -8,7 +8,7 @@ class M52_ODST_Vest_Marksman; //MA_Armor -> M56D_Vests.hpp //Marksman version
 class M52_ODST_Vest_CQB; //MA_Armor -> M56D_Vests.hpp //CQB version
 class M52_ODST_Vest_Light; //MA_Armor -> M56D_Vests.hpp //Shoulderless version of M52_ODST_Vest_Standard_A
 
-class 34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor : CH252D_Helmet
+class 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban : CH252D_Helmet
 {
     displayName="[34th] CH252D Urban (Silver Visor)";
     author="Over Yandere";
@@ -18,7 +18,7 @@ class 34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor : CH252D_Helmet
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Silvervisor.paa"
     };
 };
-class 34thPRC_ArmourStandard_ODST_CH252D_Urban_RedVisor : 34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor
+class 34thPRC_ArmourStandard_ODST_CH252D_RedVisor_Urban : 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban
 {
     displayName="[34th] CH252D Urban (Red Visor)";
     author="Over Yandere";
@@ -28,7 +28,7 @@ class 34thPRC_ArmourStandard_ODST_CH252D_Urban_RedVisor : 34thPRC_ArmourStandard
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Redvisor.paa"
     };
 };
-class 34thPRC_ArmourStandard_ODST_CH252D_Urban_GoldVisor : 34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor
+class 34thPRC_ArmourStandard_ODST_CH252D_GoldVisor_Urban : 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban
 {
     displayName="[34th] CH252D Urban (Gold Visor)";
     author="Over Yandere";
@@ -38,7 +38,7 @@ class 34thPRC_ArmourStandard_ODST_CH252D_Urban_GoldVisor : 34thPRC_ArmourStandar
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Goldvisor.paa"
     };
 };
-class 34thPRC_ArmourStandard_ODST_CH252D_Urban_DP : CH252D_Helmet_dp
+class 34thPRC_ArmourStandard_ODST_CH252D_DP_Urban : CH252D_Helmet_dp
 {
 	displayName="[34th] CH252D Urban (Depolarized)";
     author="Over Yandere";
@@ -48,7 +48,7 @@ class 34thPRC_ArmourStandard_ODST_CH252D_Urban_DP : CH252D_Helmet_dp
         "MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa"
     };
 };
-class 34thPRC_ArmourStandard_ODST_CHCH252D_Arid_SilverVisor : 34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor
+class 34thPRC_ArmourStandard_ODST_CHCH252D_SilverVisor_Arid : 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban
 {
     displayName="[34th] CH252D Arid (Silver Visor)";
     author="Over Yandere";
@@ -58,7 +58,7 @@ class 34thPRC_ArmourStandard_ODST_CHCH252D_Arid_SilverVisor : 34thPRC_ArmourStan
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Silvervisor.paa"
     };
 };
-class 34thPRC_ArmourStandard_ODST_CH252D_Arid_RedVisor : 34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor
+class 34thPRC_ArmourStandard_ODST_CH252D_RedVisor_Arid : 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban
 {
     displayName="[34th] CH252D Arid (Red Visor)";
     author="Over Yandere";
@@ -68,7 +68,7 @@ class 34thPRC_ArmourStandard_ODST_CH252D_Arid_RedVisor : 34thPRC_ArmourStandard_
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Redvisor.paa"
     };
 };
-class 34thPRC_ArmourStandard_ODST_CH252D_Arid_GoldVisor : 34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor
+class 34thPRC_ArmourStandard_ODST_CH252D_GoldVisor_Arid : 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban
 {
     displayName="[34th] CH252D Arid (Gold Visor)";
     author="Over Yandere";
@@ -78,7 +78,7 @@ class 34thPRC_ArmourStandard_ODST_CH252D_Arid_GoldVisor : 34thPRC_ArmourStandard
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Goldvisor.paa"
     };
 };
-class 34thPRC_ArmourStandard_ODST_CH252D_Arid_DP : 34thPRC_ArmourStandard_ODST_CH252D_Urban_DP
+class 34thPRC_ArmourStandard_ODST_CH252D_DP_Arid : 34thPRC_ArmourStandard_ODST_CH252D_DP_Urban
 {
 	displayName="[34th] CH252D Arid (Depolarized)";
     author="Over Yandere";
@@ -88,7 +88,7 @@ class 34thPRC_ArmourStandard_ODST_CH252D_Arid_DP : 34thPRC_ArmourStandard_ODST_C
         "MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa"
     };
 };
-class 34thPRC_ArmourStandard_ODST_CH252D_Arctic_SilverVisor : 34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor
+class 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Arctic : 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban
 {
     displayName="[34th] CH252D Arctic (Silver Visor)";
     author="Over Yandere";
@@ -98,7 +98,7 @@ class 34thPRC_ArmourStandard_ODST_CH252D_Arctic_SilverVisor : 34thPRC_ArmourStan
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Silvervisor.paa"
     };
 };
-class 34thPRC_ArmourStandard_ODST_CH252D_Arctic_RedVisor : 34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor
+class 34thPRC_ArmourStandard_ODST_CH252D_RedVisor_Arctic : 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban
 {
     displayName="[34th] CH252D Arctic (Red Visor)";
     author="Over Yandere";
@@ -108,7 +108,7 @@ class 34thPRC_ArmourStandard_ODST_CH252D_Arctic_RedVisor : 34thPRC_ArmourStandar
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Redvisor.paa"
     };
 };
-class 34thPRC_ArmourStandard_ODST_CH252D_Arctic_GoldVisor : 34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor
+class 34thPRC_ArmourStandard_ODST_CH252D_GoldVisor_Arctic : 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban
 {
     displayName="[34th] CH252D Arctic (Gold Visor)";
     author="Over Yandere";
@@ -118,7 +118,7 @@ class 34thPRC_ArmourStandard_ODST_CH252D_Arctic_GoldVisor : 34thPRC_ArmourStanda
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Goldvisor.paa"
     };
 };
-class 34thPRC_ArmourStandard_ODST_CH252D_Arctic_DP : 34thPRC_ArmourStandard_ODST_CH252D_Urban_DP
+class 34thPRC_ArmourStandard_ODST_CH252D_DP_Arctic : 34thPRC_ArmourStandard_ODST_CH252D_DP_Urban
 {
 	displayName="[34th] CH252D Arctic (Depolarized)";
     author="Over Yandere";
@@ -128,7 +128,7 @@ class 34thPRC_ArmourStandard_ODST_CH252D_Arctic_DP : 34thPRC_ArmourStandard_ODST
         "MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa"
     };
 };
-class 34thPRC_ArmourStandard_ODST_CH252D_Tropic_SilverVisor : 34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor
+class 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Tropic : 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban
 {
     displayName="[34th] CH252D Tropic (Silver Visor)";
     author="Over Yandere";
@@ -138,7 +138,7 @@ class 34thPRC_ArmourStandard_ODST_CH252D_Tropic_SilverVisor : 34thPRC_ArmourStan
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Silvervisor.paa"
     };
 };
-class 34thPRC_ArmourStandard_ODST_CH252D_Tropic_RedVisor : 34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor
+class 34thPRC_ArmourStandard_ODST_CH252D_RedVisor_Tropic : 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban
 {
     displayName="[34th] CH252D Tropic (Red Visor)";
     author="Over Yandere";
@@ -148,7 +148,7 @@ class 34thPRC_ArmourStandard_ODST_CH252D_Tropic_RedVisor : 34thPRC_ArmourStandar
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Redvisor.paa"
     };
 };
-class 34thPRC_ArmourStandard_ODST_CH252D_Tropic_GoldVisor : 34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor
+class 34thPRC_ArmourStandard_ODST_CH252D_GoldVisor_Tropic : 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban
 {
     displayName="[34th] CH252D Tropic (Gold Visor)";
     author="Over Yandere";
@@ -158,7 +158,7 @@ class 34thPRC_ArmourStandard_ODST_CH252D_Tropic_GoldVisor : 34thPRC_ArmourStanda
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Goldvisor.paa"
     };
 };
-class 34thPRC_ArmourStandard_ODST_CH252D_Tropic_DP : 34thPRC_ArmourStandard_ODST_CH252D_Urban_DP
+class 34thPRC_ArmourStandard_ODST_CH252D_DP_Tropic : 34thPRC_ArmourStandard_ODST_CH252D_DP_Urban
 {
 	displayName="[34th] CH252D Tropic (Depolarized)";
     author="Over Yandere";
@@ -168,7 +168,7 @@ class 34thPRC_ArmourStandard_ODST_CH252D_Tropic_DP : 34thPRC_ArmourStandard_ODST
         "MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa"
     };
 };
-class 34thPRC_ArmourStandard_ODST_CH252D_Woodland_SilverVisor : 34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor
+class 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Woodland : 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban
 {
     displayName="[34th] CH252D Woodland (Silver Visor)";
     author="Over Yandere";
@@ -178,7 +178,7 @@ class 34thPRC_ArmourStandard_ODST_CH252D_Woodland_SilverVisor : 34thPRC_ArmourSt
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Silvervisor.paa"
     };
 };
-class 34thPRC_ArmourStandard_ODST_CH252D_Woodland_RedVisor : 34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor
+class 34thPRC_ArmourStandard_ODST_CH252D_RedVisor_Woodland : 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban
 {
     displayName="[34th] CH252D Woodland (Red Visor)";
     author="Over Yandere";
@@ -188,7 +188,7 @@ class 34thPRC_ArmourStandard_ODST_CH252D_Woodland_RedVisor : 34thPRC_ArmourStand
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Redvisor.paa"
     };
 };
-class 34thPRC_ArmourStandard_ODST_CH252D_Woodland_GoldVisor : 34thPRC_ArmourStandard_ODST_CH252D_Urban_SilverVisor
+class 34thPRC_ArmourStandard_ODST_CH252D_GoldVisor_Woodland : 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban
 {
 	displayName="[34th] CH252D Woodland (Gold Visor)";
     author="Over Yandere";
@@ -198,7 +198,7 @@ class 34thPRC_ArmourStandard_ODST_CH252D_Woodland_GoldVisor : 34thPRC_ArmourStan
         "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Goldvisor.paa"
     };
 };
-class 34thPRC_ArmourStandard_ODST_CH252D_Woodland_DP : 34thPRC_ArmourStandard_ODST_CH252D_Urban_DP
+class 34thPRC_ArmourStandard_ODST_CH252D_DP_Woodland : 34thPRC_ArmourStandard_ODST_CH252D_DP_Urban
 {
 	displayName="[34th] CH252D Woodland (Depolarized)";
     author="Over Yandere";
