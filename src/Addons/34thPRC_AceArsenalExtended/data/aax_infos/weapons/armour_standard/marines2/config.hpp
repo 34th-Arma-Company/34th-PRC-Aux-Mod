@@ -293,8 +293,6 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Heavy_NoCollar
 	collar = "down";
 };
 
-
-
 // MA CH252 Helmets
 class 34thPRC_ArmourStandard_Marines2_CH252_Urban
 {
