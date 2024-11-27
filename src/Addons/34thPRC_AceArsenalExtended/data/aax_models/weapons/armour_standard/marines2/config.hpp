@@ -8,7 +8,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light
 		label = "Variant";
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[] = {"light", "medium", "heavy"};
+		values[] = {"light", "medium", "heavy", "shoulderless"};
 		class light
 		{
 			label = "Light";
@@ -20,6 +20,10 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light
 		class heavy
 		{
 			label = "Heavy";
+		};
+		class shoulderless
+		{
+			label = "Shoulderless";
 		};
 	};
 	class camo

@@ -1,7 +1,7 @@
 class MA_M56SR_Helmet_White_Visor; // MA_Armor
 class 34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor : MA_M56SR_Helmet_White_Visor
 {
-    displayName="[34th] M56SR Urban (White Visor)";
+    displayName="[34th-old] M56SR Urban (White Visor)";
     author= "TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
@@ -11,7 +11,7 @@ class 34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor : MA_M56SR_Helmet_White
 };
 class 34thPRC_ArmourStandard_ODST_M56SR_Urban_MarooonVisor : 34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor
 {
-    displayName="[34th] M56SR Urban (Maroon Visor)";
+    displayName="[34th-old] M56SR Urban (Maroon Visor)";
     author= "TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
@@ -21,7 +21,7 @@ class 34thPRC_ArmourStandard_ODST_M56SR_Urban_MarooonVisor : 34thPRC_ArmourStand
 };
 class 34thPRC_ArmourStandard_ODST_M56SR_Arctic_WhiteVisor : 34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor
 {
-    displayName="[34th] M56SR Arctic (White Visor)";
+    displayName="[34th-old] M56SR Arctic (White Visor)";
     author= "TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
@@ -31,7 +31,7 @@ class 34thPRC_ArmourStandard_ODST_M56SR_Arctic_WhiteVisor : 34thPRC_ArmourStanda
 };
 class 34thPRC_ArmourStandard_ODST_M56SR_Arctic_MarooonVisor : 34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor
 {
-    displayName="[34th] M56SR Arctic (Maroon Visor)";
+    displayName="[34th-old] M56SR Arctic (Maroon Visor)";
     author= "TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
@@ -41,7 +41,7 @@ class 34thPRC_ArmourStandard_ODST_M56SR_Arctic_MarooonVisor : 34thPRC_ArmourStan
 };
 class 34thPRC_ArmourStandard_ODST_M56SR_Arid_WhiteVisor : 34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor
 {
-    displayName="[34th] M56SR Arid (White Visor)";
+    displayName="[34th-old] M56SR Arid (White Visor)";
     author= "TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
@@ -51,7 +51,7 @@ class 34thPRC_ArmourStandard_ODST_M56SR_Arid_WhiteVisor : 34thPRC_ArmourStandard
 };
 class 34thPRC_ArmourStandard_ODST_M56SR_Arid_MarooonVisor : 34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor
 {
-    displayName="[34th] M56SR Arid (Maroon Visor)";
+    displayName="[34th-old] M56SR Arid (Maroon Visor)";
     author= "TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
@@ -61,7 +61,7 @@ class 34thPRC_ArmourStandard_ODST_M56SR_Arid_MarooonVisor : 34thPRC_ArmourStanda
 };
 class 34thPRC_ArmourStandard_ODST_M56SR_Tropic_WhiteVisor : 34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor
 {
-    displayName="[34th] M56SR Tropic (White Visor)";
+    displayName="[34th-old] M56SR Tropic (White Visor)";
     author= "TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
@@ -71,7 +71,7 @@ class 34thPRC_ArmourStandard_ODST_M56SR_Tropic_WhiteVisor : 34thPRC_ArmourStanda
 };
 class 34thPRC_ArmourStandard_ODST_M56SR_Tropic_MarooonVisor : 34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor
 {
-    displayName="[34th] M56SR Tropic (Maroon Visor)";
+    displayName="[34th-old] M56SR Tropic (Maroon Visor)";
     author= "TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
@@ -81,7 +81,7 @@ class 34thPRC_ArmourStandard_ODST_M56SR_Tropic_MarooonVisor : 34thPRC_ArmourStan
 };
 class 34thPRC_ArmourStandard_ODST_M56SR_Woodland_WhiteVisor : 34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor
 {
-    displayName="[34th] M56SR Woodland (White Visor)";
+    displayName="[34th-old] M56SR Woodland (White Visor)";
     author= "TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
@@ -91,7 +91,7 @@ class 34thPRC_ArmourStandard_ODST_M56SR_Woodland_WhiteVisor : 34thPRC_ArmourStan
 };
 class 34thPRC_ArmourStandard_ODST_M56SR_Woodland_MarooonVisor : 34thPRC_ArmourStandard_ODST_M56SR_Urban_WhiteVisor
 {
-    displayName="[34th] M56SR Woodland (Maroon Visor)";
+    displayName="[34th-old] M56SR Woodland (Maroon Visor)";
     author= "TheBrwnKidd";
     hiddenSelectionsTextures[]=
     {
@@ -103,7 +103,7 @@ class 34thPRC_ArmourStandard_ODST_M56SR_Woodland_MarooonVisor : 34thPRC_ArmourSt
 class MA_M56R_Vest; // MA_Armor
 class 34thPRC_ArmourStandard_ODST_M56R_Urban: MA_M56R_Vest
 {
-    displayName="[34th] M56R Combat Armour Urban";
+    displayName="[34th-old] M56R Combat Armour Urban";
     author= "TheBrwnKidd";
 	hiddenSelectionsTextures[]=
     {
@@ -121,7 +121,7 @@ class 34thPRC_ArmourStandard_ODST_M56R_Urban: MA_M56R_Vest
 };
 class 34thPRC_ArmourStandard_ODST_M56R_Arid: 34thPRC_ArmourStandard_ODST_M56R_Urban
 {
-    displayName="[34th] M56R Combat Armour Arid";
+    displayName="[34th-old] M56R Combat Armour Arid";
     author= "TheBrwnKidd";
 	hiddenSelectionsTextures[]=
     {
@@ -139,7 +139,7 @@ class 34thPRC_ArmourStandard_ODST_M56R_Arid: 34thPRC_ArmourStandard_ODST_M56R_Ur
 };
 class 34thPRC_ArmourStandard_ODST_M56R_Arctic: 34thPRC_ArmourStandard_ODST_M56R_Urban
 {
-    displayName="[34th] M56R Combat Armour Arctic";
+    displayName="[34th-old] M56R Combat Armour Arctic";
     author= "TheBrwnKidd";
 	hiddenSelectionsTextures[]=
     {
@@ -157,7 +157,7 @@ class 34thPRC_ArmourStandard_ODST_M56R_Arctic: 34thPRC_ArmourStandard_ODST_M56R_
 };
 class 34thPRC_ArmourStandard_ODST_M56R_Woodland: 34thPRC_ArmourStandard_ODST_M56R_Urban
 {
-    displayName="[34th] M56R Combat Armour Woodland";
+    displayName="[34th-old] M56R Combat Armour Woodland";
     author= "TheBrwnKidd";
 	hiddenSelectionsTextures[]=
     {
@@ -175,7 +175,7 @@ class 34thPRC_ArmourStandard_ODST_M56R_Woodland: 34thPRC_ArmourStandard_ODST_M56
 };
 class 34thPRC_ArmourStandard_ODST_M56R_Tropic: 34thPRC_ArmourStandard_ODST_M56R_Urban
 {
-    displayName="[34th] M56R Combat Armour Tropic";
+    displayName="[34th-old] M56R Combat Armour Tropic";
     author= "TheBrwnKidd";
 	hiddenSelectionsTextures[]=
     {
@@ -195,7 +195,7 @@ class 34thPRC_ArmourStandard_ODST_M56R_Tropic: 34thPRC_ArmourStandard_ODST_M56R_
 class MA_M56R_Medic_Vest; // MA_Armor
 class 34thPRC_ArmourStandard_ODST_M56R_Urban_Medic: MA_M56R_Medic_Vest
 {
-    displayName="[34th] M56R Combat Armour Urban (Medic)";
+    displayName="[34th-old] M56R Combat Armour Urban (Medic)";
     author= "TheBrwnKidd";
 	hiddenSelectionsTextures[]=
     {
@@ -213,7 +213,7 @@ class 34thPRC_ArmourStandard_ODST_M56R_Urban_Medic: MA_M56R_Medic_Vest
 };
 class 34thPRC_ArmourStandard_ODST_M56R_Arctic_Medic: 34thPRC_ArmourStandard_ODST_M56R_Urban_Medic
 {
-    displayName="[34th] M56R Combat Armour Arctic (Medic)";
+    displayName="[34th-old] M56R Combat Armour Arctic (Medic)";
     author= "TheBrwnKidd";
 	hiddenSelectionsTextures[]=
     {
@@ -231,7 +231,7 @@ class 34thPRC_ArmourStandard_ODST_M56R_Arctic_Medic: 34thPRC_ArmourStandard_ODST
 };
 class 34thPRC_ArmourStandard_ODST_M56R_Arid_Medic: 34thPRC_ArmourStandard_ODST_M56R_Urban_Medic
 {
-    displayName="[34th] M56R Combat Armour Arid (Medic)";
+    displayName="[34th-old] M56R Combat Armour Arid (Medic)";
     author= "TheBrwnKidd";
 	hiddenSelectionsTextures[]=
     {
@@ -249,7 +249,7 @@ class 34thPRC_ArmourStandard_ODST_M56R_Arid_Medic: 34thPRC_ArmourStandard_ODST_M
 };
 class 34thPRC_ArmourStandard_ODST_M56R_Tropic_Medic: 34thPRC_ArmourStandard_ODST_M56R_Urban_Medic
 {
-    displayName="[34th] M56R Combat Armour Tropic (Medic)";
+    displayName="[34th-old] M56R Combat Armour Tropic (Medic)";
     author= "TheBrwnKidd";
 	hiddenSelectionsTextures[]=
     {
@@ -267,7 +267,7 @@ class 34thPRC_ArmourStandard_ODST_M56R_Tropic_Medic: 34thPRC_ArmourStandard_ODST
 };
 class 34thPRC_ArmourStandard_ODST_M56R_Woodland_Medic: 34thPRC_ArmourStandard_ODST_M56R_Urban_Medic
 {
-    displayName="[34th] M56R Combat Armour Woodland (Medic)";
+    displayName="[34th-old] M56R Combat Armour Woodland (Medic)";
     author= "TheBrwnKidd";
 	hiddenSelectionsTextures[]=
     {
@@ -286,7 +286,7 @@ class 34thPRC_ArmourStandard_ODST_M56R_Woodland_Medic: 34thPRC_ArmourStandard_OD
 class MA_M56R_CQB_Vest; //MA_Armor
 class 34thPRC_ArmourStandard_ODST_M56R_Urban_CQB : MA_M56R_CQB_Vest
 {
-    displayNAme="[34th] M56R Combat Armour Urban (CQB)";
+    displayName="[34th-old] M56R Combat Armour Urban (CQB)";
     author="OverYandere";
     hiddenSelectionsTextures[]=
     {
@@ -311,7 +311,7 @@ class MA_M56S_BDU : U_B_CombatUniform_mcam // MA_Armor
 class 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed : MA_M56S_BDU
 {
     author="TheBrwnKidd";
-    displayName="[34th] M56S Uniform Urban Red";
+    displayName="[34th-old] M56S Uniform Urban Red";
     class ItemInfo : ItemInfo
     {
         uniformClass="34thPRC_ArmourStandard_ODST_Trooper_UrbanRed";
@@ -320,7 +320,7 @@ class 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed : MA_M56S_BDU
 class 34thPRC_ArmourStandard_ODST_Uniform_UrbanBlue : 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed
 {
     author="TheBrwnKidd";
-    displayName="[34th] M56S Uniform Urban Blue";
+    displayName="[34th-old] M56S Uniform Urban Blue";
     class ItemInfo : ItemInfo
     {
         uniformClass="34thPRC_ArmourStandard_ODST_Trooper_UrbanBlue";
@@ -329,7 +329,7 @@ class 34thPRC_ArmourStandard_ODST_Uniform_UrbanBlue : 34thPRC_ArmourStandard_ODS
 class 34thPRC_ArmourStandard_ODST_Uniform_Arctic : 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed
 {
     author="TheBrwnKidd";
-    displayName="[34th] M56S Uniform Arctic";
+    displayName="[34th-old] M56S Uniform Arctic";
     class ItemInfo : ItemInfo
     {
         uniformClass="34thPRC_ArmourStandard_ODST_Trooper_Arctic";
@@ -338,7 +338,7 @@ class 34thPRC_ArmourStandard_ODST_Uniform_Arctic : 34thPRC_ArmourStandard_ODST_U
 class 34thPRC_ArmourStandard_ODST_Uniform_Arid : 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed
 {
     author="TheBrwnKidd";
-    displayName="[34th] M56S Uniform Arid";
+    displayName="[34th-old] M56S Uniform Arid";
     class ItemInfo : ItemInfo
     {
         uniformClass="34thPRC_ArmourStandard_ODST_Trooper_Arid";
@@ -347,7 +347,7 @@ class 34thPRC_ArmourStandard_ODST_Uniform_Arid : 34thPRC_ArmourStandard_ODST_Uni
 class 34thPRC_ArmourStandard_ODST_Uniform_Tropic : 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed
 {
     author="TheBrwnKidd";
-    displayName="[34th] M56S Uniform Tropic";
+    displayName="[34th-old] M56S Uniform Tropic";
     class ItemInfo : ItemInfo
     {
         uniformClass="34thPRC_ArmourStandard_ODST_Trooper_Tropic";
@@ -356,7 +356,7 @@ class 34thPRC_ArmourStandard_ODST_Uniform_Tropic : 34thPRC_ArmourStandard_ODST_U
 class 34thPRC_ArmourStandard_ODST_Uniform_Woodland : 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed
 {
     author="TheBrwnKidd";
-    displayName="[34th] M56S Uniform Woodland";
+    displayName="[34th-old] M56S Uniform Woodland";
     class ItemInfo : ItemInfo
     {
         uniformClass="34thPRC_ArmourStandard_ODST_Trooper_Woodland";

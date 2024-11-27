@@ -20,6 +20,13 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy
 	camo = "urbanRed";
 	collar = "up";
 };
+class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_NoShoulder
+{
+	model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+	variant = "shoulderless";
+	camo = "urbanRed";
+	collar = "up";
+};
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light_NoCollar
 {
 	model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
@@ -58,6 +65,13 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Heavy
 {
 	model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 	variant = "heavy";
+	camo = "urbanBlue";
+	collar = "up";
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_NoShoulder
+{
+	model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+	variant = "shoulderless";
 	camo = "urbanBlue";
 	collar = "up";
 };
@@ -103,6 +117,13 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Arctic_Heavy
 	camo = "arctic";
 	collar = "up";
 };
+class 34thPRC_ArmourStandard_Marines2_Uniform_Arctic_NoShoulder
+{
+	model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+	variant = "shoulderless";
+	camo = "arctic";
+	collar = "up";
+};
 class 34thPRC_ArmourStandard_Marines2_Uniform_Arctic_Light_NoCollar
 {
 	model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
@@ -142,6 +163,13 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Heavy
 {
 	model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 	variant = "heavy";
+	camo = "arid";
+	collar = "up";
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_NoShoulder
+{
+	model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+	variant = "shoulderless";
 	camo = "arid";
 	collar = "up";
 };
@@ -187,6 +215,13 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Tropic_Heavy
 	camo = "tropic";
 	collar = "up";
 };
+class 34thPRC_ArmourStandard_Marines2_Uniform_Tropic_NoShoulder
+{
+	model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+	variant = "shoulderless";
+	camo = "tropic";
+	collar = "up";
+};
 class 34thPRC_ArmourStandard_Marines2_Uniform_Tropic_Light_NoCollar
 {
 	model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
@@ -226,6 +261,13 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Heavy
 {
 	model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 	variant = "heavy";
+	camo = "woodland";
+	collar = "up";
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_NoShoulder
+{
+	model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+	variant = "shoulderless";
 	camo = "woodland";
 	collar = "up";
 };
