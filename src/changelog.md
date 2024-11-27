@@ -6,6 +6,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+
+## 0.18.0
+### Added
+- New ODST armour
+
+### Updated
+- Marked old ODST stuff as old
+
+## 0.17.0
 ### Added
 - No Shoulder Crosbranch BDU option in 6 camo patterns
 - CH252D Helmet in 5 camo patterns and 3 visor colors

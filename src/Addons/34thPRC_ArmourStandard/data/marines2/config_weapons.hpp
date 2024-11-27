@@ -1646,7 +1646,7 @@ class MA_Marine_BDU_Heavy_NC: U_B_CombatUniform_mcam // MA_Armor
 {
 	class ItemInfo;
 };
-class MA_Marine_BDU_NS: U_B_CombatUniform_mcam //MA_Armor
+class MA_Marine_BDU_NoShoulder: U_B_CombatUniform_mcam //MA_Armor
 {
 	class ItemInfo;
 };
@@ -1678,7 +1678,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy: MA_Marine_BDU_Heavy
 		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_NS: MA_Marine_BDU_NS
+class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_NoShoulder: MA_Marine_BDU_NoShoulder
 {
 	displayName="[34th] Marine Cross Branch BDU Urban Red (Shoulderless)";
 	author="Ambrose";
@@ -1741,7 +1741,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Heavy: MA_Marine_BDU_He
 		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Heavy";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_NS: MA_Marine_BDU_NS
+class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_NoShoulder: MA_Marine_BDU_NoShoulder
 {
 	displayName="[34th] Marine Cross Branch BDU Urban Blue (Shoulderless)";
 	author="Ambrose";
@@ -1804,7 +1804,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Arctic_Heavy: 34thPRC_ArmourStanda
 		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Arctic_Heavy";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_Uniform_Arctic_NS: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_NS
+class 34thPRC_ArmourStandard_Marines2_Uniform_Arctic_NoShoulder: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_NoShoulder
 {
 	displayName="[34th] Marine Cross Branch BDU Arctic (Shoulderless)";
 	author="Ambrose";
@@ -1867,7 +1867,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Heavy: 34thPRC_ArmourStandard
 		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Arid_Heavy";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_NS: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_NS
+class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_NoShoulder: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_NoShoulder
 {
 	displayName="[34th] Marine Cross Branch BDU Arid (Shoulderless)";
 	author="Ambrose";
@@ -1930,7 +1930,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Tropic_Heavy: 34thPRC_ArmourStanda
 		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Tropic_Heavy";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_Uniform_Tropic_NS: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_NS
+class 34thPRC_ArmourStandard_Marines2_Uniform_Tropic_NoShoulder: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_NoShoulder
 {
 	displayName="[34th] Marine Cross Branch BDU Tropic (Shoulderless)";
 	author="Ambrose";
@@ -1993,7 +1993,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Heavy: 34thPRC_ArmourStan
 		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Woodland_Heavy";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_NS: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_NS
+class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_NoShoulder: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_NoShoulder
 {
 	displayName="[34th] Marine Cross Branch BDU Woodland (Shoulderless)";
 	author="Ambrose";
