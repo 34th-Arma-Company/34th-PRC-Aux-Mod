@@ -33,7 +33,19 @@ class 34thPRC_ArmourStandard_ODST2_M52_Medic_Urban
 {
 	model="34thPRC_ArmourStandard_ODST2_M52_Urban";
 	camo="urban";
-	variant="medic";
+	variant="medic_a";
+};
+class 34thPRC_ArmourStandard_ODST2_M52_B_Medic_Urban
+{
+	model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+	camo="urban";
+	variant="medic_b";
+};
+class 34thPRC_ArmourStandard_ODST2_M52_C_Medic_Urban
+{
+	model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+	camo="urban";
+	variant="medic_c";
 };
 class 34thPRC_ArmourStandard_ODST2_M52_Arid
 {
@@ -69,7 +81,19 @@ class 34thPRC_ArmourStandard_ODST2_M52_Medic_Arid
 {
 	model="34thPRC_ArmourStandard_ODST2_M52_Urban";
 	camo="arid";
-	variant="medic";
+	variant="medic_a";
+};
+class 34thPRC_ArmourStandard_ODST2_M52_B_Medic_Arid
+{
+	model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+	camo="arid";
+	variant="medic_b";
+};
+class 34thPRC_ArmourStandard_ODST2_M52_C_Medic_Arid
+{
+	model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+	camo="arid";
+	variant="medic_c";
 };
 class 34thPRC_ArmourStandard_ODST2_M52_Arctic
 {
@@ -105,7 +129,19 @@ class 34thPRC_ArmourStandard_ODST2_M52_Medic_Arctic
 {
 	model="34thPRC_ArmourStandard_ODST2_M52_Urban";
 	camo="arctic";
-	variant="medic";
+	variant="medic_a";
+};
+class 34thPRC_ArmourStandard_ODST2_M52_B_Medic_Arctic
+{
+	model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+	camo="arctic";
+	variant="medic_b";
+};
+class 34thPRC_ArmourStandard_ODST2_M52_C_Medic_Arctic
+{
+	model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+	camo="arctic";
+	variant="medic_c";
 };
 class 34thPRC_ArmourStandard_ODST2_M52_Tropic
 {
@@ -141,7 +177,19 @@ class 34thPRC_ArmourStandard_ODST2_M52_Medic_Tropic
 {
 	model="34thPRC_ArmourStandard_ODST2_M52_Urban";
 	camo="tropic";
-	variant="medic";
+	variant="medic_a";
+};
+class 34thPRC_ArmourStandard_ODST2_M52_B_Medic_Tropic
+{
+	model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+	camo="tropic";
+	variant="medic_b";
+};
+class 34thPRC_ArmourStandard_ODST2_M52_C_Medic_Tropic
+{
+	model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+	camo="tropic";
+	variant="medic_c";
 };
 class 34thPRC_ArmourStandard_ODST2_M52_Woodland
 {
@@ -177,7 +225,19 @@ class 34thPRC_ArmourStandard_ODST2_M52_Medic_Woodland
 {
 	model="34thPRC_ArmourStandard_ODST2_M52_Urban";
 	camo="woodland";
-	variant="medic";
+	variant="medic_a";
+};
+class 34thPRC_ArmourStandard_ODST2_M52_B_Medic_Woodland
+{
+	model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+	camo="woodland";
+	variant="medic_b";
+};
+class 34thPRC_ArmourStandard_ODST2_M52_C_Medic_Woodland
+{
+	model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+	camo="woodland";
+	variant="medic_c";
 };
 
 //MA ODST Helmets CH252D New
