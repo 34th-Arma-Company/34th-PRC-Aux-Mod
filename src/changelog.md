@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - New ODST armour
 
+### Updated
+- Marked old ODST stuff as old
+
 ## 0.17.0
 ### Added
 - 5 color variants for the marine helmet eyewear
