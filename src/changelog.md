@@ -7,9 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 ### Added
-- No Shoulder Crossbranch BDU option in 6 camo patterns for ODSTs
-- CH252D ODST Helmet in 5 camo patterns and 3 visor colors
-- M52D ODST Armour in 5 camo patterns with 5 armor variants
+- New ODST armour
 
 ## 0.17.0
 ### Added
