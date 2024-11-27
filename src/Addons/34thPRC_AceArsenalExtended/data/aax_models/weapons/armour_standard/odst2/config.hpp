@@ -1,5 +1,5 @@
 //Ma ODST Armor New
-class 34thPRC_ArmourStandard_ODST_M52_Urban
+class 34thPRC_ArmourStandard_ODST2_M52_Urban
 {
 	label = "[34thPRC] ODST Armors";
 	author = "34th PRC Modding Team, Over Yandere";
@@ -63,7 +63,7 @@ class 34thPRC_ArmourStandard_ODST_M52_Urban
 };
 
 //MA ODST Helmet New
-class 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban
+class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban
 {
 	label = "[34thPRC] ODST CH252D Helmets";
 	author = "34th PRC Modding Team, Over Yandere";
@@ -98,7 +98,7 @@ class 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban
 	{
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[] = {"silver", "red", "gold", "dp"};
+		values[] = {"silver", "red", "gold"};
 		class silver
 		{
 			label = "Silver";
@@ -110,10 +110,6 @@ class 34thPRC_ArmourStandard_ODST_CH252D_SilverVisor_Urban
 		class gold
 		{
 			label = "Gold";
-		};
-		class dp
-		{
-			label = "Depolarized";
 		};
 	};
 };

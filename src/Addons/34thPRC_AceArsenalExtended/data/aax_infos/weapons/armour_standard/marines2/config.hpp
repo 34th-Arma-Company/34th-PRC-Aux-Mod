@@ -20,7 +20,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy
 	camo = "urbanRed";
 	collar = "up";
 };
-class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_NS
+class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_NoShoulder
 {
 	model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 	variant = "shoulderless";
@@ -68,7 +68,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Heavy
 	camo = "urbanBlue";
 	collar = "up";
 };
-class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_NS
+class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_NoShoulder
 {
 	model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 	variant = "shoulderless";
@@ -117,7 +117,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Arctic_Heavy
 	camo = "arctic";
 	collar = "up";
 };
-class 34thPRC_ArmourStandard_Marines2_Uniform_Arctic_NS
+class 34thPRC_ArmourStandard_Marines2_Uniform_Arctic_NoShoulder
 {
 	model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 	variant = "shoulderless";
@@ -166,7 +166,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Heavy
 	camo = "arid";
 	collar = "up";
 };
-class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_NS
+class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_NoShoulder
 {
 	model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 	variant = "shoulderless";
@@ -215,7 +215,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Tropic_Heavy
 	camo = "tropic";
 	collar = "up";
 };
-class 34thPRC_ArmourStandard_Marines2_Uniform_Tropic_NS
+class 34thPRC_ArmourStandard_Marines2_Uniform_Tropic_NoShoulder
 {
 	model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 	variant = "shoulderless";
@@ -264,7 +264,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Heavy
 	camo = "woodland";
 	collar = "up";
 };
-class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_NS
+class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_NoShoulder
 {
 	model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 	variant = "shoulderless";
