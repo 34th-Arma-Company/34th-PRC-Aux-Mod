@@ -10,7 +10,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## 0.18.0
 ### Added
 - New ODST armour
-
 ### Updated
 - Marked old ODST stuff as old
 
@@ -18,17 +17,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - 5 color variants for the marine helmet eyewear
 - New loading screens (Thank you Konkord)
-
 ### Updated
 - New textures and materials for the Mjolnir MkIV
 
 ## 0.16.0
 ### Added
 - CQB shoulders for ODST vest (urban camo only for now)
-
 ### Updated
 - Scorpion textures added (only green camo for now)
-
 ### Removed
 - Old marine armour
 
@@ -43,7 +39,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## 0.13.0
 ### Added
 - Urban blue marine uniforms
-
 ### Updated
 - Changed existing marine urban uniform's display name to mention urban red
 - Rename ODST uniforms in AAX to Urban Red and Urban Blue instead of Red and Blue
@@ -55,12 +50,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - Marine and ODST uniforms
  - ODST vests
  - ODST backpacks
-
 ### Updated
 - Fix a bug with the BR55 not showing it's muzzle attachments
 - Marine's urban BDU texture
 - Marine's tropic uniform
-
 ### Removed
 - Old AAX startup error message patch
 
@@ -80,7 +73,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - New ammo support for some weapons
  - GRL-45: Illumination flares and HuntIR
  - Bulldog: 8 Gauge rounds from UNSC Foundries
-
 ### Updated
 - Invisible MkVb shoulders now use hidden selection stuff instead of a bad p3d
 - SEC Guest Pack: Less protection
@@ -92,9 +84,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Loading screens (thanks Cain)
 
 ## 0.9.0
-### Updated
-- Mjolnir Mark V B
-  - Mjolnir Commando helmet texture fixed
 ### Added
 - Marine Gungnir helmets
 - Mjolnir Mark V B
@@ -104,6 +93,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Mjolnir MP helmet
   - Mjolnir Pilot helmet
 - Add a fake mod to fix dependency on aceax_gearinfo
+### Updated
+- Mjolnir Mark V B
+  - Mjolnir Commando helmet texture fixed
 ### Removed
 - Old spartan equipment
 
