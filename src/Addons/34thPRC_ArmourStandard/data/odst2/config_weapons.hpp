@@ -181,6 +181,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban_dp : 34thPRC_ArmourS
     };
 };
 class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Arid_dp : 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban
+
 {
     displayName="[34th] CH252D Arid (Silver Visor)";
     author="Over Yandere";
