@@ -164,6 +164,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban_dp : 34thPRC_ArmourS
 {
 	displayName="[34th] CH252D Urban (Silver Visor)";
     author="Over Yandere";
+	scope=0;
     hiddenSelectionsTextures[]=
     {
         "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Helmet.paa",// Helmet Texture
@@ -183,6 +184,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Arid_dp : 34thPRC_ArmourSt
 {
     displayName="[34th] CH252D Arid (Silver Visor)";
     author="Over Yandere";
+	scope=0;
     hiddenSelectionsTextures[]=
     {
         "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Helmet.paa",// Helmet Texture
@@ -202,6 +204,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Arctic_dp : 34thPRC_Armour
 {
     displayName="[34th] CH252D Arctic (Silver Visor)";
     author="Over Yandere";
+	scope=0;
     hiddenSelectionsTextures[]=
     {
         "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Helmet.paa",// Helmet Texture
@@ -221,6 +224,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Tropic_dp : 34thPRC_Armour
 {
     displayName="[34th] CH252D Tropic (Silver Visor)";
     author="Over Yandere";
+	scope=0;
     hiddenSelectionsTextures[]=
     {
         "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Helmet.paa",// Helmet Texture
@@ -240,6 +244,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Woodland_dp : 34thPRC_Armo
 {
     displayName="[34th] CH252D Woodland (Silver Visor)";
     author="Over Yandere";
+	scope=0;
     hiddenSelectionsTextures[]=
     {
         "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Helmet.paa",// Helmet Texture
@@ -259,6 +264,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_RedVisor_Urban_dp : 34thPRC_ArmourStan
 {
 	displayName="[34th] CH252D Urban (Red Visor)";
     author="Over Yandere";
+	scope=0;
     hiddenSelectionsTextures[]=
     {
         "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Helmet.paa",// Helmet Texture
@@ -278,6 +284,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_RedVisor_Arid_dp : 34thPRC_ArmourStand
 {
     displayName="[34th] CH252D Arid (Red Visor)";
     author="Over Yandere";
+	scope=0;
     hiddenSelectionsTextures[]=
     {
         "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Helmet.paa",// Helmet Texture
@@ -297,6 +304,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_RedVisor_Arctic_dp : 34thPRC_ArmourSta
 {
     displayName="[34th] CH252D Arctic (Red Visor)";
     author="Over Yandere";
+	scope=0;
     hiddenSelectionsTextures[]=
     {
         "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Helmet.paa",// Helmet Texture
@@ -316,6 +324,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_RedVisor_Tropic_dp : 34thPRC_ArmourSta
 {
     displayName="[34th] CH252D Tropic (Red Visor)";
     author="Over Yandere";
+	scope=0;
     hiddenSelectionsTextures[]=
     {
         "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Helmet.paa",// Helmet Texture
@@ -335,6 +344,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_RedVisor_Woodland_dp : 34thPRC_ArmourS
 {
     displayName="[34th] CH252D Woodland (Red Visor)";
     author="Over Yandere";
+	scope=0;
     hiddenSelectionsTextures[]=
     {
         "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Helmet.paa",// Helmet Texture
@@ -354,6 +364,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_GoldVisor_Urban_dp : 34thPRC_ArmourSta
 {
 	displayName="[34th] CH252D Urban (Gold Visor)";
     author="Over Yandere";
+	scope=0;
     hiddenSelectionsTextures[]=
     {
         "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Helmet.paa",// Helmet Texture
@@ -373,6 +384,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_GoldVisor_Arid_dp : 34thPRC_ArmourStan
 {
     displayName="[34th] CH252D Arid (Gold Visor)";
     author="Over Yandere";
+	scope=0;
     hiddenSelectionsTextures[]=
     {
         "34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Helmet.paa",// Helmet Texture
@@ -392,6 +404,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_GoldVisor_Arctic_dp : 34thPRC_ArmourSt
 {
     displayName="[34th] CH252D Arctic (Gold Visor)";
     author="Over Yandere";
+	scope=0;
     hiddenSelectionsTextures[]=
     {
         "34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Helmet.paa",// Helmet Texture
@@ -411,6 +424,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_GoldVisor_Tropic_dp : 34thPRC_ArmourSt
 {
     displayName="[34th] CH252D Tropic (Gold Visor)";
     author="Over Yandere";
+	scope=0;
     hiddenSelectionsTextures[]=
     {
         "34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Helmet.paa",// Helmet Texture
@@ -430,6 +444,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_GoldVisor_Woodland_dp : 34thPRC_Armour
 {
     displayName="[34th] CH252D Woodland (Gold Visor)";
     author="Over Yandere";
+	scope=0;
     hiddenSelectionsTextures[]=
     {
         "34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Helmet.paa",// Helmet Texture
@@ -451,6 +466,7 @@ class 34thPRC_ArmourStandard_ODST2_M52_Urban : M52_ODST_Vest_Standard_A
 {
     displayName="[34th] M52 Combat Armour Urban";
     author="Over Yandere";
+	scope=0;
     hiddenSelectionsTextures[]=
     {
         "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_CQB.paa", //CQB Left
