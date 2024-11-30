@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 ### Updated
-- Deploarized Helmets removed from Arsenals
+- Fix Deploarized Helmets showing in Arsenals
 
 ## 0.18.0
 ### Added
