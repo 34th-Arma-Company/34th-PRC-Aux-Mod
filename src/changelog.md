@@ -9,7 +9,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Updated
 - Deploarized Helmets removed from Arsenals
 
-
 ## 0.18.0
 ### Added
 - New ODST armour
