@@ -160,7 +160,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_GoldVisor_Woodland : 34thPRC_ArmourSta
 };
 
 
-class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban_dp : CH252D_Helmet_dp
+class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban_dp : 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban
 {
 	displayName="[34th] CH252D Urban (Silver Visor)";
     author="Over Yandere";

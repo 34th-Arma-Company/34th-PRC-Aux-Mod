@@ -6,6 +6,7 @@ class CfgPatches
 		units[]={};
 		requiredAddons[]=
 		{
+			//"MA_Armor", //MA_Armor
 			"34thPRC_ArmourStandard" //34th PRC Aux Mod
 		};
 	};
@@ -17,9 +18,11 @@ class CfgVehicles
 class CfgWeapons
 {
 	//Defines for custom ODST vest & helmet
-	class CH252D_Helmet_dp; // MA_Armor
 	class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban; //34thPRC_ArmourStandard
-	//class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban_dp; //34thPRC_ArmourStandard
+	class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban_dp; //34thPRC_ArmourStandard
+	class ItemInfo; // ARMA3
+
+	//ODST Vests
 	class 34thPRC_ArmourStandard_ODST2_M52_Urban; //34thPRC_ArmourStandard //Variant A / default
 	class 34thPRC_ArmourStandard_ODST2_M52_Marksman_Urban; //34thPRC_ArmourStandard //Marksman shoulders and bobs
 	class 34thPRC_ArmourStandard_ODST2_M52_CQB_Urban; //34thPRC_ArmourStandard //CQB Shoulders and bobs

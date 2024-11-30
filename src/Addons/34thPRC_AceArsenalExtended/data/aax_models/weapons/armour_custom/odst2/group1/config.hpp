@@ -85,8 +85,9 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban
     };
 };
 
+
 //Custom ODST Helmets Group 1: Yandere,
-class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban
+class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban
 {
 	label = "[34thPRC] ODST CH252D Custom Helmets";
 	author = "34th PRC Modding Team, Over Yandere";
