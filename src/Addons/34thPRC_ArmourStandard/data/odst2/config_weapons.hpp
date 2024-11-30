@@ -466,7 +466,6 @@ class 34thPRC_ArmourStandard_ODST2_M52_Urban : M52_ODST_Vest_Standard_A
 {
     displayName="[34th] M52 Combat Armour Urban";
     author="Over Yandere";
-	scope=0;
     hiddenSelectionsTextures[]=
     {
         "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_CQB.paa", //CQB Left
