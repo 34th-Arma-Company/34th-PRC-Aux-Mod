@@ -3,7 +3,8 @@
 # top-most EditorConfig file
 root = true
 
-[*]
+# Catch all
+[!*.{png,paa,jpg,tga}]
 indent_style = tab
 indent_size = 4
 end_of_line = crlf
@@ -12,9 +13,18 @@ trim_trailing_whitespace = true
 insert_final_newline = true
 
 # TODO: consider *.rvmat
-[*.{md,hpp,cpp,bat,ps1,sh,yml}]
+[*.{hpp,cpp,bat,ps1,sh}]
 indent_style = tab
 indent_size = 4
+end_of_line = crlf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+
+[*.{yml,md}]
+indent_style = space
+indent_size = 2
 end_of_line = crlf
 charset = utf-8
 trim_trailing_whitespace = true
@@ -27,8 +37,6 @@ end_of_line = crlf
 charset = utf-8
 trim_trailing_whitespace = true
 insert_final_newline = true
-
-[*.{png,paa,jpg,tga}]
 
 [$PREFIX$]
 insert_final_newline = false

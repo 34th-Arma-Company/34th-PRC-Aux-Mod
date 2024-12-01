@@ -14,4 +14,4 @@ jobs:
         with:
           changelogRegex: "changelog.md"
           message: "Does the changelog need updating in this pull request?"
-          
+
