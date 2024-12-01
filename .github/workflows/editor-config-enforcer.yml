@@ -9,4 +9,7 @@ jobs:
     #  pull-requests: write
     runs-on: ubuntu-latest
     steps:
-    - uses: zbeekman/EditorConfig-Action@28b76e718c351dd35b22c8f7216192bb9de5c21b
+    - uses: wow-rp-addons/actions-editorconfig-check@v1.0.1
+    # greut/eclint-action@v0
+    # editorconfig-checker/action-editorconfig-checker@v1.0.0
+    # snow-actions/eclint@v1.0.1
