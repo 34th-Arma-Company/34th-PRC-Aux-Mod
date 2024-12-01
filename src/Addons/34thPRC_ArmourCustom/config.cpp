@@ -6,7 +6,6 @@ class CfgPatches
 		units[]={};
 		requiredAddons[]=
 		{
-			//"MA_Armor", //MA_Armor
 			"34thPRC_ArmourStandard" //34th PRC Aux Mod
 		};
 	};

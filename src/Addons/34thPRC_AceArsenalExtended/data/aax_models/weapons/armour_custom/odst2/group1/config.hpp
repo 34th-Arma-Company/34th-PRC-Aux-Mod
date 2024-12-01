@@ -1,5 +1,4 @@
 //Custom M52 Group 1: Yandere
-
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban
 {
     label = "[34thPRC] ODST Custom Armors";
