@@ -3,14 +3,6 @@
 # top-most EditorConfig file
 root = true
 
-[*]
-indent_style = tab
-indent_size = 4
-end_of_line = crlf
-charset = utf-8
-trim_trailing_whitespace = true
-insert_final_newline = true
-
 # TODO: consider *.rvmat
 [*.{md,hpp,cpp,bat,ps1,sh,yml}]
 indent_style = tab
@@ -32,3 +24,11 @@ insert_final_newline = true
 
 [$PREFIX$]
 insert_final_newline = false
+
+[*]
+indent_style = tab
+indent_size = 4
+end_of_line = crlf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
