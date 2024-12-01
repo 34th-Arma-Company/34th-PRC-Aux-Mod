@@ -9,4 +9,4 @@ jobs:
     #  pull-requests: write
     runs-on: ubuntu-latest
     steps:
-    - uses: zbeekman/EditorConfig-Action@v1.1.1
+    - uses: zbeekman/EditorConfig-Action@v1.1.0
