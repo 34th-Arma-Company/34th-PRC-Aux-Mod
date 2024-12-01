@@ -89,15 +89,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Marine Gungnir helmets
 - Mjolnir Mark V B
-  - Mjolnir CQC helmet
-  - Mjolnir Gungnir helmet
-  - Mjolnir JFO helmet
-  - Mjolnir MP helmet
-  - Mjolnir Pilot helmet
+	- Mjolnir CQC helmet
+	- Mjolnir Gungnir helmet
+	- Mjolnir JFO helmet
+	- Mjolnir MP helmet
+	- Mjolnir Pilot helmet
 - Add a fake mod to fix dependency on aceax_gearinfo
 ### Updated
 - Mjolnir Mark V B
-  - Mjolnir Commando helmet texture fixed
+	- Mjolnir Commando helmet texture fixed
 ### Removed
 - Old spartan equipment
 
@@ -115,29 +115,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## 0.7.0
 ### Added
 - MkVB Security shoulder
-  - No texture, but the placeholder class was missing
+	- No texture, but the placeholder class was missing
 - New class names for several things
 ### Updated
 - Display name changes
-  - Searchability should be improved
-  - It should also be clearer when a backpack is for ODST use only
+	- Searchability should be improved
+	- It should also be clearer when a backpack is for ODST use only
 - Mark some items as old, these will be removed later
 
 ## 0.6.0
 ### Added
 - SPI Armour Set
 - Mjolnir Mark V B armor set
-  - Mjolnir Air Assault Helmet
-  - Mjolnir Commando Helmet
-  - Mjolnir CQC Set
-  - Mjolnir EVA Set
-  - Mjolnir Grenadier Set
-  - Mjolnir EOD Set
-  - Mjolnir MKV Set
-  - Mjolnir ODST Set
-  - Mjolnir Operator Shoulders
-  - Mjolnir Recon Set
-  - Mjolnir Scout Set
+	- Mjolnir Air Assault Helmet
+	- Mjolnir Commando Helmet
+	- Mjolnir CQC Set
+	- Mjolnir EVA Set
+	- Mjolnir Grenadier Set
+	- Mjolnir EOD Set
+	- Mjolnir MKV Set
+	- Mjolnir ODST Set
+	- Mjolnir Operator Shoulders
+	- Mjolnir Recon Set
+	- Mjolnir Scout Set
 - All Bulldogs have radios now
 
 ## 0.5.0
