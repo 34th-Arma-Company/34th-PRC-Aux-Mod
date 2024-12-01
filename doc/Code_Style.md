@@ -31,7 +31,7 @@ Semnicolons `;` should be placed after each closing curly brace `}` and at the e
 ## Identation and Whitespace
 If your editor is compatible with an EditorConfig file then your editor will do this automatically on saving.
 
-Indentation is to be done with tabs, check your editor settings as it may be using spaces even when you push the tab key. 
+Indentation is to be done with tabs, check your editor settings as it may be using spaces even when you push the tab key.
 
 Line endings are to be crlf. (VS Code handles this.)
 
