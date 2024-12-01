@@ -1,51 +1,51 @@
 //Custom M52 Group 1: Yandere
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban
 {
-    label = "[34thPRC] ODST Custom Armors";
-    author = "34th PRC Modding Team, Over Yandere";
-    options[] = {"player", "camo", "variant"};
-    class player
-    {
-        alwaysSelectable = 1;
-        changeingame = 0;
-        values[]={"yandere"};
-        class yandere
-        {
-            label = "Yandere";
-        };
-        class player2
-        {
-            label = "Player2";
-        };
-    };
-    class camo
-    {
-        alwaysSelectable = 1;
-        changeingame = 0;
-        values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
-        class urban
-        {
-            label = "Urban";
-        };
-        class arctic
-        {
-            label = "Arctic";
-        };
-        class arid
-        {
-            label = "Arid";
-        };
-        class tropic
-        {
-            label = "Tropic";
-        };
-        class woodland
-        {
-            label = "Woodland";
-        };
-    };
-    class variant
-    {
+	label = "[34thPRC] ODST Custom Armors";
+	author = "34th PRC Modding Team, Over Yandere";
+	options[] = {"player", "camo", "variant"};
+	class player
+	{
+		alwaysSelectable = 1;
+		changeingame = 0;
+		values[]={"yandere"};
+		class yandere
+		{
+			label = "Yandere";
+		};
+		class player2
+		{
+		label = "Player2";
+		};
+	};
+	class camo
+	{
+		alwaysSelectable = 1;
+		changeingame = 0;
+		values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
+		class urban
+		{
+			label = "Urban";
+		};
+		class arctic
+		{
+			label = "Arctic";
+		};
+		class arid
+		{
+			label = "Arid";
+		};
+		class tropic
+		{
+			label = "Tropic";
+		};
+		class woodland
+		{
+			label = "Woodland";
+		};
+	};
+	class variant
+	{
 		alwaysSelectable = 1;
 		changeingame = 0;
 		values[] = {"a", "b", "c", "cqb", "marksman", "medic_a", "medic_b", "medic_c"};
@@ -81,7 +81,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban
 		{
 			label = "Medic-C";
 		};
-    };
+	};
 };
 
 
@@ -148,7 +148,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban
 		{
 			label = "Gold";
 		};
-		class custom
+			class custom
 		{
 			label = "Custom";
 		};
