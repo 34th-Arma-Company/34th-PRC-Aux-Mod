@@ -14,9 +14,9 @@ Lupus590 wrote this for her machine, it probably will need some editing to work 
 * Copy the mod folders that you wish to decompile from your Arma mods folder (you can use the launcher to find them)
 * Paste them to the new folder that you made
 * Copy the script to the same folder
-  * The one you made that has the mod folders in, if you are in a mod folder then the script may not work correctly
+	* The one you made that has the mod folders in, if you are in a mod folder then the script may not work correctly
 * You may wish to edit some of the values at the top of the script file
-  * You can open it in any text editor
+	* You can open it in any text editor
 * Run the script
-  * Depending on the number of mods and their size this may take a while
+	* Depending on the number of mods and their size this may take a while
 * The script will exit when it is finished
