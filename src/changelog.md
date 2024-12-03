@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Updated
 - Fix Deploarized Helmets showing in Arsenals
+- Fix ODST Marksman Woodland right shoulder not showing
 
 ## 0.18.0
 ### Added
