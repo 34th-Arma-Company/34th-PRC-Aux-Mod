@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Added
 - Prototyped custom armour
+
+## 0.18.1
 ### Updated
 - Fix Deploarized Helmets showing in Arsenals
 - Fix ODST Marksman Woodland right shoulder not showing
