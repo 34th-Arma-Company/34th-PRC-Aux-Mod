@@ -1,9 +1,10 @@
-class Sinagami_Assault_Exo // PhoenixSystems_Exosuits
+class Bag_Base; // Vanilla?
+class Sinagami_Assault_Exo: Bag_Base // PhoenixSystems_Exosuits
 {
-    maximumLoad = 250;
+    maximumLoad = 350;
 }
 
-class Sinagami_Assault_Jetpack_Exo // PhoenixSystems_Exosuits
+class Sinagami_Assault_Jetpack_Exo: Bag_Base // PhoenixSystems_Exosuits
 {
-    maximumLoad = 250;
+    maximumLoad = 350;
 }

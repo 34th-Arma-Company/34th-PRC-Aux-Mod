@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+### Added
+- Bigger storage for exosuits that we use
 
 ## 0.18.1
 ### Updated
@@ -27,7 +29,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## 0.16.0
 ### Added
-- Bigger storage for exosuits that we use
 - CQB shoulders for ODST vest (urban camo only for now)
 ### Updated
 - Scorpion textures added (only green camo for now)
