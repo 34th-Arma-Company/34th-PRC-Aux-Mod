@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 ### Added
+- Bigger storage for exosuits that we use
 - Prototyped custom armour
 
 ## 0.18.1
