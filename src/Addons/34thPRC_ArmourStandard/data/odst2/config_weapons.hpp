@@ -8,6 +8,14 @@ class M52_ODST_Vest_Marksman; //MA_Armor -> M56D_Vests.hpp //Marksman version
 class M52_ODST_Vest_CQB; //MA_Armor -> M56D_Vests.hpp //CQB version
 class M52_ODST_Vest_Light; //MA_Armor -> M56D_Vests.hpp //Shoulderless version of M52_ODST_Vest_Standard_A
 
+#include "urban\config_weapons.hpp"
+#include "arid\config_weapons.hpp"
+#include "arctic\config_weapons.hpp"
+#include "tropic\config_weapons.hpp"
+#include "woodland\config_weapons.hpp"
+
+//Remove commented coded if testing successful
+/*
 class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban : CH252D_Helmet
 {
 	displayName="[34th] CH252D Urban (Silver Visor)";
@@ -1942,3 +1950,4 @@ class 34thPRC_ArmourStandard_ODST2_M52_CQB_Woodland : 34thPRC_ArmourStandard_ODS
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
 	};
 };
+*/
