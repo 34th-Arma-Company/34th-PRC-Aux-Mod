@@ -38,7 +38,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Arid_dp : 34thPRC_ArmourSt
 		"34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Helmet.paa",// Helmet Texture
 		"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa" // Visor Texture
 	};
-	 class ItemInfo: ItemInfo
+	class ItemInfo: ItemInfo
 	{
 		uniformModel="MA_Armor\data\Helmets\Human_ODST\Reach_ODST_Helm_dp.p3d";
 		hiddenSelectionsTextures[]=
@@ -58,7 +58,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_RedVisor_Arid_dp : 34thPRC_ArmourStand
 		"34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Helmet.paa",// Helmet Texture
 		"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa" // Visor Texture
 	};
-	 class ItemInfo: ItemInfo
+	class ItemInfo: ItemInfo
 	{
 		uniformModel="MA_Armor\data\Helmets\Human_ODST\Reach_ODST_Helm_dp.p3d";
 		hiddenSelectionsTextures[]=
@@ -78,7 +78,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_GoldVisor_Arid_dp : 34thPRC_ArmourStan
 		"34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Helmet.paa",// Helmet Texture
 		"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa" // Visor Texture
 	};
-	 class ItemInfo: ItemInfo
+	class ItemInfo: ItemInfo
 	{
 		uniformModel="MA_Armor\data\Helmets\Human_ODST\Reach_ODST_Helm_dp.p3d";
 		hiddenSelectionsTextures[]=
