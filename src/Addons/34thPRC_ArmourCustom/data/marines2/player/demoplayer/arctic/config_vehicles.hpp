@@ -1,7 +1,7 @@
 class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Arctic_Light : 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Urban_Light
 {
 	scope=1;
-	UniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Urban_Light";
+	UniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Arctic_Light";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\arctic\Base_UpperBDU.paa",
@@ -19,7 +19,7 @@ class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Arctic_Light : 34thPRC_Arm
 class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Arctic_Medium : 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Urban_Medium
 {
 	scope=1;
-	UniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Urban_Medium";
+	UniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Arctic_Medium";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\arctic\Base_UpperBDU.paa",
@@ -37,7 +37,7 @@ class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Arctic_Medium : 34thPRC_Ar
 class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Arctic_Heavy : 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Urban_Heavy
 {
 	scope=1;
-	UniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Urban_Heavy";
+	UniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Arctic_Heavy";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\arctic\Base_UpperBDU.paa",
@@ -55,7 +55,7 @@ class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Arctic_Heavy : 34thPRC_Arm
 class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Marine_Arctic_NoShoulder : 34thPRC_ArmourStandard_Marines2_DemoPlayer_Marine_Urban_NoShoulder
 {
 	scope=1;
-	UniformClass="34thPRC_ArmourStandard_Marines2_DemoPlayer_Marine_Urban_NoShoulder";
+	UniformClass="34thPRC_ArmourStandard_Marines2_DemoPlayer_Marine_Arctic_NoShoulder";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\arctic\Base_UpperBDU.paa",
@@ -73,7 +73,7 @@ class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Marine_Arctic_NoShoulder : 34th
 class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Arctic_Light_NoCollar : 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Urban_Light_NoCollar
 {
 	scope=1;
-	UniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Urban_Light_NoCollar";
+	UniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Arctic_Light_NoCollar";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\arctic\Base_UpperBDU.paa",
@@ -91,7 +91,7 @@ class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Arctic_Light_NoCollar : 34
 class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Arctic_Medium_NoCollar : 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Urban_Medium_NoCollar
 {
 	scope=1;
-	UniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Urban_Medium_NoCollar";
+	UniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Arctic_Medium_NoCollar";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\arctic\Base_UpperBDU.paa",
@@ -109,7 +109,7 @@ class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Arctic_Medium_NoCollar : 3
 class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Arctic_Heavy_NoCollar : 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Urban_Heavy_NoCollar
 {
 	scope=1;
-	UniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Urban_Heavy_NoCollar";
+	UniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Arctic_Heavy_NoCollar";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\arctic\Base_UpperBDU.paa",

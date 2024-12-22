@@ -160,7 +160,7 @@ class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Trooper_Urban_Blue_Medium : 34thP
 		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\urban\demoplayer_marine_shoulders.paa"
 	};
 };
-class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Trooper_Urban_Blue_Heavy : 4thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Heavy
+class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Trooper_Urban_Blue_Heavy : 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Heavy
 {
 	scope=1;
 	UniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Trooper_Urban_Blue_Heavy";
