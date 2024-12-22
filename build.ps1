@@ -51,7 +51,7 @@ try {
 		Write-Output "Validating config files"
 		Push-Location
 		$hadError = $false
-        foreach($folder in $foldersToPack){
+		foreach($folder in $foldersToPack){
 			Set-Location $folder.FullName
 			$errors = (& "$($config.cfgConvertCommand)" "-test" "./config.cpp") 2>&1
 			if($errors -ne $null){
