@@ -33,6 +33,7 @@ class CfgVehicles
 class CfgWeapons
 {
 	class ItemInfo; // ARMA3
+	class U_B_CombatUniform_mcam; // A3_Characters_F
 
 	class 34thPRC_ArmourStandard_Marines2_CH252_Urban; //34thPRC_ArmourStandard
 	class 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece; //34thPRC_ArmourStandard
@@ -48,6 +49,35 @@ class CfgWeapons
 	class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light_NoCollar; //34thPRC_ArmourStandard
 	class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium_NoCollar; //34thPRC_ArmourStandard
 	class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy_NoCollar; //34thPRC_ArmourStandard
+
+	class MA_Marine_BDU_Light: U_B_CombatUniform_mcam // MA_Armor
+	{
+		class ItemInfo;
+	};
+	class MA_Marine_BDU_Medium: U_B_CombatUniform_mcam // MA_Armor
+	{
+		class ItemInfo;
+	};
+	class MA_Marine_BDU_Heavy: U_B_CombatUniform_mcam // MA_Armor
+	{
+		class ItemInfo;
+	};
+	class MA_Marine_BDU_Light_NC: U_B_CombatUniform_mcam // MA_Armor
+	{
+		class ItemInfo;
+	};
+	class MA_Marine_BDU_Medium_NC: U_B_CombatUniform_mcam // MA_Armor
+	{
+		class ItemInfo;
+	};
+	class MA_Marine_BDU_Heavy_NC: U_B_CombatUniform_mcam // MA_Armor
+	{
+		class ItemInfo;
+	};
+	class MA_Marine_BDU_NoShoulder: U_B_CombatUniform_mcam //MA_Armor
+	{
+		class ItemInfo;
+	};
 
 	class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban; //34thPRC_ArmourStandard
 	class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban_dp; //34thPRC_ArmourStandard

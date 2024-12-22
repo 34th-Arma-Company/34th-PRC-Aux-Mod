@@ -1,4 +1,5 @@
-class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light
+//Custom Marine Armor Group 2: DemoPlayer
+class 34thPRC_ArmourCustom_Marines2_DemoPlayer_CH252_Urban
 {
 	label = "[34thPRC] Uniforms";
 	author = "34th PRC Modding Team, J. Koko";
@@ -73,7 +74,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light
 	};
 };
 
-// MA CH252 Helmets
+//Custom Marine Helmet Group 2: DemoPlayer
 class 34thPRC_ArmourStandard_Marines2_CH252_Urban
 {
 	label = "[34thPRC] CH252 Helmets";
