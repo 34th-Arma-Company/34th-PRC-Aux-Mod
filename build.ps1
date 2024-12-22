@@ -3,7 +3,7 @@ param (
 )
 try {
 
-	$configVersion = 3;
+	$configVersion = 2;
 
 	$defaultConfig = "{
 	`"configVersion`": "+$configVersion+",
