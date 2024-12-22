@@ -1,13 +1,3 @@
-class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Arctic : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
-{
-	displayName="[34th] CH252D Arctic 'Yandere' (Custom Visor)";
-	author="Over Yandere";
-	hiddenSelectionsTextures[]=
-	{
-		"34thPRC_ArmourCustom\data\odst2\yandere\arctic\yandere_odst_helmet_arctic.paa",
-		"34thPRC_ArmourCustom\data\odst2\yandere\visor\yandere_odst_visor.paa"
-	};
-};
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Arctic : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
 {
     displayName="[34th] CH252D Arctic 'Yandere' (Silver Visor)";

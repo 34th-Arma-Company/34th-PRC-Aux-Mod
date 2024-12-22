@@ -1,1 +1,1 @@
-//#include "player\config_weapons.hpp"
+#include "player\config_weapons.hpp"

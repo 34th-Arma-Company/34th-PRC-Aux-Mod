@@ -1,0 +1,126 @@
+class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Arctic_Light : 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Urban_Light
+{
+	scope=1;
+	UniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Urban_Light";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines2\arctic\Base_UpperBDU.paa",
+		"34thPRC_ArmourStandard\data\marines2\arctic\Base_LowerBDU.paa",
+		"34thPRC_ArmourStandard\data\marines2\arctic\Base_TrooperCollar.paa",
+		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
+		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_upperarmor_arctic.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_lowerarmor_arctic.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_shoulders.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_shoulders.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_shoulders.paa"
+	};
+};
+class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Arctic_Medium : 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Urban_Medium
+{
+	scope=1;
+	UniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Urban_Medium";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines2\arctic\Base_UpperBDU.paa",
+		"34thPRC_ArmourStandard\data\marines2\arctic\Base_LowerBDU.paa",
+		"34thPRC_ArmourStandard\data\marines2\arctic\Base_TrooperCollar.paa",
+		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
+		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_upperarmor_arctic.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_lowerarmor_arctic.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_shoulders.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_shoulders.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_shoulders.paa"
+	};
+};
+class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Arctic_Heavy : 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Urban_Heavy
+{
+	scope=1;
+	UniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Urban_Heavy";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines2\arctic\Base_UpperBDU.paa",
+		"34thPRC_ArmourStandard\data\marines2\arctic\Base_LowerBDU.paa",
+		"34thPRC_ArmourStandard\data\marines2\arctic\Base_TrooperCollar.paa",
+		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
+		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_upperarmor_arctic.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_lowerarmor_arctic.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_shoulders.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_shoulders.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_shoulders.paa"
+	};
+};
+class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Marine_Arctic_NoShoulder : 34thPRC_ArmourStandard_Marines2_DemoPlayer_Marine_Urban_NoShoulder
+{
+	scope=1;
+	UniformClass="34thPRC_ArmourStandard_Marines2_DemoPlayer_Marine_Urban_NoShoulder";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines2\arctic\Base_UpperBDU.paa",
+		"34thPRC_ArmourStandard\data\marines2\arctic\Base_LowerBDU.paa",
+		"34thPRC_ArmourStandard\data\marines2\arctic\Base_TrooperCollar.paa",
+		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
+		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_upperarmor_arctic.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_lowerarmor_arctic.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_shoulders.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_shoulders.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_shoulders.paa"
+	};
+};
+class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Arctic_Light_NoCollar : 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Urban_Light_NoCollar
+{
+	scope=1;
+	UniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Urban_Light_NoCollar";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines2\arctic\Base_UpperBDU.paa",
+		"34thPRC_ArmourStandard\data\marines2\arctic\Base_LowerBDU.paa",
+		"34thPRC_ArmourStandard\data\marines2\arctic\Base_TrooperCollar.paa",
+		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
+		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_upperarmor_arctic.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_lowerarmor_arctic.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_shoulders.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_shoulders.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_shoulders.paa"
+	};
+};
+class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Arctic_Medium_NoCollar : 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Urban_Medium_NoCollar
+{
+	scope=1;
+	UniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Urban_Medium_NoCollar";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines2\arctic\Base_UpperBDU.paa",
+		"34thPRC_ArmourStandard\data\marines2\arctic\Base_LowerBDU.paa",
+		"34thPRC_ArmourStandard\data\marines2\arctic\Base_TrooperCollar.paa",
+		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
+		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_upperarmor_arctic.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_lowerarmor_arctic.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_shoulders.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_shoulders.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_shoulders.paa"
+	};
+};
+class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Arctic_Heavy_NoCollar : 34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Urban_Heavy_NoCollar
+{
+	scope=1;
+	UniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Marine_Urban_Heavy_NoCollar";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\marines2\arctic\Base_UpperBDU.paa",
+		"34thPRC_ArmourStandard\data\marines2\arctic\Base_LowerBDU.paa",
+		"34thPRC_ArmourStandard\data\marines2\arctic\Base_TrooperCollar.paa",
+		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
+		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_upperarmor_arctic.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_lowerarmor_arctic.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_shoulders.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_shoulders.paa",
+		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\arctic\demoplayer_marine_shoulders.paa"
+	};
+};

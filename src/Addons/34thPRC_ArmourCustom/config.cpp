@@ -15,7 +15,7 @@ class CfgVehicles
 	class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Light; //34thPRC_ArmourStandard
 	class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium; //34thPRC_ArmourStandard
 	class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy; //34thPRC_ArmourStandard
-	// class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_NS; //34thPRC_ArmourStandard
+	class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_NS; //34thPRC_ArmourStandard
 	class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Light_NoCollar; //34thPRC_ArmourStandard
 	class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium_NoCollar; //34thPRC_ArmourStandard
 	class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy_NoCollar; //34thPRC_ArmourStandard
@@ -30,11 +30,14 @@ class CfgWeapons
 	class 34thPRC_ArmourStandard_Marines2_CH252_Urban; //34thPRC_ArmourStandard
 	class 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece; //34thPRC_ArmourStandard
 	class 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses; //34thPRC_ArmourStandard
+	class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic; //34thPRC_ArmourStandard
+	class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece; //34thPRC_ArmourStandard
+	class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses; //34thPRC_ArmourStandard
 
 	class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light; //34thPRC_ArmourStandard
 	class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium; //34thPRC_ArmourStandard
 	class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy; //34thPRC_ArmourStandard
-	// class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_NoShoulder; //34thPRC_ArmourStandard
+	class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_NoShoulder; //34thPRC_ArmourStandard
 	class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light_NoCollar; //34thPRC_ArmourStandard
 	class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium_NoCollar; //34thPRC_ArmourStandard
 	class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy_NoCollar; //34thPRC_ArmourStandard
