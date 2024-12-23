@@ -52,10 +52,10 @@ class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Trooper_Woodland_Heavy : 34thPRC_
 		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\woodland\demoplayer_marine_shoulders_woodland.paa"
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Trooper_Woodland_NoShoulders : 34thPRC_ArmourStandard_Marines2_DemoPlayer_Trooper_Urban_NoShoulders
+class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Trooper_Woodland_NoShoulders : 34thPRC_ArmourCustom_Marines2_DemoPlayer_Trooper_Urban_NoShoulders
 {
 	scope=1;
-	UniformClass="34thPRC_ArmourStandard_Marines2_DemoPlayer_Trooper_Woodland_NoShoulders";
+	UniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Trooper_Woodland_NoShoulders";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\woodland\Woodland_UpperBDU.paa",

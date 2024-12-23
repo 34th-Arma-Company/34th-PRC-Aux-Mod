@@ -342,7 +342,7 @@ class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Uniform_Urban_NoShoulders : MA_Ma
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
-		uniformClass="34thPRC_ArmourStandard_Marines2_DemoPlayer_Trooper_Urban_NoShoulders";
+		uniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Trooper_Urban_NoShoulders";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Uniform_Urban_Light_NoCollar : MA_Marine_BDU_Light

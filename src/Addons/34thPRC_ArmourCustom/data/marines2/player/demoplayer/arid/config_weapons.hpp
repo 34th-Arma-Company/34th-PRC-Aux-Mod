@@ -342,7 +342,7 @@ class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Uniform_Arid_NoShoulders : 34thPR
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
-		uniformClass="34thPRC_ArmourStandard_Marines2_DemoPlayer_Trooper_Arid_NoShoulders";
+		uniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Trooper_Arid_NoShoulders";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Uniform_Arid_Light_NoCollar : 34thPRC_ArmourCustom_Marines2_DemoPlayer_Uniform_Urban_Light_NoCollar
