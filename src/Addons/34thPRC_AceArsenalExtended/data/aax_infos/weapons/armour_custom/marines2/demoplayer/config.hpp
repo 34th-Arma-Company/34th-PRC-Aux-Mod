@@ -2,7 +2,7 @@
 class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Uniform_Urban_Light
 {
 	model = "34thPRC_ArmourCustom_Marines2_DemoPlayer_Uniform_Urban_Light";
-	player="demoplayer";
+	player= "demoplayer";
 	variant = "light";
 	camo = "urbanRed";
 	collar = "up";

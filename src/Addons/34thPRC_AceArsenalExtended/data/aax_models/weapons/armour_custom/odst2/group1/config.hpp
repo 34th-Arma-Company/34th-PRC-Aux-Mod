@@ -15,7 +15,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban
 		};
 		class player2
 		{
-		label = "Player2";
+			label = "Player2";
 		};
 	};
 	class camo
