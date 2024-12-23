@@ -48,7 +48,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Arctic_dp : 34thPRC_
 		"34thPRC_ArmourCustom\data\odst2\yandere\arctic\yandere_odst_helmet_arctic.paa",// Helmet Texture
 		"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa" // Visor Texture
 	};
-	 class ItemInfo: ItemInfo
+	class ItemInfo: ItemInfo
 	{
 		uniformModel="MA_Armor\data\Helmets\Human_ODST\Reach_ODST_Helm_dp.p3d";
 		hiddenSelectionsTextures[]=
@@ -68,7 +68,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Arctic_dp : 34thPRC_Ar
 		"34thPRC_ArmourCustom\data\odst2\yandere\arctic\yandere_odst_helmet_arctic.paa",// Helmet Texture
 		"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa" // Visor Texture
 	};
-	 class ItemInfo: ItemInfo
+	class ItemInfo: ItemInfo
 	{
 		uniformModel="MA_Armor\data\Helmets\Human_ODST\Reach_ODST_Helm_dp.p3d";
 		hiddenSelectionsTextures[]=
@@ -88,7 +88,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Arctic_dp :  34thPRC
 		"34thPRC_ArmourCustom\data\odst2\yandere\arctic\yandere_odst_helmet_arctic.paa",// Helmet Texture
 		"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa" // Visor Texture
 	};
-	 class ItemInfo: ItemInfo
+	class ItemInfo: ItemInfo
 	{
 		uniformModel="MA_Armor\data\Helmets\Human_ODST\Reach_ODST_Helm_dp.p3d";
 		hiddenSelectionsTextures[]=

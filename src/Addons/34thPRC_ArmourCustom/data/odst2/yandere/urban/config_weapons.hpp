@@ -88,7 +88,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Urban_dp : 34thPRC_Arm
 		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_helmet_urban.paa",// Helmet Texture
 		"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa" // Visor Texture
 	};
-	 class ItemInfo: ItemInfo
+	class ItemInfo: ItemInfo
 	{
 		uniformModel="MA_Armor\data\Helmets\Human_ODST\Reach_ODST_Helm_dp.p3d";
 		hiddenSelectionsTextures[]=
@@ -310,7 +310,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Medic_Urban : 34thPRC_ArmourStandar
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-	   "34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Left
+		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Left
 		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Right
 		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Left
 		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Right
