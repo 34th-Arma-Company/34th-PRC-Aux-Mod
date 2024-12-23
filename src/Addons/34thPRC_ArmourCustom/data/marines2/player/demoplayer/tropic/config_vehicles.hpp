@@ -52,10 +52,10 @@ class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Trooper_Tropic_Heavy : 34thPRC_Ar
 		"34thPRC_ArmourCustom\data\marines2\player\demoplayer\tropic\demoplayer_marine_shoulders_tropic.paa"
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Trooper_Tropic_NoShoulders : 34thPRC_ArmourStandard_Marines2_DemoPlayer_Trooper_Urban_NoShoulders
+class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Trooper_Tropic_NoShoulders : 34thPRC_ArmourCustom_Marines2_DemoPlayer_Trooper_Urban_NoShoulders
 {
 	scope=1;
-	UniformClass="34thPRC_ArmourStandard_Marines2_DemoPlayer_Trooper_Tropic_NoShoulders";
+	UniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Trooper_Tropic_NoShoulders";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\tropic\Brown_UpperBDU.paa",
