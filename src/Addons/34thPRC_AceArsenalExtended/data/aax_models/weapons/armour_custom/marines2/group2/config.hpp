@@ -1,9 +1,19 @@
 //Custom Marine Armor Group 2: DemoPlayer
-class 34thPRC_ArmourCustom_Marines2_DemoPlayer_CH252_Urban
+class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Uniform_Urban_Light
 {
-	label = "[34thPRC] Uniforms";
-	author = "34th PRC Modding Team, J. Koko";
-	options[] = {"camo", "collar", "variant"};
+	label = "[34thPRC] Custom Uniforms";
+	author = "34th PRC Modding Team, Yandere";
+	options[] = {"player", "camo", "collar", "variant"};
+	class player
+	{
+		alwaysSelectable = 1;
+		changeingame = 0;
+		values[]={"demoplayer"};
+		class demoplayer
+		{
+			label = "DemoPlayer";
+		};
+	};
 	class variant
 	{
 		label = "Variant";
@@ -75,11 +85,21 @@ class 34thPRC_ArmourCustom_Marines2_DemoPlayer_CH252_Urban
 };
 
 //Custom Marine Helmet Group 2: DemoPlayer
-class 34thPRC_ArmourStandard_Marines2_CH252_Urban
+class 34thPRC_ArmourCustom_Marines2_DemoPlayer_CH252_Urban
 {
-	label = "[34thPRC] CH252 Helmets";
-	author = "34th PRC Modding Team, J. Koko";
-	options[] = {"camo", "eyewear", "medic", "eyewear_color"};
+	label = "[34thPRC] CH252 Custom Helmets";
+	author = "34th PRC Modding Team, J. Yandere";
+	options[] = {"player", "camo", "eyewear", "medic", "eyewear_color"};
+	class player
+	{
+		alwaysSelectable = 1;
+		changeingame = 0;
+		values[]={"demoplayer"};
+		class demoplayer
+		{
+			label = "DemoPlayer";
+		};
+	};
 	class camo
 	{
 		alwaysSelectable = 1;

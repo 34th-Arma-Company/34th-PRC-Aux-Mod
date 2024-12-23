@@ -309,7 +309,7 @@ class 34thPRC_ArmourCustom_Marines2_DemoPlayer_CH252_Urban_Medic_VisorGlasses_Re
 	};
 };
 
-class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_Light : MA_Marine_BDU_Light
+class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Uniform_Urban_Light : MA_Marine_BDU_Light
 {
 	displayName="[34th] Marine Cross Branch BDU Urban Red 'DemoPlayer' (Light)";
 	author="Yandere";
@@ -318,7 +318,7 @@ class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_Light : MA_Marine
 		uniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Trooper_Urban_Light";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_Medium : MA_Marine_BDU_Medium
+class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Uniform_Urban_Medium : MA_Marine_BDU_Medium
 {
 	displayName="[34th] Marine Cross Branch BDU Urban Red 'DemoPlayer' (Medium)";
 	author="Yandere";
@@ -327,7 +327,7 @@ class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_Medium : MA_Marin
 		uniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Trooper_Urban_Medium";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_Heavy : MA_Marine_BDU_Heavy
+class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Uniform_Urban_Heavy : MA_Marine_BDU_Heavy
 {
 	displayName="[34th] Marine Cross Branch BDU Urban Red 'DemoPlayer' (Heavy)";
 	author="Yandere";
@@ -336,7 +336,7 @@ class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_Heavy : MA_Marine
 		uniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Trooper_Urban_Heavy";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_NoShoulders : MA_Marine_BDU_NoShoulder
+class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Uniform_Urban_NoShoulders : MA_Marine_BDU_NoShoulder
 {
 	displayName="[34th] Marine Cross Branch BDU Urban Red 'DemoPlayer' (Shoulderless)";
 	author="Yandere";
@@ -345,7 +345,7 @@ class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_NoShoulders : MA_
 		uniformClass="34thPRC_ArmourStandard_Marines2_DemoPlayer_Trooper_Urban_NoShoulders";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_Light_NoCollar : MA_Marine_BDU_Light
+class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Uniform_Urban_Light_NoCollar : MA_Marine_BDU_Light
 {
 	displayName="[34th] Marine Cross Branch BDU Urban Red 'DemoPlayer' (Light) (No Collar)";
 	author="Yandere";
@@ -354,7 +354,7 @@ class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_Light_NoCollar : 
 		uniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Trooper_Urban_Light_NoCollar";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_Medium_NoCollar : MA_Marine_BDU_Medium
+class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Uniform_Urban_Medium_NoCollar : MA_Marine_BDU_Medium
 {
 	displayName="[34th] Marine Cross Branch BDU Urban Red 'DemoPlayer' (Medium) (No Collar)";
 	author="Yandere";
@@ -363,7 +363,7 @@ class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_Medium_NoCollar :
 		uniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Trooper_Urban_Medium_NoCollar";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_Heavy_NoCollar : MA_Marine_BDU_Heavy
+class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Uniform_Urban_Heavy_NoCollar : MA_Marine_BDU_Heavy
 {
 	displayName="[34th] Marine Cross Branch BDU Urban Red 'DemoPlayer' (Heavy) (No Collar)";
 	author="Yandere";
@@ -372,7 +372,7 @@ class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_Heavy_NoCollar : 
 		uniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Trooper_Urban_Heavy_NoCollar";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_Blue_Light : MA_Marine_BDU_Light
+class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Uniform_Urban_Blue_Light : MA_Marine_BDU_Light
 {
 	displayName="[34th] Marine Cross Branch BDU Urban Blue 'Demo Player' (Light)";
 	author="Yandere";
@@ -381,7 +381,7 @@ class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_Blue_Light : MA_M
 		uniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Trooper_Urban_Blue_Light";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_Blue_Medium : MA_Marine_BDU_Medium
+class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Uniform_Urban_Blue_Medium : MA_Marine_BDU_Medium
 {
 	displayName="[34th] Marine Cross Branch BDU Urban Blue 'DemoPlayer' (Medium)";
 	author="Yandere";
@@ -390,7 +390,7 @@ class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_Blue_Medium : MA_
 		uniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Trooper_Urban_Blue_Medium";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_Blue_Heavy : MA_Marine_BDU_Heavy
+class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Uniform_Urban_Blue_Heavy : MA_Marine_BDU_Heavy
 {
 	displayName="[34th] Marine Cross Branch BDU Urban Blue 'DemoPlayer' (Heavy)";
 	author="Yandere";
@@ -399,7 +399,7 @@ class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_Blue_Heavy : MA_M
 		uniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Trooper_Urban_Blue_Heavy";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_Blue_NoShoulder : MA_Marine_BDU_NoShoulder
+class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Uniform_Urban_Blue_NoShoulders : MA_Marine_BDU_NoShoulder
 {
 	displayName="[34th] Marine Cross Branch BDU Urban Blue 'DemoPlayer' (Shoulderless)";
 	author="Yandere";
@@ -408,7 +408,7 @@ class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_Blue_NoShoulder :
 		uniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Trooper_Urban_Blue_NoShoulders";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_Blue_Light_NoCollar : MA_Marine_BDU_Light
+class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Uniform_Urban_Blue_Light_NoCollar : MA_Marine_BDU_Light
 {
 	displayName="[34th] Marine Cross Branch BDU Urban Blue 'DemoPlayer' (Light) (No Collar)";
 	author="Yandere";
@@ -417,7 +417,7 @@ class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_Blue_Light_NoColl
 		uniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Trooper_Urban_Blue_Light_NoCollar";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_Blue_Medium_NoCollar : MA_Marine_BDU_Medium
+class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Uniform_Urban_Blue_Medium_NoCollar : MA_Marine_BDU_Medium
 {
 	displayName="[34th] Marine Cross Branch BDU Urban Blue 'Demo Player' (Medium) (No Collar)";
 	author="Yandere";
@@ -426,7 +426,7 @@ class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_Blue_Medium_NoCol
 		uniformClass="34thPRC_ArmourCustom_Marines2_DemoPlayer_Trooper_Urban_Blue_Medium_NoCollar";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_DemoPlayer_Uniform_Urban_Blue_Heavy_NoCollar : MA_Marine_BDU_Heavy
+class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Uniform_Urban_Blue_Heavy_NoCollar : MA_Marine_BDU_Heavy
 {
 	displayName="[34th] Marine Cross Branch BDU Urban Blue 'DemoPlayer' (Heavy) (No Collar)";
 	author="Yandere";
