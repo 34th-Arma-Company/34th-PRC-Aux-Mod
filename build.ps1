@@ -8,7 +8,8 @@ try {
 	$defaultConfig = "{
 	`"configVersion`": "+$configVersion+",
 	`"parallelise`": true,
-	`"pboPackCommand`": `"C:\\Program` Files\\PBO` Manager` v.1.4` beta\\PBOConsole.exe`"
+	`"pboPackCommand`": `"C:\\Program` Files\\PBO` Manager` v.1.4` beta\\PBOConsole.exe`",
+	`"cfgConvertCommand`": `"C:\\Games\\Steam\\steamapps\\common\\Arma 3 Tools\\CfgConvert\\CfgConvert.exe`"
 }"
 
 	$configFile = ".\build-config.json"
@@ -44,6 +45,39 @@ try {
 	New-Item -Path ".\build\Addons\Keys" -Force -ItemType "directory" -ErrorAction Stop | out-null
 
 	$foldersToPack = Get-ChildItem ".\src\Addons" | Where-Object {$_.Name -ne "Keys"}
+
+	if($null -ne $config.cfgConvertCommand -and $config.cfgConvertCommand -ne "" -and (Test-Path $config.cfgConvertCommand))
+	{
+		Write-Output "Validating config files"
+		Push-Location
+		$hadError = $false
+		foreach($folder in $foldersToPack){
+			Set-Location $folder.FullName
+			$errors = (& "$($config.cfgConvertCommand)" "-test" "./config.cpp") 2>&1
+			if($errors -ne $null){
+				$hadError = $true
+				Write-Warning ("Errors in config for "+$folder.Name)
+				foreach($err in $errors)
+				{
+					Write-Warning ($err)
+				}
+			}
+		}
+		Pop-Location
+		if ($hadError)
+		{
+			throw "Aborting build due to config errors"
+		}
+		else
+		{
+			Write-Output "Config files look valid"
+		}
+	}
+	else
+	{
+		Write-Warning ("Could not find CfgConvert at ``"+$config.cfgConvertCommand+"``. Skipping config validation.")
+		Write-Warning ("If you have CfgConvert installed then you can add its path to the ``"+$configFile+"`` file to enable config validation.")
+	}
 
 	if($config.parallelise){
 
