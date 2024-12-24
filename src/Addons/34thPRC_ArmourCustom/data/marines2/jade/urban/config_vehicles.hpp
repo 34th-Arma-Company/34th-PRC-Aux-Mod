@@ -10,7 +10,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Light : 34thPRC_ArmourSta
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\Base_LowerArmor.paa",
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa"
@@ -28,7 +28,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Medium : 34thPRC_ArmourSt
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\Base_LowerArmor.paa",
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa"
@@ -46,7 +46,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Heavy : 34thPRC_ArmourSta
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\Base_LowerArmor.paa",
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa"
@@ -64,7 +64,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_NoShoulders : 34thPRC_Arm
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\Base_LowerArmor.paa",
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa"
@@ -82,7 +82,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Light_NoCollar : 34thPRC_
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\Base_LowerArmor.paa",
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa"
@@ -100,7 +100,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Medium_NoCollar : 34thPRC
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\Base_LowerArmor.paa",
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa"
@@ -118,7 +118,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Heavy_NoCollar : 34thPRC_
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\Base_LowerArmor.paa",
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa"
@@ -136,7 +136,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Blue_Light : 34thPRC_Armo
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\Base_LowerArmor.paa",
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa"
@@ -154,7 +154,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Blue_Medium : 34thPRC_Arm
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\Base_LowerArmor.paa",
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa"
@@ -172,7 +172,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Blue_Heavy : 34thPRC_Armo
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\Base_LowerArmor.paa",
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa"
@@ -190,7 +190,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Blue_NoShoulders : 34thPR
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\Base_LowerArmor.paa",
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa"
@@ -208,7 +208,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Blue_Light_NoCollar : 34t
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\Base_LowerArmor.paa",
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa"
@@ -226,7 +226,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Blue_Medium_NoCollar : 34
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\Base_LowerArmor.paa",
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa"
@@ -244,7 +244,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Blue_Heavy_NoCollar : 34t
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_upperarmor_urban.paa",
-		"34thPRC_ArmourCustom\data\marines2\jade\urban\Base_LowerArmor.paa",
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa",
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa"
