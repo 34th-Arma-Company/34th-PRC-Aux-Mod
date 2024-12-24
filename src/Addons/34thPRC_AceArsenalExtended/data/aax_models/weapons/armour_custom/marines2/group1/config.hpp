@@ -1,5 +1,5 @@
-//Custom Marine Armor Group 1: DemoPlayer
-class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Uniform_Urban_Light
+//Custom Marine Armor Group 1: Jade
+class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Light
 {
 	label = "[34thPRC] Custom Uniforms";
 	author = "34th PRC Modding Team, Yandere";
@@ -8,10 +8,10 @@ class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Uniform_Urban_Light
 	{
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[]={"demoplayer"};
-		class demoplayer
+		values[]={"jade"};
+		class jade
 		{
-			label = "DemoPlayer";
+			label = "Jade";
 		};
 	};
 	class variant
@@ -84,8 +84,8 @@ class 34thPRC_ArmourCustom_Marines2_DemoPlayer_Uniform_Urban_Light
 	};
 };
 
-//Custom Marine Helmet Group 2: DemoPlayer
-class 34thPRC_ArmourCustom_Marines2_DemoPlayer_CH252_Urban
+//Custom Marine Helmet Group 1: Jade
+class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban
 {
 	label = "[34thPRC] CH252 Custom Helmets";
 	author = "34th PRC Modding Team, J. Yandere";
@@ -94,10 +94,10 @@ class 34thPRC_ArmourCustom_Marines2_DemoPlayer_CH252_Urban
 	{
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[]={"demoplayer"};
-		class demoplayer
+		values[]={"jade"};
+		class jade
 		{
-			label = "DemoPlayer";
+			label = "Jade";
 		};
 	};
 	class camo

@@ -1,1 +1,1 @@
-#include "demoplayer\config.hpp"
+#include "jade\config.hpp"
