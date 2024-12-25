@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## 1.19.0
 ### Added
+- Prototyped custom armour
 - Bigger storage for exosuits that we use
 ### Updated
 - Fixed some of our scorpions not showing in zeus
