@@ -315,6 +315,13 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Light: 34thPRC_ArmourStandard
 	{
 		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Arid_Light";
 	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+		variant = "light";
+		camo = "arid";
+		collar = "up";
+	};
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Medium: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium
 {
@@ -323,6 +330,13 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Medium: 34thPRC_ArmourStandar
 	class ItemInfo: ItemInfo
 	{
 		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Arid_Medium";
+	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+		variant = "medium";
+		camo = "arid";
+		collar = "up";
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Heavy: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy
@@ -333,6 +347,13 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Heavy: 34thPRC_ArmourStandard
 	{
 		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Arid_Heavy";
 	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+		variant = "heavy";
+		camo = "arid";
+		collar = "up";
+	};
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_NoShoulder: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_NoShoulder
 {
@@ -341,6 +362,13 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_NoShoulder: 34thPRC_ArmourSta
 	class ItemInfo: ItemInfo
 	{
 		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Arid_NS";
+	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+		variant = "shoulderless";
+		camo = "arid";
+		collar = "up";
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Light_NoCollar: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light_NoCollar
@@ -351,6 +379,13 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Light_NoCollar: 34thPRC_Armou
 	{
 		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Arid_Light_NoCollar";
 	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+		variant = "light";
+		camo = "arid";
+		collar = "down";
+	};
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Medium_NoCollar: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium_NoCollar
 {
@@ -360,6 +395,13 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Medium_NoCollar: 34thPRC_Armo
 	{
 		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Arid_Medium_NoCollar";
 	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+		variant = "medium";
+		camo = "arid";
+		collar = "down";
+	};
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Heavy_NoCollar: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy_NoCollar
 {
@@ -368,5 +410,12 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Heavy_NoCollar: 34thPRC_Armou
 	class ItemInfo: ItemInfo
 	{
 		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Arid_Heavy_NoCollar";
+	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+		variant = "heavy";
+		camo = "arid";
+		collar = "down";
 	};
 };
