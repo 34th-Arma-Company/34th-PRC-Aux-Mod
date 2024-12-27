@@ -34,6 +34,13 @@ class 34thPRC_ArmourCustom_ODST2_Cappy_M52_Urban : 34thPRC_ArmourStandard_ODST2_
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
 	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+		player="cappy";
+		camo="urban";
+		variant="a";
+	};
 };
 class 34thPRC_ArmourCustom_ODST2_Cappy_M52_B_Urban : 34thPRC_ArmourStandard_ODST2_M52_B_Urban
 {
