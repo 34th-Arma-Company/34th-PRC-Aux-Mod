@@ -34,6 +34,82 @@ class 34thPRC_ArmourStandard_MkVB_EOD_HR_Helmet : MA_Mjolnir_HR_EOD_Helmet
 	};
 };
 
+class 34thPRC_ArmourStandard_EOD_Helmet_Urban : 34thPRC_ArmourStandard_MkVB_EOD_HR_Helmet
+{
+	displayName="[34th] EOD Helmet Urban";
+	author="Yandere";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\mkvb\EOD\34th_eod_helmet_urban.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\HR_EOD\Visors\34_EOD_HR_Helmet_Visor_Gold.paa"
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_EOD_Helmet_Urban";
+		camo="urban";
+	};
+};
+class 34thPRC_ArmourStandard_EOD_Helmet_Arid : 34thPRC_ArmourStandard_EOD_Helmet_Urban
+{
+	displayName="[34th] EOD Helmet Arid";
+	author="Yandere";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\mkvb\EOD\34th_eod_helmet_arid.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\HR_EOD\Visors\34_EOD_HR_Helmet_Visor_Gold.paa"
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_EOD_Helmet_Urban";
+		camo="arid";
+	};
+};
+class 34thPRC_ArmourStandard_EOD_Helmet_Arctic : 34thPRC_ArmourStandard_EOD_Helmet_Urban
+{
+	displayName="[34th] EOD Helmet Arctic";
+	author="Yandere";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\mkvb\EOD\34th_eod_helmet_arctic.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\HR_EOD\Visors\34_EOD_HR_Helmet_Visor_Gold.paa"
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_EOD_Helmet_Urban";
+		camo="arctic";
+	};
+};
+class 34thPRC_ArmourStandard_EOD_Helmet_Tropic : 34thPRC_ArmourStandard_EOD_Helmet_Urban
+{
+	displayName="[34th] EOD Helmet Tropic";
+	author="Yandere";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\mkvb\EOD\34th_eod_helmet_tropic.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\HR_EOD\Visors\34_EOD_HR_Helmet_Visor_Gold.paa"
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_EOD_Helmet_Urban";
+		camo="tropic";
+	};
+};
+class 34thPRC_ArmourStandard_EOD_Helmet_Woodland : 34thPRC_ArmourStandard_EOD_Helmet_Urban
+{
+	displayName="[34th] EOD Helmet Woodland";
+	author="Yandere";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\mkvb\EOD\34th_eod_helmet_woodland.paa",
+		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\HR_EOD\Visors\34_EOD_HR_Helmet_Visor_Gold.paa"
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_EOD_Helmet_Urban";
+		camo="woodland";
+	};
+};
+
 class MA_Mjolnir_H3_EOD_Helmet; // MA_Armor
 class 34thPRC_ArmourStandard_MkVB_EOD_H3_Helmet : MA_Mjolnir_H3_EOD_Helmet
 {
