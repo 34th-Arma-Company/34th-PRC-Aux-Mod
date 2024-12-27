@@ -34,6 +34,13 @@ class 34thPRC_ArmourCustom_ODST2_Cappy_M52_Tropic : 34thPRC_ArmourCustom_ODST2_C
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
 	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban";
+		player="cappy";
+		camo="tropic";
+		variant="a";
+	};
 };
 class 34thPRC_ArmourCustom_ODST2_Cappy_M52_B_Tropic : 34thPRC_ArmourCustom_ODST2_Cappy_M52_B_Urban
 {
@@ -70,6 +77,13 @@ class 34thPRC_ArmourCustom_ODST2_Cappy_M52_B_Tropic : 34thPRC_ArmourCustom_ODST2
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban";
+		player="cappy";
+		camo="tropic";
+		variant="b";
 	};
 };
 class 34thPRC_ArmourCustom_ODST2_Cappy_M52_C_Tropic : 34thPRC_ArmourCustom_ODST2_Cappy_M52_C_Urban
@@ -108,6 +122,13 @@ class 34thPRC_ArmourCustom_ODST2_Cappy_M52_C_Tropic : 34thPRC_ArmourCustom_ODST2
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
 	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban";
+		player="cappy";
+		camo="tropic";
+		variant="c";
+	};
 };
 class 34thPRC_ArmourCustom_ODST2_Cappy_M52_Marksman_Tropic : 34thPRC_ArmourCustom_ODST2_Cappy_M52_Marksman_Urban
 {
@@ -145,6 +166,13 @@ class 34thPRC_ArmourCustom_ODST2_Cappy_M52_Marksman_Tropic : 34thPRC_ArmourCusto
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
 	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban";
+		player="cappy";
+		camo="tropic";
+		variant="marksman";
+	};
 };
 class 34thPRC_ArmourCustom_ODST2_Cappy_M52_CQB_Tropic : 34thPRC_ArmourCustom_ODST2_Cappy_M52_CQB_Urban
 {
@@ -181,5 +209,12 @@ class 34thPRC_ArmourCustom_ODST2_Cappy_M52_CQB_Tropic : 34thPRC_ArmourCustom_ODS
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban";
+		player="cappy";
+		camo="tropic";
+		variant="cqb";
 	};
 };
