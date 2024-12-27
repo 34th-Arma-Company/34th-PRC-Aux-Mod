@@ -10,11 +10,6 @@ class 34thPRC_ArmourStandard_Crewman_CH252C_Urban: VES_CH252_URB_Crew
 	{
 		"34thPRC_ArmourStandard\data\crewman\V_CH252_URB_C_CO.paa",
 	};
-};
-
-class 34thPRC_ArmourStandard_Crewman_CH252C_Urban2: 34thPRC_ArmourStandard_Crewman_CH252C_Urban
-{
-	displayName="[34th] CH252C Urban2 (Crew)";
 	hiddenSelectionsMaterials[] =
 	{
 		"34thPRC_ArmourStandard\data\crewman\V_CH252C.rvmat",
