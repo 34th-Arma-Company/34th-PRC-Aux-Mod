@@ -118,4 +118,3 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban
 		};
 	};
 };
-

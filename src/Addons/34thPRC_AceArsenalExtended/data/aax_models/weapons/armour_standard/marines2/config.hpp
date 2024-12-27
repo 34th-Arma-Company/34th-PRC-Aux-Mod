@@ -77,7 +77,6 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban
 	label = "[34thPRC] CH252 Helmets";
 	author = "34th PRC Modding Team, J. Koko";
 	options[] = {"camo", "eyewear", "medic", "eyewear_color"};
-
 	class camo
 	{
 		alwaysSelectable = 1;
@@ -137,9 +136,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban
 		};
 	};
 	class eyewear_color
-
 	{
-
 		alwaysSelectable = 1;
 		changeingame = 0;
 		values[] = {"blue", "green", "red", "purple", "orange"};
