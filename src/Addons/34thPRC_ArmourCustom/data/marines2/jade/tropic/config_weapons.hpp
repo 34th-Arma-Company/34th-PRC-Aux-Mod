@@ -317,6 +317,14 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Tropic_Light : 34thPRC_ArmourCu
 	{
 		uniformClass="34thPRC_ArmourCustom_Marines2_Jade_Trooper_Tropic_Light";
 	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Light";
+		player= "jade";
+		variant = "light";
+		camo = "tropic";
+		collar = "up";
+	};
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Tropic_Medium : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Medium
 {
@@ -325,6 +333,14 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Tropic_Medium : 34thPRC_ArmourC
 	class ItemInfo: ItemInfo
 	{
 		uniformClass="34thPRC_ArmourCustom_Marines2_Jade_Trooper_Tropic_Medium";
+	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Light";
+		player= "jade";
+		variant = "medium";
+		camo = "tropic";
+		collar = "up";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Tropic_Heavy : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Heavy
@@ -335,6 +351,14 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Tropic_Heavy : 34thPRC_ArmourCu
 	{
 		uniformClass="34thPRC_ArmourCustom_Marines2_Jade_Trooper_Tropic_Heavy";
 	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Light";
+		player= "jade";
+		variant = "heavy";
+		camo = "tropic";
+		collar = "up";
+	};
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Tropic_NoShoulders : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_NoShoulders
 {
@@ -343,6 +367,14 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Tropic_NoShoulders : 34thPRC_Ar
 	class ItemInfo: ItemInfo
 	{
 		uniformClass="34thPRC_ArmourCustom_Marines2_Jade_Trooper_Tropic_NoShoulders";
+	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Light";
+		player= "jade";
+		variant = "shoulderless";
+		camo = "tropic";
+		collar = "up";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Tropic_Light_NoCollar : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Light_NoCollar
@@ -353,6 +385,14 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Tropic_Light_NoCollar : 34thPRC
 	{
 		uniformClass="34thPRC_ArmourCustom_Marines2_Jade_Trooper_Tropic_Light_NoCollar";
 	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Light";
+		player= "jade";
+		variant = "light";
+		camo = "tropic";
+		collar = "down";
+	};
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Tropic_Medium_NoCollar : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Medium_NoCollar
 {
@@ -362,6 +402,14 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Tropic_Medium_NoCollar : 34thPR
 	{
 		uniformClass="34thPRC_ArmourCustom_Marines2_Jade_Trooper_Tropic_Medium_NoCollar";
 	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Light";
+		player= "jade";
+		variant = "medium";
+		camo = "tropic";
+		collar = "down";
+	};
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Tropic_Heavy_NoCollar : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Heavy_NoCollar
 {
@@ -370,5 +418,13 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Tropic_Heavy_NoCollar : 34thPRC
 	class ItemInfo: ItemInfo
 	{
 		uniformClass="34thPRC_ArmourCustom_Marines2_Jade_Trooper_Tropic_Heavy_NoCollar";
+	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Light";
+		player= "jade";
+		variant = "heavy";
+		camo = "tropic";
+		collar = "down";
 	};
 };
