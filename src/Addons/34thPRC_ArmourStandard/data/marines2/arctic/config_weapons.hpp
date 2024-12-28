@@ -504,7 +504,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Arctic_Medium: 34thPRC_ArmourStand
 	{
 		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Arctic_Medium";
 	};
-	class 34thPRC_ArmourStandard_Marines2_Uniform_ArctiXtdGearInfoc_Medium
+	class XtdGearInfo
 	{
 		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 		variant = "medium";
