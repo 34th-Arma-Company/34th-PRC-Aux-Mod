@@ -374,6 +374,107 @@ class 34thPRC_ArmourStandard_MkVB_EOD_CBRN_NVG: MA_EOD_CBRN_Attachment_NVG
 	};
 };
 
+class 34thPRC_ArmourStandard_EOD_CBRN_NVG_Urban : 34thPRC_ArmourStandard_MkVB_EOD_CBRN_NVG
+{
+	displayName="[34th] EOD CBRN Module Urban";
+	author="Yandere";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\mkvb\EOD\cbrn\34th_eod_cbrn_urban.paa";
+	};
+	visionMode[]=
+	{
+		"Normal",
+		"NVG",
+		"TI"
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_EOD_CBRN_NVG_Urban";
+		camo="urban";
+	};
+};
+class 34thPRC_ArmourStandard_EOD_CBRN_NVG_Arid : 34thPRC_ArmourStandard_MkVB_EOD_CBRN_NVG
+{
+	displayName="[34th] EOD CBRN Module Arid";
+	author="Yandere";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\mkvb\EOD\cbrn\34th_eod_cbrn_arid.paa";
+	};
+	visionMode[]=
+	{
+		"Normal",
+		"NVG",
+		"TI"
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_EOD_CBRN_NVG_Urban";
+		camo="arid";
+	};
+};
+class 34thPRC_ArmourStandard_EOD_CBRN_NVG_Arctic : 34thPRC_ArmourStandard_MkVB_EOD_CBRN_NVG
+{
+	displayName="[34th] EOD CBRN Module Arctic";
+	author="Yandere";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\mkvb\EOD\cbrn\34th_eod_cbrn_arctic.paa";
+	};
+	visionMode[]=
+	{
+		"Normal",
+		"NVG",
+		"TI"
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_EOD_CBRN_NVG_Urban";
+		camo="arctic";
+	};
+};
+class 34thPRC_ArmourStandard_EOD_CBRN_NVG_Tropic : 34thPRC_ArmourStandard_MkVB_EOD_CBRN_NVG
+{
+	displayName="[34th] EOD CBRN Module Tropic";
+	author="Yandere";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\mkvb\EOD\cbrn\34th_eod_cbrn_tropic.paa";
+	};
+	visionMode[]=
+	{
+		"Normal",
+		"NVG",
+		"TI"
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_EOD_CBRN_NVG_Urban";
+		camo="tropic";
+	};
+};
+class 34thPRC_ArmourStandard_EOD_CBRN_NVG_Woodland : 34thPRC_ArmourStandard_MkVB_EOD_CBRN_NVG
+{
+	displayName="[34th] EOD CBRN Module Woodland";
+	author="Yandere";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourStandard\data\mkvb\EOD\cbrn\34th_eod_cbrn_woodland.paa";
+	};
+	visionMode[]=
+	{
+		"Normal",
+		"NVG",
+		"TI"
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_EOD_CBRN_NVG_Urban";
+		camo="woodland";
+	};
+};
+
 class MA_Scout_Attachment_NVG; // MA_Armor
 class 34thPRC_ArmourStandard_MkVB_Scout_NVG: MA_Scout_Attachment_NVG
 {
