@@ -433,7 +433,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_VisorGlasses_Green : 34th
 		camo = "arid";
 		eyewear = "visor";
 		medic = "true";
-		eyewear_color = "blue";
+		eyewear_color = "green";
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_VisorGlasses_Purple : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses
