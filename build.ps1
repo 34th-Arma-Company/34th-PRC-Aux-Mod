@@ -9,7 +9,7 @@ try {
 	`"configVersion`": "+$configVersion+",
 	`"parallelise`": true,
 	`"pboPackCommand`": `"C:\\Program` Files\\PBO` Manager` v.1.4` beta\\PBOConsole.exe`",
-	`"cfgConvertCommand`": `"C:\\Games\\Steam\\steamapps\\common\\Arma 3 Tools\\CfgConvert\\CfgConvert.exe`"
+	`"cfgConvertCommand`": `"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 3 Tools\\CfgConvert\\CfgConvert.exe`"
 }"
 
 	$configFile = ".\build-config.json"
