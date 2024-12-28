@@ -619,7 +619,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Heavy_NoCollar : MA_Marin
 		player= "jade";
 		variant = "heavy";
 		camo = "urbanRed";
-		collar = "up";
+		collar = "down";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Blue_Light : MA_Marine_BDU_Light
