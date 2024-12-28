@@ -411,7 +411,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Woodland_Medic_VisorGlasses : 34t
 		eyewear_color = "orange";
 	};
 };
-class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Woodland_Medic_VisorGlasses_Blue : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_Medic_VisorGlasses
+class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Woodland_Medic_VisorGlasses_Blue : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Woodland_Medic_VisorGlasses
 {
 	displayName="[34th] CH252 Woodland 'Jade' (Medic) (Blue Visor Glasses)";
 	author="Jade";
@@ -434,7 +434,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Woodland_Medic_VisorGlasses_Blue 
 		eyewear_color = "blue";
 	};
 };
-class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Woodland_Medic_VisorGlasses_Green : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_Medic_VisorGlasses
+class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Woodland_Medic_VisorGlasses_Green : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Woodland_Medic_VisorGlasses
 {
 	displayName="[34th] CH252 Woodland 'Jade' (Medic) (Green Visor Glasses)";
 	author="Jade";
@@ -457,7 +457,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Woodland_Medic_VisorGlasses_Green
 		eyewear_color = "green";
 	};
 };
-class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Woodland_Medic_VisorGlasses_Purple : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_Medic_VisorGlasses
+class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Woodland_Medic_VisorGlasses_Purple : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Woodland_Medic_VisorGlasses
 {
 	displayName="[34th] CH252 Woodland 'Jade' (Medic) (Purple Visor Glasses)";
 	author="Jade";
@@ -480,7 +480,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Woodland_Medic_VisorGlasses_Purpl
 		eyewear_color = "purple";
 	};
 };
-class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Woodland_Medic_VisorGlasses_Red : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_Medic_VisorGlasses
+class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Woodland_Medic_VisorGlasses_Red : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Woodland_Medic_VisorGlasses
 {
 	displayName="[34th] CH252 Woodland 'Jade' (Medic) (Red Visor Glasses)";
 	author="Jade";
