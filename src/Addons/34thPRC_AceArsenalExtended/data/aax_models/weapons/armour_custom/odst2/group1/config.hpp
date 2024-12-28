@@ -1,4 +1,4 @@
-//Custom M52 Group 1: Yandere
+//Custom M52 Group 1: Yandere, Cappy
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban
 {
 	label = "[34thPRC] ODST Custom Armors";
@@ -8,14 +8,14 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban
 	{
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[]={"yandere"};
+		values[]={"yandere", "cappy"};
 		class yandere
 		{
 			label = "Yandere";
 		};
-		class player2
+		class cappy
 		{
-			label = "Player2";
+			label = "Cappy";
 		};
 	};
 	class camo
