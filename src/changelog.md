@@ -7,7 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 ### Added
-- Cappy Custom Vest
+- Cappy Custom Armour
+- EOD Helmets for Marines/ODSTs
+- EOD CBRN NVG attachment for Marines/ODST
+
 
 ## 1.19.0
 ### Added
