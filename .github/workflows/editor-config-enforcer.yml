@@ -11,6 +11,7 @@ jobs:
     steps:
     - uses: nodef/git-config.action@v1.0.0
       with:
+        path: $HOME/.gitconfig
         entries: |-
           core.autocrlf = false
           core.eol = crlf
