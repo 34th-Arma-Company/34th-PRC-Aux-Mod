@@ -9,6 +9,9 @@ jobs:
     #  pull-requests: write
     runs-on: ubuntu-latest
     steps:
+    - uses: nodef/git-config.action@v1.0.0
+    with:
+      path: .gitconfig     
     - uses: actions/checkout@v4.2.2
     - uses: kasperhesthaven/setup-editorconfig-checker@v1.2.0
     # - uses: zbeekman/EditorConfig-Action@v1.1.1 # broken
