@@ -9,7 +9,7 @@ jobs:
     #  pull-requests: write
     runs-on: ubuntu-latest
     steps:
-    - run: git config --global core.autocrlf false
+    - run: git config --global core.autocrlf true
     - run: git config --global core.eol crlf
     - uses: actions/checkout@v4.2.2
     - uses: kasperhesthaven/setup-editorconfig-checker@v1.2.0
