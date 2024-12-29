@@ -7,7 +7,7 @@ root = true
 [!*.{png,paa,jpg,tga}]
 indent_style = tab
 indent_size = 4
-#end_of_line = crlf
+end_of_line = crlf
 charset = utf-8
 trim_trailing_whitespace = true
 insert_final_newline = true
@@ -16,11 +16,10 @@ insert_final_newline = true
 [*.{hpp,cpp,bat,ps1,sh}]
 indent_style = tab
 indent_size = 4
-#end_of_line = crlf
+end_of_line = crlf
 charset = utf-8
 trim_trailing_whitespace = true
 insert_final_newline = true
-
 
 [*.{yml,md}]
 indent_style = space
