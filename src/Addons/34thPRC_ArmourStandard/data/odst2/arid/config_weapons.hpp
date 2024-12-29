@@ -1,4 +1,4 @@
-class 34thPRC_ArmourStandard_ODST2_CHCH252D_SilverVisor_Arid : 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban
+class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Arid : 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban
 {
 	displayName="[34th] CH252D Arid (Silver Visor)";
 	author="Over Yandere";
@@ -6,6 +6,12 @@ class 34thPRC_ArmourStandard_ODST2_CHCH252D_SilverVisor_Arid : 34thPRC_ArmourSta
 	{
 		"34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Helmet.paa",
 		"34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Silvervisor.paa"
+	};
+	class XtdGearInfo
+	{
+		model= "34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban";
+		camo= "arid";
+		visor= "silver";
 	};
 };
 class 34thPRC_ArmourStandard_ODST2_CH252D_RedVisor_Arid : 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban
@@ -17,6 +23,12 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_RedVisor_Arid : 34thPRC_ArmourStandard
 		"34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Helmet.paa",
 		"34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Redvisor.paa"
 	};
+	class XtdGearInfo
+	{
+		model= "34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban";
+		camo= "arid";
+		visor= "red";
+	};
 };
 class 34thPRC_ArmourStandard_ODST2_CH252D_GoldVisor_Arid : 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban
 {
@@ -26,6 +38,12 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_GoldVisor_Arid : 34thPRC_ArmourStandar
 	{
 		"34thPRC_ArmourStandard\data\odst2\arid\34th_Arid_ODST_Helmet.paa",
 		"34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Goldvisor.paa"
+	};
+	class XtdGearInfo
+	{
+		model= "34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban";
+		camo= "arid";
+		visor= "gold";
 	};
 };
 class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Arid_dp : 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban
@@ -124,10 +142,16 @@ class 34thPRC_ArmourStandard_ODST2_M52_Arid : 34thPRC_ArmourStandard_ODST2_M52_U
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
 	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+		camo="arid";
+		variant="a";
+	};
 };
 class 34thPRC_ArmourStandard_ODST2_M52_Medic_Arid : 34thPRC_ArmourStandard_ODST2_M52_Urban
 {
-	displayName="[34th] M52-B Combat Armour (Corpsman) Arid";
+	displayName="[34th] M52 Combat Armour (Corpsman) Arid";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -160,6 +184,12 @@ class 34thPRC_ArmourStandard_ODST2_M52_Medic_Arid : 34thPRC_ArmourStandard_ODST2
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+		camo="arid";
+		variant="medic_a";
 	};
 };
 class 34thPRC_ArmourStandard_ODST2_M52_B_Arid : 34thPRC_ArmourStandard_ODST2_M52_B_Urban
@@ -198,6 +228,12 @@ class 34thPRC_ArmourStandard_ODST2_M52_B_Arid : 34thPRC_ArmourStandard_ODST2_M52
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
 	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+		camo="arid";
+		variant="b";
+	};
 };
 class 34thPRC_ArmourStandard_ODST2_M52_B_Medic_Arid : 34thPRC_ArmourStandard_ODST2_M52_B_Urban
 {
@@ -234,6 +270,12 @@ class 34thPRC_ArmourStandard_ODST2_M52_B_Medic_Arid : 34thPRC_ArmourStandard_ODS
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+		camo="arid";
+		variant="medic_b";
 	};
 };
 class 34thPRC_ArmourStandard_ODST2_M52_C_Arid : 34thPRC_ArmourStandard_ODST2_M52_C_Urban
@@ -272,6 +314,12 @@ class 34thPRC_ArmourStandard_ODST2_M52_C_Arid : 34thPRC_ArmourStandard_ODST2_M52
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
 	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+		camo="arid";
+		variant="c";
+	};
 };
 class 34thPRC_ArmourStandard_ODST2_M52_C_Medic_Arid : 34thPRC_ArmourStandard_ODST2_M52_C_Urban
 {
@@ -308,6 +356,12 @@ class 34thPRC_ArmourStandard_ODST2_M52_C_Medic_Arid : 34thPRC_ArmourStandard_ODS
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+		camo="arid";
+		variant="medic_c";
 	};
 };
 class 34thPRC_ArmourStandard_ODST2_M52_Marksman_Arid : 34thPRC_ArmourStandard_ODST2_M52_Marksman_Urban
@@ -346,6 +400,12 @@ class 34thPRC_ArmourStandard_ODST2_M52_Marksman_Arid : 34thPRC_ArmourStandard_OD
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
 	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+		camo="arid";
+		variant="marksman";
+	};
 };
 class 34thPRC_ArmourStandard_ODST2_M52_CQB_Arid : 34thPRC_ArmourStandard_ODST2_M52_CQB_Urban
 {
@@ -382,5 +442,11 @@ class 34thPRC_ArmourStandard_ODST2_M52_CQB_Arid : 34thPRC_ArmourStandard_ODST2_M
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+		camo="arid";
+		variant="cqb";
 	};
 };
