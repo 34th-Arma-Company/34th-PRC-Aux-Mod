@@ -164,3 +164,79 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban
 		};
 	};
 };
+
+class 34thPRC_ArmourStandard_EOD_Helmet_Urban
+{
+	label="[34thPRC] Specialist Helmets";
+	author="34th PRC Modding Team, Over Yandere";
+	options[]= {"helmet","camo"};
+	class helmet
+	{
+		alwaysSelectable=1;
+		changeingame=0;
+		values[]={"eod"};
+		class eod
+		{
+			label="EOD";
+		};
+	};
+	class camo
+	{
+		alwaysSelectable=1;
+		changeingame=0;
+		values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
+		class urban
+		{
+			label="Urban";
+		};
+		class arctic
+		{
+			label="Arctic";
+		};
+		class arid
+		{
+			label="Arid";
+		};
+		class tropic
+		{
+			label="Tropic";
+		};
+		class woodland
+		{
+			label="Woodland";
+		};
+	};
+};
+
+class 34thPRC_ArmourStandard_EOD_CBRN_NVG_Urban
+{
+	label="[34thPRC] EOD Helmets";
+	author="34th PRC Modding Team, Over Yandere";
+	options[]= {"camo"};
+	class camo
+	{
+		alwaysSelectable=1;
+		changeingame=0;
+		values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
+		class urban
+		{
+			label="Urban";
+		};
+		class arctic
+		{
+			label="Arctic";
+		};
+		class arid
+		{
+			label="Arid";
+		};
+		class tropic
+		{
+			label="Tropic";
+		};
+		class woodland
+		{
+			label="Woodland";
+		};
+	};
+};
