@@ -9,12 +9,7 @@ jobs:
     #  pull-requests: write
     runs-on: ubuntu-latest
     steps:
-    - uses: nodef/git-config.action@v1.0.0
-      with:
-        path: $HOME/.gitconfig
-        entries: |-
-          core.autocrlf = false
-          core.eol = crlf
+    - run: git config --global core.autocrlf false
     - uses: actions/checkout@v4.2.2
     - uses: kasperhesthaven/setup-editorconfig-checker@v1.2.0
     # - uses: zbeekman/EditorConfig-Action@v1.1.1 # broken
