@@ -7,6 +7,12 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Arctic : 34thPRC_ArmourSta
 		"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Helmet.paa",
 		"34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Silvervisor.paa"
 	};
+	class XtdGearInfo
+	{
+		model= "34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban";
+		camo= "arctic";
+		visor= "silver";
+	};
 };
 class 34thPRC_ArmourStandard_ODST2_CH252D_RedVisor_Arctic : 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban
 {
@@ -17,6 +23,12 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_RedVisor_Arctic : 34thPRC_ArmourStanda
 		"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Helmet.paa",
 		"34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Redvisor.paa"
 	};
+	class XtdGearInfo
+	{
+		model= "34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban";
+		camo= "arctic";
+		visor= "red";
+	};
 };
 class 34thPRC_ArmourStandard_ODST2_CH252D_GoldVisor_Arctic : 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban
 {
@@ -26,6 +38,12 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_GoldVisor_Arctic : 34thPRC_ArmourStand
 	{
 		"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Helmet.paa",
 		"34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Goldvisor.paa"
+	};
+	class XtdGearInfo
+	{
+		model= "34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban";
+		camo= "arctic";
+		visor= "gold";
 	};
 };
 class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Arctic_dp : 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban
@@ -124,6 +142,12 @@ class 34thPRC_ArmourStandard_ODST2_M52_Arctic : 34thPRC_ArmourStandard_ODST2_M52
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
 	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+		camo="arctic";
+		variant="a";
+	};
 };
 class 34thPRC_ArmourStandard_ODST2_M52_Medic_Arctic : 34thPRC_ArmourStandard_ODST2_M52_Urban
 {
@@ -160,6 +184,12 @@ class 34thPRC_ArmourStandard_ODST2_M52_Medic_Arctic : 34thPRC_ArmourStandard_ODS
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+		camo="arctic";
+		variant="medic_a";
 	};
 };
 class 34thPRC_ArmourStandard_ODST2_M52_B_Arctic : 34thPRC_ArmourStandard_ODST2_M52_B_Urban
@@ -198,6 +228,12 @@ class 34thPRC_ArmourStandard_ODST2_M52_B_Arctic : 34thPRC_ArmourStandard_ODST2_M
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
 	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+		camo="arctic";
+		variant="b";
+	};
 };
 class 34thPRC_ArmourStandard_ODST2_M52_B_Medic_Arctic : 34thPRC_ArmourStandard_ODST2_M52_B_Urban
 {
@@ -234,6 +270,12 @@ class 34thPRC_ArmourStandard_ODST2_M52_B_Medic_Arctic : 34thPRC_ArmourStandard_O
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+		camo="arctic";
+		variant="medic_b";
 	};
 };
 class 34thPRC_ArmourStandard_ODST2_M52_C_Arctic : 34thPRC_ArmourStandard_ODST2_M52_C_Urban
@@ -272,6 +314,12 @@ class 34thPRC_ArmourStandard_ODST2_M52_C_Arctic : 34thPRC_ArmourStandard_ODST2_M
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
 	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+		camo="arctic";
+		variant="c";
+	};
 };
 class 34thPRC_ArmourStandard_ODST2_M52_C_Medic_Arctic : 34thPRC_ArmourStandard_ODST2_M52_C_Urban
 {
@@ -308,6 +356,12 @@ class 34thPRC_ArmourStandard_ODST2_M52_C_Medic_Arctic : 34thPRC_ArmourStandard_O
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+		camo="arctic";
+		variant="medic_c";
 	};
 };
 class 34thPRC_ArmourStandard_ODST2_M52_Marksman_Arctic : 34thPRC_ArmourStandard_ODST2_M52_Marksman_Urban
@@ -346,6 +400,12 @@ class 34thPRC_ArmourStandard_ODST2_M52_Marksman_Arctic : 34thPRC_ArmourStandard_
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
 	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+		camo="arctic";
+		variant="marksman";
+	};
 };
 class 34thPRC_ArmourStandard_ODST2_M52_CQB_Arctic : 34thPRC_ArmourStandard_ODST2_M52_CQB_Urban
 {
@@ -382,5 +442,11 @@ class 34thPRC_ArmourStandard_ODST2_M52_CQB_Arctic : 34thPRC_ArmourStandard_ODST2
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourStandard_ODST2_M52_Urban";
+		camo="arctic";
+		variant="cqb";
 	};
 };
