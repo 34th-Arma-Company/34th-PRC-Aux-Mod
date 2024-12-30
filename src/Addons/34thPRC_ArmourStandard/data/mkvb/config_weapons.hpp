@@ -34,82 +34,6 @@ class 34thPRC_ArmourStandard_MkVB_EOD_HR_Helmet : MA_Mjolnir_HR_EOD_Helmet
 	};
 };
 
-class 34thPRC_ArmourStandard_EOD_Helmet_Urban : 34thPRC_ArmourStandard_MkVB_EOD_HR_Helmet
-{
-	displayName="[34th] EOD Helmet Urban";
-	author="Yandere";
-	hiddenSelectionsTextures[]=
-	{
-		"34thPRC_ArmourStandard\data\mkvb\EOD\34th_eod_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\HR_EOD\Visors\34_EOD_HR_Helmet_Visor_Gold.paa"
-	};
-	class XtdGearInfo
-	{
-		model="34thPRC_ArmourStandard_EOD_Helmet_Urban";
-		camo="urban";
-	};
-};
-class 34thPRC_ArmourStandard_EOD_Helmet_Arid : 34thPRC_ArmourStandard_EOD_Helmet_Urban
-{
-	displayName="[34th] EOD Helmet Arid";
-	author="Yandere";
-	hiddenSelectionsTextures[]=
-	{
-		"34thPRC_ArmourStandard\data\mkvb\EOD\34th_eod_helmet_arid.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\HR_EOD\Visors\34_EOD_HR_Helmet_Visor_Gold.paa"
-	};
-	class XtdGearInfo
-	{
-		model="34thPRC_ArmourStandard_EOD_Helmet_Urban";
-		camo="arid";
-	};
-};
-class 34thPRC_ArmourStandard_EOD_Helmet_Arctic : 34thPRC_ArmourStandard_EOD_Helmet_Urban
-{
-	displayName="[34th] EOD Helmet Arctic";
-	author="Yandere";
-	hiddenSelectionsTextures[]=
-	{
-		"34thPRC_ArmourStandard\data\mkvb\EOD\34th_eod_helmet_arctic.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\HR_EOD\Visors\34_EOD_HR_Helmet_Visor_Gold.paa"
-	};
-	class XtdGearInfo
-	{
-		model="34thPRC_ArmourStandard_EOD_Helmet_Urban";
-		camo="arctic";
-	};
-};
-class 34thPRC_ArmourStandard_EOD_Helmet_Tropic : 34thPRC_ArmourStandard_EOD_Helmet_Urban
-{
-	displayName="[34th] EOD Helmet Tropic";
-	author="Yandere";
-	hiddenSelectionsTextures[]=
-	{
-		"34thPRC_ArmourStandard\data\mkvb\EOD\34th_eod_helmet_tropic.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\HR_EOD\Visors\34_EOD_HR_Helmet_Visor_Gold.paa"
-	};
-	class XtdGearInfo
-	{
-		model="34thPRC_ArmourStandard_EOD_Helmet_Urban";
-		camo="tropic";
-	};
-};
-class 34thPRC_ArmourStandard_EOD_Helmet_Woodland : 34thPRC_ArmourStandard_EOD_Helmet_Urban
-{
-	displayName="[34th] EOD Helmet Woodland";
-	author="Yandere";
-	hiddenSelectionsTextures[]=
-	{
-		"34thPRC_ArmourStandard\data\mkvb\EOD\34th_eod_helmet_woodland.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\HR_EOD\Visors\34_EOD_HR_Helmet_Visor_Gold.paa"
-	};
-	class XtdGearInfo
-	{
-		model="34thPRC_ArmourStandard_EOD_Helmet_Urban";
-		camo="woodland";
-	};
-};
-
 class MA_Mjolnir_H3_EOD_Helmet; // MA_Armor
 class 34thPRC_ArmourStandard_MkVB_EOD_H3_Helmet : MA_Mjolnir_H3_EOD_Helmet
 {
@@ -357,7 +281,6 @@ class 34thPRC_ArmourStandard_MkVB_Armor: MA_MKVB_Armor
 	};
 };
 
-class MA_EOD_CBRN_Attachment_NVG; // MA_Armor
 class 34thPRC_ArmourStandard_MkVB_EOD_CBRN_NVG: MA_EOD_CBRN_Attachment_NVG
 {
 	author="Vazya";
@@ -371,107 +294,6 @@ class 34thPRC_ArmourStandard_MkVB_EOD_CBRN_NVG: MA_EOD_CBRN_Attachment_NVG
 		"Normal",
 		"NVG",
 		"TI"
-	};
-};
-
-class 34thPRC_ArmourStandard_EOD_CBRN_NVG_Urban : 34thPRC_ArmourStandard_MkVB_EOD_CBRN_NVG
-{
-	displayName="[34th] EOD CBRN Module Urban";
-	author="Yandere";
-	hiddenSelectionsTextures[]=
-	{
-		"34thPRC_ArmourStandard\data\mkvb\EOD\cbrn\34th_eod_cbrn_urban.paa";
-	};
-	visionMode[]=
-	{
-		"Normal",
-		"NVG",
-		"TI"
-	};
-	class XtdGearInfo
-	{
-		model="34thPRC_ArmourStandard_EOD_CBRN_NVG_Urban";
-		camo="urban";
-	};
-};
-class 34thPRC_ArmourStandard_EOD_CBRN_NVG_Arid : 34thPRC_ArmourStandard_MkVB_EOD_CBRN_NVG
-{
-	displayName="[34th] EOD CBRN Module Arid";
-	author="Yandere";
-	hiddenSelectionsTextures[]=
-	{
-		"34thPRC_ArmourStandard\data\mkvb\EOD\cbrn\34th_eod_cbrn_arid.paa";
-	};
-	visionMode[]=
-	{
-		"Normal",
-		"NVG",
-		"TI"
-	};
-	class XtdGearInfo
-	{
-		model="34thPRC_ArmourStandard_EOD_CBRN_NVG_Urban";
-		camo="arid";
-	};
-};
-class 34thPRC_ArmourStandard_EOD_CBRN_NVG_Arctic : 34thPRC_ArmourStandard_MkVB_EOD_CBRN_NVG
-{
-	displayName="[34th] EOD CBRN Module Arctic";
-	author="Yandere";
-	hiddenSelectionsTextures[]=
-	{
-		"34thPRC_ArmourStandard\data\mkvb\EOD\cbrn\34th_eod_cbrn_arctic.paa";
-	};
-	visionMode[]=
-	{
-		"Normal",
-		"NVG",
-		"TI"
-	};
-	class XtdGearInfo
-	{
-		model="34thPRC_ArmourStandard_EOD_CBRN_NVG_Urban";
-		camo="arctic";
-	};
-};
-class 34thPRC_ArmourStandard_EOD_CBRN_NVG_Tropic : 34thPRC_ArmourStandard_MkVB_EOD_CBRN_NVG
-{
-	displayName="[34th] EOD CBRN Module Tropic";
-	author="Yandere";
-	hiddenSelectionsTextures[]=
-	{
-		"34thPRC_ArmourStandard\data\mkvb\EOD\cbrn\34th_eod_cbrn_tropic.paa";
-	};
-	visionMode[]=
-	{
-		"Normal",
-		"NVG",
-		"TI"
-	};
-	class XtdGearInfo
-	{
-		model="34thPRC_ArmourStandard_EOD_CBRN_NVG_Urban";
-		camo="tropic";
-	};
-};
-class 34thPRC_ArmourStandard_EOD_CBRN_NVG_Woodland : 34thPRC_ArmourStandard_MkVB_EOD_CBRN_NVG
-{
-	displayName="[34th] EOD CBRN Module Woodland";
-	author="Yandere";
-	hiddenSelectionsTextures[]=
-	{
-		"34thPRC_ArmourStandard\data\mkvb\EOD\cbrn\34th_eod_cbrn_woodland.paa";
-	};
-	visionMode[]=
-	{
-		"Normal",
-		"NVG",
-		"TI"
-	};
-	class XtdGearInfo
-	{
-		model="34thPRC_ArmourStandard_EOD_CBRN_NVG_Urban";
-		camo="woodland";
 	};
 };
 
