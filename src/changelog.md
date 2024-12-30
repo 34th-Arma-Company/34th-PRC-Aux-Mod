@@ -11,6 +11,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - EOD Helmets for Marines/ODSTs
 - EOD CBRN NVG attachment for Marines/ODST
 - Springbok Commander Seat LR Radio
+### Updated
+- Fix shoulderless marine uniforms having less carry capacity
 
 ## 1.19.0
 ### Added
