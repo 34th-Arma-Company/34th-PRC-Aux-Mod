@@ -26,7 +26,7 @@ class MA_Marine_BDU_Heavy_NC: U_B_CombatUniform_mcam // MA_Armor
 {
 	class ItemInfo;
 };
-class MA_Marine_BDU_NoShoulder: U_B_CombatUniform_mcam //MA_Armor
+class MA_Marine_BDU_NS: U_B_CombatUniform_mcam //MA_Armor
 {
 	class ItemInfo;
 };
