@@ -11,8 +11,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - EOD Helmets for Marines/ODSTs
 - EOD CBRN NVG attachment for Marines/ODST
 - Springbok Commander Seat LR Radio
+- AAX support for Gungnir helmets
 ### Updated
 - Fix shoulderless marine uniforms having less carry capacity
+- Gungnir helmet camos for Marines/ODSTS
 
 ## 1.19.0
 ### Added
