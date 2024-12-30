@@ -1,5 +1,4 @@
 class MA_Mjolnir_MKIV_Helmet; // MA_Armor
-class ItemInfo;
 class 34thPRC_ArmourStandard_MKIV_Helmet : MA_Mjolnir_MKIV_Helmet
 {
 	displayName="[34th] Mjolnir MKIV Helmet";
