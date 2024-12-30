@@ -168,7 +168,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban
 class 34thPRC_ArmourStandard_EOD_Helmet_Urban
 {
 	label="[34thPRC] Specialist Helmets";
-	author="34th PRC Modding Team, Over Yandere";
+	author="34th PRC Modding Team, Yandere";
 	options[]= {"helmet","camo"};
 	class helmet
 	{
@@ -215,7 +215,7 @@ class 34thPRC_ArmourStandard_EOD_Helmet_Urban
 
 class 34thPRC_ArmourStandard_EOD_CBRN_NVG_Urban
 {
-	label="[34thPRC] EOD Helmets";
+	label="[34thPRC] EOD Helmet CBRN Attachment";
 	author="34th PRC Modding Team, Over Yandere";
 	options[]= {"camo"};
 	class camo
