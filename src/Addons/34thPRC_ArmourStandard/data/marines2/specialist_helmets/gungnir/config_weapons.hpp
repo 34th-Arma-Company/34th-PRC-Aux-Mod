@@ -5,8 +5,8 @@ class 34thPRC_ArmourStandard_Gungnir_Helmet_Urban : 34thPRC_ArmourStandard_Marin
 	model="MA_Armor\data\Helmets\Gungnir\Gungnir_Helmet.p3d";
 	hiddenSelections[]=
 	{
-        "Camo1"
-    };
+		"Camo1"
+	};
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\gungnir\gungnir_helmet_urban"
