@@ -529,7 +529,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy: MA_Marine_BDU_Heavy
 		collar = "up";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_NoShoulder: MA_Marine_BDU_NS
+class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_NoShoulder: MA_Marine_BDU_NoShoulder
 {
 	displayName="[34th] Marine Cross Branch BDU Urban Red (Shoulderless)";
 	author="Ambrose";
@@ -641,7 +641,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Heavy: MA_Marine_BDU_He
 		collar = "up";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_NoShoulder: MA_Marine_BDU_NS
+class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_NoShoulder: MA_Marine_BDU_NoShoulder
 {
 	displayName="[34th] Marine Cross Branch BDU Urban Blue (Shoulderless)";
 	author="Ambrose";
