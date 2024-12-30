@@ -168,16 +168,21 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban
 class 34thPRC_ArmourStandard_EOD_Helmet_Urban
 {
 	label="[34thPRC] Specialist Helmets";
-	author="34th PRC Modding Team, Over Yandere";
+	author="34th PRC Modding Team, Yandere";
 	options[]= {"helmet","camo"};
 	class helmet
 	{
+		label="Helmet";
 		alwaysSelectable=1;
 		changeingame=0;
-		values[]={"eod"};
+		values[]={"eod", "gungnir"};
 		class eod
 		{
 			label="EOD";
+		};
+		class gungnir
+		{
+			label="Gungnir";
 		};
 	};
 	class camo
