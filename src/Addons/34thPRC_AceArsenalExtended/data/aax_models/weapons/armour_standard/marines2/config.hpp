@@ -172,10 +172,10 @@ class 34thPRC_ArmourStandard_EOD_Helmet_Urban
 	options[]= {"helmet","camo"};
 	class helmet
 	{
-		label="Helmet";
+		label="Helmet Type";
 		alwaysSelectable=1;
 		changeingame=0;
-		values[]={"eod", "gungnir"};
+		values[]={"eod", "gungnir", "jfo"};
 		class eod
 		{
 			label="EOD";
@@ -183,6 +183,10 @@ class 34thPRC_ArmourStandard_EOD_Helmet_Urban
 		class gungnir
 		{
 			label="Gungnir";
+		};
+		class jfo
+		{
+			label="JFO"
 		};
 	};
 	class camo
