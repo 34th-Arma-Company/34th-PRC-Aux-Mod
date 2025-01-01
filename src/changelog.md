@@ -9,10 +9,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Cappy Custom Armour
 - EOD Helmets for Marines/ODSTs
-- EOD CBRN NVG attachment for Marines/ODST
+- EOD CBRN NVG attachment for Marines/ODSTs
 - Springbok Commander Seat LR Radio
+- AAX support for Gungnir helmets
+- JFO for Marines/ODSTs
 ### Updated
 - Fix shoulderless marine uniforms having less carry capacity
+- Gungnir helmet camos for Marines/ODSTS
 
 ## 1.19.0
 ### Added
