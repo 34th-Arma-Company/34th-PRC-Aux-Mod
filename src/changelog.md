@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix shoulderless marine uniforms having less carry capacity
 - Gungnir helmet camos for Marines/ODSTS
 - Naval Special Weapons SRS99AM now can use 19th Fleet SRS Ammo
+- 1st MEU SAABR-96 now uses the OPTRE Stanchion model
 
 ## 1.19.0
 ### Added
