@@ -50,4 +50,11 @@ class CfgMagazineWells
 			"4Rnd_145x114_srs99_heap_tracer"
 		};
 	};
+	class OPTRE_7Rnd_20mm_APFSDS_Mag
+	{
+		OPTRE_Weapons[]=
+		{
+			"OPTRE_7Rnd_20mm_APFSDS_Mag",
+		};
+	};
 };
