@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+
+## 0.20.0
 ### Added
 - Cappy Custom Armour
 - EOD Helmets for Marines/ODSTs
@@ -22,7 +24,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 1st MEU SAABR-96 now uses the OPTRE Stanchion model
 - 1st MEU SAABR-96 now has OPTRE APFSDS ammo as an option
 
-## 1.19.0
+## 0.19.0
 ### Added
 - Prototyped custom armour
 - Bigger storage for exosuits that we use
