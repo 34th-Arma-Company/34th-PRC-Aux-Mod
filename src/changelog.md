@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Springbok Commander Seat LR Radio
 - AAX support for Gungnir helmets
 - JFO for Marines/ODSTs
+- CQC for Marines/ODSTs
 - Commando for Marines/ODSTs
 ### Updated
 - Fix shoulderless marine uniforms having less carry capacity
