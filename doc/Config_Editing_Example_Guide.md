@@ -42,7 +42,7 @@ class 34thPRC_ArmourStandard_Commando_Helmet_Urban : 34thPRC_ArmourStandard_Mari
 	};
 	```
 ### Finishing The Model Swap
-	```c++
+```c++
 	// The below line is a little weird, essentially we are inheriting from MA_Armor's class ItemInfo which inherits from a built in class in arma. In this case it's HeadgearItem. This is basically a class used to define an item's properties. uniformModel links object to a uniform. For more information see: https://community.bistudio.com/wiki/Arma_3:_Characters_And_Gear_Encoding_Guide
 	class ItemInfo : ItemInfo
 	{
