@@ -25,25 +25,25 @@ class 34thPRC_ArmourStandard_Commando_Helmet_Urban : 34thPRC_ArmourStandard_Mari
 		"Camo2" // Camo2 is the helmet's visor
 	};
 
-  //hiddenSelectionsTextures[] is slightly different from hiddenSelections but very similar. The base item still controls which texture paths are active via code comments. For example with our ODST armor it controls whether or not the different shoulders are displayed. In this case we simply need to give the paths to our textures. This will be the case for pretty much all of our reskins. You can also reference what these paths are via hiddenSelections[].
+	//hiddenSelectionsTextures[] is slightly different from hiddenSelections but very similar. The base item still controls which texture paths are active via code comments. For example with our ODST armor it controls whether or not the different shoulders are displayed. In this case we simply need to give the paths to our textures. This will be the case for pretty much all of our reskins. You can also reference what these paths are via hiddenSelections[].
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\commando\commando_helmet_urban.paa",
 		"34thPRC_ArmourStandard\data\mkvb\Commando\Visors\34_Commando_Helmet_Visor_Gold.paa"
 	};
-  ```
-  ### ACE Arsenal Extended Integration
-  ```c++
-  //XtdGearInfo is a class from Ace Arsenal Extended, our 34thPRC_AceArsenalExtended.pbo uses this information to group objects into predefines lists with switchable toggles.
+	```
+	### ACE Arsenal Extended Integration
+	```c++
+	//XtdGearInfo is a class from Ace Arsenal Extended, our 34thPRC_AceArsenalExtended.pbo uses this information to group objects into predefines lists with switchable toggles.
 	{
 		model="34thPRC_ArmourStandard_EOD_Helmet_Urban"; //This must be the same as the class name of the object it is a "variant" off. Basicly because we want all specialist helmets to be in the same toggle groups use the first object created in the group as an identifier for our AAX support.
 		helmet="commando"; //This can be referenced within 34thPRC_AceArsenalExtended, but essentially is used to mark which helmet this in the toggles
 		camo="urban"; //Like the line above, but this identifies which camo version to use.
 	};
-  ```
+	```
 ### Finishing The Model Swap
-  ```c++
-  // The below line is a little weird, essentially we are inheriting from MA_Armor's class ItemInfo which inherits from a built in class in arma. In this case it's HeadgearItem. This is basically a class used to define an item's properties. uniformModel links object to a uniform. For more information see: https://community.bistudio.com/wiki/Arma_3:_Characters_And_Gear_Encoding_Guide
+	```c++
+	// The below line is a little weird, essentially we are inheriting from MA_Armor's class ItemInfo which inherits from a built in class in arma. In this case it's HeadgearItem. This is basically a class used to define an item's properties. uniformModel links object to a uniform. For more information see: https://community.bistudio.com/wiki/Arma_3:_Characters_And_Gear_Encoding_Guide
 	class ItemInfo : ItemInfo
 	{
 		uniformModel="MA_Armor\data\Helmets\Commando\Commando_Helmet.p3d"; //Here again we set this to the .p3d of our helmet
