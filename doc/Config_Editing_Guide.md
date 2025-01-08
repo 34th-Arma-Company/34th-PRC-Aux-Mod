@@ -101,6 +101,7 @@ class 34thPRC_ArmourStandard_Commando_Helmet_Arid : 34thPRC_ArmourStandard_Comma
 		camo="arid";
 	};
 };
+//This is not only cleaner but in the event that something is edited upstream or in a mod we inherit from we only need to change the base class
 ```
 
 # Config Editing Tutorial 2
@@ -108,7 +109,7 @@ This tutorial goes over #include statements.
 
 ### '#Include'
 ```c++
-/*When our PBOs are intialized by ARMA it essentially creates one super config file with all the mods we use, including our own. This premise is also true internally of our pbos. All of our .hpp files get included into a config.cpp file. Using '#include' lets us break our code down into small chunks such that when the mod is loaded it loads each chunk together in order of how to define it.*/
+/*When our PBOs are intialized by ARMA it essentially creates one super config file with all the mods we use, including our own. This premise is also true internally of our pbos. All of our .hpp files get included into a config.cpp file. Using '#include' lets us break our code down into small chunks such that when the mod is loaded it loads each chunk together in order of how we define it.*/
 //For example the below code is in a config_weapons.hpp file a step above the various specialist helmet folders. This tells our mod to load or "include" the config .hpp files for each helmet.
 #include "EOD\config_weapons.hpp"
 #include "gungnir\config_weapons.hpp"
@@ -126,6 +127,38 @@ This tutorial goes over #include statements.
 //This continues with another chain of includes after another step up before finally being included in the following block:
 class CfgWeapons
 {
-	#include "data\config_weapons.hpp" //This is the root of the include tree. This branches down from all the include statements to our actual code.
+	#include "data\config_weapons.hpp" //This is the root of the include tree. This branches down from our .cpp main file to all the of include statements and then down to our actual code.
+};
+```
+
+# Config Editing Tutorial 3
+This Tutorial talks about our 34thPRC_Overrides.pbo
+
+### Class Defines
+```c++
+//Often times with class overrides we need to first define for our mod a class that we are pulling from another mod.
+class OPTRE_M99A2S3; //In order to inherit from this weapon which is located within optre we need to first create a definition for it.
+class MEU_SAABR96 : OPTRE_M99A2S3 //This both inherits from the previously defined weapon like it does with 1st MEU's mod but it also lets us rewrite propeties of their mod without making a new object.
+```
+
+### Overrides
+```c++
+class OPTRE_M99A2S3;
+class MEU_SAABR96 : OPTRE_M99A2S3
+{
+  //By naming our object in an identical fashion to an existing item like above we are able to give an object different properties without creating an aditional object in game. This is known as overriding the object
+	model="OPTRE_Weapons\Sniper\M99.p3d";
+	uniformModel="OPTRE_Weapons\Sniper\M99.p3d"; //These two lines should be familiar from Tutorial 1, this is model swapping the object.
+
+  //magazines[] is an array that contains all of the "ammo" or rather what magazines are available to a weapon. '+=' takes what's already in the array and adds whatever is written within the curly braces while = would overwrite what is allowed with whatever is put.
+	magazines[]+=
+	{
+		"OPTRE_7Rnd_20mm_APFSDS_Mag",
+	};
+  //magazineWells[] is an array that allows for the addition of preapproved magazines. These a defined else well. For more information see: https://community.bistudio.com/wiki/Arma_3:_Weapon_Config_Guidelines
+	magazineWell[]=
+	{
+		"OPTRE_7Rnd_20mm_APFSDS_Mag"
+	};
 };
 ```
