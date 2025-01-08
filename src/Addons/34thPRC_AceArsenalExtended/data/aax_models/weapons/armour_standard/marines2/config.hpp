@@ -191,7 +191,7 @@ class 34thPRC_ArmourStandard_EOD_Helmet_Urban
 		class cqc
 		{
 			label="CQC";
-    };
+		};
 		class commando
 		{
 			label="Commando";
