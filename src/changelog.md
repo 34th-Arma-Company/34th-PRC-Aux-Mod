@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Added
 - Grenadier for Marines/ODSTs
+- Scout for marines /ODSTs
 
 ## 0.20.0
 ### Added
