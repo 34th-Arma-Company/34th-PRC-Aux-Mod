@@ -7,4 +7,5 @@ If you have stumbled upon our mod and are interested in helping with development
 Mod development discussions and our Arma 3 event organisation (aka Operations) happen over there, if you are interested in playing with us then you can join the unit from our Discord too.
 https://discord.gg/zFZFqWsq2v
 
-See our `doc` folder for our [Getting Started](doc/Getting_Started.md) document and more.
+See ou `doc` folder for our [Getting Started](doc/Getting_Started.md) document and more.
+Skate or die dude
