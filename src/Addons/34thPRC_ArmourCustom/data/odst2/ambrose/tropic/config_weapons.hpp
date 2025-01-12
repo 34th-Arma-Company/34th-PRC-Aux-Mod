@@ -147,7 +147,6 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_CustomVisor_Tropic_dp :  34thPRC
 	};
 };
 
-
 class 34thPRC_ArmourCustom_ODST2_Ambrose_M52_Tropic : 34thPRC_ArmourCustom_ODST2_Ambrose_M52_Urban
 {
 	displayName="[34th] M52 Combat Armour 'Ambrose' Tropic";

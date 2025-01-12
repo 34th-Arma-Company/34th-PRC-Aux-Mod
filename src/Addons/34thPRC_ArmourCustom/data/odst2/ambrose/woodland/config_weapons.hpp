@@ -147,7 +147,6 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_CustomVisor_Woodland_dp :  34thP
 	};
 };
 
-
 class 34thPRC_ArmourCustom_ODST2_Ambrose_M52_Woodland : 34thPRC_ArmourCustom_ODST2_Ambrose_M52_Urban
 {
 	displayName="[34th] M52 Combat Armour 'Ambrose' Woodland";
