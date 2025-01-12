@@ -3,6 +3,7 @@ class 34thPRC_ArmourStandard_MKIV_Shoulders : Mjolnir_MKIV_Shoulders
 {
 	displayName="[34th] Mjolnir MKIV Shoulders";
 	author="Cappy";
+	ace_gunbag=1;
 	hiddenSelectionsTextures[]=
 	{
 		"MA_Armor\data\Vests\MKVB\Shoulders\Commando\Olive_Commando_Shoulders_CO.paa",
