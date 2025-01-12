@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Grenadier for Marines/ODSTs
 - Scout for marines /ODSTs
+### Updated
+- All Spartan shoulders have gunbags
 
 ## 0.20.0
 ### Added
