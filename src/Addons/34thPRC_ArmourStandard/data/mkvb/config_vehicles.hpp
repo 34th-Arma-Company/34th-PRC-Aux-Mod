@@ -3,6 +3,7 @@ class 34thPRC_ArmourStandard_MkVB_Commando_Shoulders : Mjolnir_Commando_Shoulder
 {
 	displayName="[34th] Mjolnir MkV[B] Commando Shoulders";
 	author="Vazya";
+	ace_gunbag=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
@@ -41,6 +42,7 @@ class 34thPRC_ArmourStandard_MkVB_CQC_Shoulders : Mjolnir_CQC_Shoulders
 {
 	displayName="[34th] Mjolnir MkV[B] CQC Shoulders";
 	author="Vazya";
+	ace_gunbag=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
@@ -79,6 +81,7 @@ class 34thPRC_ArmourStandard_MkVB_EVA_Shoulders : Mjolnir_EVA_Shoulders
 {
 	displayName="[34th] Mjolnir MkV[B] EVA Shoulders";
 	author="Vazya";
+	ace_gunbag=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
@@ -117,6 +120,7 @@ class 34thPRC_ArmourStandard_MkVB_Grenadier_Shoulders : Mjolnir_Grenadier_Should
 {
 	displayName="[34th] Mjolnir MkV[B] Grenadier Shoulders";
 	author="Vazya";
+	ace_gunbag=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
@@ -155,6 +159,7 @@ class 34thPRC_ArmourStandard_MkVB_Gungnir_Shoulders : Mjolnir_Gungnir_Shoulders
 {
 	displayName="[34th] Mjolnir MkV[B] Gungnir Shoulders";
 	author="Vazya";
+	ace_gunbag=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
@@ -193,6 +198,7 @@ class 34thPRC_ArmourStandard_MkVB_JFO_Shoulders : Mjolnir_JFO_Shoulders
 {
 	displayName="[34th] Mjolnir MkV[B] JFO Shoulders";
 	author="Vazya";
+	ace_gunbag=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
@@ -231,6 +237,7 @@ class 34thPRC_ArmourStandard_MkVB_MKV_Shoulders : Mjolnir_MKV_Shoulders
 {
 	displayName="[34th] Mjolnir MkV[B] MK V Shoulders";
 	author="Vazya";
+	ace_gunbag=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
@@ -268,6 +275,7 @@ class 34thPRC_ArmourStandard_MkVB_Shoulders : Mjolnir_MKV_Shoulders
 	// Invisible shoulders so that we can still have inventory
 	displayName="[34th] Mjolnir MkV[B] Shoulders";
 	author="Vazya";
+	ace_gunbag=1;
 	hiddenSelections[]=
 	{
 		"camo1",
@@ -365,6 +373,7 @@ class 34thPRC_ArmourStandard_MkVB_ODST_Shoulders : Mjolnir_ODST_Shoulders
 {
 	displayName="[34th] Mjolnir MkV[B] ODST Shoulders";
 	author="Vazya";
+	ace_gunbag=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
@@ -403,6 +412,7 @@ class 34thPRC_ArmourStandard_MkVB_Operator_Shoulders : Mjolnir_Operator_Shoulder
 {
 	displayName="[34th] Mjolnir MkV[B] Operator Shoulders";
 	author="Vazya";
+	ace_gunbag=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
@@ -441,6 +451,7 @@ class 34thPRC_ArmourStandard_MkVB_Recon_Shoulders : Mjolnir_Recon_Shoulders
 {
 	displayName="[34th] Mjolnir MkV[B] Recon Shoulders";
 	author="Vazya";
+	ace_gunbag=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
@@ -479,6 +490,7 @@ class 34thPRC_ArmourStandard_MkVB_Security_Shoulders : Mjolnir_Security_Shoulder
 {
 	displayName="[34th] Mjolnir MkV[B] Security Shoulders";
 	author="Vazya";
+	ace_gunbag=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
@@ -517,6 +529,7 @@ class 34thPRC_ArmourStandard_MkVB_Scout_Shoulders : Mjolnir_Scout_Shoulders
 {
 	displayName="[34th] Mjolnir MkV[B] Scout Shoulders";
 	author="Vazya";
+	ace_gunbag=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\mkvb\Commando\Shoulders\34_Commando_Shoulders.paa",
