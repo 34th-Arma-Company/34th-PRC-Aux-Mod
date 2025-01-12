@@ -24,7 +24,6 @@ class 34thPRC_ArmourStandard_Commando_Helmet_Urban : 34thPRC_ArmourStandard_Mari
 		uniformModel="MA_Armor\data\Helmets\Commando\Commando_Helmet.p3d";
 	};
 };
-
 class 34thPRC_ArmourStandard_Commando_Helmet_Arid : 34thPRC_ArmourStandard_Commando_Helmet_Urban
 {
 	displayName="[34th] Commando Helmet Arid";

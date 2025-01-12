@@ -175,7 +175,7 @@ class 34thPRC_ArmourStandard_EOD_Helmet_Urban
 		label="Helmet Type";
 		alwaysSelectable=1;
 		changeingame=0;
-		values[]={"eod", "gungnir", "jfo", "cqc", "commando"};
+		values[]={"eod", "gungnir", "jfo", "cqc", "commando", "grenadier"};
 		class eod
 		{
 			label="EOD";
@@ -195,6 +195,10 @@ class 34thPRC_ArmourStandard_EOD_Helmet_Urban
 		class commando
 		{
 			label="Commando";
+		};
+		class grenadier
+		{
+			label="Grenadier";
 		};
 	};
 	class camo

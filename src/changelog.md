@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Added
 - Ambrose Custom Armour
+- Grenadier for Marines/ODSTs
 ## 0.20.0
 ### Added
 - Cappy Custom Armour
