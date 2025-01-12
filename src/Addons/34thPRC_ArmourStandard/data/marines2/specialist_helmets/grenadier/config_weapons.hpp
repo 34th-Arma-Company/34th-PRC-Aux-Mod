@@ -1,7 +1,7 @@
 class 34thPRC_ArmourStandard_Grenadier_Helmet_Urban : 34thPRC_ArmourStandard_Marines2_CH252_Urban
 {
 	displayName="[34th] Grenadier Helmet Urban";
-	author="yandere";
+	author="Yandere";
 	model="MA_Armor\data\Helmets\Grenadier\Grenadier_Helmet.p3d";
 	hiddenSelections[]=
 	{
