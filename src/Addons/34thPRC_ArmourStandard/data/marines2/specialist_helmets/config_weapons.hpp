@@ -3,3 +3,4 @@
 #include "JFO\config_weapons.hpp"
 #include "CQC\config_weapons.hpp"
 #include "commando\config_weapons.hpp"
+#include "grenadier\config_weapons.hpp"
