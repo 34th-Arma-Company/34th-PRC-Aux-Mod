@@ -15,3 +15,23 @@ class 34thPRC_ArmourCustom_ODST2_Shewolf_CH252D_CustomVisor_Urban : 34thPRC_Armo
 		visor="custom";
 	};
 };
+class 34thPRC_ArmourCustom_ODST2_Shewolf_CH252D_CustomVisor_Urban_dp : 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban_dp
+{
+	displayName="[34th] CH252D Urban 'Shewolf' (Custom Visor)";
+	author="Over Yandere";
+	scope=0;
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourCustom\data\odst2\shewolf\urban\shewolf_odst_helmet_urban.paa",
+		"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa"
+	};
+	class ItemInfo:ItemInfo
+	{
+		uniformModel="MA_Armor\data\Helmets\Human_ODST\Reach_ODST_Helm_dp.p3d";
+		hiddenSelectionsTextures[]=
+		{
+			"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Helmet_CO.paa",
+			"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa"
+		};
+	};
+};
