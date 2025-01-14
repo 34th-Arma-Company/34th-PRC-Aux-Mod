@@ -89,7 +89,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban
 };
 
 
-//Custom ODST Helmets Group 1: Yandere,Ambrose,
+//Custom ODST Helmets Group 1: Yandere, Ambrose, Shewolf
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban
 {
 	label = "[34thPRC] ODST CH252D Custom Helmets";
@@ -99,7 +99,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban
 	{
 		alwaysSelectable= 1;
 		changeingame =0;
-		values[]= {"yandere","ambrose"};
+		values[]= {"yandere","ambrose","shewolf"};
 		class yandere
 		{
 			label = "Yandere";
@@ -107,6 +107,10 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban
 		class ambrose
 		{
 			label = "Ambrose";
+		}
+		class shewolf
+		{
+			label = "Shewolf";
 		};
 	};
 	class camo
