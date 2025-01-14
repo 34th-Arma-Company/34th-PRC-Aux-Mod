@@ -482,7 +482,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Arid_Medic_VisorGlasses_Red : 34thPR
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Light: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light
 {
-	displayName="[34th] Marine Cross Branch BDU Arid (Light)";
+	displayName="[34th] BDU Arid (Light)";
 	author="Ambrose";
 	class ItemInfo: ItemInfo
 	{
@@ -498,7 +498,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Light: 34thPRC_ArmourStandard
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Medium: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium
 {
-	displayName="[34th] Marine Cross Branch BDU Arid (Medium)";
+	displayName="[34th] BDU Arid (Medium)";
 	author="Ambrose";
 	class ItemInfo: ItemInfo
 	{
@@ -514,7 +514,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Medium: 34thPRC_ArmourStandar
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Heavy: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy
 {
-	displayName="[34th] Marine Cross Branch BDU Arid (Heavy)";
+	displayName="[34th] BDU Arid (Heavy)";
 	author="Ambrose";
 	class ItemInfo: ItemInfo
 	{
@@ -530,7 +530,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Heavy: 34thPRC_ArmourStandard
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_NoShoulder: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_NoShoulder
 {
-	displayName="[34th] Marine Cross Branch BDU Arid (Shoulderless)";
+	displayName="[34th] BDU Arid (Shoulderless)";
 	author="Ambrose";
 	class ItemInfo: ItemInfo
 	{
@@ -546,7 +546,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_NoShoulder: 34thPRC_ArmourSta
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Light_NoCollar: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light_NoCollar
 {
-	displayName="[34th] Marine Cross Branch BDU Arid (Light) (No Collar)";
+	displayName="[34th] BDU Arid (Light) (No Collar)";
 	author="Ambrose";
 	class ItemInfo: ItemInfo
 	{
@@ -562,7 +562,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Light_NoCollar: 34thPRC_Armou
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Medium_NoCollar: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium_NoCollar
 {
-	displayName="[34th] Marine Cross Branch BDU Arid (Medium) (No Collar)";
+	displayName="[34th] BDU Arid (Medium) (No Collar)";
 	author="Ambrose";
 	class ItemInfo: ItemInfo
 	{
@@ -578,7 +578,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Medium_NoCollar: 34thPRC_Armo
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_Heavy_NoCollar: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy_NoCollar
 {
-	displayName="[34th] Marine Cross Branch BDU Arid (Heavy) (No Collar)";
+	displayName="[34th] BDU Arid (Heavy) (No Collar)";
 	author="Ambrose";
 	class ItemInfo: ItemInfo
 	{

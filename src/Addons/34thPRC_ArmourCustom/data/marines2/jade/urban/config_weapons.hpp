@@ -505,7 +505,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_Medic_VisorGlasses_Red : 34
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Light : MA_Marine_BDU_Light
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Red 'Jade' (Light)";
+	displayName="[34th] BDU Urban Red 'Jade' (Light)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -522,7 +522,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Light : MA_Marine_BDU_Lig
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Medium : MA_Marine_BDU_Medium
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Red 'Jade' (Medium)";
+	displayName="[34th] BDU Urban Red 'Jade' (Medium)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -539,7 +539,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Medium : MA_Marine_BDU_Me
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Heavy : MA_Marine_BDU_Heavy
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Red 'Jade' (Heavy)";
+	displayName="[34th] BDU Urban Red 'Jade' (Heavy)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -556,7 +556,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Heavy : MA_Marine_BDU_Hea
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_NoShoulders : MA_Marine_BDU_NoShoulder
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Red 'Jade' (Shoulderless)";
+	displayName="[34th] BDU Urban Red 'Jade' (Shoulderless)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -573,7 +573,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_NoShoulders : MA_Marine_B
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Light_NoCollar : MA_Marine_BDU_Light
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Red 'Jade' (Light) (No Collar)";
+	displayName="[34th] BDU Urban Red 'Jade' (Light) (No Collar)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -590,7 +590,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Light_NoCollar : MA_Marin
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Medium_NoCollar : MA_Marine_BDU_Medium
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Red 'Jade' (Medium) (No Collar)";
+	displayName="[34th] BDU Urban Red 'Jade' (Medium) (No Collar)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -607,7 +607,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Medium_NoCollar : MA_Mari
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Heavy_NoCollar : MA_Marine_BDU_Heavy
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Red 'Jade' (Heavy) (No Collar)";
+	displayName="[34th] BDU Urban Red 'Jade' (Heavy) (No Collar)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -624,7 +624,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Heavy_NoCollar : MA_Marin
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Blue_Light : MA_Marine_BDU_Light
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Blue 'Demo Player' (Light)";
+	displayName="[34th] BDU Urban Blue 'Jade' (Light)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -641,7 +641,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Blue_Light : MA_Marine_BD
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Blue_Medium : MA_Marine_BDU_Medium
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Blue 'Jade' (Medium)";
+	displayName="[34th] BDU Urban Blue 'Jade' (Medium)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -658,7 +658,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Blue_Medium : MA_Marine_B
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Blue_Heavy : MA_Marine_BDU_Heavy
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Blue 'Jade' (Heavy)";
+	displayName="[34th] BDU Urban Blue 'Jade' (Heavy)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -675,7 +675,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Blue_Heavy : MA_Marine_BD
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Blue_NoShoulders : MA_Marine_BDU_NoShoulder
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Blue 'Jade' (Shoulderless)";
+	displayName="[34th] BDU Urban Blue 'Jade' (Shoulderless)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -692,7 +692,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Blue_NoShoulders : MA_Mar
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Blue_Light_NoCollar : MA_Marine_BDU_Light
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Blue 'Jade' (Light) (No Collar)";
+	displayName="[34th] BDU Urban Blue 'Jade' (Light) (No Collar)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -709,7 +709,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Blue_Light_NoCollar : MA_
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Blue_Medium_NoCollar : MA_Marine_BDU_Medium
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Blue 'Demo Player' (Medium) (No Collar)";
+	displayName="[34th] BDU Urban Blue 'Demo Player' (Medium) (No Collar)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -726,7 +726,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Blue_Medium_NoCollar : MA
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Blue_Heavy_NoCollar : MA_Marine_BDU_Heavy
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Blue 'Jade' (Heavy) (No Collar)";
+	displayName="[34th] BDU Urban Blue 'Jade' (Heavy) (No Collar)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{

@@ -505,7 +505,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Tropic_Medic_VisorGlasses_Red : 3
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Tropic_Light : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Light
 {
-	displayName="[34th] Marine Cross Branch BDU Tropic 'Jade' (Light)";
+	displayName="[34th] BDU Tropic 'Jade' (Light)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -522,7 +522,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Tropic_Light : 34thPRC_ArmourCu
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Tropic_Medium : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Medium
 {
-	displayName="[34th] Marine Cross Branch BDU Tropic 'Jade' (Medium)";
+	displayName="[34th] BDU Tropic 'Jade' (Medium)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -539,7 +539,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Tropic_Medium : 34thPRC_ArmourC
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Tropic_Heavy : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Heavy
 {
-	displayName="[34th] Marine Cross Branch BDU Tropic 'Jade' (Heavy)";
+	displayName="[34th] BDU Tropic 'Jade' (Heavy)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -556,7 +556,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Tropic_Heavy : 34thPRC_ArmourCu
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Tropic_NoShoulders : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_NoShoulders
 {
-	displayName="[34th] Marine Cross Branch BDU Tropic 'Jade' (Shoulderless)";
+	displayName="[34th] BDU Tropic 'Jade' (Shoulderless)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -573,7 +573,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Tropic_NoShoulders : 34thPRC_Ar
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Tropic_Light_NoCollar : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Light_NoCollar
 {
-	displayName="[34th] Marine Cross Branch BDU Tropic 'Jade' (Light) (No Collar)";
+	displayName="[34th] BDU Tropic 'Jade' (Light) (No Collar)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -590,7 +590,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Tropic_Light_NoCollar : 34thPRC
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Tropic_Medium_NoCollar : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Medium_NoCollar
 {
-	displayName="[34th] Marine Cross Branch BDU Tropic 'Jade' (Medium) (No Collar)";
+	displayName="[34th] BDU Tropic 'Jade' (Medium) (No Collar)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -607,7 +607,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Tropic_Medium_NoCollar : 34thPR
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Tropic_Heavy_NoCollar : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Heavy_NoCollar
 {
-	displayName="[34th] Marine Cross Branch BDU Tropic 'Jade' (Heavy) (No Collar)";
+	displayName="[34th] BDU Tropic 'Jade' (Heavy) (No Collar)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
