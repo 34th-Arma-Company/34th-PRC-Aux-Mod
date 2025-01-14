@@ -1,3 +1,6 @@
+# About
+I reccomend viewing this document with the extension Markdown Preview Enhanced (https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced). Once installed to VS Code you can see a html preview by clicking the pane on the right side of VS Code that looks like an open book with a magnifying glass.
+
 # Config Editing Tutorial 1
 This tutorial will take you through much of what is used in reskins and model swaps
 
@@ -12,19 +15,19 @@ class 34thPRC_ArmourStandard_Commando_Helmet_Urban : 34thPRC_ArmourStandard_Mari
 {
 	displayName="[34th] Commando Helmet Urban"; //This defines the in game display name of the gear
 	author="Yandere"; //Defines who made it
-	model="MA_Armor\data\Helmets\Commando\Commando_Helmet.p3d"; //This is part 1 of model swapping, both defining the model her and later on with uniformModel is required for appearance swaps. URLs should be encased with "" and the line must end with a semi colon ;
+	model="MA_Armor\data\Helmets\Commando\Commando_Helmet.p3d"; //This is part 1 of model swapping, both defining the model here and later on with uniformModel is required for most appearance swaps. URLs should be encased with "" and the line must end with a semi colon ;
 ```
 
 ### Hidden Selections
 ```c++
-//Hidden selections come in two parts "hiddenSelections[]" and hiddenSelectionsTextures[]. For our purposes you generally don't need to wory about how they work but the simple explanation is that when a line item in the hiddenSelections[] array is commented out on the base object definition that part of object will appear in game while non commented lines will be hidden.
+//Hidden selections come in two parts "hiddenSelections[]" and hiddenSelectionsTextures[]. For our purposes you generally don't need to wory about how they work but the simple explanation is that when a line item in the hiddenSelections[] array is commented out on the base object definition that part of model object will appear in game while non commented lines will be hidden.
 
 //hiddenSelections[] is an array of properties for the item in question and can be used on pretty much all things ins ARMA3. In this case we need to define it again because our inherited object has different values than the model we are using for our new object.
 	hiddenSelections[]=
 	{
 		"Camo1", //Camo1 is the helmet's base texture
 		"Camo2" // Camo2 is the helmet's visor
-	};
+	}; //Be sure to reference the original object in the mod you are inheriting from to see which lines correspond to different parts.
 
 	//hiddenSelectionsTextures[] is slightly different from hiddenSelections but very similar. The base item still controls which texture paths are active via code comments. For example with our ODST armor it controls whether or not the different shoulders are displayed. In this case we simply need to give the paths to our textures. This will be the case for pretty much all of our reskins. You can also reference what these paths are via hiddenSelections[].
 	hiddenSelectionsTextures[]=
@@ -32,26 +35,25 @@ class 34thPRC_ArmourStandard_Commando_Helmet_Urban : 34thPRC_ArmourStandard_Mari
 		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\commando\commando_helmet_urban.paa",
 		"34thPRC_ArmourStandard\data\mkvb\Commando\Visors\34_Commando_Helmet_Visor_Gold.paa"
 	};
-	```
-	### ACE Arsenal Extended Integration
-	```c++
-	//XtdGearInfo is a class from Ace Arsenal Extended, our 34thPRC_AceArsenalExtended.pbo uses this information to group objects into predefines lists with switchable toggles.
+```
+### ACE Arsenal Extended Integration
+```c++
+	//XtdGearInfo is a class from Ace Arsenal Extended, our 34thPRC_AceArsenalExtended.pbo uses this information to group objects into predefined lists with switchable toggles.
 	{
-		model="34thPRC_ArmourStandard_EOD_Helmet_Urban"; //This must be the same as the class name of the object it is a "variant" off. Basicly because we want all specialist helmets to be in the same toggle groups use the first object created in the group as an identifier for our AAX support.
-		helmet="commando"; //This can be referenced within 34thPRC_AceArsenalExtended, but essentially is used to mark which helmet this in the toggles
-		camo="urban"; //Like the line above, but this identifies which camo version to use.
+		model="34thPRC_ArmourStandard_EOD_Helmet_Urban"; //This must be the same as the class name of the object it is a "variant" off. Basicly because we want all specialist helmets to be in the same toggle groups, we use the first object created in the group as an identifier for our AAX support.
+		helmet="commando"; //This can be referenced within 34thPRC_AceArsenalExtended, but essentially is used to mark which helmet this is for the toggles
+		camo="urban"; //Like the line above, but this identifies which camo version it is.
 	};
-	```
+```
 ### Finishing The Model Swap
 ```c++
-	// The below line is a little weird, essentially we are inheriting from MA_Armor's class ItemInfo which inherits from a built in class in arma. In this case it's HeadgearItem. This is basically a class used to define an item's properties. uniformModel links object to a uniform. For more information see: https://community.bistudio.com/wiki/Arma_3:_Characters_And_Gear_Encoding_Guide
+	// The below line is a little weird, essentially we are inheriting from MA_Armor's class ItemInfo which inherits from a built in class in arma. In this case it's HeadgearItem. This is basically a class used to define an item's properties. uniformModel links an object to a uniform. For more information see: https://community.bistudio.com/wiki/Arma_3:_Characters_And_Gear_Encoding_Guide
 	class ItemInfo : ItemInfo
 	{
 		uniformModel="MA_Armor\data\Helmets\Commando\Commando_Helmet.p3d"; //Here again we set this to the .p3d of our helmet
 	};
 };
 ```
-
 ### The Finished Example
 ```c++
 class 34thPRC_ArmourStandard_Commando_Helmet_Urban : 34thPRC_ArmourStandard_Marines2_CH252_Urban
@@ -105,7 +107,7 @@ class 34thPRC_ArmourStandard_Commando_Helmet_Arid : 34thPRC_ArmourStandard_Comma
 ```
 
 # Config Editing Tutorial 2
-This tutorial goes over #include statements.
+This tutorial goes over '#include' statements.
 
 ### '#Include'
 ```c++
@@ -150,12 +152,12 @@ class MEU_SAABR96 : OPTRE_M99A2S3
 	model="OPTRE_Weapons\Sniper\M99.p3d";
 	uniformModel="OPTRE_Weapons\Sniper\M99.p3d"; //These two lines should be familiar from Tutorial 1, this is model swapping the object.
 
-  //magazines[] is an array that contains all of the "ammo" or rather what magazines are available to a weapon. '+=' takes what's already in the array and adds whatever is written within the curly braces while = would overwrite what is allowed with whatever is put.
+  //magazines[] is an array that contains all of the "ammo" or rather what magazines are available to a weapon. '+=' takes what's already in the array and adds whatever is written within the curly braces while only the '=' would overwrite what is allowed with whatever is put.
 	magazines[]+=
 	{
 		"OPTRE_7Rnd_20mm_APFSDS_Mag",
 	};
-  //magazineWells[] is an array that allows for the addition of preapproved magazines. These a defined else well. For more information see: https://community.bistudio.com/wiki/Arma_3:_Weapon_Config_Guidelines
+  //magazineWells[] is an array that allows for the addition of preapproved magazines. These are defined elsewhere. For more information see: https://community.bistudio.com/wiki/Arma_3:_Weapon_Config_Guidelines
 	magazineWell[]=
 	{
 		"OPTRE_7Rnd_20mm_APFSDS_Mag"
