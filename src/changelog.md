@@ -7,12 +7,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 ### Added
+- Ambrose Custom Armour
+- Grenadier for Marines/ODSTs
+- Scout for marines /ODSTs
+- Shewolf Custom Helmet
+### Updated
+- All Spartan shoulders have gunbags
+- Added black hot and white hot thermal modes to UNSC Marksma's Visual Interface and all MVI tagged NVGs
+
+## 0.20.0
+### Added
 - Cappy Custom Armour
 - EOD Helmets for Marines/ODSTs
 - EOD CBRN NVG attachment for Marines/ODSTs
 - Springbok Commander Seat LR Radio
 - AAX support for Gungnir helmets
 - JFO for Marines/ODSTs
+- CQC for Marines/ODSTs
+- Commando for Marines/ODSTs
 ### Updated
 - Fix shoulderless marine uniforms having less carry capacity
 - Gungnir helmet camos for Marines/ODSTS
@@ -20,7 +32,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 1st MEU SAABR-96 now uses the OPTRE Stanchion model
 - 1st MEU SAABR-96 now has OPTRE APFSDS ammo as an option
 
-## 1.19.0
+## 0.19.0
 ### Added
 - Prototyped custom armour
 - Bigger storage for exosuits that we use
