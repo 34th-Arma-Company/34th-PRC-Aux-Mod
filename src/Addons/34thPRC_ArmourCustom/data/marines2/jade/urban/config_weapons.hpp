@@ -709,7 +709,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Blue_Light_NoCollar : MA_
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Blue_Medium_NoCollar : MA_Marine_BDU_Medium
 {
-	displayName="[34th] BDU Urban Blue 'Demo Player' (Medium) (No Collar)";
+	displayName="[34th] BDU Urban Blue 'Jade' (Medium) (No Collar)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{

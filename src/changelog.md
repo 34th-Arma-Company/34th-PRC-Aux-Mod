@@ -12,7 +12,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Updated
 - All Spartan shoulders have gunbags
 - Added black hot and white hot thermal modes to UNSC Marksma's Visual Interface and all MVI tagged NVGs
-- Shortened all Marine Cross Branch BDU uniform display names to BDU and fixed name on Urban Blue 'Jade' Medium custom armor, was 'Demo Player'
+- Shortened all Marine Cross Branch BDU uniform display names to BDU to fit better on screen
+- Fixed some names on Jade's custom armour, was 'Demo Player' in some places
 
 ## 0.20.0
 ### Added
