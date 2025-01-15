@@ -14,7 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Pilot Helmet for marines / ODSTS
 ### Updated
 - All Spartan shoulders have gunbags
-- Added black hot and white hot thermal modes to UNSC Marksma's Visual Interface and all MVI tagged NVGs
+- Added black hot and white hot thermal modes to UNSC Marksman's Visual Interface and all MVI tagged NVGs
 - Shortened all Marine Cross Branch BDU uniform display names to BDU to fit better on screen
 - Fixed some names on Jade's custom armour, was 'Demo Player' in some places
 
