@@ -7,8 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 ### Added
-- Grenadier for Marines/ODSTs
-- Scout for marines /ODSTs
+- Ambrose Custom Armour
+- Grenadier for Marines / ODSTs
+- Scout for marines / ODSTs
+- Shewolf Custom Helmet
+- Pilot Helmet for marines / ODSTS
 ### Updated
 - All Spartan shoulders have gunbags
 - Added black hot and white hot thermal modes to UNSC Marksma's Visual Interface and all MVI tagged NVGs
