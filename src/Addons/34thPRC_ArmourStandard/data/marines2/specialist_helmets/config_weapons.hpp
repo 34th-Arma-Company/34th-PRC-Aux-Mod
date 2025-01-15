@@ -5,3 +5,5 @@
 #include "commando\config_weapons.hpp"
 #include "grenadier\config_weapons.hpp"
 #include "scout\config_weapons.hpp"
+#include "pilot\config_weapons.hpp"
+#include "recon\config_weapons.hpp"

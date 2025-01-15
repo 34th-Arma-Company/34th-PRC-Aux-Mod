@@ -6,12 +6,20 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+
+## 0.21.0
 ### Added
-- Grenadier for Marines/ODSTs
-- Scout for marines /ODSTs
+- Ambrose Custom Armour
+- Grenadier for Marines / ODSTs
+- Scout for marines / ODSTs
+- Shewolf Custom Helmet
+- Pilot Helmet for marines / ODSTs
+- Recon Helmet for marines / ODSTs
 ### Updated
 - All Spartan shoulders have gunbags
-- Added black hot and white hot thermal modes to UNSC Marksma's Visual Interface and all MVI tagged NVGs
+- Added black hot and white hot thermal modes to UNSC Marksman's Visual Interface and all MVI tagged NVGs
+- Shortened all Marine Cross Branch BDU uniform display names to BDU to fit better on screen
+- Fixed some names on Jade's custom armour, was 'Demo Player' in some places
 
 ## 0.20.0
 ### Added

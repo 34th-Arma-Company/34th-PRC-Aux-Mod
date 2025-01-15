@@ -483,7 +483,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses_Red : CH252
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light: MA_Marine_BDU_Light
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Red (Light)";
+	displayName="[34th] BDU Urban Red (Light)";
 	author="Ambrose";
 	class ItemInfo: ItemInfo
 	{
@@ -499,7 +499,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light: MA_Marine_BDU_Light
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium: MA_Marine_BDU_Medium
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Red (Medium)";
+	displayName="[34th] BDU Urban Red (Medium)";
 	author="Ambrose";
 	class ItemInfo: ItemInfo
 	{
@@ -515,7 +515,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium: MA_Marine_BDU_Medium
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy: MA_Marine_BDU_Heavy
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Red (Heavy)";
+	displayName="[34th] BDU Urban Red (Heavy)";
 	author="Ambrose";
 	class ItemInfo: ItemInfo
 	{
@@ -531,7 +531,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy: MA_Marine_BDU_Heavy
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_NoShoulder: MA_Marine_BDU_NS
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Red (Shoulderless)";
+	displayName="[34th] BDU Urban Red (Shoulderless)";
 	author="Ambrose";
 	class ItemInfo: ItemInfo
 	{
@@ -547,7 +547,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_NoShoulder: MA_Marine_BDU_NS
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light_NoCollar: MA_Marine_BDU_Light
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Red (Light) (No Collar)";
+	displayName="[34th] BDU Urban Red (Light) (No Collar)";
 	author="Ambrose";
 	class ItemInfo: ItemInfo
 	{
@@ -563,7 +563,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light_NoCollar: MA_Marine_BD
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium_NoCollar: MA_Marine_BDU_Medium
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Red (Medium) (No Collar)";
+	displayName="[34th] BDU Urban Red (Medium) (No Collar)";
 	author="Ambrose";
 	class ItemInfo: ItemInfo
 	{
@@ -579,7 +579,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium_NoCollar: MA_Marine_B
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy_NoCollar: MA_Marine_BDU_Heavy
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Red (Heavy) (No Collar)";
+	displayName="[34th] BDU Urban Red (Heavy) (No Collar)";
 	author="Ambrose";
 	class ItemInfo: ItemInfo
 	{
@@ -595,7 +595,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy_NoCollar: MA_Marine_BD
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Light: MA_Marine_BDU_Light
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Blue (Light)";
+	displayName="[34th] BDU Urban Blue (Light)";
 	author="Ambrose";
 	class ItemInfo: ItemInfo
 	{
@@ -611,7 +611,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Light: MA_Marine_BDU_Li
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Medium: MA_Marine_BDU_Medium
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Blue (Medium)";
+	displayName="[34th] BDU Urban Blue (Medium)";
 	author="Ambrose";
 	class ItemInfo: ItemInfo
 	{
@@ -627,7 +627,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Medium: MA_Marine_BDU_M
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Heavy: MA_Marine_BDU_Heavy
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Blue (Heavy)";
+	displayName="[34th] BDU Urban Blue (Heavy)";
 	author="Ambrose";
 	class ItemInfo: ItemInfo
 	{
@@ -643,7 +643,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Heavy: MA_Marine_BDU_He
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_NoShoulder: MA_Marine_BDU_NS
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Blue (Shoulderless)";
+	displayName="[34th] BDU Urban Blue (Shoulderless)";
 	author="Ambrose";
 	class ItemInfo: ItemInfo
 	{
@@ -659,7 +659,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_NoShoulder: MA_Marine_B
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Light_NoCollar: MA_Marine_BDU_Light
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Blue (Light) (No Collar)";
+	displayName="[34th] BDU Urban Blue (Light) (No Collar)";
 	author="Ambrose";
 	class ItemInfo: ItemInfo
 	{
@@ -675,7 +675,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Light_NoCollar: MA_Mari
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Medium_NoCollar: MA_Marine_BDU_Medium
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Blue (Medium) (No Collar)";
+	displayName="[34th] BDU Urban Blue (Medium) (No Collar)";
 	author="Ambrose";
 	class ItemInfo: ItemInfo
 	{
@@ -691,7 +691,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Medium_NoCollar: MA_Mar
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Heavy_NoCollar: MA_Marine_BDU_Heavy
 {
-	displayName="[34th] Marine Cross Branch BDU Urban Blue (Heavy) (No Collar)";
+	displayName="[34th] BDU Urban Blue (Heavy) (No Collar)";
 	author="Ambrose";
 	class ItemInfo: ItemInfo
 	{
