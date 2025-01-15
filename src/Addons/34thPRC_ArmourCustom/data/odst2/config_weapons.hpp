@@ -2,3 +2,4 @@
 #include "cappy\config_weapons.hpp"
 #include "ambrose\config_weapons.hpp"
 #include "shewolf\config_weapons.hpp"
+#include "vasya\config_weapons.hpp"
