@@ -15,7 +15,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Shewolf Custom Helmet
 - Pilot Helmet for marines / ODSTs
 - Recon Helmet for marines / ODSTs
-
 ### Updated
 - All Spartan shoulders have gunbags
 - Added black hot and white hot thermal modes to UNSC Marksman's Visual Interface and all MVI tagged NVGs
