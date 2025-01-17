@@ -8,6 +8,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Added
 - Vasya Custom Helmet
+- ACE Arsenal Extended Support added:
+  - OPTRE NVGs
+  - Misriah Armory Marine Pouches
 
 ## 0.21.0
 ### Added
