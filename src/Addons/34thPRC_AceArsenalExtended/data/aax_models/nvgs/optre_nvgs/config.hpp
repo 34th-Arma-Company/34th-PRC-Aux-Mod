@@ -1,7 +1,7 @@
 class OPTRE_NVG
 {
 	label = "[A2S] OpTre NVG";
-	author = "Article 2 Studios";
+	author = "Article 2 Studios, Vespade";
 	options[] = {"leftattach", "middleattach", "rightattach"};
 	class leftattach
 	{
@@ -29,7 +29,7 @@ class OPTRE_NVG
 		label = "Middle Attachment";
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[] = {"middle", "mvi", "ua", "uab"};
+		values[] = {"middle", "mvi", "ua", "uab", "command"};
 		class middle
 		{
 			label = "NONE";
@@ -42,12 +42,17 @@ class OPTRE_NVG
 		class ua
 		{
 			label = "UA";
-			description = "Up-Armored (A)";
+			description = "Up-Armored (Alpha)";
 		};
 		class uab
 		{
-			label = "UAB";
-			description = "Up-Armored (B)";
+			label = "UA(B)";
+			description = "Up-Armored (Bravo)";
+		};
+		class command
+		{
+			label = "CNI";
+			description = "Command Neural Implant";
 		};
 	};
 	class rightattach
@@ -55,7 +60,7 @@ class OPTRE_NVG
 		label = "Right Attachment";
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[] = {"right", "ul", "hurs"};
+		values[] = {"right", "ul", "hurs","hul3","hul3g"};
 		class right
 		{
 			label = "NONE";
@@ -68,7 +73,18 @@ class OPTRE_NVG
 		class hurs
 		{
 			label = "HURS";
-			description = "Hardened Uplink - Remote Sensor";
+			description = "Hardened Uplink/Remote Sensor";
 		};
+		class hul3
+		{
+			label = "HUL 3"
+			description = "Hardened Uplink Module Gen 3"
+		};
+		class hul3g
+		{
+			label = "HUL 3(G)"
+			description = "Hardened Uplink Module Gen 3 (Gray)"
+		};
+
 	};
 };
