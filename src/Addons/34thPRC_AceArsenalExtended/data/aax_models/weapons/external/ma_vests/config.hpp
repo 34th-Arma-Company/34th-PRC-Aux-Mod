@@ -2,215 +2,83 @@ class MA_Marine_Pouches
 {
 	label = "[MA] Marine Pouches";
 	author = "Misriah Armory";
-	options[] = {"basic", "rifle", "tl", "med", "eng"};
-	class basic
+	options[] = {"role", "style", "variant"};
+	class role
 	{
-		label = "Basic"
+		label = "Role"
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[]= {"va0", "va1", "va2", "va3", "va4"};
-		class va0
+		values[]= {"basic", "rifleman", "teamleader", "medic", "engineer"};
+		class basic
 		{
-			label = "VA0";
-			description = "Pouchless";
+			label = "Basic";
+			description = "Basic";
 		};
-		class va1
+		class rifleman
 		{
-			label = "VA1";
-			description = "Variant #1";
+			label = "Rifleman";
 		};
-		class va2
+		class teamleader
 		{
-			label = "VA2";
-			description = "Variant #2";
+			label = "Teamleader";
 		};
-		class va3
+		class medic
 		{
-			label = "VA3";
-			description = "Variant #3";
+			label = "Medic";
 		};
-		class va4
+		class engineer
 		{
-			label = "VA4";
-			description = "Variant #4";
+			label = "Engineer";
 		};
 	};
-	class rifle
+	class style
 	{
-		label = "Rifleman"
+		label = "Style"
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[]= {"rla", "rlb", "rlc", "rld", "rma", "rmb", "rmc", "rmd", "rha", "rhb", "rhc", "rhd"};
-		class rla
+		values[]= {"base", "light", "medium", "heavy"};
+		class base
 		{
-			label = "RL(A)";
-			description = "Rifleman Light (A)";
+			label = "Base";
 		};
-		class rlb
+		class light
 		{
-			label = "RL(B)";
-			description = "Rifleman Light (B)";
+			label = "Light";
 		};
-		class rlc
+		class medium
 		{
-			label = "RL(C)";
-			description = "Rifleman Light (C)";
+			label = "Medium";
 		};
-		class rld
+		class heavy
 		{
-			label = "RL(D)";
-			description = "Rifleman Light (D)";
-		};
-		class rma
-		{
-			label = "RM(A)";
-			description = "Rifleman Medium (A)";
-		};
-		class rmb
-		{
-			label = "RM(B)";
-			description = "Rifleman Medium (B)";
-		};
-		class rmc
-		{
-			label = "RM(C)";
-			description = "Rifleman Medium (C)";
-		};
-		class rmd
-		{
-			label = "RM(D)";
-			description = "Rifleman Medium (D)";
-		};
-		class rha
-		{
-			label = "RH(A)";
-			description = "Rifleman Heavy (A)";
-		};
-		class rhb
-		{
-			label = "RH(B)";
-			description = "Rifleman Heavy (B)";
-		};
-		class rhc
-		{
-			label = "RH(C)";
-			description = "Rifleman Heavy (C)";
-		};
-		class rhd
-		{
-			label = "RH(D)";
-			description = "Rifleman Heavy (D)";
+			label = "Heavy";
 		};
 	};
-	class tl
+	class variant
 	{
-		label = "Teamleader"
+		label = "Variant"
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[]={"tla", "tlb", "tma", "tmb", "tha", "thb"};
-		class tla
+		values[]={"a", "b", "c", "d", "zero"};
+		class a
 		{
-			label = "TL(A)"
-			description = "Teamleader Light (A)"
+			label = "A"
 		};
-		class tlb
+		class b
 		{
-			label = "TL(B)"
-			description = "Teamleader Light (B)"
+			label = "B"
 		};
-		class tma
+		class c
 		{
-			label = "TM(A)"
-			description = "Teamleader Medium (A)"
+			label = "C"
 		};
-		class tmb
+		class d
 		{
-			label = "TM(B)"
-			description = "Teamleader Medium (B)"
+			label = "D"
 		};
-		class tha
+		class zero
 		{
-			label = "TH(A)"
-			description = "Teamleader Heavy (A)"
-		};
-		class thb
-		{
-			label = "TH(B)"
-			description = "Teamleader Heavy (B)"
-		};
-	};
-	class med
-	{
-		label = "Medic"
-		alwaysSelectable = 1;
-		changeingame = 0;
-		values[]={"mla", "mlb", "mma", "mmb", "mha", "mhb"};
-		class mla
-		{
-			label = "ML(A)"
-			description = "Medic Light (A)"
-		};
-		class mlb
-		{
-			label = "ML(B)"
-			description = "Medic Light (B)"
-		};
-		class mma
-		{
-			label = "MM(A)"
-			description = "Medic Medium (A)"
-		};
-		class mmb
-		{
-			label = "MM(B)"
-			description = "Medic Medium (B)"
-		};
-		class mha
-		{
-			label = "MH(A)"
-			description = "Medic Heavy (A)"
-		};
-		class mhb
-		{
-			label = "MH(B)"
-			description = "Medic Heavy (B)"
-		};
-	};
-	class eng
-	{
-		label = "Engineer"
-		alwaysSelectable = 1;
-		changeingame = 0;
-		values[]={"ela", "elb", "ema", "emb", "eha", "ehb"};
-		class ela
-		{
-			label = "EL(A)"
-			description = "Engineer Light (A)"
-		};
-		class elb
-		{
-			label = "EL(B)"
-			description = "Engineer Light (B)"
-		};
-		class ema
-		{
-			label = "EM(A)"
-			description = "Engineer Medium (A)"
-		};
-		class emb
-		{
-			label = "EM(B)"
-			description = "Engineer Medium (B)"
-		};
-		class eha
-		{
-			label = "EH(A)"
-			description = "Engineer Heavy (A)"
-		};
-		class ehb
-		{
-			label = "EH(B)"
-			description = "Engineer Heavy (B)"
+			label = "Pouchless"
 		};
 	};
 };

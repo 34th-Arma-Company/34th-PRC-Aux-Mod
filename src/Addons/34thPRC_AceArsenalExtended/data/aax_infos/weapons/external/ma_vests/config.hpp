@@ -2,315 +2,245 @@ class MA_Marine_Pouches;
 class Marine_Pouches_Var0
 {
 	model = "MA_Marine_Pouches";
-	basic = "va0";
-	rifle = "";
-	tl = "";
-	med = "";
-	eng = "";
+	role = "basic";
+	style = "base";
+	variant = "zero";
 };
 class Marine_Pouches_Var1
 {
 	model = "MA_Marine_Pouches";
-	basic = "va1";
-	rifle = "";
-	tl = "";
-	med = "";
-	eng = "";
+	role = "basic";
+	style = "base";
+	variant = "a";
 };
 class Marine_Pouches_Var2
 {
 	model = "MA_Marine_Pouches";
-	basic = "va2";
-	rifle = "";
-	tl = "";
-	med = "";
-	eng = "";
+	role = "basic";
+	style = "base";
+	variant = "b";
 };
 class Marine_Pouches_Var3
 {
 	model = "MA_Marine_Pouches";
-	basic = "va3";
-	rifle = "";
-	tl = "";
-	med = "";
-	eng = "";
+	role = "basic";
+	style = "base";
+	variant = "c";
 };
 class Marine_Pouches_Var4
 {
 	model = "MA_Marine_Pouches";
-	basic = "va4";
-	rifle = "";
-	tl = "";
-	med = "";
-	eng = "";
+	role = "basic";
+	style = "base";
+	variant = "d";
 };
 class MA_Marine_Pouches_Engineer_Heavy_A
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "";
-	tl = "";
-	med = "";
-	eng = "eha";
+	role = "engineer";
+	style = "heavy";
+	variant = "a";
 };
 class MA_Marine_Pouches_Engineer_Heavy_B
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "";
-	tl = "";
-	med = "";
-	eng = "ehb";
+	role = "engineer";
+	style = "heavy";
+	variant = "b";
 };
 class MA_Marine_Pouches_Engineer_Medium_A
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "";
-	tl = "";
-	med = "";
-	eng = "ema";
+	role = "engineer";
+	style = "medium";
+	variant = "a";
 };
 class MA_Marine_Pouches_Engineer_Medium_B
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "";
-	tl = "";
-	med = "";
-	eng = "emb";
+	role = "engineer";
+	style = "medium";
+	variant = "b";
 };
 class MA_Marine_Pouches_Engineer_Light_A
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "";
-	tl = "";
-	med = "";
-	eng = "ela";
+	role = "engineer";
+	style = "light";
+	variant = "a";
 };
 class MA_Marine_Pouches_Engineer_Light_B
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "";
-	tl = "";
-	med = "";
-	eng = "elb";
+	role = "engineer";
+	style = "light";
+	variant = "b";
 };
 class MA_Marine_Pouches_Medic_Heavy_A
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "";
-	tl = "";
-	med = "mha";
-	eng = "";
+	role = "medic";
+	style = "heavy";
+	variant = "a";
 };
 class MA_Marine_Pouches_Medic_Heavy_B
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "";
-	tl = "";
-	med = "mhb";
-	eng = "";
+	role = "medic";
+	style = "heavy";
+	variant = "b";
 };
 class MA_Marine_Pouches_Medic_Medium_A
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "";
-	tl = "";
-	med = "mma";
-	eng = "";
+	role = "medic";
+	style = "medium";
+	variant = "a";
 };
 class MA_Marine_Pouches_Medic_Medium_B
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "";
-	tl = "";
-	med = "mmb";
-	eng = "";
+	role = "medic";
+	style = "medium";
+	variant = "b";
 };
 class MA_Marine_Pouches_Medic_Light_A
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "";
-	tl = "";
-	med = "mla";
-	eng = "";
+	role = "medic";
+	style = "light";
+	variant = "a";
 };
 class MA_Marine_Pouches_Medic_Light_B
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "";
-	tl = "";
-	med = "mlb";
-	eng = "";
+	role = "medic";
+	style = "light";
+	variant = "b";
 };
 class MA_Marine_Pouches_Teamleader_Heavy_A
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "";
-	tl = "tha";
-	med = "";
-	eng = "";
+	role = "teamleader";
+	style = "heavy";
+	variant = "a";
 };
 class MA_Marine_Pouches_Teamleader_Heavy_B
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "";
-	tl = "thb";
-	med = "";
-	eng = "";
+	role = "teamleader";
+	style = "heavy";
+	variant = "b";
 };
 class MA_Marine_Pouches_Teamleader_Medium_A
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "";
-	tl = "tma";
-	med = "";
-	eng = "";
+	role = "teamleader";
+	style = "medium";
+	variant = "a";
 };
 class MA_Marine_Pouches_Teamleader_Medium_B
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "";
-	tl = "tmb";
-	med = "";
-	eng = "";
+	role = "teamleader";
+	style = "medium";
+	variant = "b";
 };
 class MA_Marine_Pouches_Teamleader_Light_A
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "";
-	tl = "tla";
-	med = "";
-	eng = "";
+	role = "teamleader";
+	style = "light";
+	variant = "a";
 };
 class MA_Marine_Pouches_Teamleader_Light_B
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "";
-	tl = "tlb";
-	med = "";
-	eng = "";
+	role = "teamleader";
+	style = "light";
+	variant = "b";
 };
 class MA_Marine_Pouches_Rifleman_Heavy_A
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "rha";
-	tl = "";
-	med = "";
-	eng = "";
+	role = "rifleman";
+	style = "heavy";
+	variant = "a";
 };
 class MA_Marine_Pouches_Rifleman_Heavy_B
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "rhb";
-	tl = "";
-	med = "";
-	eng = "";
+	role = "rifleman";
+	style = "heavy";
+	variant = "b";
 };
 class MA_Marine_Pouches_Rifleman_Heavy_C
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "rhc";
-	tl = "";
-	med = "";
-	eng = "";
+	role = "rifleman";
+	style = "heavy";
+	variant = "c";
 };
 class MA_Marine_Pouches_Rifleman_Heavy_D
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "rhd";
-	tl = "";
-	med = "";
-	eng = "";
+	role = "rifleman";
+	style = "heavy";
+	variant = "d";
 };
 class MA_Marine_Pouches_Rifleman_Medium_A
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "rma";
-	tl = "";
-	med = "";
-	eng = "";
+	role = "rifleman";
+	style = "medium";
+	variant = "a";
 };
 class MA_Marine_Pouches_Rifleman_Medium_B
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "rmb";
-	tl = "";
-	med = "";
-	eng = "";
+	role = "rifleman";
+	style = "medium";
+	variant = "b";
 };
 class MA_Marine_Pouches_Rifleman_Medium_C
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "rmc";
-	tl = "";
-	med = "";
-	eng = "";
+	role = "rifleman";
+	style = "medium";
+	variant = "c";
 };
 class MA_Marine_Pouches_Rifleman_Medium_D
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "rmd";
-	tl = "";
-	med = "";
-	eng = "";
+	role = "rifleman";
+	style = "medium";
+	variant = "d";
 };
 class MA_Marine_Pouches_Rifleman_Light_A
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "rla";
-	tl = "";
-	med = "";
-	eng = "";
+	role = "rifleman";
+	style = "light";
+	variant = "a";
 };
 class MA_Marine_Pouches_Rifleman_Light_B
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "rlb";
-	tl = "";
-	med = "";
-	eng = "";
+	role = "rifleman";
+	style = "light";
+	variant = "b";
 };
 class MA_Marine_Pouches_Rifleman_Light_C
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "rlc";
-	tl = "";
-	med = "";
-	eng = "";
+	role = "rifleman";
+	style = "light";
+	variant = "c";
 };
 class MA_Marine_Pouches_Rifleman_Light_D
 {
 	model = "MA_Marine_Pouches";
-	basic = "";
-	rifle = "rld";
-	tl = "";
-	med = "";
-	eng = "";
+	role = "rifleman";
+	style = "light";
+	variant = "d";
 };
