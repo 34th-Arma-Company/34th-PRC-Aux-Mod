@@ -2,14 +2,14 @@ class OPTRE_NVG
 {
 	label = "[A2S] OpTre NVG";
 	author = "Article 2 Studios, Vespade";
-	options[] = {"leftattach", "middleattach", "rightattach"};
+	options[] = {"leftattach", "topattach", "rightattach"};
 	class leftattach
 	{
 		label = "Left Attachment";
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[] = {"left", "cnm", "hul"};
-		class left
+		values[] = {"none", "cnm", "hul"};
+		class none
 		{
 			label = "NONE";
 		};
@@ -24,13 +24,13 @@ class OPTRE_NVG
 			description = "Hardened Uplink Module";
 		};
 	};
-	class middleattach
+	class topattach
 	{
-		label = "Middle Attachment";
+		label = "Top Attachment";
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[] = {"middle", "mvi", "ua", "uab", "command"};
-		class middle
+		values[] = {"none", "mvi", "ua", "uab", "command"};
+		class none
 		{
 			label = "NONE";
 		};
@@ -60,8 +60,8 @@ class OPTRE_NVG
 		label = "Right Attachment";
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[] = {"right", "ul", "hurs","hul3","hul3g"};
-		class right
+		values[] = {"none", "ul", "hurs","hul3","hul3g"};
+		class none
 		{
 			label = "NONE";
 		};
