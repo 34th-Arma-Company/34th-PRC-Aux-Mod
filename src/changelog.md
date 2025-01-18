@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - ACE Arsenal Extended Support added:
   - Misriah Armory Marine Pouches
   - OPTRE NVGs
+- Version checking
 
 ## 0.21.0
 ### Added
