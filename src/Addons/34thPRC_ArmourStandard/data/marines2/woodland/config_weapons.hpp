@@ -534,7 +534,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_NoShoulder: 34thPRC_Armou
 	author="Ambrose";
 	class ItemInfo: ItemInfo
 	{
-		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Woodland_NS";
+		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Woodland_NoShoulder";
 	};
 	class XtdGearInfo
 	{

@@ -49,9 +49,9 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Woodland_Heavy: 34thPRC_ArmourStan
 		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_TrooperShoulders.paa"
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_Trooper_Woodland_NS: 34thPRC_ArmourStandard_Marines2_Trooper_Urban_NS
+class 34thPRC_ArmourStandard_Marines2_Trooper_Woodland_NoShoulder : 34thPRC_ArmourStandard_Marines2_Trooper_Urban_NoShoulder
 {
-	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Woodland_NS";
+	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Woodland_NoShoulder";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\Woodland\Woodland_UpperBDU.paa",
