@@ -13,6 +13,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - OPTRE NVGs
   - Misriah Armory NVGs
   - 34th PRC MkV B Shoulders
+  - 34th PRC MkV B Helmets
+- Version checking
 
 ## 0.21.0
 ### Added
