@@ -534,7 +534,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Arid_NoShoulder: 34thPRC_ArmourSta
 	author="Ambrose";
 	class ItemInfo: ItemInfo
 	{
-		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Arid_NS";
+		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Arid_NoShoulder";
 	};
 	class XtdGearInfo
 	{

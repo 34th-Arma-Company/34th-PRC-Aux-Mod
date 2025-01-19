@@ -49,9 +49,9 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Tropic_Heavy: 34thPRC_ArmourStanda
 		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperShoulders.paa"
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_Trooper_Tropic_NS: 34thPRC_ArmourStandard_Marines2_Trooper_Urban_NS
+class 34thPRC_ArmourStandard_Marines2_Trooper_Tropic_NoShoulder: 34thPRC_ArmourStandard_Marines2_Trooper_Urban_NoShoulder
 {
-	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Tropic_NS";
+	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Tropic_NoShoulder";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_UpperBDU.paa",
