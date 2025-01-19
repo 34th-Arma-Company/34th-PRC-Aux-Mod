@@ -16,7 +16,6 @@ class CfgPatches
 			"34thPRC_Markers",
 			"34thPRC_Overrides",
 			"34thPRC_Vehicles",
-			"sc_uniforms",
 		};
 		version = "0.21.0"; //Update to match changelog version on release
 	};
