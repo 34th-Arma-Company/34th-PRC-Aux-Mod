@@ -535,7 +535,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_NoShoulder: MA_Marine_BDU_NS
 	author="Ambrose";
 	class ItemInfo: ItemInfo
 	{
-		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Urban_NS";
+		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Urban_NoShoulder";
 	};
 	class XtdGearInfo
 	{
@@ -641,13 +641,13 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Heavy: MA_Marine_BDU_He
 		collar = "up";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_NoShoulder: MA_Marine_BDU_NS
+class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_NoShoulder : MA_Marine_BDU_NS
 {
 	displayName="[34th] BDU Urban Blue (Shoulderless)";
 	author="Ambrose";
 	class ItemInfo: ItemInfo
 	{
-		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_NS";
+		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_NoShoulder";
 	};
 	class XtdGearInfo
 	{
