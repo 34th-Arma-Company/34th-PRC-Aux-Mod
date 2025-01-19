@@ -8,7 +8,6 @@ class CfgPatches
 		weapons[] = {};
 		requiredAddons[] =
 		{
-			"34thPRC_AceArsenalExtended",
 			"34thPRC_ArmourCustom",
 			"34thPRC_ArmourStandard",
 			"34thPRC_FactionBrimstone",
