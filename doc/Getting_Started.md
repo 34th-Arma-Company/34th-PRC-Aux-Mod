@@ -5,11 +5,11 @@ Before you start, you will need to agree to our [contributing rules](../.github/
 
 ## Setting up Visual Studio Code
 Install [VSCode](https://code.visualstudio.com/) with the following addons:
-* [EditorConfig.EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
-* [vlad333000.sqf](https://marketplace.visualstudio.com/items?itemName=vlad333000.sqf)
+- [EditorConfig.EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+- [vlad333000.sqf](https://marketplace.visualstudio.com/items?itemName=vlad333000.sqf)
 
 If you install the [Git command line](https://git-scm.com/downloads) then you can commit changes in the editor.
-* You may also want to install [eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) to make using Git in VSCode easier.
+- You may also want to install [eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) to make using Git in VSCode easier.
 
 Alternatively, you can install [GitHub Desktop](https://desktop.github.com/) and use it separately.
 
