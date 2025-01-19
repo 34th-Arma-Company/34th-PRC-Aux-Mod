@@ -6,7 +6,6 @@ class CfgPatches
 		author = "34th PRC Modding Team";
 		units[] = {};
 		weapons[] = {};
-		requiredVersion = "0.21.0"; //Update to match changelog version on release
 		requiredAddons[] =
 		{
 			"34thPRC_AceArsenalExtended",
