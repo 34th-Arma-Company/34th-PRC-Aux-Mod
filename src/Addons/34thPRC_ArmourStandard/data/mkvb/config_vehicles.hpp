@@ -35,6 +35,11 @@ class 34thPRC_ArmourStandard_MkVB_Commando_Shoulders : Mjolnir_Commando_Shoulder
 		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
 		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
 	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_Mjolnir_Shoulders";
+		shoulders = "commando";
+	};
 };
 
 class Mjolnir_CQC_Shoulders; //MA_Armor
@@ -73,6 +78,11 @@ class 34thPRC_ArmourStandard_MkVB_CQC_Shoulders : Mjolnir_CQC_Shoulders
 		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
 		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
 		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_Mjolnir_Shoulders";
+		shoulders = "cqc";
 	};
 };
 
@@ -113,6 +123,11 @@ class 34thPRC_ArmourStandard_MkVB_EVA_Shoulders : Mjolnir_EVA_Shoulders
 		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
 		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
 	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_Mjolnir_Shoulders";
+		shoulders = "eva";
+	};
 };
 
 class Mjolnir_Grenadier_Shoulders; //MA_Armor
@@ -151,6 +166,11 @@ class 34thPRC_ArmourStandard_MkVB_Grenadier_Shoulders : Mjolnir_Grenadier_Should
 		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
 		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
 		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_Mjolnir_Shoulders";
+		shoulders = "grenadier";
 	};
 };
 
@@ -191,6 +211,11 @@ class 34thPRC_ArmourStandard_MkVB_Gungnir_Shoulders : Mjolnir_Gungnir_Shoulders
 		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
 		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
 	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_Mjolnir_Shoulders";
+		shoulders = "gungnir";
+	};
 };
 
 class Mjolnir_JFO_Shoulders; //MA_Armor
@@ -230,6 +255,11 @@ class 34thPRC_ArmourStandard_MkVB_JFO_Shoulders : Mjolnir_JFO_Shoulders
 		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
 		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
 	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_Mjolnir_Shoulders";
+		shoulders = "jfo";
+	};
 };
 
 class Mjolnir_MKV_Shoulders; //MA_Armor
@@ -268,6 +298,11 @@ class 34thPRC_ArmourStandard_MkVB_MKV_Shoulders : Mjolnir_MKV_Shoulders
 		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
 		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
 		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_Mjolnir_Shoulders";
+		shoulders = "mkv";
 	};
 };
 class 34thPRC_ArmourStandard_MkVB_Shoulders : Mjolnir_MKV_Shoulders
@@ -366,6 +401,11 @@ class 34thPRC_ArmourStandard_MkVB_Shoulders : Mjolnir_MKV_Shoulders
 		"",
 		""
 	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_Mjolnir_Shoulders";
+		shoulders = "none";
+	};
 };
 
 class Mjolnir_ODST_Shoulders; //MA_Armor
@@ -404,6 +444,11 @@ class 34thPRC_ArmourStandard_MkVB_ODST_Shoulders : Mjolnir_ODST_Shoulders
 		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
 		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
 		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_Mjolnir_Shoulders";
+		shoulders = "odst";
 	};
 };
 
@@ -444,6 +489,11 @@ class 34thPRC_ArmourStandard_MkVB_Operator_Shoulders : Mjolnir_Operator_Shoulder
 		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
 		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
 	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_Mjolnir_Shoulders";
+		shoulders = "operator";
+	};
 };
 
 class Mjolnir_Recon_Shoulders; //MA_Armor
@@ -482,6 +532,11 @@ class 34thPRC_ArmourStandard_MkVB_Recon_Shoulders : Mjolnir_Recon_Shoulders
 		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
 		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
 		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_Mjolnir_Shoulders";
+		shoulders = "recon";
 	};
 };
 
@@ -522,6 +577,11 @@ class 34thPRC_ArmourStandard_MkVB_Security_Shoulders : Mjolnir_Security_Shoulder
 		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
 		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
 	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_Mjolnir_Shoulders";
+		shoulders = "security";
+	};
 };
 
 class Mjolnir_Scout_Shoulders; //MA_Armor
@@ -560,5 +620,10 @@ class 34thPRC_ArmourStandard_MkVB_Scout_Shoulders : Mjolnir_Scout_Shoulders
 		"34thPRC_ArmourStandard\data\mkvb\Security\Shoulders\34_Security_Shoulders.paa",
 		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
 		"34thPRC_ArmourStandard\data\mkvb\Scout\Shoulders\34_Scout_Shoulders.paa",
+	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_Mjolnir_Shoulders";
+		shoulders = "scout";
 	};
 };
