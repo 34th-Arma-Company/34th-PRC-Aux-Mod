@@ -1,17 +1,21 @@
-class 34thPRC_Mjolnir_Shoulders
+class 34thPRC_Mjolnir_Helmets
 {
-	label = "[34th] Mjolnir MKV[B] Shoulders";
+	label = "[34th] Mjolnir Helmets";
 	author = "34th PRC Modding Team, Vasya";
-	options[] = {"shoulders"};
-	class shoulders
+	options[] = {"helmet",};
+	class helmet
 	{
-		label = "Shoulder Type";
+		label = "Helmet Type";
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[] = {"none", "commando", "cqc", "eva", "grenadier", "gungnir", "jfo", "mkv", "odst", "operator", "recon", "scout", "security"};
-		class none
+		values[] = {"mkvb", "aa", "commando", "cqc", "eod", "eodua", "eva", "grenadier", "gungnir", "jfo", "mkv", "mp", "odst", "operator", "pilot", "recon", "scout"};
+		class mkvb
 		{
-			label = "Invisible";
+			label = "Mk V[B]";
+		};
+		class aa
+		{
+			label = "Air Assault";
 		};
 		class commando
 		{
@@ -20,6 +24,14 @@ class 34thPRC_Mjolnir_Shoulders
 		class cqc
 		{
 			label = "CQC";
+		};
+		class eod
+		{
+			label = "EOD";
+		};
+		class eodua
+		{
+			label = "EOD [UA]";
 		};
 		class eva
 		{
@@ -39,7 +51,11 @@ class 34thPRC_Mjolnir_Shoulders
 		};
 		class mkv
 		{
-			label = "MkV";
+			label = "Mk V";
+		};
+		class mp
+		{
+			label = "MP";
 		};
 		class odst
 		{
@@ -49,6 +65,10 @@ class 34thPRC_Mjolnir_Shoulders
 		{
 			label = "Operator";
 		};
+		class pilot
+		{
+			label = "Pilot";
+		};
 		class recon
 		{
 			label = "Recon";
@@ -56,10 +76,6 @@ class 34thPRC_Mjolnir_Shoulders
 		class scout
 		{
 			label = "Scout";
-		};
-		class security
-		{
-			label = "Security";
 		};
 	};
 };
