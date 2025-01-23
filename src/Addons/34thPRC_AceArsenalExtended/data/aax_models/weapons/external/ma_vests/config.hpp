@@ -33,7 +33,7 @@ class MA_Marine_Pouches
 	};
 	class style
 	{
-		label = "Style"
+		label = "Style";
 		alwaysSelectable = 1;
 		changeingame = 0;
 		values[]= {"base", "light", "medium", "heavy"};
@@ -62,23 +62,23 @@ class MA_Marine_Pouches
 		values[]={"a", "b", "c", "d", "zero"};
 		class a
 		{
-			label = "A"
+			label = "A";
 		};
 		class b
 		{
-			label = "B"
+			label = "B";
 		};
 		class c
 		{
-			label = "C"
+			label = "C";
 		};
 		class d
 		{
-			label = "D"
+			label = "D";
 		};
 		class zero
 		{
-			label = "Pouchless"
+			label = "Pouchless";
 		};
 	};
 };

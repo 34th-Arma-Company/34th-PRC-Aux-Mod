@@ -78,12 +78,12 @@ class OPTRE_NVG
 		class hul3
 		{
 			label = "HUL 3"
-			description = "Hardened Uplink Module Gen 3"
+			description = "Hardened Uplink Module Gen 3";
 		};
 		class hul3g
 		{
 			label = "HUL 3(G)"
-			description = "Hardened Uplink Module Gen 3 (Gray)"
+			description = "Hardened Uplink Module Gen 3 (Gray)";
 		};
 
 	};

@@ -8,7 +8,7 @@ class DMNS_M511_Springbok_base : Car_F // DMNS_Vehicles_M511_Springbok
 	tf_isolatedAmount=0.4;
 	tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
 	tf_hasLRradio=1;
-	tfar_hasIntercom = 1
+	tfar_hasIntercom = 1;
 	TFAR_AdditionalLR_Turret[]={{1}};
 	class ACE_SelfActions // Normally you'd inherit from the previous version's but apparently we are the first to define it
 	{
