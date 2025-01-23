@@ -186,7 +186,7 @@ class 34thPRC_ArmourStandard_EOD_Helmet_Urban
 		};
 		class jfo
 		{
-			label="JFO"
+			label="JFO";
 		};
 		class cqc
 		{

@@ -141,8 +141,8 @@ class RscDisplayLoading
 					y="SafeZoneY";
 					h="SafeZoneH";
 					w="SafeZoneW";
-					text="\34thPRC_LoadingScreens\data\loading9.jpg"
-				}
+					text="\34thPRC_LoadingScreens\data\loading9.jpg";
+				};
 			};
 		};
 		class Loading_East1: LoadingOne
