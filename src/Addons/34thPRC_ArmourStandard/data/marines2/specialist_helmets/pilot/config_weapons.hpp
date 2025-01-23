@@ -2,7 +2,7 @@ class 34thPRC_ArmourStandard_Pilot_Helmet_Urban : 34thPRC_ArmourStandard_Marines
 {
 	displayName="[34th] Pilot Helmet Urban";
 	author="Over Yandere";
-	model="MA_Armor\data\Helmets\Pilot\Pilot_Helm.p3d"
+	model="MA_Armor\data\Helmets\Pilot\Pilot_Helm.p3d";
 	hiddenSelections[]=
 	{
 		"Camo1",

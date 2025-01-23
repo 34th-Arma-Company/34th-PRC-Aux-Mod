@@ -21,7 +21,7 @@ class 34thPRC_ArmourStandard_Recon_Helmet_Urban : 34thPRC_ArmourStandard_Marines
 	};
 	class ItemInfo:ItemInfo
 	{
-		uniformModel="MA_Armor\data\Helmets\Recon\Recon_Helmet.p3d"
+		uniformModel="MA_Armor\data\Helmets\Recon\Recon_Helmet.p3d";
 	};
 };
 class 34thPRC_ArmourStandard_Recon_Helmet_Arid : 34thPRC_ArmourStandard_Recon_Helmet_Urban
