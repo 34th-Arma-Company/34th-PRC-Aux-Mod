@@ -9,7 +9,7 @@ class CfgPatches
 			"34thPRC_ArmourCustom", // 34th PRC Aux Mod
 			"aceax_gearinfo", // Ace Arsenal Extended
 			"OPTRE_UNSC_Units", // [DEV] Operation Trebuchet
-			"SOE", "zabb", "zabb2", "BHD", "UACAP", "USNS", "winter", //TAC-VESTS
+			"TAC_VESTS_S", "TAC_VESTS", "TAC_VESTS_Z2", "TAC_VESTS_B", "ua_cap_tryk", "TAC_VESTS_US", "TAC_VESTS_W", //TAC-VESTS
 		};
 		skipWhenMissingDependencies = 1;
 	};
