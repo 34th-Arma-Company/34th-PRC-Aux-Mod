@@ -1,11 +1,11 @@
 class 34thPRC_ArmourCustom_ODST2_Luther_JFO_Custom_Urban : 34thPRC_ArmourStandard_JFO_Helmet_Urban
 {
-	displayName="[34th] JFO Urban 'Luther'";
+	displayName="[34th] JFO Urban 'Luther' (Custom Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\luther\urban\jfo_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\mkvb\JFO\Visor\34_JFO_Helmet_Visor_Gold.paa"
+		"34thPRC_ArmourCustom\data\odst2\luther\jfo_visor_custom.paa"
 	};
 	class XtdGearInfo
 	{
@@ -13,6 +13,6 @@ class 34thPRC_ArmourCustom_ODST2_Luther_JFO_Custom_Urban : 34thPRC_ArmourStandar
 		player="luther";
 		helmet="jfo";
 		camo="urban";
-		visor="default";
+		visor="custom";
 	};
 };
