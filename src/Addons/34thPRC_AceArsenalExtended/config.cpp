@@ -10,6 +10,7 @@ class CfgPatches
 			"aceax_gearinfo", // Ace Arsenal Extended
 			"OPTRE_UNSC_Units", // [DEV] Operation Trebuchet
 			"TAC_VESTS_S", "TAC_VESTS", "TAC_VESTS_Z2", "TAC_VESTS_B", "ua_cap_tryk", "TAC_VESTS_US", "TAC_VESTS_W", //TAC-VESTS
+			"Kio_Balaclava", "US_ESS_Glasses_tryk", "maa_Uniform", "TRYK_Shemaghs", "TRYK_BackPack", "MULTIPLAY_Uniform", "TRYK_Uniform", //Multi-play Uniforms
 		};
 		skipWhenMissingDependencies = 1;
 	};

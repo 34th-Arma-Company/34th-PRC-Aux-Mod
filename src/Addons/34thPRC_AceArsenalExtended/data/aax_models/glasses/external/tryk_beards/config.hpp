@@ -1,7 +1,7 @@
-class TRYK_Beard
+class TRYK_Beards
 {
 	label = "[TRYK] Beards";
-	author = "Tryk";
+	author = "Zabb";
 	options[] = {"length", "color", "style"};
 	class length
 	{
