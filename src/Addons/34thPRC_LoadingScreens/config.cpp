@@ -4,6 +4,13 @@ class CfgPatches
 	{
 		author="34th PRC Modding Team";
 		units[]={};
+		requiredAddons[]= {};
+	};
+	class 34thPRC_LoadingScreens_1stMEU_Override
+	{
+		author="34th PRC Modding Team";
+		units[]={};
+		skipifmissingdependency=1;
 		requiredAddons[]=
 		{
 			"1st_MEU_patch_main"
