@@ -1,6 +1,7 @@
-# About
+<!--
 I reccomend viewing this document with the extension Markdown Preview Enhanced (https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced). Once installed to VS Code you can see a html preview by clicking the pane on the right side of VS Code that looks like an open book with a magnifying glass.
 
+-->
 # Config Editing Tutorial 1
 This tutorial will take you through much of what is used in reskins and model swaps
 
