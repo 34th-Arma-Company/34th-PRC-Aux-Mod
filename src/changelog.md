@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Added
 - Luther Custom JFO helmet
+- 34th IHADSS Helmet
 
 ## 0.22.0
 ### Added
