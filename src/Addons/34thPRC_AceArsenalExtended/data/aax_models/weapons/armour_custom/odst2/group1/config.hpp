@@ -89,7 +89,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban
 };
 
 
-//Custom ODST Helmets Group 1: Yandere, Ambrose, Shewolf
+//Custom ODST Helmets Group 1: Yandere, Ambrose, Shewolf, Vasya
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban
 {
 	label = "[34thPRC] ODST CH252D Custom Helmets";
@@ -99,7 +99,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban
 	{
 		alwaysSelectable= 1;
 		changeingame =0;
-		values[]= {"yandere","ambrose","shewolf"};
+		values[]= {"yandere","ambrose","shewolf", "vasya"};
 		class yandere
 		{
 			label = "Yandere";
@@ -111,6 +111,10 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban
 		class shewolf
 		{
 			label = "Shewolf";
+		};
+		class vasya
+		{
+			label="Vasya";
 		};
 	};
 	class camo
@@ -163,7 +167,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban
 	};
 };
 
-//Custom ODST Specialist Helmets Helmets Group 1: Cappy
+//Custom ODST Specialist Helmets Helmets Group 1: Cappy, Yandere, Luther
 class 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban
 {
 	label="[34thPRC] Specialist Helmets Custom";
@@ -174,7 +178,7 @@ class 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban
 		alwaysSelectable=1;
 		changeingame=0;
 		label="Player";
-		values[] = {"cappy", "yandere"};
+		values[] = {"cappy", "yandere", "luther"};
 		class cappy
 		{
 			label="Cappy";
@@ -182,6 +186,10 @@ class 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban
 		class yandere
 		{
 			label="Yandere";
+		};
+		class luther
+		{
+			label="Luther";
 		};
 	};
 	class helmet

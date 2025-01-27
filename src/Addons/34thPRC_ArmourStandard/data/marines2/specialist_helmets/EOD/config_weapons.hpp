@@ -95,7 +95,7 @@ class 34thPRC_ArmourStandard_EOD_CBRN_NVG_Urban : MA_EOD_CBRN_Attachment_NVG
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\EOD\cbrn\34th_eod_cbrn_urban.paa";
+		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\EOD\cbrn\34th_eod_cbrn_urban.paa",
 	};
 	visionMode[]=
 	{
@@ -115,7 +115,7 @@ class 34thPRC_ArmourStandard_EOD_CBRN_NVG_Arid : 34thPRC_ArmourStandard_EOD_CBRN
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\EOD\cbrn\34th_eod_cbrn_arid.paa";
+		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\EOD\cbrn\34th_eod_cbrn_arid.paa",
 	};
 	visionMode[]=
 	{
@@ -135,7 +135,7 @@ class 34thPRC_ArmourStandard_EOD_CBRN_NVG_Arctic : 34thPRC_ArmourStandard_EOD_CB
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\EOD\cbrn\34th_eod_cbrn_arctic.paa";
+		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\EOD\cbrn\34th_eod_cbrn_arctic.paa",
 	};
 	visionMode[]=
 	{
@@ -155,7 +155,7 @@ class 34thPRC_ArmourStandard_EOD_CBRN_NVG_Tropic : 34thPRC_ArmourStandard_EOD_CB
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\EOD\cbrn\34th_eod_cbrn_tropic.paa";
+		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\EOD\cbrn\34th_eod_cbrn_tropic.paa",
 	};
 	visionMode[]=
 	{
@@ -175,7 +175,7 @@ class 34thPRC_ArmourStandard_EOD_CBRN_NVG_Woodland : 34thPRC_ArmourStandard_EOD_
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\EOD\cbrn\34th_eod_cbrn_woodland.paa";
+		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\EOD\cbrn\34th_eod_cbrn_woodland.paa",
 	};
 	visionMode[]=
 	{

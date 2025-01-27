@@ -7,13 +7,34 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 ### Added
+- Luther Custom JFO helmet
+- 34th IHADSS Helmet
+
+## 0.22.0
+### Added
+- Vasya Custom Helmet
+- ACE Arsenal Extended Support added:
+  - Misriah Armory Marine Pouches
+  - OPTRE NVGs
+  - Misriah Armory NVGs
+  - 34th PRC MkV B Shoulders
+  - 34th PRC MkV B Helmets
+- Version checking
+- Loading screen messages
+
+## 0.21.0
+### Added
 - Ambrose Custom Armour
-- Grenadier for Marines/ODSTs
-- Scout for marines /ODSTs
+- Grenadier for Marines / ODSTs
+- Scout for marines / ODSTs
 - Shewolf Custom Helmet
+- Pilot Helmet for marines / ODSTs
+- Recon Helmet for marines / ODSTs
 ### Updated
 - All Spartan shoulders have gunbags
-- Added black hot and white hot thermal modes to UNSC Marksma's Visual Interface and all MVI tagged NVGs
+- Added black hot and white hot thermal modes to UNSC Marksman's Visual Interface and all MVI tagged NVGs
+- Shortened all Marine Cross Branch BDU uniform display names to BDU to fit better on screen
+- Fixed some names on Jade's custom armour, was 'Demo Player' in some places
 
 ## 0.20.0
 ### Added

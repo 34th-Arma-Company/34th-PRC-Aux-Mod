@@ -7,7 +7,8 @@ class CfgPatches
 		requiredAddons[] = {
 			"34thPRC_ArmourStandard", // 34th PRC Aux Mod
 			"34thPRC_ArmourCustom", // 34th PRC Aux Mod
-			"aceax_gearinfo" // Ace Arsenal Extended
+			"aceax_gearinfo", // Ace Arsenal Extended
+			"OPTRE_UNSC_Units", // [DEV] Operation Trebuchet
 		};
 		skipWhenMissingDependencies = 1;
 	};

@@ -52,7 +52,7 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy: MA_Marine_Heavy_BDU
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa"
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_NS: MA_Marine_NS_BDU
+class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_NoShoulder : MA_Marine_NS_BDU
 {
 	scope=1;
 	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Urban_NS";
@@ -178,10 +178,10 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Heavy: MA_Marine_Heavy_
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa"
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_NS: 34thPRC_ArmourStandard_Marines2_Trooper_Urban_NS
+class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_NoShoulder : 34thPRC_ArmourStandard_Marines2_Trooper_Urban_NoShoulder
 {
 	scope=1;
-	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_NS";
+	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_NoShoulder";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\urban\Blue_UpperBDU.paa",
