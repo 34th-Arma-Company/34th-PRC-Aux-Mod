@@ -8,7 +8,8 @@ This tutorial will take you through much of what is used in reskins and model sw
 ### Defining Your Object
 ```c++
 /*The below code line defines our new object's (helmet's) internal name and tells ARMA via inheritance ':' that it is taking on the settings of our standard marine helm.
-This is done here because want the armor values of our marine helmet.*/
+This is done here because we want the armor values of our marine helmet.*/
+
 class 34thPRC_ArmourStandard_Commando_Helmet_Urban : 34thPRC_ArmourStandard_Marines2_CH252_Urban
 ```
 ### Basic Object Detials
