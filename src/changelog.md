@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+### Added
+- ACE Arsenal Extended Facewear Support Added:
+  - TRYK Beards (Tac-Vests)
+  - TRYK Facewear (Multi-play Uniforms)
+  - MA Facewear
+  - Arma 3 Balaclavas
+  - Arma 3 Bandanas
+  - MA: TGE Balaclavas
 
 ## 0.22.0
 ### Added

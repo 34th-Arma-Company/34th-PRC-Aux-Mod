@@ -83,9 +83,13 @@ class TRYK_facewear
 	class glasses_color
 	{
 		label = "Glasses Color";
-		alwaysSelectable = 0;
+		alwaysSelectable = 1;
 		changeingame = 0;
-		values[] = {"black", "red", "yellow"};
+		values[] = {"none", "black", "red", "yellow"};
+		class none
+		{
+			label = "None";
+		};
 		class black
 		{
 			label = "Black";

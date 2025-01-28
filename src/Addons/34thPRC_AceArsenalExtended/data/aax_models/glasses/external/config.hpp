@@ -1,2 +1,6 @@
 #include "tryk_beards\config.hpp"
 #include "tryk_facewear\config.hpp"
+#include "arma3_balaclava\config.hpp"
+#include "arma3_bandana\config.hpp"
+#include "ma_facewear\config.hpp"
+#include "matge_balaclava\config.hpp"
