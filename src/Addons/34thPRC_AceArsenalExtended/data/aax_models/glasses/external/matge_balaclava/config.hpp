@@ -30,7 +30,7 @@ class MATGE_Balaclava
 		values[] = {"none", "gfrs", "sjb", "sm"};
 		class none
 		{
-			labe = "None";
+			label = "None";
 		};
 		class gfrs
 		{
