@@ -2,11 +2,11 @@ class CfgPatches
 {
 	class 34thPRC_WeaponsStandard
 	{
-		author="34th PRC Modding Team"
+		author="34th PRC Modding Team";
 		requiredAddons[]=
 		{
 			//"34thPRC_MagazinesStandard",
-			"OPTRE_Weapons" //OPTRE
+			"OPTRE_Weapons",  //OPTRE
 		};
 
 	};
