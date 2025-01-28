@@ -16,6 +16,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - MA: TGE Balaclavas
 - Luther Custom JFO helmet
 - 34th IHADSS Helmet
+### Updated
+- Added black hot thermals to HUL Gen 3 variants to make them leadership available
 
 ## 0.22.0
 ### Added
