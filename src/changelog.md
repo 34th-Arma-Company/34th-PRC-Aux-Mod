@@ -16,6 +16,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - MA: TGE Balaclavas
 - Luther Custom JFO helmet
 - 34th IHADSS Helmet
+### Updated
+- Loading screens PBO should still load after other loading screen mods while not having a hard dependency on those mods
 
 ## 0.22.0
 ### Added
