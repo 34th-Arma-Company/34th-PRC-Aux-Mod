@@ -1,49 +1,10 @@
-/*class CfgPatches
+class DMNS_M96_LAW;
+class TCF_M96_LAW: DMNS_M96_LAW
 {
-	class 34thPRC_Overrides_M96_Law
-	{
-		//dlc="34thPRC";
-		addonRootClass="34PRC_Overrides";
-		units[]={};
-		weapons[]=
-		{
-			"34th_M96_LAW",
-		};
-		//requiredVersion=0.1;
-		requiredAddons[]=
-		{
-			"A3_Weapons_F",
-			"A3_Weapons_F_Exp",
-			"TCF_WEAPONRY",
-		};
-		author="DemonicOnPc";
-		magazines[]={};
-	};
-};*/
-class TCF_M96_LAW; //TCF Weaponry PBO
-class ACE_TCF_M96_LAW_ready_F; //TCF Weaponry PBO
-class DMNS_M96_LAW; //UNSC Foundries Weapons
-// Community Base Addons
-class CBA_DisposableLaunchers
-{
-	ACE_34th_M96_LAW_Ready_F[]=
-	{
-		"34th_M96_LAW",
-		"ACE_34th_M96_LAW_Ready_F"
-	};
-};
-class 34th_M96_LAW: TCF_M96_LAW
-{
-	author="DemonicOnPc";
-	scope=2;
-	scopeArsenal=2;
-	baseWeapon="34th_M96_LAW";
-	displayName="M96 LAW MK VI[B]";
 	model="DMNS\Weapons\Launchers\DMNS_M96_LAW_loaded.p3d";
 	uniformModel="DMNS\Weapons\Launchers\DMNS_M96_LAW_loaded.p3d";
 	picture="\DMNS\Weapons\Launchers\Data\Law_Icon.paa";
 	UiPicture="\DMNS\Weapons\Launchers\Data\Law_Icon.paa";
-	maxZeroing=500;
 	class WeaponSlotsInfo: WeaponSlotsInfo
 	{
 		class CowsSlot: CowsSlot
@@ -66,40 +27,77 @@ class 34th_M96_LAW: TCF_M96_LAW
 			};
 			iconPosition[]={0.5,0.30000001};
 		};
-		mass=145;
 	};
-};
-class ACE_34th_M96_LAW_Ready_F: 34th_M96_LAW
-{
-	author="DemonicOnPc";
-	scope=1;
-	scopeArsenal=1;
-	baseWeapon="34th_M96_LAW";
-	magazines[]=
+}
+class ACE_TCF_M96_LAW_used_F: TCF_M96_LAW
 	{
-		"TCF_M96_HEAT"
+		author="DemonicOnPc";
+		scope=1;
+		scopeArsenal=1;
+		baseWeapon="TCF_M96_LAW";
+		model="DMNS\Weapons\Launchers\DMNS_M96_LAW_loaded.p3d";
+		uniformModel="DMNS\Weapons\Launchers\DMNS_M96_LAW_used.p3d";
+		picture="\DMNS\Weapons\Launchers\Data\Law_Icon.paa";
+		UiPicture="\DMNS\Weapons\Launchers\Data\Law_Icon.paa";
+		displayName="M96 LAW - Mk VI (Used)";
+		descriptionShort="A used up M96 LAW - Mk VI launcher";
+		weaponPoolAvailable=0;
+		class WeaponSlotsInfo: WeaponSlotsInfo
+		{
+			mass=55;
+		};
 	};
-	class EventHandlers
+class ACE_TCF_M96_LAW_Blk_used_F: TCF_M96_LAW
 	{
-		fired="_this call CBA_fnc_firedDisposable";
+		author="DemonicOnPc";
+		scope=1;
+		scopeArsenal=1;
+		baseWeapon="TCF_M96_LAW_Blk";
+		model="DMNS\Weapons\Launchers\DMNS_M96_LAW_loaded.p3d";
+		uniformModel="DMNS\Weapons\Launchers\DMNS_M96_LAW_used.p3d";
+		picture="\DMNS\Weapons\Launchers\Data\Law_Icon.paa";
+		UiPicture="\DMNS\Weapons\Launchers\Data\Law_Icon.paa";
+		displayName="M96 LAW - Mk VI (Used)";
+		descriptionShort="A used up M96 LAW - Mk VI launcher";
+		weaponPoolAvailable=0;
+		class WeaponSlotsInfo: WeaponSlotsInfo
+		{
+			mass=55;
+		};
 	};
-	class WeaponSlotsInfo: WeaponSlotsInfo
+class ACE_TCF_M96_LAW_Arc_used_F: TCF_M96_LAW
 	{
-		mass=55;
+		author="DemonicOnPc";
+		scope=1;
+		scopeArsenal=1;
+		baseWeapon="TCF_M96_LAW_Arc";
+		model="DMNS\Weapons\Launchers\DMNS_M96_LAW_loaded.p3d";
+		uniformModel="DMNS\Weapons\Launchers\DMNS_M96_LAW_used.p3d";
+		picture="\DMNS\Weapons\Launchers\Data\Law_Icon.paa";
+		UiPicture="\DMNS\Weapons\Launchers\Data\Law_Icon.paa";
+		displayName="M96 LAW - Mk VI (Used)";
+		descriptionShort="A used up M96 LAW - Mk VI launcher";
+		weaponPoolAvailable=0;
+		class WeaponSlotsInfo: WeaponSlotsInfo
+		{
+			mass=55;
+		};
 	};
-};
-class ACE_34th_M96_LAW_Used_F: 34th_M96_LAW
-{
-	author="DemonicOnPc";
-	scope=1;
-	scopeArsenal=1;
-	baseWeapon="34th_M96_LAW";
-	model="DMNS\Weapons\Launchers\DMNS_M96_LAW_Used.p3d";
-	displayName="M96 LAW - Mk VI[B] (Used)";
-	descriptionShort="A used up M96 LAW - Mk VI launcher";
-	weaponPoolAvailable=0;
-	class WeaponSlotsInfo: WeaponSlotsInfo
+class ACE_TCF_M96_LAW_Des_used_F: TCF_M96_LAW
 	{
-		mass=55;
+		author="DemonicOnPc";
+		scope=1;
+		scopeArsenal=1;
+		baseWeapon="TCF_M96_LAW_Des";
+		model="DMNS\Weapons\Launchers\DMNS_M96_LAW_loaded.p3d";
+		uniformModel="DMNS\Weapons\Launchers\DMNS_M96_LAW_used.p3d";
+		picture="\DMNS\Weapons\Launchers\Data\Law_Icon.paa";
+		UiPicture="\DMNS\Weapons\Launchers\Data\Law_Icon.paa";
+		displayName="M96 LAW - Mk VI (Used)";
+		descriptionShort="A used up M96 LAW - Mk VI launcher";
+		weaponPoolAvailable=0;
+		class WeaponSlotsInfo: WeaponSlotsInfo
+		{
+			mass=55;
+		};
 	};
-};
