@@ -7,7 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 ### Added
+- ACE Arsenal Extended Facewear Support Added:
+  - TRYK Beards (Tac-Vests)
+  - TRYK Facewear (Multi-play Uniforms)
+  - MA Facewear
+  - Arma 3 Balaclavas
+  - Arma 3 Bandanas
+  - MA: TGE Balaclavas
 - Luther Custom JFO helmet
+- 34th IHADSS Helmet
+### Remove
+- Dependency on 1st MEU in places
 
 ## 0.22.0
 ### Added

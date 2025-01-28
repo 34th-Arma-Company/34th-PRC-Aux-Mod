@@ -9,7 +9,8 @@ class CfgPatches
 			"A3_Characters_F", // Vanilla
 			"A3_Characters_F_EPB", // Vanilla
 			"MA_Armor",	// Misriah Armory
-			"34thPRC_Overrides" // 34th PRC Aux Mod
+			"34thPRC_Overrides", // 34th PRC Aux Mod
+			"DMNS_Units", //UNSC Foundries
 		};
 	};
 };

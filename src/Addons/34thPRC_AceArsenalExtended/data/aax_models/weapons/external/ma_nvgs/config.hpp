@@ -27,7 +27,7 @@ class MA_NVG
 		{
 			label = "Camera";
 		};
-		class c0m
+		class cm
 		{
 			label = "COM";
 			description = "Command Module";
@@ -84,7 +84,7 @@ class MA_NVG
 		};
 		class cm
 		{
-			label = "CM";
+			label = "COM";
 			description = "Command Module";
 		};
 		class sens
