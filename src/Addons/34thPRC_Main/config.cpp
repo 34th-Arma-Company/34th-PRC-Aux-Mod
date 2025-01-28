@@ -16,6 +16,6 @@ class CfgPatches
 			"34thPRC_Overrides",
 			"34thPRC_Vehicles",
 		};
-		version = "0.21.0"; //Update to match changelog version on release
+		version = "0.23.0"; //Update to match changelog version on release
 	};
 };
