@@ -167,7 +167,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban
 	};
 };
 
-//Custom ODST Specialist Helmets Helmets Group 1: Cappy
+//Custom ODST Specialist Helmets Helmets Group 1: Cappy, Yandere, Luther
 class 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban
 {
 	label="[34thPRC] Specialist Helmets Custom";
@@ -178,7 +178,7 @@ class 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban
 		alwaysSelectable=1;
 		changeingame=0;
 		label="Player";
-		values[] = {"cappy", "yandere"};
+		values[] = {"cappy", "yandere", "luther"};
 		class cappy
 		{
 			label="Cappy";
@@ -186,6 +186,10 @@ class 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban
 		class yandere
 		{
 			label="Yandere";
+		};
+		class luther
+		{
+			label="Luther";
 		};
 	};
 	class helmet

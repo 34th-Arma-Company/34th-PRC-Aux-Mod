@@ -1,3 +1,10 @@
+*.pbo
+.hemttout
+hemtt
+hemtt.exe
+*.biprivatekey
+
 .vscode
 build-config.json
 build/
+meta/tools/hemtt/
