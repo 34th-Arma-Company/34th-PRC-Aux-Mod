@@ -20,7 +20,6 @@ class CfgPatches
 			"19thMD_Vests_Kelp", // UNSC Foundries
 			"PhoenixSystems_Exosuits", // E.P.S.M ExoMod Remastered
 			"NSWep_Weapons", //UNSC Naval Special Weapons
-			"1st_MEU_patch_weapons", //1st MEU
 		};
 	};
 };
