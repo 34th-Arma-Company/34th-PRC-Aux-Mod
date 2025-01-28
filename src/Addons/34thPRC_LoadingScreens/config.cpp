@@ -4,23 +4,6 @@ class CfgPatches
 	{
 		author="34th PRC Modding Team";
 		units[]={};
-		requiredAddons[]= {};
-	};
-	class 34thPRC_LoadingScreens_1stMeu_Override
-	{
-		author="34th PRC Modding Team";
-		units[]={};
-		skipifmissingdependency=1;
-		requiredAddons[]=
-		{
-			"1st_MEU_patch_main"
-		};
-	};
-	class 34thPRC_LoadingScreens_UnscFoundries_Override
-	{
-		author="34th PRC Modding Team";
-		units[]={};
-		skipifmissingdependency=1;
 		requiredAddons[]=
 		{
 			"19th_Fleet_Armor"
