@@ -110,3 +110,10 @@ class MA_ODST_NVG_Lead
 	topattach = "nods";
 	rightattach = "com";
 };
+class MA_ODST_NVG_Diver
+{
+	model = "MA_NVG";
+	leftattach = "cam";
+	topattach = "rbr";
+	rightattach = "sens";
+};
