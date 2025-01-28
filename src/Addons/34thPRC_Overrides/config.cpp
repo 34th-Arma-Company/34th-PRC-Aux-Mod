@@ -21,6 +21,7 @@ class CfgPatches
 			"PhoenixSystems_Exosuits", // E.P.S.M ExoMod Remastered
 			"NSWep_Weapons", //UNSC Naval Special Weapons
 			"1st_MEU_patch_weapons", //1st MEU
+			"TCF_WEAPONRY", "TCF_Weapons_Launchers"
 		};
 	};
 };
