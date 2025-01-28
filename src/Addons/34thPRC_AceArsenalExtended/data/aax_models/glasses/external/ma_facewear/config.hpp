@@ -1,6 +1,6 @@
-class MA_NVG
+class MA_Facewear
 {
-	label = "[MA] NVGs";
+	label = "[MA] Facewear";
 	author = "Misriah Armory";
 	options[] = {"leftattach", "topattach", "rightattach"};
 	class leftattach
@@ -8,20 +8,10 @@ class MA_NVG
 		label = "Left Attachment";
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[] = {"none", "cnm", "hurs", "cam", "cm", "sens"};
+		values[] = {"none", "cam", "cm", "sens"};
 		class none
 		{
 			label = "None";
-		};
-		class cnm
-		{
-			label = "CNM";
-			description = "Command Network Module";
-		};
-		class hurs
-		{
-			label = "HURS";
-			description = "Hardened Uplink/Remote Sensor";
 		};
 		class cam
 		{
@@ -63,20 +53,10 @@ class MA_NVG
 		label = "Right Attachment";
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[] = {"none", "cnm", "hurs", "cam", "cm", "sens"};
+		values[] = {"none", "cam", "cm", "sens"};
 		class none
 		{
 			label = "None";
-		};
-		class cnm
-		{
-			label = "CNM";
-			description = "Command Network Module";
-		};
-		class hurs
-		{
-			label = "HURS";
-			description = "Hardened Uplink/Remote Sensor";
 		};
 		class cam
 		{
