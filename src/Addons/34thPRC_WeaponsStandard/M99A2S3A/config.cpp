@@ -53,37 +53,51 @@ class CfgMagazines
 			fuse_distance_random_max=5;
 			fuse_distance_max=3000;
 			fuse_distance_min=50;
+			fuse_explosioon="Airburst_Grenade_Explosion";
 		};
 		displayName="Programmable Airburst";
 		displaynameshort="3P Airburst";
+		ammo="34thPRC_3P_Ammo";
 		count=10;
 		initspeed=500;
 	};
 };
 class CfgAmmo
 {
+	class OPTRE_B_20mm_APFSDS;
+	class 34thPRC_3P_Ammo: OPTRE_B_20mm_APFSDS
+	{
+		caliber=1;
+		ACE_caliber=5.6900001;
+		ACE_bulletMass=4.0176001;
+		ACE_bulletLength=23.011999;
+		hit=55;
+		indirectHit=15;
+		indirectHitRange=4;
+		explosive=1;
+	};
 	class HelicopterExploSmall;
 	class Airburst_Grenade_Explosion : HelicopterExploSmall
 	{
-hit=80;
-		indirectHit=8;
-		indirectHitRange=6;
+		hit=35;
+		indirectHit=50;
+		indirectHitRange=7;
 		model="OPTRE_weapons\gl\mag_he.p3d";
-		ACE_damageType="grenade";
 		ace_frag_enabled=1;
-		ace_frag_metal=600;
-		ace_frag_charge=60;
-		ace_frag_gurney_c=2700;
+		ace_frag_metal=10000;
+		ace_frag_charge=1000;
+		ace_frag_gurney_c=5000;
 		ace_frag_gurney_k="3/5";
 		ace_frag_classes[]=
 		{
-			"ace_frag_small_HD"
+			"ACE_frag_medium_HD"
 		};
 		ace_frag_skip=0;
 		ace_frag_force=1;
 		dangerRadiusHit=50;
 		deflecting=-3;
 		deflectionSlowDown=10;
+		explosionEffectsRadius=1.5;
 		explosionSoundEffect="DefaultExplosion";
 		soundHit1[]=
 		{
@@ -124,6 +138,7 @@ hit=80;
 			"soundHit4",
 			0.25
 		};
+		ACE_damageType="explosive";
 		CraterEffects="GrenadeCrater";
 		CraterWaterEffects="ImpactEffectsWaterExplosion";
 		explosionType="explosive";
