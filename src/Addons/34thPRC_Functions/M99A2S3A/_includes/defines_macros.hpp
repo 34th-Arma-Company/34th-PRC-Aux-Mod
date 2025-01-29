@@ -3,7 +3,7 @@
 	#define MACRO_AUTHOR "3thPRC Modding Team"
 	#define MACRO_MODNAME 34thPRC
 	#define MACRO_MODNAME_SCRIPT aux_34thPRC
-	 #define MACRO_MOD_DISPLAY_TAG [34th]
+	#define MACRO_MOD_DISPLAY_TAG [34th]
 
 // ============================================================================== End Configuration
 
