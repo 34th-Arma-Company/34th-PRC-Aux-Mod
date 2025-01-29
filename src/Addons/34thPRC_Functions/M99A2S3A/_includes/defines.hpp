@@ -214,15 +214,15 @@ class RscButton
 };
 class RscBox
 {
-    type = CT_STATIC;
-    idc = -1;
-    style = ST_CENTER;
-    shadow = 2;
-    colorText[] = {1,1,1,1};
-    font = "TahomaB";
-    sizeEx = 0.02;
-    colorBackground[] = { 0.5,0.7,0.2, 0.9 };
-    text = "";
+	type = CT_STATIC;
+	idc = -1;
+	style = ST_CENTER;
+	shadow = 2;
+	colorText[] = {1,1,1,1};
+	font = "TahomaB";
+	sizeEx = 0.02;
+	colorBackground[] = { 0.5,0.7,0.2, 0.9 };
+	text = "";
 
 };
 class RscFrame

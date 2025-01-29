@@ -1,11 +1,11 @@
 class 34thPRC_airburst_set_fuse_distance_ui
 {
-    idd = 10846;
-    movingenable = true;
+	idd = 10846;
+	movingenable = true;
 	//onLoad = "uiNamespace setVariable ['MIL_fuseSetting_HE',_this select 0];[] spawn MIL_fnc_fuseSetting_updater;";
 	onLoad = MACRO_QUOTE(_this call MACRO_FNC_NAME(airburst_onload));
-    class Controls
-    {
+	class Controls
+	{
 		class Menu_Background: RscPicture
 		{
 			idc = 100;
