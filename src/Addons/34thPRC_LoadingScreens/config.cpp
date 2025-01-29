@@ -6,7 +6,7 @@ class CfgPatches
 		units[]={};
 		requiredAddons[]=
 		{
-			"1st_MEU_patch_main"
+			"19th_Fleet_Armor"
 		};
 	};
 };
