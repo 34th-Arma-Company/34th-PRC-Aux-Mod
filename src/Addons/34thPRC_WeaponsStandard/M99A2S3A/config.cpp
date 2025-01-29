@@ -20,11 +20,6 @@ class M99A2S3A_Properties_Defualt
 };
 class CfgWeapons
 {
-	/*class OPTRE_LongRifle_Base;
-	class OPTRE_M99A2S3 : OPTRE_LongRifle_Base
-	{
-		class Single;
-	};*/
 	class OPTRE_M99A2S3;
 	class Single;
 	class 34thPRC_M99A2S3A : OPTRE_M99A2S3
