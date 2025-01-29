@@ -23,7 +23,6 @@ class CfgPatches
 			"NSWep_Weapons", //UNSC Naval Special Weapons
 			"1st_MEU_patch_weapons", //1st MEU
 			"TCF_WEAPONRY", //The Carver Findings
-			"TCF_Weapons_Launchers" //The Carver Findings
 		};
 	};
 };
