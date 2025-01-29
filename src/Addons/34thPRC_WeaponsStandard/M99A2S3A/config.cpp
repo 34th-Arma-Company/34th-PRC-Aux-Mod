@@ -65,18 +65,19 @@ class CfgAmmo
 	class HelicopterExploSmall;
 	class Airburst_Grenade_Explosion : HelicopterExploSmall
 	{
-		hit=35;
-		indirectHit=50;
-		indirectHitRange=7;
+hit=80;
+		indirectHit=8;
+		indirectHitRange=6;
 		model="OPTRE_weapons\gl\mag_he.p3d";
+		ACE_damageType="grenade";
 		ace_frag_enabled=1;
-		ace_frag_metal=10000;
-		ace_frag_charge=1000;
-		ace_frag_gurney_c=5000;
+		ace_frag_metal=600;
+		ace_frag_charge=60;
+		ace_frag_gurney_c=2700;
 		ace_frag_gurney_k="3/5";
 		ace_frag_classes[]=
 		{
-			"ACE_frag_medium_HD"
+			"ace_frag_small_HD"
 		};
 		ace_frag_skip=0;
 		ace_frag_force=1;
@@ -123,7 +124,6 @@ class CfgAmmo
 			"soundHit4",
 			0.25
 		};
-		ACE_damageType="explosive";
 		CraterEffects="GrenadeCrater";
 		CraterWaterEffects="ImpactEffectsWaterExplosion";
 		explosionType="explosive";

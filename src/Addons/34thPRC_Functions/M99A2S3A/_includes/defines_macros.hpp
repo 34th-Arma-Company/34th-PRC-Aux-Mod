@@ -10,7 +10,7 @@
 	//#define MACRO_HELMET_TEXTURES_PATH \TODO\_textures
 
 
-	#define MACRO_SCRIPT_ROOT_PATH 1st_meu_main\functions
+	//#define MACRO_SCRIPT_ROOT_PATH 1st_meu_main\functions
 // ============================================================================== End Configuration
 
 // ============================================================================== Macro Functions
