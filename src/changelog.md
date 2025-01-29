@@ -16,6 +16,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - MA: TGE Balaclavas
 - Luther Custom JFO helmet
 - 34th IHADSS Helmet
+### Updated
+- TCF M96 LAW now uses the UNSC Foundries M96 LAW MK VI model
+- TCF M96 LAW now has access to some of the optics avalible on the UNSC Foundries M96 LAW MK VI
 
 ## 0.22.0
 ### Added
