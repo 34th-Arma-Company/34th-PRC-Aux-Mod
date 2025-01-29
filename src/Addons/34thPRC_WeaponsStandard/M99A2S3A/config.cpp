@@ -20,11 +20,13 @@ class M99A2S3A_Properties_Defualt
 };
 class CfgWeapons
 {
-	class OPTRE_LongRifle_Base;
+	/*class OPTRE_LongRifle_Base;
 	class OPTRE_M99A2S3 : OPTRE_LongRifle_Base
 	{
 		class Single;
-	};
+	};*/
+	class OPTRE_M99A2S3;
+	class Single;
 	class 34thPRC_M99A2S3A : OPTRE_M99A2S3
 	{
 		baseWeapon="34thPRC_M99A2S3A";
@@ -55,11 +57,13 @@ class CfgMagazines
 			fuse_distance_min=50;
 			fuse_explosioon="Airburst_Grenade_Explosion";
 		};
-		displayName="Programmable Airburst";
+		displayName="10rnd Programmable Airburst";
 		displaynameshort="3P Airburst";
+		descriptionShort="10 round magazine with programmable explosive tipped bullets";
 		ammo="34thPRC_3P_Ammo";
 		count=10;
 		initspeed=500;
+		lastRoundsTracer=10;
 	};
 };
 class CfgAmmo
