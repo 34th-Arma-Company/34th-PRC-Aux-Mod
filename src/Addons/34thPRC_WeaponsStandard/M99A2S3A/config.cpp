@@ -27,8 +27,8 @@ class CfgWeapons
 	};
 	class 34thPRC_M99A2S3A : OPTRE_M99A2S3
 	{
-		baseWeapon="34thPRC_M99A2S3AB";
-		displayName="[34th] M99A2S3AB 'Stanchion Airbusrt'";
+		baseWeapon="34thPRC_M99A2S3A";
+		displayName="[34th] M99A2S3A 'Stanchion Airbusrt'";
 		magazines[]=
 		{
 			"34th_M99A2S3A_mag",

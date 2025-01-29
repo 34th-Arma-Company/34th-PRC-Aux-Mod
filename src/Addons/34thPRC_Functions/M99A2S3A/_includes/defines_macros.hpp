@@ -1,16 +1,10 @@
 // ============================================================================== Configuration
 
 	#define MACRO_AUTHOR "3thPRC Modding Team"
-	//#define MACRO_AUTHOR_PPL "Namenai n Friends"
 	#define MACRO_MODNAME 34thPRC
 	#define MACRO_MODNAME_SCRIPT aux_34thPRC
-	//#define MACRO_MOD_VERSION 22.3.26a
     #define MACRO_MOD_DISPLAY_TAG [34th]
 
-	//#define MACRO_HELMET_TEXTURES_PATH \TODO\_textures
-
-
-	//#define MACRO_SCRIPT_ROOT_PATH 1st_meu_main\functions
 // ============================================================================== End Configuration
 
 // ============================================================================== Macro Functions
@@ -31,10 +25,6 @@
 	#define MACRO_VAR_NAME(varName) MACRO_UNDERSCORE_CONCAT(MACRO_UNDERSCORE_CONCAT(MACRO_MODNAME_SCRIPT,var),varName)
 	#define MACRO_EVENT_NAME(varName) MACRO_UNDERSCORE_CONCAT(MACRO_UNDERSCORE_CONCAT(MACRO_MODNAME_SCRIPT,event),varName)
 	#define MACRO_CLASSNAME(NAME) MACRO_UNDERSCORE_CONCAT(MACRO_MODNAME,NAME)
-
-
-	//displaynames TODO
-	//#define MACRO_MEDICAL_ITEM_DISPLAYNAME(name) MACRO_MOD_DISPLAY_TAG name;
 
 	// Mag counts
 		#define MACRO_MAG_x1(mag)  MACRO_QUOTE(mag)
