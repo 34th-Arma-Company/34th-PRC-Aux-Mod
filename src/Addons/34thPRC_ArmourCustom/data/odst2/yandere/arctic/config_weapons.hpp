@@ -166,6 +166,26 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_JFO_Custom_Arctic : 34thPRC_ArmourCusto
 		visor="custom";
 	};
 };
+//Recon Custom
+class 34thPRC_ArmourCustom_ODST2_Yandere_Recon_Custom_Arctic : 34thPRC_ArmourCustom_ODST2_Yandere_Recon_Custom_Urban
+{
+	displayName="[34th] Recon Arctic 'Yandere' (Custom Visor)";
+	author="Over Yandere";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourCustom\data\odst2\yandere\arctic\recon_helmet_arctic.paa",
+		"34thPRC_ArmourCustom\data\odst2\yandere\visor\yandere_recon_visor.paa"
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban";
+		player="yandere";
+		helmet="recon";
+		camo="arctic";
+		visor="custom";
+	};
+};
+
 
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Arctic : 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban
 {
