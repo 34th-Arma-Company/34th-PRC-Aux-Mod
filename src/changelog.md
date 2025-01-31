@@ -10,6 +10,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Series-9 SOLA Jump-Jet (Halo variant of the Scion Conflict jumppack which includes a Gunbag and Long-Range Radio.)
 ### Updated
 - Added black hot thermals to HUL Gen 3 variants to make them leadership available
+- Yandere Recon Custom Helm
+- Ramirez Custom Marine Helm
+- Conext Custom Marine Helm
 
 ## 0.23.0
 ### Added
