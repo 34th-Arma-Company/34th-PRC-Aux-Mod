@@ -194,6 +194,20 @@ class OPTRE_NVG_UL_HUL
 	topattach = "none";
 	rightattach = "ul";
 };
+class OPTRE_NVG_HUL3
+{
+	model = "OPTRE_NVG";
+	leftattach = "none";
+	topattach = "none";
+	rightattach = "hul3";
+};
+class OPTRE_NVG_HUL3_Gray
+{
+	model = "OPTRE_NVG";
+	leftattach = "none";
+	topattach = "none";
+	rightattach = "hul3g";
+};
 // All config past here for items not in arsenal
 class OPTRE_NVG_UA
 {
@@ -250,20 +264,6 @@ class OPTRE_NVG_UAB_HURS
 	leftattach = "none";
 	topattach = "uab";
 	rightattach = "hurs";
-};
-class OPTRE_NVG_HUL3
-{
-	model = "OPTRE_NVG";
-	leftattach = "none";
-	topattach = "none";
-	rightattach = "hul3";
-};
-class OPTRE_NVG_HUL3_Gray
-{
-	model = "OPTRE_NVG";
-	leftattach = "none";
-	topattach = "none";
-	rightattach = "hul3g";
 };
 //generic included for future additions
 /*

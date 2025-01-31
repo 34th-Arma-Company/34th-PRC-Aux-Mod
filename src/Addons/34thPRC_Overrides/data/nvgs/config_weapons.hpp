@@ -4,3 +4,5 @@
 #include "mvi_ul\config_weapons.hpp"
 #include "mvi_ul_cnm\config_weapons.hpp"
 #include "mvi_ul_hul\config_weapons.hpp"
+#include "hul3\config_weapons.hpp"
+#include "hul3g\config_weapons.hpp"
