@@ -505,7 +505,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_VisorGlasses_Red : 34t
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Light : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Light
 {
-	displayName="[34th] Marine Cross Branch BDU Arid 'Jade' (Light)";
+	displayName="[34th] BDU Arid 'Jade' (Light)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -522,7 +522,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Light : 34thPRC_ArmourCust
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Medium : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Medium
 {
-	displayName="[34th] Marine Cross Branch BDU Arid 'Jade' (Medium)";
+	displayName="[34th] BDU Arid 'Jade' (Medium)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -539,7 +539,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Medium : 34thPRC_ArmourCus
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Heavy : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Heavy
 {
-	displayName="[34th] Marine Cross Branch BDU Arid 'Jade' (Heavy)";
+	displayName="[34th] BDU Arid 'Jade' (Heavy)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -556,7 +556,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Heavy : 34thPRC_ArmourCust
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_NoShoulders : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_NoShoulders
 {
-	displayName="[34th] Marine Cross Branch BDU Arid 'Jade' (Shoulderless)";
+	displayName="[34th] BDU Arid 'Jade' (Shoulderless)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -573,7 +573,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_NoShoulders : 34thPRC_Armo
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Light_NoCollar : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Light_NoCollar
 {
-	displayName="[34th] Marine Cross Branch BDU Arid 'Jade' (Light) (No Collar)";
+	displayName="[34th] BDU Arid 'Jade' (Light) (No Collar)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -590,7 +590,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Light_NoCollar : 34thPRC_A
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Medium_NoCollar : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Medium_NoCollar
 {
-	displayName="[34th] Marine Cross Branch BDU Arid 'Jade' (Medium) (No Collar)";
+	displayName="[34th] BDU Arid 'Jade' (Medium) (No Collar)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -607,7 +607,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Medium_NoCollar : 34thPRC_
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Heavy_NoCollar : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Heavy_NoCollar
 {
-	displayName="[34th] Marine Cross Branch BDU Arid 'Jade' (Heavy) (No Collar)";
+	displayName="[34th] BDU Arid 'Jade' (Heavy) (No Collar)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
