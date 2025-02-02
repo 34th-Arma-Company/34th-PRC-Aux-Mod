@@ -197,7 +197,7 @@ class 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban
 		alwaysSelectable=1;
 		changeingame=0;
 		label="Helmet Type";
-		values[]={"eod","gungnir","jfo"};
+		values[]={"eod","gungnir","jfo","recon"};
 		class eod
 		{
 			label="EOD";
@@ -209,6 +209,10 @@ class 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban
 		class jfo
 		{
 			label="JFO";
+		};
+		class recon
+		{
+			label="Recon";
 		};
 	};
 	class camo

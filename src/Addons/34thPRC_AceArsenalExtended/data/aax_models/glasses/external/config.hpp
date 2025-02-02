@@ -4,3 +4,4 @@
 #include "arma3_bandana\config.hpp"
 #include "ma_facewear\config.hpp"
 #include "matge_balaclava\config.hpp"
+#include "immersioncigs_rewrite\config.hpp"
