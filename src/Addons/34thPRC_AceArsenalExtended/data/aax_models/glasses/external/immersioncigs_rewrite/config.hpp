@@ -108,7 +108,7 @@ class smokeables_and_suckables
 	};
 	class lollipop
 	{
-		label = "Lollipop"
+		label = "Lollipop";
 		alwaysSelectable = 1;
 		changeingame = 0;
 		values[] = {"lollipop"};
