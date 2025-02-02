@@ -2,11 +2,11 @@ class OPTRE_S12_SOLA_Jetpack; // OPTRE ---> OPTRE_Weapons
 class SC_MercerJumppack; //Scion Conflict ---> sc_newequipment2
 class 34thPRC_ArmourStandard_ODST2_Backpacks_S9SOLAJumpJet : SC_MercerJumppack
 {
-	displayname="[34th] Series-9[B] SOLA Jump-Jet"
+	displayName="[34th] Series-9[B] SOLA Jump-Jet"
 	author="34th PRC - Vasya, Outworld Studios, & Article 2 Studios"
 	picture="\OPTRE_weapons\backpacks\icons\icon_jetpack_ca.paa";
 	scope=2;
-	scopearsenal=2;
+	scopeArsenal=2;
 	ace_gunbag=1;
 	tf_hasLRradio=1;
 	tf_range=25000;
@@ -24,4 +24,10 @@ class 34thPRC_ArmourStandard_ODST2_Backpacks_S9SOLAJumpJet : SC_MercerJumppack
 	{
 	"optre_weapons\backpacks\data\jetpack_co.paa"
 	};
+};
+class 34thPRC_ArmourStandard_ODST2_Backpacks_S9SOLAJumpJet_GH : 34thPRC_ArmourStandard_ODST2_Backpacks_S9SOLAJumpJet
+{
+	displayName="[34th] Series-9[GH] SOLA Jump-Jet";
+	author="Yandere, Outworld Studios, & Article 2 Studios"
+	sc_grapplinghook=1;
 };

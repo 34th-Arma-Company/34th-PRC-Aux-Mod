@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Added
 - Series-9 SOLA Jump-Jet (Halo variant of the Scion Conflict jumppack which includes a Gunbag and Long-Range Radio.)
+- Series-9 GH SOLA Jump-Jet (Alt version of the above with grapplinghook functionality from Scion Conflict)
 - Ace Arsenal Extended support for Immersion Cigs - Rewrite
 ### Updated
 - Added black hot thermals to HUL Gen 3 variants to make them leadership available
