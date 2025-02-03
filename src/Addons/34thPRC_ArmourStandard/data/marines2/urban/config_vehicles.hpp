@@ -248,6 +248,5 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Heavy_NoCollar: MA_Mari
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa",
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa",
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa"
-		"blablablhalshdlsjkhdoh i am a communist"
 	};
 };
