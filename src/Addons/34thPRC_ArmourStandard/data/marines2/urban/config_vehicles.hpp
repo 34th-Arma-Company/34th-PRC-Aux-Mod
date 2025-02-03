@@ -229,7 +229,7 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Medium_NoCollar: MA_Mar
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_LowerArmor.paa",
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa",
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa"
+		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa",
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Heavy_NoCollar: MA_Marine_Heavy_BDU_NC
@@ -248,5 +248,6 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Heavy_NoCollar: MA_Mari
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa",
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa",
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa"
+		"blablablhalshdlsjkhdoh i am a communist"
 	};
 };
