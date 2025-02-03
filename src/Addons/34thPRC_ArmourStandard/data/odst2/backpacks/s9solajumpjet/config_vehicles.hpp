@@ -26,3 +26,9 @@ class 34thPRC_ArmourStandard_ODST2_Backpacks_S9SOLAJumpJet : SC_MercerJumppack
 	"optre_weapons\backpacks\data\jetpack_co.paa"
 	};
 };
+class 34thPRC_ArmourStandard_ODST2_Backpacks_S9SOLAJumpJet_GH : 34thPRC_ArmourStandard_ODST2_Backpacks_S9SOLAJumpJet
+{
+	displayName="[34th] Series-9[GH] SOLA Jump-Jet";
+	author="Yandere, Outworld Studios, & Article 2 Studios"
+	sc_grapplinghook=1;
+};
