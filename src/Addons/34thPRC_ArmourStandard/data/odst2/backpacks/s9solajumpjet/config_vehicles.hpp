@@ -14,6 +14,7 @@ class 34thPRC_ArmourStandard_ODST2_Backpacks_S9SOLAJumpJet : SC_MercerJumppack
 	tf_dialog="rt1523g_radio_dialog";
 	tf_subtype="digital_lr";
 	tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
+	sc_grapplinghook=1;
 	model="OPTRE_Weapons\Backpacks\jetpack_on.p3d";
 	uniformModel="OPTRE_Weapons\Backpacks\jetpack_on.p3d";
 	hiddenSelections[]=
@@ -24,10 +25,4 @@ class 34thPRC_ArmourStandard_ODST2_Backpacks_S9SOLAJumpJet : SC_MercerJumppack
 	{
 	"optre_weapons\backpacks\data\jetpack_co.paa"
 	};
-};
-class 34thPRC_ArmourStandard_ODST2_Backpacks_S9SOLAJumpJet_GH : 34thPRC_ArmourStandard_ODST2_Backpacks_S9SOLAJumpJet
-{
-	displayName="[34th] Series-9[GH] SOLA Jump-Jet";
-	author="Yandere, Outworld Studios, & Article 2 Studios"
-	sc_grapplinghook=1;
 };
