@@ -31,7 +31,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_RedVisor_Tropic : 34thPRC_Armour
 		camo="tropic";
 		visor="red";
 	};
-}
+};
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_GoldVisor_Tropic : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban
 {
 	displayName="[34th] CH252D Tropic 'Ambrose' (Gold Visor)";
@@ -48,7 +48,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_GoldVisor_Tropic : 34thPRC_Armou
 		camo="tropic";
 		visor="gold";
 	};
-}
+};
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_CustomVisor_Tropic : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban
 {
 	displayName="[34th] CH252D Tropic 'Ambrose' (Custom Visor)";

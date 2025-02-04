@@ -5,7 +5,7 @@ class MA_Marine_Pouches
 	options[] = {"role", "style", "variant"};
 	class role
 	{
-		label = "Role"
+		label = "Role";
 		alwaysSelectable = 1;
 		changeingame = 0;
 		values[]= {"basic", "rifleman", "teamleader", "medic", "engineer"};
@@ -56,7 +56,7 @@ class MA_Marine_Pouches
 	};
 	class variant
 	{
-		label = "Variant"
+		label = "Variant";
 		alwaysSelectable = 1;
 		changeingame = 0;
 		values[]={"a", "b", "c", "d", "zero"};

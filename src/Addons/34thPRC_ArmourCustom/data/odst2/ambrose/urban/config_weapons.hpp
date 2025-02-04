@@ -31,7 +31,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_RedVisor_Urban : 34thPRC_ArmourC
 		camo="urban";
 		visor="red";
 	};
-}
+};
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_GoldVisor_Urban : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban
 {
 	displayName="[34th] CH252D Urban 'Ambrose' (Gold Visor)";
@@ -48,7 +48,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_GoldVisor_Urban : 34thPRC_Armour
 		camo="urban";
 		visor="gold";
 	};
-}
+};
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_CustomVisor_Urban : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban
 {
 	displayName="[34th] CH252D Urban 'Ambrose' (Custom Visor)";

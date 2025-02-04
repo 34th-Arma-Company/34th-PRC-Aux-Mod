@@ -31,7 +31,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_RedVisor_Arctic : 34thPRC_Armour
 		camo="arctic";
 		visor="red";
 	};
-}
+};
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Arctic : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
 {
 	displayName="[34th] CH252D Arctic 'Yandere' (Gold Visor)";
@@ -48,7 +48,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Arctic : 34thPRC_Armou
 		camo="arctic";
 		visor="gold";
 	};
-}
+};
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Arctic : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
 {
 	displayName="[34th] CH252D Arctic 'Yandere' (Custom Visor)";
