@@ -175,7 +175,7 @@ class 34thPRC_ArmourStandard_MkVB_Grenadier_Shoulders : Mjolnir_Grenadier_Should
 };
 
 class Mjolnir_GUNGNIR_Shoulders; //MA_Armor
-class 34thPRC_ArmourStandard_MkVB_Gungnir_Shoulders : Mjolnir_Gungnir_Shoulders
+class 34thPRC_ArmourStandard_MkVB_Gungnir_Shoulders : Mjolnir_GUNGNIR_Shoulders
 {
 	displayName="[34th] Mjolnir MkV[B] Gungnir Shoulders";
 	author="Vazya";
