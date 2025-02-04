@@ -1,7 +1,7 @@
 # Getting Started
 
 ## Contributing Rules
-Before you start, you will need to agree to our [contributing rules](../.github/CONTRIBUTING.md)
+Before you start, you will need to agree to our [contributing rules](../../.github/CONTRIBUTING.md)
 
 ## Setting up Visual Studio Code
 Install [VSCode](https://code.visualstudio.com/) with the following addons:
