@@ -8,6 +8,17 @@ try {
 
 	./meta/tools/hemtt/hemtt.exe build
 
+	if($LASTEXITCODE -eq 0)
+	{
+		Write-Output "Build successful"
+	}
+	else
+	{
+		Write-Error "Build failed"
+		Pause
+		exit 1
+	}
+
 	Write-Output "Build complete"
 	if($SkipPause -eq $false) {
 		Pause
