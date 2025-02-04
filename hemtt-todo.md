@@ -1,5 +1,6 @@
 # hemtt todo
 - html modlist
-- figure out why it is mistaking class declarations for properties
-  - fix this
-- fix whatever is wrong with the rvmats that it is complaining about
+- github action for builds
+- updated getting started documentation
+- make build tool download hemtt?
+- figure out how hemtt puts verions into the pbo and get it to do that
