@@ -19,10 +19,10 @@ class 34thPRC_ArmourStandard_ODST2_Backpacks_S9SOLAJumpJet : SC_MercerJumppack
 	uniformModel="OPTRE_Weapons\Backpacks\jetpack_on.p3d";
 	hiddenSelections[]=
 	{
-	"camo"
+		"camo"
 	};
 	hiddenSelectionsTextures[]=
 	{
-	"optre_weapons\backpacks\data\jetpack_co.paa"
+		"optre_weapons\backpacks\data\jetpack_co.paa"
 	};
 };
