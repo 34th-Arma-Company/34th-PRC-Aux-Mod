@@ -2,8 +2,8 @@ class 34th_CH252D
 {
 //Type: 11 (Arma3/VBS2)
 //Arma1 flag= 1;
-mainLight=Sun;//(1)
-ul_FogMode=Fog;//(1)
+mainLight="Sun";//(1)
+ul_FogMode="Fog";//(1)
 Ambient[]=      {1,1,1,1};
 Diffuse[]=      {1,1,1,1};
 Emmisive[]=     {0,0,0,1};
@@ -11,15 +11,15 @@ ForcedDiffuse[]=        {0,0,0,0};
 Specular[]=     {0.2,0.2,0.2,1};
 //Specular2[]=  {0.2,0.2,0.2,1};
 SpecularPower=25;
-PixelShaderId=Super;//102
-VertexShaderId=Super;//23
+PixelShaderId="Super";//102
+VertexShaderId="Super";//23
 class TegGen0
 {
-        uvSource=None;
+        uvSource="None";
 };
 class TegGen1
 {
-        uvSource=Tex;
+        uvSource="Tex";
         class uvTransform
         {
                 aside[] =       {   1.0000,   0.0000,   0.0000};
@@ -30,7 +30,7 @@ class TegGen1
 };
 class TegGen2
 {
-        uvSource=Tex;
+        uvSource="Tex";
         class uvTransform
         {
                 aside[] =       {   1.0000,   1.0000,   0.0000};
@@ -41,7 +41,7 @@ class TegGen2
 };
 class TegGen3
 {
-        uvSource=Tex;
+        uvSource="Tex";
         class uvTransform
         {
                 aside[] =       {   1.0000,   0.0000,   0.0000};
@@ -52,7 +52,7 @@ class TegGen3
 };
 class TegGen4
 {
-        uvSource=Tex;
+        uvSource="Tex";
         class uvTransform
         {
                 aside[] =       {   1.0000,   0.0000,   0.0000};
@@ -63,7 +63,7 @@ class TegGen4
 };
 class TegGen5
 {
-        uvSource=Tex;
+        uvSource="Tex";
         class uvTransform
         {
                 aside[] =       {   1.0000,   0.0000,   0.0000};
@@ -74,11 +74,11 @@ class TegGen5
 };
 class TegGen6
 {
-        uvSource=Tex;
+        uvSource="Tex";
 };
 class TegGen7
 {
-        uvSource=Tex;
+        uvSource="Tex";
 };
 class stage1
 {
@@ -112,7 +112,7 @@ class stage6
 };
 class stage7
 {
-        useWorldEnvMap=true;
+        useWorldEnvMap="true";
         texture="a3\data_f\env_land_ca.paa";
         Texgen=7;
 };
