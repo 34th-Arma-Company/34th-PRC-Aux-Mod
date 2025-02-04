@@ -4,24 +4,12 @@ on:
 
 jobs:
   hemtt-build:
-    permissions:
-      contents: read
     runs-on: windows-latest
     steps:
     - uses: actions/checkout@master
-    - name: Install winget
-      # You may pin to the exact commit or the version.
-      # uses: Cyberboss/install-winget@1c6f189175e9f015bf1aa113cd1cc6c73efb9d47
-      uses: Cyberboss/install-winget@v1
-      #with:
-        # No scopes GitHub token for querying the API and downloading from winget-cli releases
-        #GITHUB_TOKEN: # optional, default is NONE
-        # Specify desired release-id of winget can be specified here. By default, a recent stable release will be selected by the action author. To see what versions are available, look into https://api.github.com/repos/microsoft/winget-cli/releases
-        #wget_release_id: # optional, default is 164835566
-    - run: winget install hemtt
+    - name: Setup HEMTT
+      uses: arma-actions/hemtt@v1
     - name: Steam - Download
-      # You may pin to the exact commit or the version.
-      # uses: dhkatz/steam-download@347034b27197b9937f6e0f871b5aad5bec0cdb04
       uses: dhkatz/steam-download@v1.2.0
       with:
         # Steam username
@@ -36,4 +24,4 @@ jobs:
         appid: 233800 # https://store.steampowered.com/app/233800/Arma_3_Tools/
         # Path to download the game to
         #path: # optional
-    - run: .\build.bat
+    - run: hemtt build
