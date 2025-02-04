@@ -9,10 +9,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - uses: gruppe-adler/action-release-with-hemtt@v3
-      id: build
+    #- uses: gruppe-adler/action-release-with-hemtt@v3
+    #  id: build
     #- run: echo 'Release ${{ steps.build.outputs.zip_name }} is ready.'
     #- uses: actions/upload-artifact@v3
     #  with:
     #    name: 'packed-mod'
     #    path: ${{ steps.build.outputs.zip_path }}
+    - name: Release with HEMTT - MultiTheFranky
+      # You may pin to the exact commit or the version.
+      # uses: MultiTheFranky/action-release-with-hemtt@5a67fcd05398985cb39e1fccc27e4a55977d7022
+      uses: MultiTheFranky/action-release-with-hemtt@0.0.5
+      with:
+        # Zip the build
+        zip_build: false# optional, default is true
+        # Working directory
+        #cwd: # optional, default is .
