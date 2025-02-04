@@ -13,6 +13,7 @@ class CfgPatches
 			"DMNS_Units", //UNSC Foundries
 			"sc_newequipment2", // Scion Conflict
 			"OPTRE_Weapons", // OPTRE
+			"jen_jetpacks_example", // KJW's Jetpacks
 		};
 	};
 };
