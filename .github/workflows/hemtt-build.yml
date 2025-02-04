@@ -6,22 +6,25 @@ jobs:
   hemtt-build:
     permissions:
       contents: read
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
     - uses: actions/checkout@master
-    #- uses: gruppe-adler/action-release-with-hemtt@v3
-    #  id: build
-    #- run: echo 'Release ${{ steps.build.outputs.zip_name }} is ready.'
-    #- uses: actions/upload-artifact@v3
-    #  with:
-    #    name: 'packed-mod'
-    #    path: ${{ steps.build.outputs.zip_path }}
-    - name: Release with HEMTT - MultiTheFranky
+    - run: winget install hemtt
+    - name: Steam - Download
       # You may pin to the exact commit or the version.
-      # uses: MultiTheFranky/action-release-with-hemtt@5a67fcd05398985cb39e1fccc27e4a55977d7022
-      uses: MultiTheFranky/action-release-with-hemtt@0.0.5
+      # uses: dhkatz/steam-download@347034b27197b9937f6e0f871b5aad5bec0cdb04
+      uses: dhkatz/steam-download@v1.2.0
       with:
-        # Zip the build
-        zip_build: false# optional, default is true
-        # Working directory
-        #cwd: # optional, default is .
+        # Steam username
+        #username: # default is anonymous
+        # Steam password
+        #password: # optional
+        # Steam TOTP code
+        #totp: # optional
+        # Path to VDF file containing login details
+        #vdf: # optional
+        # Steam AppID
+        appid: 233800 # https://store.steampowered.com/app/233800/Arma_3_Tools/
+        # Path to download the game to
+        #path: # optional
+    - run: .\build.bat
