@@ -314,7 +314,7 @@ class 34thPRC_ArmourStandard_ODST_Trooper_UrbanRed : MA_M56S_BDU_Base
 	{
 		"34thPRC_ArmourStandard\data\odst\urban\odst_undersuit_urban_red_co.paa"
 	};
-}
+};
 class 34thPRC_ArmourStandard_ODST_Trooper_UrbanBlue : 34thPRC_ArmourStandard_ODST_Trooper_UrbanRed
 {
 	uniformClass="34thPRC_ArmourStandard_ODST_Uniform_UrbanBlue";
@@ -322,7 +322,7 @@ class 34thPRC_ArmourStandard_ODST_Trooper_UrbanBlue : 34thPRC_ArmourStandard_ODS
 	{
 		"34thPRC_ArmourStandard\data\odst\urban\odst_undersuit_urban_blue_co.paa"
 	};
-}
+};
 class 34thPRC_ArmourStandard_ODST_Trooper_Arctic : 34thPRC_ArmourStandard_ODST_Trooper_UrbanRed
 {
 	uniformClass="34thPRC_ArmourStandard_ODST_Uniform_Arctic";
@@ -330,7 +330,7 @@ class 34thPRC_ArmourStandard_ODST_Trooper_Arctic : 34thPRC_ArmourStandard_ODST_T
 	{
 		"34thPRC_ArmourStandard\data\odst\arctic\odst_undersuit_arctic_co.paa"
 	};
-}
+};
 class 34thPRC_ArmourStandard_ODST_Trooper_Arid : 34thPRC_ArmourStandard_ODST_Trooper_UrbanRed
 {
 	uniformClass="34thPRC_ArmourStandard_ODST_Uniform_Arid";
@@ -338,7 +338,7 @@ class 34thPRC_ArmourStandard_ODST_Trooper_Arid : 34thPRC_ArmourStandard_ODST_Tro
 	{
 		"34thPRC_ArmourStandard\data\odst\arid\odst_undersuit_arid_co.paa"
 	};
-}
+};
 class 34thPRC_ArmourStandard_ODST_Trooper_Tropic : 34thPRC_ArmourStandard_ODST_Trooper_UrbanRed
 {
 	uniformClass="34thPRC_ArmourStandard_ODST_Uniform_Tropic";
@@ -346,7 +346,7 @@ class 34thPRC_ArmourStandard_ODST_Trooper_Tropic : 34thPRC_ArmourStandard_ODST_T
 	{
 		"34thPRC_ArmourStandard\data\odst\tropic\odst_undersuit_tropic_co.paa"
 	};
-}
+};
 class 34thPRC_ArmourStandard_ODST_Trooper_Woodland : 34thPRC_ArmourStandard_ODST_Trooper_UrbanRed
 {
 	uniformClass="34thPRC_ArmourStandard_ODST_Uniform_Woodland";
@@ -354,4 +354,4 @@ class 34thPRC_ArmourStandard_ODST_Trooper_Woodland : 34thPRC_ArmourStandard_ODST
 	{
 		"34thPRC_ArmourStandard\data\odst\woodland\odst_undersuit_woodland_co.paa"
 	};
-}
+};

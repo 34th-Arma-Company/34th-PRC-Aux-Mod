@@ -2,7 +2,7 @@ class 34thPRC_ArmourStandard_Recon_Helmet_Urban : 34thPRC_ArmourStandard_Marines
 {
 	displayName="[34th] Recon Helmet Urban";
 	author="Over Yandere";
-	model="MA_Armor\data\Helmets\Recon\Recon_Helmet.p3d"
+	model="MA_Armor\data\Helmets\Recon\Recon_Helmet.p3d";
 	hiddenSelections[]=
 	{
 		"Camo1",

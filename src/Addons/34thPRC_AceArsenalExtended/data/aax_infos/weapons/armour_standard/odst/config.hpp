@@ -12,70 +12,70 @@ class 34thPRC_ArmourStandard_ODST_M56R_Arid
 	camo = "arid";
 	medic = "standard";
 	shoulders = "standard";
-}
+};
 class 34thPRC_ArmourStandard_ODST_M56R_Arctic
 {
 	model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 	camo = "arctic";
 	medic = "standard";
 	shoulders = "standard";
-}
+};
 class 34thPRC_ArmourStandard_ODST_M56R_Woodland
 {
 	model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 	camo = "woodland";
 	medic = "standard";
 	shoulders = "standard";
-}
+};
 class 34thPRC_ArmourStandard_ODST_M56R_Tropic
 {
 	model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 	camo = "tropic";
 	medic = "standard";
 	shoulders = "standard";
-}
+};
 class 34thPRC_ArmourStandard_ODST_M56R_Urban_Medic
 {
 	model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 	camo = "urban";
 	medic = "isMedic";
 	shoulders = "standard";
-}
+};
 class 34thPRC_ArmourStandard_ODST_M56R_Arctic_Medic
 {
 	model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 	camo = "arctic";
 	medic = "isMedic";
 	shoulders = "standard";
-}
+};
 class 34thPRC_ArmourStandard_ODST_M56R_Arid_Medic
 {
 	model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 	camo = "arid";
 	medic = "isMedic";
 	shoulders = "standard";
-}
+};
 class 34thPRC_ArmourStandard_ODST_M56R_Tropic_Medic
 {
 	model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 	camo = "tropic";
 	medic = "isMedic";
 	shoulders = "standard";
-}
+};
 class 34thPRC_ArmourStandard_ODST_M56R_Woodland_Medic
 {
 	model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 	camo = "woodland";
 	medic = "isMedic";
 	shoulders = "standard";
-}
+};
 class 34thPRC_ArmourStandard_ODST_M56R_Urban_CQB
 {
 	model = "34thPRC_ArmourStandard_ODST_M56R_Urban";
 	camo = "urban";
 	medic = "standard";
 	shoulders = "cqb";
-}
+};
 
 // MA ODST Uniforms
 class 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed
