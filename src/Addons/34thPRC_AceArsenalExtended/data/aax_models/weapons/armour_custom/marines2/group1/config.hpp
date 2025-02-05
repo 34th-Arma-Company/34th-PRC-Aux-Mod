@@ -1,4 +1,4 @@
-//Custom Marine Armor Group 1: Jade
+//Custom Marine Armor Group 1: Jade, Harrison
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Light
 {
 	label = "[34thPRC] Custom Uniforms";
@@ -8,10 +8,14 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Light
 	{
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[]={"jade",};
+		values[]={"jade", "harrison"};
 		class jade
 		{
 			label = "Jade";
+		};
+		class harrison
+		{
+			label="Harrison";
 		};
 	};
 	class variant
@@ -84,7 +88,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Light
 	};
 };
 
-//Custom Marine Helmet Group 1: Jade, Ramirez, Conex
+//Custom Marine Helmet Group 1: Jade, Ramirez, Conex, Harrison
 class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban
 {
 	label = "[34thPRC] CH252 Custom Helmets";
@@ -94,7 +98,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban
 	{
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[]={"jade", "ramirez", "conex"};
+		values[]={"jade", "ramirez", "conex", "harrison"};
 		class jade
 		{
 			label = "Jade";
@@ -106,6 +110,10 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban
 		class conex
 		{
 			label = "Conex";
+		};
+		class harrison
+		{
+			label = "Harrison";
 		};
 	};
 	class camo
