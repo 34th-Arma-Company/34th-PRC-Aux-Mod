@@ -3,6 +3,7 @@ class CfgPatches
 	class 34thPRC_ArmourStandard_jumppacks_scionconflict
 	{
 		author="34th PRC Modding Team";
+		addonRootClass="34thPRC_ArmourStandard";
 		units[]={};
 		requiredAddons[] =
 		{
