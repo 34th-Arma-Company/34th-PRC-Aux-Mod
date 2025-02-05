@@ -3,8 +3,8 @@ class SC_MercerJumppack; //Scion Conflict ---> sc_newequipment2
 class jen_jetpacks_example_mk5Jetpack_nato; //KJW's Jetpacks ---> jen_jetpacks_example
 class 34thPRC_ArmourStandard_ODST2_Backpacks_S9BSOLAJumpJet : jen_jetpacks_example_mk5Jetpack_nato
 {
-	displayName="[34th] Series-9[B] SOLA Jump-Jet"
-	author="34th PRC - Vasya, Jennderqueer, KJW, & Article 2 Studios"
+	displayName="[34th] Series-9[B] SOLA Jump-Jet";
+	author="34th PRC - Vasya, Jennderqueer, KJW, & Article 2 Studios";
 	picture="\OPTRE_weapons\backpacks\icons\icon_jetpack_ca.paa";
 	scope=2;
 	scopeArsenal=2;
@@ -20,19 +20,19 @@ class 34thPRC_ArmourStandard_ODST2_Backpacks_S9BSOLAJumpJet : jen_jetpacks_examp
 	uniformModel="OPTRE_Weapons\Backpacks\jetpack_on.p3d";
 	hiddenSelections[]=
 	{
-	"camo"
+		"camo"
 	};
 	hiddenSelectionsTextures[]=
 	{
-	"optre_weapons\backpacks\data\jetpack_co.paa"
+		"optre_weapons\backpacks\data\jetpack_co.paa"
 	};
 	maximumLoad=600;
 	mass=20;
 };
 class 34thPRC_ArmourStandard_ODST2_Backpacks_S9SSOLAJumpJet : SC_MercerJumppack
 {
-	displayName="[34th] Series-9[S] SOLA Jump-Jet"
-	author="34th PRC - Vasya, Outworld Studios, & Article 2 Studios"
+	displayName="[34th] Series-9[S] SOLA Jump-Jet";
+	author="34th PRC - Vasya, Outworld Studios, & Article 2 Studios";
 	picture="\OPTRE_weapons\backpacks\icons\icon_jetpack_ca.paa";
 	scope=2;
 	scopeArsenal=2;
@@ -48,11 +48,11 @@ class 34thPRC_ArmourStandard_ODST2_Backpacks_S9SSOLAJumpJet : SC_MercerJumppack
 	uniformModel="OPTRE_Weapons\Backpacks\jetpack_on.p3d";
 	hiddenSelections[]=
 	{
-	"camo"
+		"camo"
 	};
 	hiddenSelectionsTextures[]=
 	{
-	"optre_weapons\backpacks\data\jetpack_co.paa"
+		"optre_weapons\backpacks\data\jetpack_co.paa"
 	};
 	maximumLoad=600;
 	mass=20;
