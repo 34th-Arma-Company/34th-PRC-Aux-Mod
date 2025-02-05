@@ -29,4 +29,3 @@ if(_distance == 0) then {
 } else {
 	hint format['Airburst set: %1m.',_distance];
 };
-	
