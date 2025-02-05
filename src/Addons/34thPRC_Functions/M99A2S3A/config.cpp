@@ -4,6 +4,7 @@ class CfgPatches
 	{
 		author="Unknown";
 		addonRootClass="34thPRC_Functions";
+		units[]={};
 	};
 };
 class Extended_PreInit_EventHandlers

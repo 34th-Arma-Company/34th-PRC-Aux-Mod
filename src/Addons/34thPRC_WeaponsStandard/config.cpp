@@ -8,7 +8,7 @@ class CfgPatches
 			//"34thPRC_MagazinesStandard",
 			"OPTRE_Weapons",  //OPTRE
 		};
-
+		units[]={};
 	};
 };
 
