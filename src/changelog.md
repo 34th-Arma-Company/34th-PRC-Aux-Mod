@@ -28,7 +28,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - MA: TGE Balaclavas
 - Luther Custom JFO helmet
 - 34th IHADSS Helmet
-
 ### Remove
 - Dependency on 1st MEU in places
 
