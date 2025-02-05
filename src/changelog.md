@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 ### Added
-- Series-9 SOLA Jump-Jet (Halo variant of the Scion Conflict jumppack which includes a Gunbag, Long-Range Radio, and grapplehook functionality.)
+- Series-9 SOLA Jump-Jet (Halo jetpack which includes a Gunbag, Long-Range Radio, and Grapplehook functionality.)
 - Ace Arsenal Extended support for Immersion Cigs - Rewrite
 - More loading screens
 ### Updated
@@ -29,7 +29,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - MA: TGE Balaclavas
 - Luther Custom JFO helmet
 - 34th IHADSS Helmet
-
 ### Remove
 - Dependency on 1st MEU in places
 
