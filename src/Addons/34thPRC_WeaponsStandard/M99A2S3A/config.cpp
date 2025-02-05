@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class M99A2S3A
+	class 34thPRC_WeaponsStandard_M99A2S3A
 	{
 		author="34th PRC Modding Team, Over Yandere";
 		addonRootClass="34thPRC_WeaponsStandard";
@@ -8,6 +8,7 @@ class CfgPatches
 		{
 			"34thPRC_WeaponsStandard",
 		};
+		units[]={};
 	};
 };
 class M99A2S3A_Properties_Defualt

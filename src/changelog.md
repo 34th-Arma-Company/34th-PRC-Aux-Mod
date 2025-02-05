@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## 0.24.2
+### Fix
+- Scripting nonsense
+
+## 0.24.1
+### Fix
+- Missing bits on CfgPatches that prevented missions loading on the server
+
 ## 0.24.0
 ### Added
 - Series-9 SOLA Jump-Jet (Halo jetpack which includes a Gunbag, Long-Range Radio, and Grapplehook functionality.)
