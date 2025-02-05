@@ -49,9 +49,9 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Arctic_Heavy: 34thPRC_ArmourStanda
 		"34thPRC_ArmourStandard\data\marines2\Arctic\White_TrooperShoulders.paa"
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_Trooper_Arctic_NS: 34thPRC_ArmourStandard_Marines2_Trooper_Urban_NS
+class 34thPRC_ArmourStandard_Marines2_Trooper_Arctic_NoShoulder : 34thPRC_ArmourStandard_Marines2_Trooper_Urban_NoShoulder
 {
-	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Arctic_NS";
+	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Arctic_NoShoulder";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\Arctic\Winter_UpperBDU.paa",

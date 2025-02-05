@@ -7,17 +7,72 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 ### Added
+- Series-9 SOLA Jump-Jet (Halo variant of the Scion Conflict jumppack which includes a Gunbag and Long-Range Radio.)
+### Updated
+- Added black hot thermals to HUL Gen 3 variants to make them leadership available
+- Yandere Recon Custom Helm
+- Ramirez Custom Marine Helm
+- Conext Custom Marine Helm
+
+## 0.23.0
+### Added
+- ACE Arsenal Extended Facewear Support Added:
+  - TRYK Beards (Tac-Vests)
+  - TRYK Facewear (Multi-play Uniforms)
+  - MA Facewear
+  - Arma 3 Balaclavas
+  - Arma 3 Bandanas
+  - MA: TGE Balaclavas
+- Luther Custom JFO helmet
+- 34th IHADSS Helmet
+
+### Remove
+- Dependency on 1st MEU in places
+
+## 0.22.0
+### Added
+- Vasya Custom Helmet
+- ACE Arsenal Extended Support added:
+  - Misriah Armory Marine Pouches
+  - OPTRE NVGs
+  - Misriah Armory NVGs
+  - 34th PRC MkV B Shoulders
+  - 34th PRC MkV B Helmets
+- Version checking
+- Loading screen messages
+
+## 0.21.0
+### Added
+- Ambrose Custom Armour
+- Grenadier for Marines / ODSTs
+- Scout for marines / ODSTs
+- Shewolf Custom Helmet
+- Pilot Helmet for marines / ODSTs
+- Recon Helmet for marines / ODSTs
+### Updated
+- All Spartan shoulders have gunbags
+- Added black hot and white hot thermal modes to UNSC Marksman's Visual Interface and all MVI tagged NVGs
+- Shortened all Marine Cross Branch BDU uniform display names to BDU to fit better on screen
+- Fixed some names on Jade's custom armour, was 'Demo Player' in some places
+
+## 0.20.0
+### Added
 - Cappy Custom Armour
 - EOD Helmets for Marines/ODSTs
 - EOD CBRN NVG attachment for Marines/ODSTs
 - Springbok Commander Seat LR Radio
 - AAX support for Gungnir helmets
 - JFO for Marines/ODSTs
+- CQC for Marines/ODSTs
+- Commando for Marines/ODSTs
 ### Updated
 - Fix shoulderless marine uniforms having less carry capacity
 - Gungnir helmet camos for Marines/ODSTS
+- Naval Special Weapons SRS99AM now can use 19th Fleet SRS Ammo
+- 1st MEU SAABR-96 now uses the OPTRE Stanchion model
+- 1st MEU SAABR-96 now has OPTRE APFSDS ammo as an option
 
-## 1.19.0
+## 0.19.0
 ### Added
 - Prototyped custom armour
 - Bigger storage for exosuits that we use
