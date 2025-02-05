@@ -10,12 +10,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Series-9 SOLA Jump-Jet (Halo jetpack which includes a Gunbag, Long-Range Radio, and Grapplehook functionality.)
 - Ace Arsenal Extended support for Immersion Cigs - Rewrite
 - More loading screens
+- Added A new stanchion version with airburst ammunition
 ### Updated
 - Added black hot thermals to HUL Gen 3 variants to make them leadership available
 - Added A new stanchion version with airburst ammunition
 - Yandere Recon Custom Helm
 - Ramirez Custom Marine Helm
-- Conext Custom Marine Helm
+- Conex Custom Marine Helm
 - Harrison Custom Armour
 
 ## 0.23.0
