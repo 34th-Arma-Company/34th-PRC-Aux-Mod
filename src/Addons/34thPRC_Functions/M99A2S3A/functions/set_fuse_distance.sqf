@@ -27,4 +27,6 @@ if !(isNull objectParent ace_player) exitWith {};
 if(_distance == 0) then {
 	hint format['Airburst set: Disabled'];
 } else {
-	hint format['Airburst set: %1m.',_distance]};
+	hint format['Airburst set: %1m.',_distance];
+};
+	
