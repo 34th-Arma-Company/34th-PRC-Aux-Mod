@@ -18,6 +18,6 @@ class CfgPatches
 			"34thPRC_WeaponsStandard",
 			"34thPRC_Functions",
 		};
-		version = "0.24.1"; //Update to match changelog version on release
+		version = "0.24.2"; //Update to match changelog version on release
 	};
 };
