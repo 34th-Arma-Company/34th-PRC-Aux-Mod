@@ -5,7 +5,12 @@ class CfgPatches
 		author="34th PRC Modding Team";
 		units[]=
 		{
-			"34thPRC_Vehicles_Scorpion"
+			"34thPRC_Vehicles_Scorpion",
+			"34thPRC_Vehicles_Scorpion_1",
+			"34thPRC_Vehicles_Scorpion_2",
+			"34thPRC_Vehicles_Scorpion_3",
+			"34thPRC_Vehicles_Scorpion_4",
+			"34thPRC_Vehicles_Scorpion_5",
 		};
 		requiredAddons[] =
 		{

@@ -8,7 +8,7 @@ documentation:
 
 "area: config":
 - changed-files:
-    - any-glob-to-any-file: ['src/**/*.hpp', 'src/**/*.cpp']
+    - any-glob-to-any-file: ['src/**/*.hpp', 'src/**/*.cpp', 'src/**/*.rvmat']
 
 "area: model":
 - changed-files:

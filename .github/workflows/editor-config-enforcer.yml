@@ -1,0 +1,21 @@
+name: "Editor Config Enforcer"
+on:
+- pull_request
+
+jobs:
+  editer-config-enforcer:
+    permissions:
+      contents: read
+    #  pull-requests: write
+    runs-on: ubuntu-latest
+    steps:
+    - run: git config --global core.autocrlf false
+    - run: git config --global core.eol crlf
+    - uses: actions/checkout@v4.2.2
+    - uses: kasperhesthaven/setup-editorconfig-checker@v1.2.0
+    # - uses: zbeekman/EditorConfig-Action@v1.1.1 # broken
+    # - uses: wow-rp-addons/actions-editorconfig-check@v1.0.1
+    - uses: greut/eclint-action@v0
+    # - uses: editorconfig-checker/action-editorconfig-checker@v1.0.0
+    # - uses: snow-actions/eclint@v1.0.1
+
