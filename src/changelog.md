@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - More loading screens
 ### Updated
 - Added black hot thermals to HUL Gen 3 variants to make them leadership available
+- Added A new stanchion version with airburst ammunition
 - Yandere Recon Custom Helm
 - Ramirez Custom Marine Helm
 - Conext Custom Marine Helm
