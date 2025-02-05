@@ -11,24 +11,3 @@ class CfgPatches
 		units[]={};
 	};
 };
-class Extended_PreInit_EventHandlers
-{
-	class 1st_meu_airburst_functions_preinit
-	{
-		init="call compile preprocessFileLineNumbers '1st_meu_functions\airburst\xeh_preinit.sqf'";
-	};
-};
-class Extended_PostInit_EventHandlers
-{
-	class 1st_meu_airburst_functions_postinit
-	{
-		init="call compile preprocessFileLineNumbers '1st_meu_functions\airburst\xeh_postinit.sqf'";
-	};
-};
-class Extended_PreStart_EventHandlers
-{
-	class ace_fcs
-	{
-		init="call compile preprocessFileLineNumbers '1st_meu_functions\airburst\xeh_prestart.sqf'";
-	};
-};
