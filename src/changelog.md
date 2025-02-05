@@ -6,16 +6,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+
+## 0.24.0
 ### Added
-- Series-9 SOLA Jump-Jet (Halo variant of the Scion Conflict jumppack which includes a Gunbag, Long-Range Radio, and grapplehook functionality.)
+- Series-9 SOLA Jump-Jet (Halo jetpack which includes a Gunbag, Long-Range Radio, and Grapplehook functionality.)
 - Ace Arsenal Extended support for Immersion Cigs - Rewrite
 - More loading screens
-### Updated
-- Added black hot thermals to HUL Gen 3 variants to make them leadership available
+- A new stanchion version with airburst ammunition
 - Yandere Recon Custom Helm
 - Ramirez Custom Marine Helm
-- Conext Custom Marine Helm
+- Conex Custom Marine Helm
 - Harrison Custom Armour
+### Updated
+- Added black hot thermals to HUL Gen 3 variants to make them leadership available
 
 ## 0.23.0
 ### Added
@@ -28,7 +31,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - MA: TGE Balaclavas
 - Luther Custom JFO helmet
 - 34th IHADSS Helmet
-
 ### Remove
 - Dependency on 1st MEU in places
 

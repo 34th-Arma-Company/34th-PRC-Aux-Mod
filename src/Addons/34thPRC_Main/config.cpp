@@ -15,6 +15,8 @@ class CfgPatches
 			"34thPRC_Markers",
 			"34thPRC_Overrides",
 			"34thPRC_Vehicles",
+			"34thPRC_WeaponsStandard",
+			"34thPRC_Functions",
 		};
 		version = "0.23.0"; //Update to match changelog version on release
 	};
