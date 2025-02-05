@@ -7,8 +7,8 @@ class CfgPatches
 		requiredAddons[] =
 		{
 			"34thPRC_Overrides", // 34th PRC Aux Mod
-			"sc_newequipment2", // Scion Conflict
 			"OPTRE_Weapons", // OPTRE
+			"sc_newequipment2", // Scion Conflict
 		};
 		skipWhenMissingDependencies = 1;
 	};
