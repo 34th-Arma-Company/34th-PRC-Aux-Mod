@@ -25,4 +25,4 @@ class CfgWeapons
 class CfgGlasses
 {
 	#include "data\config_glasses.hpp"
-}
+};

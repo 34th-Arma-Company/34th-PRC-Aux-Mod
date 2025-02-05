@@ -56,4 +56,4 @@ class DMNS_M511_Springbok_base : Car_F // DMNS_Vehicles_M511_Springbok
 			};
 		};
 	};
-}
+};

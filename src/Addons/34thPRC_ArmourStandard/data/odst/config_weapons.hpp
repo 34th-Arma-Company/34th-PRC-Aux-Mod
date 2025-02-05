@@ -307,7 +307,7 @@ class 34thPRC_ArmourStandard_ODST_M56R_Urban_CQB : MA_M56R_CQB_Vest
 class MA_M56S_BDU : U_B_CombatUniform_mcam // MA_Armor
 {
 	class ItemInfo;
-}
+};
 class 34thPRC_ArmourStandard_ODST_Uniform_UrbanRed : MA_M56S_BDU
 {
 	author="TheBrwnKidd";

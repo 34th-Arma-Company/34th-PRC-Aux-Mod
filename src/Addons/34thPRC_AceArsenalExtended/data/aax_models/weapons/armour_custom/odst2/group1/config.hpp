@@ -107,7 +107,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban
 		class ambrose
 		{
 			label = "Ambrose";
-		}
+		};
 		class shewolf
 		{
 			label = "Shewolf";
