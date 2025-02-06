@@ -16,8 +16,7 @@ class CfgPatches
 };
 class CfgVehicles
 {
-	class jen_jetpacks_example_mk5Jetpack_nato; //KJW's Jetpacks ---> jen_jetpacks_example
-	class 34thPRC_ArmourStandard_jumppacks_kjwjetpacks_S9BSOLAJumpJet : jen_jetpacks_example_mk5Jetpack_nato
+	class 34thPRC_ArmourStandard_jumppacks_kjwjetpacks_S9BSOLAJumpJet
 	{
 		displayName="[34th] Series-9[B] SOLA Jump-Jet";
 		author="34th PRC - Vasya, Jennderqueer, KJW, & Article 2 Studios";
@@ -32,6 +31,15 @@ class CfgVehicles
 		tf_subtype="digital_lr";
 		tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
 		sc_grapplinghook=1;
+		jen_jetpacks_core_acceleration=6;
+		jen_jetpacks_core_drag=9;
+		jen_jetpacks_core_fuelCoef=1;
+		jen_jetpacks_core_fuelCapacity=150;
+		jen_jetpacks_core_heatCoef=8;
+		jen_jetpacks_core_coolCoef=8;
+		jen_jetpacks_core_ascensionCoef=1.25;
+		jen_jetpacks_core_jumpCoef=1;
+		jen_jetpacks_core_strafeCoef=0.25;
 		model="OPTRE_Weapons\Backpacks\jetpack_on.p3d";
 		uniformModel="OPTRE_Weapons\Backpacks\jetpack_on.p3d";
 		hiddenSelections[]=
