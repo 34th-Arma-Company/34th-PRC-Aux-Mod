@@ -17,9 +17,9 @@ class CfgPatches
 class CfgVehicles
 {
 	class SC_MercerJumppack; //Scion Conflict ---> sc_newequipment2
-	class 34thPRC_ArmourStandard_jumppacks_scionconflict_S9SSOLAJumpJet : SC_MercerJumppack
+	class 34thPRC_ArmourStandard_jumppacks_scionconflict_S9SSOLAThrusterPack : SC_MercerJumppack
 	{
-		displayName="[34th] Series-9[S] SOLA Jump-Jet";
+		displayName="[34th] Series-9[X] SOLA Thruster Pack";
 		author="34th PRC - Vasya, Outworld Studios, & Article 2 Studios";
 		picture="\OPTRE_weapons\backpacks\icons\icon_jetpack_ca.paa";
 		scope=2;

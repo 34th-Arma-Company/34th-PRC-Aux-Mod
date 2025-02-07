@@ -17,9 +17,9 @@ class CfgPatches
 class CfgVehicles
 {
 class Bag_Base;
-class 34thPRC_ArmourStandard_jumppacks_kjwjetpacks_S9BSOLAJumpJet : Bag_Base
+class 34thPRC_ArmourStandard_jumppacks_kjwjetpacks_S9BSOLAJetpack : Bag_Base
 {
-	displayName="[34th] Series-9[B] SOLA Jump-Jet";
+	displayName="[34th] Series-9[B] SOLA Jetpack";
 	author="34th PRC - Vasya, Jennderqueer, KJW, & Article 2 Studios";
 	picture="\OPTRE_weapons\backpacks\icons\icon_jetpack_ca.paa";
 	scope=2;
@@ -34,14 +34,14 @@ class 34thPRC_ArmourStandard_jumppacks_kjwjetpacks_S9BSOLAJumpJet : Bag_Base
 	sc_grapplinghook=1;
 	jen_jetpacks_core_isJetpack=1;
 	jen_jetpacks_core_acceleration=1.75;
-	jen_jetpacks_core_drag=9;
+	jen_jetpacks_core_drag=10;
 	jen_jetpacks_core_fuelCoef=1;
 	jen_jetpacks_core_fuelCapacity=150;
 	jen_jetpacks_core_heatCoef=8;
 	jen_jetpacks_core_coolCoef=8;
-	jen_jetpacks_core_ascensionCoef=1.2;
+	jen_jetpacks_core_ascensionCoef=1.25;
 	jen_jetpacks_core_jumpCoef=1;
-	jen_jetpacks_core_strafeCoef=0.85;
+	jen_jetpacks_core_strafeCoef=0.7;
 	model="OPTRE_Weapons\Backpacks\jetpack_on.p3d";
 	uniformModel="OPTRE_Weapons\Backpacks\jetpack_on.p3d";
 	hiddenSelections[]=
