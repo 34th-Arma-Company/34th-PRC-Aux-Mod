@@ -11,6 +11,7 @@
  */
 
 #include "\34thPRC_Functions\M99A2S3A\_includes\defines_macros.hpp"
+#undef MACRO_SCRIPT
 #define MACRO_SCRIPT "[airburst fired_server.sqf] "
 
 params ["_magazine","_projectile","_unit"];

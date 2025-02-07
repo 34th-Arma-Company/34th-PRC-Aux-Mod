@@ -77,3 +77,15 @@ The tools can be installed manually into `~/.local/share/arma3tools` by copying 
 ###### HEMTT_BI_TOOLS Environment Variable
 
 If you have the tools installed in a different location, you can set the `HEMTT_BI_TOOLS` environment variable to the path of the tools. HEMTT will always use this path if it is set.
+
+## Include Folder
+As of the inclusion of scripts within our mod and the use of Hemtt, utilizing an include folder is a requirement for building the mod [the HEMMTT book](https://hemtt.dev/configuration/p-drive.html). Start by creating a folder within the repo called 'include'.
+
+### Git Ignore
+If not already done, add include to the .gitignore file.
+
+### ARMA 3 Tools
+Open ARMA 3 Tools, go to Project Drive Management, and run Extract Game Data
+
+### Copy the A3 Folder
+After the extract is finished, go to the extract location and copy the A3 folder into include

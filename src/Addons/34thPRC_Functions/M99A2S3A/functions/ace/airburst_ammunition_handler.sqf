@@ -16,6 +16,7 @@
  */
 
 #include "\34thPRC_Functions\M99A2S3A\_includes\defines_macros.hpp"
+#undef MACRO_SCRIPT
 #define MACRO_SCRIPT "[airburst ace airburst pfh.sqf] "   //Addition
 
 (_this select 0) params ["_vehicle", "_projectile", "_zeroing",["_subMunitionClass","ACE_B_35mm_ABM_Helper"]];  //Addition
