@@ -2,6 +2,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban : CH252_Helmet_Standard
 {
 	displayName="[34th] CH252 Urban";
 	author="Harrison";
+	tcp_visrRscTitlesClass = "RscTCPVisrODST";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
@@ -23,6 +24,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece : CH252_Helmet_EyePie
 {
 	displayName="[34th] CH252 Urban (Green Eye Piece)";
 	author="Harrison";
+	tcp_visrRscTitlesClass = "RscTCPVisrODST";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
@@ -133,6 +135,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses : CH252_Helmet_Vi
 {
 	displayName="[34th] CH252 Urban (Orange Visor Glasses)";
 	author="Harrison";
+	tcp_visrRscTitlesClass = "RscTCPVisrODST";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperHelmet.paa",
@@ -244,6 +247,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic : CH252_Helmet_Standard
 {
 	displayName="[34th] CH252 Urban (Medic)";
 	author="Harrison";
+	tcp_visrRscTitlesClass = "RscTCPVisrODST";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
@@ -265,6 +269,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece : CH252_Helmet_
 {
 	displayName="[34th] CH252 Urban (Medic) (Green Eye Piece)";
 	author="Harrison";
+	tcp_visrRscTitlesClass = "RscTCPVisrODST";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
@@ -283,7 +288,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece : CH252_Helmet_
 		eyewear_color = "green";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece_Blue : CH252_Helmet_EyePiece
+class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece_Blue : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece
 {
 	displayName="[34th] CH252 Urban (Medic) (Blue Eye Piece)";
 	author="Harrison";
@@ -305,7 +310,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece_Blue : CH252_He
 		eyewear_color = "blue";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece_Orange : CH252_Helmet_EyePiece
+class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece_Orange : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece
 {
 	displayName="[34th] CH252 Urban (Medic) (Orange Eye Piece)";
 	author="Harrison";
@@ -327,7 +332,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece_Orange : CH252_
 		eyewear_color = "orange";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece_Red : CH252_Helmet_EyePiece
+class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece_Red : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece
 {
 	displayName="[34th] CH252 Urban (Medic) (Red Eye Piece)";
 	author="Harrison";
@@ -349,7 +354,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece_Red : CH252_Hel
 		eyewear_color = "red";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece_Purple : CH252_Helmet_EyePiece
+class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece_Purple : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece
 {
 	displayName="[34th] CH252 Urban (Medic) (Purple Eye Piece)";
 	author="Harrison";
@@ -375,6 +380,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses : CH252_Hel
 {
 	displayName="[34th] CH252 Urban (Medic) (Orange Visor Glasses)";
 	author="Harrison";
+	tcp_visrRscTitlesClass = "RscTCPVisrODST";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\urban\Medic_Base_TrooperHelmet.paa",
@@ -393,7 +399,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses : CH252_Hel
 		eyewear_color = "orange";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses_Blue : CH252_Helmet_VisorGlasses
+class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses_Blue : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses
 {
 	displayName="[34th] CH252 Urban (Medic) (Blue Visor Glasses)";
 	author="Harrison";
@@ -415,7 +421,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses_Blue : CH25
 		eyewear_color = "blue";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses_Green : CH252_Helmet_VisorGlasses
+class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses_Green : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses
 {
 	displayName="[34th] CH252 Urban (Medic) (Green Visor Glasses)";
 	author="Harrison";
@@ -437,7 +443,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses_Green : CH2
 		eyewear_color = "green";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses_Purple : CH252_Helmet_VisorGlasses
+class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses_Purple : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses
 {
 	displayName="[34th] CH252 Urban (Medic) (Purple Visor Glasses)";
 	author="Harrison";
@@ -459,7 +465,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses_Purple : CH
 		eyewear_color = "purple";
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses_Red : CH252_Helmet_VisorGlasses
+class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses_Red : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses
 {
 	displayName="[34th] CH252 Urban (Medic) (Red Visor Glasses)";
 	author="Harrison";
