@@ -20,6 +20,7 @@ class CfgPatches
 			"19thMD_Vests_Kelp", // UNSC Foundries
 			"PhoenixSystems_Exosuits", // E.P.S.M ExoMod Remastered
 			"NSWep_Weapons", //UNSC Naval Special Weapons
+			"V_FZ_Armor", // Fireteam Zulu
 		};
 	};
 };
