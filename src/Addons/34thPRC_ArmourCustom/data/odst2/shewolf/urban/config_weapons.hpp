@@ -19,7 +19,7 @@ class 34thPRC_ArmourCustom_ODST2_Shewolf_CH252D_CustomVisor_Urban_dp : 34thPRC_A
 {
 	displayName="[34th] CH252D Urban 'Shewolf' (Custom Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\shewolf\urban\shewolf_odst_helmet_urban.paa",

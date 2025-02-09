@@ -51,7 +51,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban_dp : 34thPRC_ArmourS
 {
 	displayName="[34th] CH252D Urban (Silver Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Helmet.paa",// Helmet Texture
@@ -71,7 +71,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_RedVisor_Urban_dp : 34thPRC_ArmourStan
 {
 	displayName="[34th] CH252D Urban (Red Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Helmet.paa",// Helmet Texture
@@ -91,7 +91,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_GoldVisor_Urban_dp : 34thPRC_ArmourSta
 {
 	displayName="[34th] CH252D Urban (Gold Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Helmet.paa",// Helmet Texture

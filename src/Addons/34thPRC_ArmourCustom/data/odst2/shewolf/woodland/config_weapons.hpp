@@ -19,7 +19,7 @@ class 34thPRC_ArmourCustom_ODST2_Shewolf_CH252D_CustomVisor_Woodland_dp : 34thPR
 {
 	displayName="[34th] CH252D Woodland 'Shewolf' (Custom Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\shewolf\woodland\shewolf_odst_helmet_woodland.paa",
