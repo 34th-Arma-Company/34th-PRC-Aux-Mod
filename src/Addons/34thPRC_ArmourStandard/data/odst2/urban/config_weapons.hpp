@@ -2,6 +2,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban : CH252D_Helmet
 {
 	displayName="[34th] CH252D Urban (Silver Visor)";
 	author="Over Yandere";
+	tcp_visrRscTitlesClass = "RscTCPVisrODST";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Helmet.paa",
