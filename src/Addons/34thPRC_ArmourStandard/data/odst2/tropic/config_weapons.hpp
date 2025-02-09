@@ -50,7 +50,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Tropic_dp : 34thPRC_Armour
 {
 	displayName="[34th] CH252D Tropic (Silver Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Helmet.paa",// Helmet Texture
@@ -70,7 +70,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_RedVisor_Tropic_dp : 34thPRC_ArmourSta
 {
 	displayName="[34th] CH252D Tropic (Red Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Helmet.paa",// Helmet Texture
@@ -90,7 +90,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_GoldVisor_Tropic_dp : 34thPRC_ArmourSt
 {
 	displayName="[34th] CH252D Tropic (Gold Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Helmet.paa",// Helmet Texture

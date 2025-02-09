@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - All of our helmets should now have the TCP HUD available
 ### Fix
 - Airburst Rifle: short description spelling, script now uses #undef to prevent potential for unexpected override, sound files now have file endings in their path
+- Error message popup when depolarising helmets
 
 ## 0.24.2
 ### Fix

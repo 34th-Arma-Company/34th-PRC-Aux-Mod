@@ -19,7 +19,7 @@ class 34thPRC_ArmourCustom_ODST2_Shewolf_CH252D_CustomVisor_Tropic_dp : 34thPRC_
 {
 	displayName="[34th] CH252D Tropic 'Shewolf' (Custom Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\shewolf\tropic\shewolf_odst_helmet_tropic.paa",
