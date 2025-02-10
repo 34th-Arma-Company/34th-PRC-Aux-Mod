@@ -19,7 +19,7 @@ class 34thPRC_ArmourCustom_ODST2_Vasya_CH252D_CustomVisor_Arid_dp : 34thPRC_Armo
 {
 	displayName="[34th] CH252D Arid 'Vasya' (Custom Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\vasya\arid\vasya_odst_helmet_arid.paa",

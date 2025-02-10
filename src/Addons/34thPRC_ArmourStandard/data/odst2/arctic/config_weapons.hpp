@@ -50,7 +50,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Arctic_dp : 34thPRC_Armour
 {
 	displayName="[34th] CH252D Arctic (Silver Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Helmet.paa",// Helmet Texture
@@ -70,7 +70,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_RedVisor_Arctic_dp : 34thPRC_ArmourSta
 {
 	displayName="[34th] CH252D Arctic (Red Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Helmet.paa",// Helmet Texture
@@ -90,7 +90,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_GoldVisor_Arctic_dp : 34thPRC_ArmourSt
 {
 	displayName="[34th] CH252D Arctic (Gold Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\odst2\arctic\34th_Arctic_ODST_Helmet.paa",// Helmet Texture

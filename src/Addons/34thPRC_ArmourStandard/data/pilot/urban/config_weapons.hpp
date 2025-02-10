@@ -3,6 +3,7 @@ class 34thPRC_ArmouStandard_Pilot_IHADSS_Helmet_Urban : DMNS_IHADSS_HELMET_01
 {
 	author="Over Yandere";
 	displayName="[34th] IHADSS Helmet (Urban)";
+	tcp_visrRscTitlesClass = "RscTCPVisrODST";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\pilot\pilot_helmet_addons.paa",

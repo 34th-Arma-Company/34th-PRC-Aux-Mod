@@ -50,7 +50,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Woodland_dp : 34thPRC_Armo
 {
 	displayName="[34th] CH252D Woodland (Silver Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Helmet.paa",// Helmet Texture
@@ -70,7 +70,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_RedVisor_Woodland_dp : 34thPRC_ArmourS
 {
 	displayName="[34th] CH252D Woodland (Red Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Helmet.paa",// Helmet Texture
@@ -90,7 +90,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_GoldVisor_Woodland_dp : 34thPRC_Armour
 {
 	displayName="[34th] CH252D Woodland (Gold Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\odst2\woodland\34th_Woodland_ODST_Helmet.paa",// Helmet Texture

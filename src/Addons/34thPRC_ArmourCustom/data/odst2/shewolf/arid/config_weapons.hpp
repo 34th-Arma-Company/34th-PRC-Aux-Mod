@@ -19,7 +19,7 @@ class 34thPRC_ArmourCustom_ODST2_Shewolf_CH252D_CustomVisor_Arid_dp : 34thPRC_Ar
 {
 	displayName="[34th] CH252D Arid 'Shewolf' (Custom Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\shewolf\arid\shewolf_odst_helmet_arid.paa",
