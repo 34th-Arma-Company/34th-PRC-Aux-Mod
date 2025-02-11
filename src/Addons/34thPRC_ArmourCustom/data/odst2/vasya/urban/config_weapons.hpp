@@ -39,37 +39,6 @@ class 34thPRC_ArmourCustom_ODST2_Vasya_M52_D_Urban : 34thPRC_ArmourStandard_ODST
 {
 	displayName="[34th] M52-D Combat Armour 'Vasya' Urban";
 	author="Over Yandere";
-	hiddenSelectionsMaterials[]=
-	{
-		"",
-		"",
-		"",
-		"",
-		"34thPRC_ArmourCustom\data\odst2\vasya\vasya_vest.rvmat",
-		"34thPRC_ArmourCustom\data\odst2\vasya\vasya_vest.rvmat",
-		"34thPRC_ArmourCustom\data\odst2\vasya\vasya_vest.rvmat",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-		"",
-	};
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\vasya\urban\Vasya_odst_cqb_urban.paa", //CQB Left
