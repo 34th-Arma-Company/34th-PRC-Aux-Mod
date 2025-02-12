@@ -7,9 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 ### Updated
-- Updated base ODST armour textures
-### New
-- rvmat files added for each part of our ODST armour
+- Updated base ODST armour textures and marierials
+
 
 ## 0.24.3
 ### Updated
