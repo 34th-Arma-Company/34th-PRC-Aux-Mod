@@ -51,7 +51,7 @@ class 34thPRC_ArmourStandard_ODST_M52_Rucksack_Radio_Woodland : 34thPRC_ArmourSt
 		"34thPRC_ArmourStandard\data\odst2\woodland\34th_odst_rucksack_woodland.paa",
 		"MA_Armor\data\Backpacks\M52_Rucksack\Straps_CO.paa"
 	};
-		class XtdGearInfo
+	class XtdGearInfo
 	{
 		model="34thPRC_ArmourStandard_ODST_M52_Rucksack_Urban";
 		variant="r";
