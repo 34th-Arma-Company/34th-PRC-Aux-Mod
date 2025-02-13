@@ -11,6 +11,7 @@ class CfgPatches
 			"MA_Armor",	// Misriah Armory
 			"34thPRC_Overrides", // 34th PRC Aux Mod
 			"DMNS_Units", //UNSC Foundries
+			"A3_Characters_F_TCP_BLUFOR_UNSC_Headgear_helmet_CH252A", //TCP ODST Helm
 		};
 	};
 };

@@ -6,6 +6,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+### Updated
+- Updated base ODST armour textures and marierials
+
+
+## 0.24.3
+### Updated
+- Series 9[B] SOLA Jetpack(KJW's Jetpacks) balance pass. Functions very closely to the Halo: Reach Jetpack now.
+- Series 9[X] SOLA Thruster Pack(Scion Conflict) will remain an option as 'experimental' escape & evasion equipment.
+- All of our helmets should now have the TCP HUD available
+### Fix
+- Airburst Rifle: short description spelling, script now uses #undef to prevent potential for unexpected override, sound files now have file endings in their path
+- Error message popup when depolarising helmets
 
 ## 0.24.2
 ### Fix

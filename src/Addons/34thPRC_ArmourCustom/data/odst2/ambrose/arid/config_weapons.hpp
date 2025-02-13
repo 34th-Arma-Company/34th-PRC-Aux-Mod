@@ -70,7 +70,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Arid_dp : 34thPRC_Ar
 {
 	displayName="[34th] CH252D Arid 'Ambrose' (Silver Visor)";
 	author="Ambrose";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\ambrose\arid\ambrose_odst_helmet_arid.paa",// Helmet Texture
@@ -90,7 +90,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_RedVisor_Arid_dp : 34thPRC_Armou
 {
 	displayName="[34th] CH252D Arid 'Ambrose' (Red Visor)";
 	author="Ambrose";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\ambrose\arid\ambrose_odst_helmet_arid.paa",// Helmet Texture
@@ -110,7 +110,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_GoldVisor_Arid_dp : 34thPRC_Armo
 {
 	displayName="[34th] CH252D Arid 'Ambrose' (Gold Visor)";
 	author="Ambrose";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\ambrose\arid\ambrose_odst_helmet_arid.paa",// Helmet Texture
@@ -130,7 +130,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_CustomVisor_Arid_dp :  34thPRC_A
 {
 	displayName="[34th] CH252D Arid 'Ambrose' (Custom Visor)";
 	author="Ambrose";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\ambrose\arid\ambrose_odst_helmet_arid.paa",// Helmet Texture

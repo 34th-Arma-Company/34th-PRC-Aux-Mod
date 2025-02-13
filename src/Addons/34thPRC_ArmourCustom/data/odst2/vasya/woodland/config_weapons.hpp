@@ -19,7 +19,7 @@ class 34thPRC_ArmourCustom_ODST2_Vasya_CH252D_CustomVisor_Woodland_dp : 34thPRC_
 {
 	displayName="[34th] CH252D Woodland 'Vasya' (Custom Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\vasya\woodland\vasya_odst_helmet_woodland.paa",

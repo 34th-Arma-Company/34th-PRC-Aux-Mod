@@ -70,7 +70,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Arctic_dp : 34thPRC_
 {
 	displayName="[34th] CH252D Arctic 'Yandere' (Silver Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\yandere\arctic\yandere_odst_helmet_arctic.paa",// Helmet Texture
@@ -90,7 +90,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_RedVisor_Arctic_dp : 34thPRC_Arm
 {
 	displayName="[34th] CH252D Arctic 'Yandere' (Red Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\yandere\arctic\yandere_odst_helmet_arctic.paa",// Helmet Texture
@@ -110,7 +110,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Arctic_dp : 34thPRC_Ar
 {
 	displayName="[34th] CH252D Arctic 'Yandere' (Gold Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\yandere\arctic\yandere_odst_helmet_arctic.paa",// Helmet Texture
@@ -130,7 +130,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Arctic_dp :  34thPRC
 {
 	displayName="[34th] CH252D Arctic 'Yandere' (Custom Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\yandere\arctic\yandere_odst_helmet_arctic.paa",// Helmet Texture

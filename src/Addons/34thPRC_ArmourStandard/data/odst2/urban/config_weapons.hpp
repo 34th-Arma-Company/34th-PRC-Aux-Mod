@@ -2,10 +2,16 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban : CH252D_Helmet
 {
 	displayName="[34th] CH252D Urban (Silver Visor)";
 	author="Over Yandere";
+	tcp_visrRscTitlesClass = "RscTCPVisrODST";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Helmet.paa",
 		"34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Silvervisor.paa"
+	};
+	hiddenSelectionsMaterials[]=
+	{
+		"34thPRC_ArmourStandard\data\odst2\34th_odst_helmet.rvmat",
+		"34thPRC_ArmourStandard\data\odst2\34th_odst_visor.rvmat"
 	};
 	class XtdGearInfo
 	{
@@ -50,7 +56,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban_dp : 34thPRC_ArmourS
 {
 	displayName="[34th] CH252D Urban (Silver Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Helmet.paa",// Helmet Texture
@@ -70,7 +76,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_RedVisor_Urban_dp : 34thPRC_ArmourStan
 {
 	displayName="[34th] CH252D Urban (Red Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Helmet.paa",// Helmet Texture
@@ -90,7 +96,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_GoldVisor_Urban_dp : 34thPRC_ArmourSta
 {
 	displayName="[34th] CH252D Urban (Gold Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Helmet.paa",// Helmet Texture
@@ -141,6 +147,18 @@ class 34thPRC_ArmourStandard_ODST2_M52_Urban : M52_ODST_Vest_Standard_A
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+	};
+	hiddenSelectionsMaterials[]=
+	{
+		"34thPRC_ArmourStandard\data\odst2\cqb_shoulders.rvmat",
+		"34thPRC_ArmourStandard\data\odst2\cqb_shoulders.rvmat",
+		"34thPRC_ArmourStandard\data\odst2\marksman_shoulders.rvmat",
+		"34thPRC_ArmourStandard\data\odst2\marksman_shoulders.rvmat",
+		"34thPRC_ArmourStandard\data\odst2\odst_vest.rvmat",
+		"34thPRC_ArmourStandard\data\odst2\odst_vest.rvmat",
+		"34thPRC_ArmourStandard\data\odst2\odst_vest.rvmat",
+		"34thPRC_ArmourStandard\data\odst2\odst_shoulders.rvmat",
+		"34thPRC_ArmourStandard\data\odst2\odst_shoulders.rvmat",
 	};
 	class XtdGearInfo
 	{
