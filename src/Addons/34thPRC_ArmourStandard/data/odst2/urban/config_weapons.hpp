@@ -386,7 +386,49 @@ class 34thPRC_ArmourStandard_ODST2_M52_D_Urban : M52_ODST_Vest_Standard_D
 {
 	displayName="[34th] M52-D Combat Armour Urban";
 	author="Over Yandere";
-			hiddenSelections[]=
+	hiddenSelections[]=
+	{
+		"Camo1",
+		"Camo2",
+		"Camo3",
+		"Camo4",
+		"Camo5",
+		"Camo6",
+		"Camo7",
+		"Camo8",
+		"Camo9",
+		"Camo10",
+		"Camo11",
+		"Camo12",
+		"Camo13",
+		"Camo14",
+		"Camo15",
+		"Camo16",
+		"Camo17",
+		"Camo18",
+		"Camo19",
+		"Camo20",
+		"Camo21",
+		"Camo22",
+		"Camo23",
+		"Camo24",
+		"Camo25",
+		"Camo26",
+		"Camo27",
+		"Camo28",
+		"Camo29",
+		"CQB_Left",
+		"CQB_Right",
+		"Marksman_Left",
+		"Marksman_Right",
+		"LShoulderRadio",
+		"RShoulderRadio",
+		"WaistSLeft",
+		"WaistSRight"
+	};
+	class ItemInfo: ItemInfo
+	{
+		hiddenSelections[]=
 		{
 			"Camo1",
 			"Camo2",
@@ -423,54 +465,12 @@ class 34thPRC_ArmourStandard_ODST2_M52_D_Urban : M52_ODST_Vest_Standard_D
 			"Marksman_Right",
 			"LShoulderRadio",
 			"RShoulderRadio",
+			"TorsoPMLeft",
+			"TorsoPMRight",
 			"WaistSLeft",
 			"WaistSRight"
 		};
-		class ItemInfo: ItemInfo
-		{
-			hiddenSelections[]=
-			{
-				"Camo1",
-				"Camo2",
-				"Camo3",
-				"Camo4",
-				"Camo5",
-				"Camo6",
-				"Camo7",
-				"Camo8",
-				"Camo9",
-				"Camo10",
-				"Camo11",
-				"Camo12",
-				"Camo13",
-				"Camo14",
-				"Camo15",
-				"Camo16",
-				"Camo17",
-				"Camo18",
-				"Camo19",
-				"Camo20",
-				"Camo21",
-				"Camo22",
-				"Camo23",
-				"Camo24",
-				"Camo25",
-				"Camo26",
-				"Camo27",
-				"Camo28",
-				"Camo29",
-				"CQB_Left",
-				"CQB_Right",
-				"Marksman_Left",
-				"Marksman_Right",
-				"LShoulderRadio",
-				"RShoulderRadio",
-				"TorsoPMLeft",
-				"TorsoPMRight",
-				"WaistSLeft",
-				"WaistSRight"
-			};
-		};
+	};
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_CQB.paa", //CQB Left
