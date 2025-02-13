@@ -1,5 +1,5 @@
 //Custom M52 Group 1: Yandere, Cappy, Ambrose, Vasya
-class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban : 34thPRC_ArmourStandard_ODST2_M52_Urban
+class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban
 {
 	label = "[34thPRC] ODST Custom Armors";
 	author = "34th PRC Modding Team, Over Yandere";
@@ -24,6 +24,78 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban : 34thPRC_ArmourStandard_ODST
 		class vasya
 		{
 			label = "Vasya";
+		};
+	};
+	class camo
+	{
+		alwaysSelectable = 1;
+		changeingame = 0;
+		values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
+		class urban
+		{
+			label = "Urban";
+		};
+		class arctic
+		{
+			label = "Arctic";
+		};
+		class arid
+		{
+			label = "Arid";
+		};
+		class tropic
+		{
+			label = "Tropic";
+		};
+		class woodland
+		{
+			label = "Woodland";
+		};
+	};
+	class variant
+	{
+		alwaysSelectable = 1;
+		changeingame = 0;
+		values[] = {"a", "b", "c", "d", "medic_a", "medic_b", "medic_c", "medic_d", "cqb", "marksman"};
+		class a
+		{
+			label = "M52-A";
+		};
+		class b
+		{
+			label = "M52-B";
+		};
+		class c
+		{
+			label = "M52-C";
+		};
+		class d
+		{
+			label = "M52-D";
+		};
+		class medic_a
+		{
+			label = "Medic-A";
+		};
+		class medic_b
+		{
+			label = "Medic-B";
+		};
+		class medic_c
+		{
+			label = "Medic-C";
+		};
+		class medic_d
+		{
+			label = "Medic-D";
+		};
+		class cqb
+		{
+			label = "CQB";
+		};
+		class marksman
+		{
+			label = "Marksman";
 		};
 	};
 };
