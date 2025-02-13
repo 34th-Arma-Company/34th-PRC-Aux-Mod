@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - New armor variant 'M52-D Combat Armor' for the ODSTs
 - Vasya custom armor
+### Updated
+- Updated base ODST armour textures and marierials
 
 ## 0.24.3
 ### Updated
