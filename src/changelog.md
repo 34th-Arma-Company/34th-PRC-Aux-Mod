@@ -8,7 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Updated
 - Updated base ODST armour textures and marierials
-
+### Removed
+- Old ODST Gear
 
 ## 0.24.3
 ### Updated
