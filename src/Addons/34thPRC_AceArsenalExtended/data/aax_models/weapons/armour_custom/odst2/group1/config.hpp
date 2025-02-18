@@ -1,7 +1,7 @@
 //Custom M52 Group 1: Yandere, Cappy, Ambrose, Vasya
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban
 {
-	label = "[34thPRC] ODST Custom Armors";
+	label = "[34th] ODST Custom Armors";
 	author = "34th PRC Modding Team, Over Yandere";
 	options[] = {"player", "camo", "variant"};
 	class player
@@ -103,7 +103,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban
 //Custom ODST Helmets Group 1: Yandere, Ambrose, Shewolf, Vasya
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban
 {
-	label = "[34thPRC] ODST CH252D Custom Helmets";
+	label = "[34th] ODST CH252D Custom Helmets";
 	author = "34th PRC Modding Team, Over Yandere";
 	options[] = {"player","camo", "visor"};
 	class player
@@ -163,7 +163,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban
 		{
 			label = "Silver";
 		};
-		class maroon
+		class red
 		{
 			label = "Red";
 		};
