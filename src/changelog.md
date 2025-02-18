@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Updated
 - Updated base ODST armour textures and marierials
+- Updated AAX Model names to be prefixed as [34th]
 
 
 ## 0.24.3
