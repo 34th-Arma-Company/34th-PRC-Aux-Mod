@@ -202,7 +202,8 @@ class 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban
 		{
 			label="Luther";
 		};
-	};class helmet
+	};
+	class helmet
 	{
 		alwaysSelectable=1;
 		changeingame=0;
