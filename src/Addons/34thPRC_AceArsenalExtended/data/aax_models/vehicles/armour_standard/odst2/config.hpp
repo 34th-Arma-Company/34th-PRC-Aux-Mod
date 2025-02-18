@@ -36,20 +36,20 @@ class 34thPRC_ArmourStandard_ODST_M52_Rucksack_Urban
 		label="Model";
 		alwaysSelectable=1;
 		changeingame=0;
-		values[]= {"m52","c","g","r"};
-		class m52
+		values[]= {"standard","medic","gunbag","radio"};
+		class standard
 		{
 			label="Standard";
 		};
-		class c
+		class medic
 		{
 			label="Corpsman";
 		};
-		class g
+		class gunbag
 		{
 			label="Gunbag";
 		};
-		class r
+		class radio
 		{
 			label="RTO/JTAC";
 		};

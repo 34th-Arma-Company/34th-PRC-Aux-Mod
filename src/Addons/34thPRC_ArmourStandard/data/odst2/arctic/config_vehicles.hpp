@@ -9,7 +9,7 @@ class 34thPRC_ArmourStandard_ODST_M52_Rucksack_Arctic : 34thPRC_ArmourStandard_O
 	class XtdGearInfo
 	{
 		model="34thPRC_ArmourStandard_ODST_M52_Rucksack_Urban";
-		variant="m52";
+		variant="standard";
 		camo="arctic";
 	};
 };
@@ -24,7 +24,7 @@ class 34thPRC_ArmourStandard_ODST_M52_Rucksack_Medic_Arctic : 34thPRC_ArmourStan
 	class XtdGearInfo
 	{
 		model="34thPRC_ArmourStandard_ODST_M52_Rucksack_Urban";
-		variant="c";
+		variant="medic";
 		camo="arctic";
 	};
 };
@@ -39,7 +39,7 @@ class 34thPRC_ArmourStandard_ODST_M52_Rucksack_Gunbag_Arctic : 34thPRC_ArmourSta
 	class XtdGearInfo
 	{
 		model="34thPRC_ArmourStandard_ODST_M52_Rucksack_Urban";
-		variant="g";
+		variant="gunbag";
 		camo="arctic";
 	};
 };
@@ -54,7 +54,7 @@ class 34thPRC_ArmourStandard_ODST_M52_Rucksack_Radio_Arctic : 34thPRC_ArmourStan
 		class XtdGearInfo
 	{
 		model="34thPRC_ArmourStandard_ODST_M52_Rucksack_Urban";
-		variant="r";
+		variant="radio";
 		camo="arctic";
 	};
 };
