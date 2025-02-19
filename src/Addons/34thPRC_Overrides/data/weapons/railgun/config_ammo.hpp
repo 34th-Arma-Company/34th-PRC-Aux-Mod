@@ -37,8 +37,7 @@ class 34thPRC_Overrides_Weapons_Railgun_HE_16x65mm: 34thPRC_Overrides_Weapons_Ra
 	ace_frag_charge=800;
 	ace_frag_gurney_c=2440;
 	ace_frag_gurney_k="1/2";
-	ace_rearm_caliber=39;
-	ace_vehicle_damage_incendiary=0.80000001;
+	ace_vehicle_damage_incendiary=0.75;
 	explosionEffects="ExploAmmoExplosion";
 	craterEffects="ExploAmmoCrater";
 	CraterWaterEffects="ImpactEffectsWaterHE";
