@@ -17,6 +17,7 @@
  */
 
 #include "\34thPRC_Functions\M99A2S3A\_includes\defines_macros.hpp"
+#undef MACRO_SCRIPT
 #define MACRO_SCRIPT "[airburst fired_eh.sqf] "
 
 params ["_unit", "_weapon", "_muzzle", "_mode", "_ammo", "_magazine", "_projectile", "_gunner"];

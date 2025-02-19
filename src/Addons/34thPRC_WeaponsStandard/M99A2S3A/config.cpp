@@ -26,7 +26,7 @@ class CfgWeapons
 	class 34thPRC_M99A2S3A : OPTRE_M99A2S3
 	{
 		baseWeapon="34thPRC_M99A2S3A";
-		displayName="[34th] M99A2S3A 'Stanchion Airbusrt'";
+		displayName="[34th] M99A2S3A 'Stanchion Airburst'";
 		magazines[]=
 		{
 			"34th_M99A2S3A_mag",
@@ -101,28 +101,28 @@ class CfgAmmo
 		explosionSoundEffect="DefaultExplosion";
 		soundHit1[]=
 		{
-			"A3\Sounds_F\arsenal\explosives\Grenades\Explosion_gng_grenades_01",
+			"A3\Sounds_F\arsenal\explosives\Grenades\Explosion_gng_grenades_01.wss",
 			3.1622801,
 			1,
 			1500
 		};
 		soundHit2[]=
 		{
-			"A3\Sounds_F\arsenal\explosives\Grenades\Explosion_gng_grenades_02",
+			"A3\Sounds_F\arsenal\explosives\Grenades\Explosion_gng_grenades_02.wss",
 			3.1622801,
 			1,
 			1500
 		};
 		soundHit3[]=
 		{
-			"A3\Sounds_F\arsenal\explosives\Grenades\Explosion_gng_grenades_03",
+			"A3\Sounds_F\arsenal\explosives\Grenades\Explosion_gng_grenades_03.wss",
 			3.1622801,
 			1,
 			1500
 		};
 		soundHit4[]=
 		{
-			"A3\Sounds_F\arsenal\explosives\Grenades\Explosion_gng_grenades_04",
+			"A3\Sounds_F\arsenal\explosives\Grenades\Explosion_gng_grenades_04.wss",
 			3.1622801,
 			1,
 			1500

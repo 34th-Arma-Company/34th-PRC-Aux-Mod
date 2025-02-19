@@ -152,25 +152,25 @@ class RscButton
 	colorBorder[]={0,0,0,1};
 	soundEnter[]=
 	{
-		"\A3\ui_f\data\sound\RscButton\soundEnter",
+		"\A3\ui_f\data\sound\RscButton\soundEnter.wss",
 		0.090000004,
 		1
 	};
 	soundPush[]=
 	{
-		"\A3\ui_f\data\sound\RscButton\soundPush",
+		"\A3\ui_f\data\sound\RscButton\soundPush.wss",
 		0.090000004,
 		1
 	};
 	soundClick[]=
 	{
-		"\A3\ui_f\data\sound\RscButton\soundClick",
+		"\A3\ui_f\data\sound\RscButton\soundClick.wss",
 		0.090000004,
 		1
 	};
 	soundEscape[]=
 	{
-		"\A3\ui_f\data\sound\RscButton\soundEscape",
+		"\A3\ui_f\data\sound\RscButton\soundEscape.wss",
 		0.090000004,
 		1
 	};
