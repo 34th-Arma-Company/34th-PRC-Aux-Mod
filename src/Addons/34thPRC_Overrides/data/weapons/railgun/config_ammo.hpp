@@ -1,39 +1,11 @@
-class BulletBase;
-class 34thPRC_Overrides_Weapons_Railgun_16x65mm: BulletBase
+class OPTRE_FC_16x65mm_Slug;
+class 34thPRC_Overrides_Weapons_Railgun_16x65mm: OPTRE_FC_16x65mm_Slug
 	{
-		airFriction=-10;
-		coefGravity=0;
 		caliber=20;
-		explosive=0.3;
-		hit=300;
+		hit=275;
 		indirectHit=20;
 		indirectHitRange=1;
-		typicalSpeed=7203;
-		sideAirFriction=0;
-		simulation="shotBullet";
-		suppressionRadiusBulletClose=100;
-		suppressionRadiusHit=50;
-		timeToLive=10;
-		tracerStartTime=0;
-		supersonicCrackNear[]=
-		{
-			"A3\sounds_f\weapons\hits\sscrack1",
-			1,
-			1,
-			40
-		};
-		supersonicCrackFar[]=
-		{
-			"A3\sounds_f\weapons\hits\sscrack2",
-			1,
-			1,
-			100
-		};
-		visibleFire=100;
-		visibleFireTime=300;
-		model="\A3\Weapons_f\Data\bullettracer\shell_tracer_white";
-		craterEffects="";
-		CraterWaterEffects="";
+		explosive=0.3;
 		explosionEffects="ExploAmmoExplosion";
 		explosionEffectsDir="explosionDir";
 		ace_frag_enabled=1;
@@ -45,13 +17,13 @@ class 34thPRC_Overrides_Weapons_Railgun_16x65mm: BulletBase
 		ace_frag_charge=800;
 		ace_frag_gurney_c=2440;
 		ace_frag_gurney_k="1/2";
+		tracerStartTime=0.5;
 	};
 
 class 34thPRC_Overrides_Weapons_Railgun_HE_16x65mm: 34thPRC_Overrides_Weapons_Railgun_16x65mm
 	{
-		typicalSpeed=7203;
+		caliber=8;
 		hit=100;
-		caliber=5;
 		indirectHit=75;
 		indirectHitRange=6;
 		explosive=1;
