@@ -1,6 +1,6 @@
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light
 {
-	label = "[34thPRC] Uniforms";
+	label = "[34th] Uniforms";
 	author = "34th PRC Modding Team, J. Koko";
 	options[] = {"camo", "collar", "variant"};
 	class variant
@@ -76,7 +76,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light
 // MA CH252 Helmets
 class 34thPRC_ArmourStandard_Marines2_CH252_Urban
 {
-	label = "[34thPRC] CH252 Helmets";
+	label = "[34th] CH252 Helmets";
 	author = "34th PRC Modding Team, J. Koko";
 	options[] = {"camo", "eyewear", "medic", "eyewear_color"};
 	class camo
