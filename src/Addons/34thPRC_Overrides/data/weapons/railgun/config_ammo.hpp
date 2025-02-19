@@ -22,7 +22,7 @@ class 34thPRC_Overrides_Weapons_Railgun_HE_16x65mm: 34thPRC_Overrides_Weapons_Ra
 	ace_frag_enabled=1;
 	ace_frag_classes[]=
 	{
-	"ace_frag_large"
+		"ace_frag_large",
 	};
 	ace_frag_metal=1000;
 	ace_frag_charge=800;
