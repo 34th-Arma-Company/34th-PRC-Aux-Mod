@@ -15,6 +15,7 @@ class 34thPRC_Overrides_Weapons_Railgun_16x65mm_3RoundAPSlug: 34thPRC_Overrides_
 		author="Vasya"
 		displayName="3Rnd 16x65mm AP Slug";
 		displayNameShort="3rnd 16x65mm Slug";
+		descriptionShort="Three 16x65mm Slugs with penetrator tips for rapid fire, anti-vehicle capability";
 		count=3;
 		mass=30;
 	};
