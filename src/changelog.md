@@ -11,7 +11,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Vasya custom armor
 ### Updated
 - Updated base ODST armour textures and marierials
-- Updated AAX Model names to be prefixed as [34th]
+- Updated base BDU and plates
+- AAX Model names to be prefixed as [34th]
 
 ## 0.24.3
 ### Updated
