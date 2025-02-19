@@ -2,7 +2,7 @@ class OPTRE_FC_Railgun_Slug;
 class 34thPRC_Overrides_Weapons_Railgun_16x65mm_APSlug: OPTRE_FC_Railgun_Slug
 	{
 		author="Vasya"
-		ammo="34thPRC_Overrides_Weapons_Railgun_16x65mm";
+		ammo="34thPRC_Overrides_Weapons_Railgun_AP_16x65mm";
 		displayName="1Rnd 16x65mm AP Slug";
 		displayNameShort="1rnd 16x65mm Slug";
 		descriptionShort="16x65mm Slug with penetrator tip for anti-vehicle capability";

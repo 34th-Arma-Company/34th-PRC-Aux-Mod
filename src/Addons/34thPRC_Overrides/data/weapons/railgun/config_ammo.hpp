@@ -1,5 +1,5 @@
 class OPTRE_FC_16x65mm_Slug;
-class 34thPRC_Overrides_Weapons_Railgun_16x65mm: OPTRE_FC_16x65mm_Slug
+class 34thPRC_Overrides_Weapons_Railgun_AP_16x65mm: OPTRE_FC_16x65mm_Slug
 	{
 		caliber=20;
 		hit=275;
@@ -20,7 +20,7 @@ class 34thPRC_Overrides_Weapons_Railgun_16x65mm: OPTRE_FC_16x65mm_Slug
 		tracerStartTime=0.5;
 	};
 
-class 34thPRC_Overrides_Weapons_Railgun_HE_16x65mm: 34thPRC_Overrides_Weapons_Railgun_16x65mm
+class 34thPRC_Overrides_Weapons_Railgun_HE_16x65mm: 34thPRC_Overrides_Weapons_Railgun_AP_16x65mm
 	{
 		caliber=8;
 		hit=100;
