@@ -6,15 +6,6 @@ class 34thPRC_Overrides_Weapons_Railgun_AP_16x65mm : OPTRE_FC_16x65mm_Slug
 	indirectHit=20;
 	indirectHitRange=1;
 	explosive=0.3;
-	ace_frag_enabled=1;
-	ace_frag_classes[]=
-	{
-	"ace_frag_large"
-	};
-	ace_frag_metal=1000;
-	ace_frag_charge=800;
-	ace_frag_gurney_c=2440;
-	ace_frag_gurney_k="1/2";
 	tracerStartTime=0.5;
 	explosionEffects="ExploAmmoExplosion";
 	craterEffects="ExploAmmoCrater";
