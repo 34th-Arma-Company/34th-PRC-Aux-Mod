@@ -1,7 +1,7 @@
 //Ma ODST Armor New
 class 34thPRC_ArmourStandard_ODST2_M52_Urban
 {
-	label = "[34thPRC] ODST Armors";
+	label = "[34th] ODST Armors";
 	author = "34th PRC Modding Team, Over Yandere";
 	options[] = {"camo", "variant"};
 	class camo
@@ -34,7 +34,7 @@ class 34thPRC_ArmourStandard_ODST2_M52_Urban
 	{
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[] = {"a", "b", "c", "cqb", "marksman", "medic_a", "medic_b", "medic_c"};
+		values[] = {"a", "b", "c", "d", "medic_a", "medic_b", "medic_c", "medic_d", "cqb", "marksman"};
 		class a
 		{
 			label = "M52-A";
@@ -47,13 +47,9 @@ class 34thPRC_ArmourStandard_ODST2_M52_Urban
 		{
 			label = "M52-C";
 		};
-		class cqb
+		class d
 		{
-			label = "CQB";
-		};
-		class marksman
-		{
-			label = "Marksman";
+			label = "M52-D";
 		};
 		class medic_a
 		{
@@ -67,13 +63,25 @@ class 34thPRC_ArmourStandard_ODST2_M52_Urban
 		{
 			label = "Medic-C";
 		};
+		class medic_d
+		{
+			label = "Medic-D";
+		};
+		class cqb
+		{
+			label = "CQB";
+		};
+		class marksman
+		{
+			label = "Marksman";
+		};
 	};
 };
 
 //MA ODST Helmet New
 class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban
 {
-	label = "[34thPRC] ODST CH252D Helmets";
+	label = "[34th] ODST CH252D Helmets";
 	author = "34th PRC Modding Team, Over Yandere";
 	options[] = {"camo", "visor"};
 	class camo
@@ -111,7 +119,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban
 		{
 			label = "Silver";
 		};
-		class maroon
+		class red
 		{
 			label = "Red";
 		};

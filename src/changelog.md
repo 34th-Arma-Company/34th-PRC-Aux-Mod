@@ -6,10 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+### Added
+- New armor variant 'M52-D Combat Armor' for the ODSTs
+- Vasya custom armor
 ### Updated
 - Updated base ODST armour textures and marierials
 - Updated base BDU and plates
-
+- AAX Model names to be prefixed as [34th]
 
 ## 0.24.3
 ### Updated
