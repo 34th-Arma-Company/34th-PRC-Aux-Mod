@@ -1,6 +1,6 @@
 class 34thPRC_ArmourStandard_ODST_M56S_Urban
 {
-	label = "[34thPRC] M56S ODST Rucksack";
+	label = "[34th Old] M56S ODST Rucksack";
 	author = "34th PRC Modding Team";
 	options[] = {"camo"};
 	class camo
@@ -32,7 +32,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Urban
 };
 class 34thPRC_ArmourStandard_ODST_M56S_Urban_Guncase
 {
-	label = "[34thPRC] M56S ODST Guncase";
+	label = "[34th Old] M56S ODST Guncase";
 	author = "34th PRC Modding Team";
 	options[] = {"camo"};
 	class camo
@@ -64,7 +64,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Urban_Guncase
 };
 class 34thPRC_ArmourStandard_ODST_M56S_Urban_Medic
 {
-	label = "[34thPRC] M56S ODST Medic Rucksack";
+	label = "[34th Old] M56S ODST Medic Rucksack";
 	author = "34th PRC Modding Team";
 	options[] = {"camo"};
 	class camo
@@ -96,7 +96,7 @@ class 34thPRC_ArmourStandard_ODST_M56S_Urban_Medic
 };
 class 34thPRC_ArmourStandard_ODST_M56S_Urban_Radio
 {
-	label = "[34thPRC] M56S ODST Radio Rucksack";
+	label = "[34th Old] M56S ODST Radio Rucksack";
 	author = "34th PRC Modding Team";
 	options[] = {"camo"};
 	class camo
