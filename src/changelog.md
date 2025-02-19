@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## 0.25.0
 ### Added
+- New Railgun ammo variants
 - New M52 ODST Rucksack
 - New armor variant 'M52-D Combat Armor' for the ODSTs
 - Vasya custom armor
