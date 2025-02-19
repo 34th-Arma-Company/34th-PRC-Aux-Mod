@@ -31,7 +31,7 @@ foreach ($configBinPath in $configs){
 		Write-Output " Found existing, skipping"
 		continue
 	}
-	D:\SteamLibrary\steamapps\common\Arma` 3` Tools\CfgConvert\CfgConvert.exe -dst $configCppPath $configBinPath | out-null
+	C:\Games\Steam\steamapps\common\Arma` 3` Tools\CfgConvert\CfgConvert.exe -dst $configCppPath $configBinPath | out-null
 }
 
 
