@@ -1,4 +1,4 @@
-class OPTRE_FC_16x65mm_Slug;
+class OPTRE_FC_16x65mm_Slug; // OPTRE_FC_Weapons --> /Ammo/cfgAmmo.hpp
 class 34thPRC_Overrides_Weapons_Railgun_AP_16x65mm: OPTRE_FC_16x65mm_Slug
 	{
 		caliber=20;

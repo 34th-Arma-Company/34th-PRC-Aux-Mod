@@ -1,4 +1,4 @@
-class OPTRE_FC_Railgun_Slug;
+class OPTRE_FC_Railgun_Slug; // OPTRE_FC_Weapons --> /Ammo/cfgMagazines.hpp
 class 34thPRC_Overrides_Weapons_Railgun_16x65mm_APSlug: OPTRE_FC_Railgun_Slug
 	{
 		author="Vasya"

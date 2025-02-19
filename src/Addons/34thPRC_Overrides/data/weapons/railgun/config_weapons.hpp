@@ -1,5 +1,5 @@
-class OPTRE_Rifle_Base;
-class OPTRE_FC_Railgun: OPTRE_Rifle_Base // OPTRE_FC_Weapons_Railgun
+class OPTRE_Rifle_Base; // OPTRE_FC_Weapons --> /Railgun/cfgWeapons.hpp
+class OPTRE_FC_Railgun : OPTRE_Rifle_Base // OPTRE_Weapons --> /ar/cfgWeapons.hpp
 {
 	magazines[]+=
 	{
