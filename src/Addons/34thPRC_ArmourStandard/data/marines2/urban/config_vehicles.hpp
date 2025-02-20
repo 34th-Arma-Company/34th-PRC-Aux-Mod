@@ -109,7 +109,7 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_NoShoulder : MA_Marine_NS_BD
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa",
 		"34thPRC_ArmourStandard\data\marines2\urban\Base_TrooperShoulders.paa"
 	};
-	hiddenSelectionsMaterials[]=
+	/*hiddenSelectionsMaterials[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\rvmats\upperBDU.rvmat",
 		"34thPRC_ArmourStandard\data\marines2\rvmats\LowerBDU.rvmat",
@@ -121,7 +121,7 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_NoShoulder : MA_Marine_NS_BD
 		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat",
 		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat",
 		"34thPRC_ArmourStandard\data\marines2\rvmats\trooperShoulders.rvmat"
-	};
+	};*/
 };
 class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Light_NoCollar: MA_Marine_Light_BDU_NC
 {

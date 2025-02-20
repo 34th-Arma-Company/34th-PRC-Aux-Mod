@@ -6,8 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
-### Hotfix
-- BDU colors and disabled rvmats
+### Updated
+- Balance pass on the Railgun's ammo
+### Fix
+- BDU colors having an oddity on the wrists
+- Disabled BDU rvmats, they will return when they are properally working
 
 ## 0.25.0
 ### Added
