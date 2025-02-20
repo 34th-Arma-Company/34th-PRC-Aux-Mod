@@ -7,7 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 ### Updated
-- Balance pass on the Railgun's ammo.
+- Balance pass on the Railgun's ammo
+### Fix
+- BDU colors having an oddity on the wrists
+- Disabled BDU rvmats, they will return when they are properally working
 
 ## 0.25.0
 ### Added
