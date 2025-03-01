@@ -31,7 +31,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_RedVisor_Urban : 34thPRC_ArmourC
 		camo="urban";
 		visor="red";
 	};
-}
+};
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Urban : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
 {
 	displayName="[34th] CH252D Urban 'Yandere' (Gold Visor)";
@@ -48,7 +48,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Urban : 34thPRC_Armour
 		camo="urban";
 		visor="gold";
 	};
-}
+};
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
 {
 	displayName="[34th] CH252D Urban 'Yandere' (Custom Visor)";
@@ -70,7 +70,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban_dp : 34thPRC_A
 {
 	displayName="[34th] CH252D Urban 'Yandere' (Silver Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_helmet_urban.paa",// Helmet Texture
@@ -90,7 +90,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_RedVisor_Urban_dp : 34thPRC_Armo
 {
 	displayName="[34th] CH252D Urban 'Yandere' (Red Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_helmet_urban.paa",// Helmet Texture
@@ -110,7 +110,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Urban_dp : 34thPRC_Arm
 {
 	displayName="[34th] CH252D Urban 'Yandere' (Gold Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_helmet_urban.paa",// Helmet Texture
@@ -130,7 +130,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban_dp : 34thPRC_A
 {
 	displayName="[34th] CH252D Urban 'Yandere' (Custom Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_helmet_urban.paa",// Helmet Texture
@@ -162,6 +162,25 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_JFO_Custom_Urban : 34thPRC_ArmourStanda
 		model="34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban";
 		player="yandere";
 		helmet="jfo";
+		camo="urban";
+		visor="custom";
+	};
+};
+//Recon
+class 34thPRC_ArmourCustom_ODST2_Yandere_Recon_Custom_Urban : 34thPRC_ArmourStandard_Recon_Helmet_Urban
+{
+	displayName="[34th] Recon Urban 'Yandere' (Custom Visor)";
+	author="Over Yandere";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourCustom\data\odst2\yandere\urban\recon_helmet_urban.paa",
+		"34thPRC_ArmourCustom\data\odst2\yandere\visor\yandere_recon_visor.paa"
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban";
+		player="yandere";
+		helmet="recon";
 		camo="urban";
 		visor="custom";
 	};

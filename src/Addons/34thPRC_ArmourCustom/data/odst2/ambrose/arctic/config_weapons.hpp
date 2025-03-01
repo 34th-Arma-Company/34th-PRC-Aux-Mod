@@ -31,7 +31,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_RedVisor_Arctic : 34thPRC_Armour
 		camo="arctic";
 		visor="red";
 	};
-}
+};
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_GoldVisor_Arctic : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban
 {
 	displayName="[34th] CH252D Arctic 'Ambrose' (Gold Visor)";
@@ -48,7 +48,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_GoldVisor_Arctic : 34thPRC_Armou
 		camo="arctic";
 		visor="gold";
 	};
-}
+};
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_CustomVisor_Arctic : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban
 {
 	displayName="[34th] CH252D Arctic 'Ambrose' (Custom Visor)";
@@ -70,7 +70,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Arctic_dp : 34thPRC_
 {
 	displayName="[34th] CH252D Arctic 'Ambrose' (Silver Visor)";
 	author="Ambrose";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_helmet_arctic.paa",// Helmet Texture
@@ -90,7 +90,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_RedVisor_Arctic_dp : 34thPRC_Arm
 {
 	displayName="[34th] CH252D Arctic 'Ambrose' (Red Visor)";
 	author="Ambrose";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_helmet_arctic.paa",// Helmet Texture
@@ -110,7 +110,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_GoldVisor_Arctic_dp : 34thPRC_Ar
 {
 	displayName="[34th] CH252D Arctic 'Ambrose' (Gold Visor)";
 	author="Ambrose";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_helmet_arctic.paa",// Helmet Texture
@@ -130,7 +130,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_CustomVisor_Arctic_dp :  34thPRC
 {
 	displayName="[34th] CH252D Arctic 'Ambrose' (Custom Visor)";
 	author="Ambrose";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_helmet_arctic.paa",// Helmet Texture

@@ -6,9 +6,68 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+
+# 0.25.1
+### Updated
+- Balance pass on the Railgun's ammo
+### Fix
+- BDU colors having an oddity on the wrists
+- Disabled BDU rvmats, they will return when they are properly working
+
+## 0.25.0
 ### Added
+- New Railgun ammo variants
+- New M52 ODST Rucksack
+- New armor variant 'M52-D Combat Armor' for the ODSTs
+- Vasya custom armor
+### Updated
+- Updated base ODST armour textures and marierials
+- Updated base BDU and plates
+- AAX Model names to be prefixed as [34th]
+
+## 0.24.3
+### Updated
+- Series 9[B] SOLA Jetpack(KJW's Jetpacks) balance pass. Functions very closely to the Halo: Reach Jetpack now.
+- Series 9[X] SOLA Thruster Pack(Scion Conflict) will remain an option as 'experimental' escape & evasion equipment.
+- All of our helmets should now have the TCP HUD available
+### Fix
+- Airburst Rifle: short description spelling, script now uses #undef to prevent potential for unexpected override, sound files now have file endings in their path
+- Error message popup when depolarising helmets
+
+## 0.24.2
+### Fix
+- Scripting nonsense
+
+## 0.24.1
+### Fix
+- Missing bits on CfgPatches that prevented missions loading on the server
+
+## 0.24.0
+### Added
+- Series-9 SOLA Jump-Jet (Halo jetpack which includes a Gunbag, Long-Range Radio, and Grapplehook functionality.)
+- Ace Arsenal Extended support for Immersion Cigs - Rewrite
+- More loading screens
+- A new stanchion version with airburst ammunition
+- Yandere Recon Custom Helm
+- Ramirez Custom Marine Helm
+- Conex Custom Marine Helm
+- Harrison Custom Armour
+### Updated
+- Added black hot thermals to HUL Gen 3 variants to make them leadership available
+
+## 0.23.0
+### Added
+- ACE Arsenal Extended Facewear Support Added:
+  - TRYK Beards (Tac-Vests)
+  - TRYK Facewear (Multi-play Uniforms)
+  - MA Facewear
+  - Arma 3 Balaclavas
+  - Arma 3 Bandanas
+  - MA: TGE Balaclavas
 - Luther Custom JFO helmet
 - 34th IHADSS Helmet
+### Remove
+- Dependency on 1st MEU in places
 
 ## 0.22.0
 ### Added
