@@ -60,7 +60,7 @@ This is pretty standard as far as meta data goes for our needs and shouldn't req
 `requiredAddons[]` is an array of classes which contains all the mods required to load before the current mod. This is important because at runtime Arma 3 essentially forms one giant config. As noted in the Style Guide, you should at a minimum say which mod (steam workshop) the required mod came from.
 
 ### Cfg...
- Most mods will have a mix of Cfg classes. These include cfgAmmo, cfgMagazines, cfgWeapons and cfgVehicles, which are all root classes that are defined within the engine. For more info see: [CfgWeapons Config Reference](https://community.bistudio.com/wiki/CfgWeapons_Config_Reference) on the BI wiki.
+Most mods will have a mix of Cfg classes. These include cfgAmmo, cfgMagazines, cfgWeapons and cfgVehicles, which are all root classes that are defined within the engine. For more info see: [CfgWeapons Config Reference](https://community.bistudio.com/wiki/CfgWeapons_Config_Reference) on the BI wiki.
 
 ```c++
 class CfgVehicles
