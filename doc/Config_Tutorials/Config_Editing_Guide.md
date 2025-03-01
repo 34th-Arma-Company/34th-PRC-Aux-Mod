@@ -17,7 +17,7 @@ class MEU_SAABR96 : OPTRE_M99A2S3
 	model="OPTRE_Weapons\Sniper\M99.p3d";
 	uniformModel="OPTRE_Weapons\Sniper\M99.p3d"; //These two lines should be familiar from Tutorial 1, this is model swapping the object.
 
-  //magazines[] is an array that contains all of the "ammo" or rather what magazines are available to a weapon. '+=' takes what's already in the array and adds whatever is written within the curly braces while only the '=' would overwrite what is allowed with whatever is put.
+  //magazines[] is an array that contains all of the "ammo" or rather what magazines are available to a weapon. `+=` takes what's already in the array and adds whatever is written within the curly braces while only the `=` would overwrite what is allowed with whatever is put.
 	magazines[]+=
 	{
 		"OPTRE_7Rnd_20mm_APFSDS_Mag",
