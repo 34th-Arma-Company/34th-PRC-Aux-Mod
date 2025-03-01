@@ -6,7 +6,7 @@ I reccomend viewing this document with the extension Markdown Preview Enhanced (
 In <a href="./Texture_Swaps.md">Texture Swaps</a> we mentioned that when pulling from another mod you need to both initialize a class (sometimes called defining it), and also declare the mod it comes from as a dependacy for our .pbo. This document will cover both how to do that and how #include works so that you know where to initialize a class. Note that this meaning of define is not the same as #define which is something else entirely.
 
 ## Mod Decleration
-The following code block is a complete example of how to define a mod. It starts with '<i>class CfgPathces</i> and then has an internal class which is the mod's true name according to Arma. It is a good practice to name this the same as your folder structure so that other people can list your mod as a requirement without unpacking it. Many mods do not do this however so to find a mod's true name you need to unpack it and look in the .cpp file.
+The following code block is a complete example of how to define a mod. It starts with `class CfgPathces` and then has an internal class which is the mod's true name according to Arma. It is a good practice to name this the same as your folder structure so that other people can list your mod as a requirement without unpacking it. Many mods do not do this however so to find a mod's true name you need to unpack it and look in the .cpp file.
 
 ```c++
 class CfgPatches
@@ -57,7 +57,7 @@ This is pretty standard as far as meta data goes for our needs and shouldn't req
 			"DMNS_Units", //UNSC Foundries
 		};
 ```
-'<i>requiredAddons[]</i>' is an array of classes which contains all the mods required to load before the current mod. This is important because at runtime Arma 3 essentially forms one giant config. As noted in the Style Guide, you should at a minimum say which mod (steam workshop) the required mod came from.
+`requiredAddons[]` is an array of classes which contains all the mods required to load before the current mod. This is important because at runtime Arma 3 essentially forms one giant config. As noted in the Style Guide, you should at a minimum say which mod (steam workshop) the required mod came from.
 
 ### Cfg...
  Most mods will have a mix of Cfg classes. These include cfgAmmo, cfgMagazines, cfgWeapons and cfgVehicles, which are all root classes that are defined within the engine. For more info see: <a href="https://community.bistudio.com/wiki/CfgWeapons_Config_Reference">CfgWeapons Config Reference</a> on the BI wiki.
@@ -77,7 +77,7 @@ class CfgGlasses
 }
 ```
 ## #includes
-You might have noticed in the last example that there doesn't appear to be anything other than a '<i>#include</i>' and a path within the the different Cfg classes. <i>#include</i> is a decleration that we want to take whatever is in the include and put it here. In the same way that every mod modifies the Cfg Classes at load time all of our includes are loaded in order into one big section. This function has allowed us to break our code down into smaller more specific and readable blocks by utilizing <i>#include</i>.
+You might have noticed in the last example that there doesn't appear to be anything other than a `#include` and a path within the the different Cfg classes. `#include` is a decleration that we want to take whatever is in the include and put it here. In the same way that every mod modifies the Cfg Classes at load time all of our includes are loaded in order into one big section. This function has allowed us to break our code down into smaller more specific and readable blocks by utilizing `#include`.
 
 ```c++
 #include "beret\config_weapons.hpp"
@@ -90,7 +90,7 @@ You might have noticed in the last example that there doesn't appear to be anyth
 #include "pilot\config_weapons.hpp"
 ```
 
-The above block of code is what exists inside of '<i>#include "data\config_weapons.hpp"</i>' as you can see our includes in 34thPRC_ArmourStandard rather rapidly branch out. If it wasn't already apparent you can also include code alongside <i>#include</i>.
+The above block of code is what exists inside of `#include "data\config_weapons.hpp"` as you can see our includes in 34thPRC_ArmourStandard rather rapidly branch out. If it wasn't already apparent you can also include code alongside `#include`.
 
 ## Class Initialization
 If you refer back to <a href="./Texture_Swaps.md">Texture_Swaps.md</a> I mentioned that I would cover initialization later, well now's the time. Looking below you find the contents of "odst2/config_weapons.hpp"

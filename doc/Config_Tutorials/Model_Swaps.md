@@ -14,4 +14,4 @@ class MEU_SAABR96 : OPTRE_M99A2S3
 };
 ```
 
-'<i>model</i>' here is different from the AAX'<i>XtdGearInfo</i>' class' model. This usage of model is part 1 of creating a model swap. The second required componenent is '<i>uniformModel</i>'. This code will inherit all the settings from '<i>OPTRE_M99A2S3</i>' into the '<i>MEU_SAABR96</i>' class and then it will overwrite model as specified. I'll talk about overites in a different file. For now though just focus on the pieces required for model swapping.
+`model` here is different from the AAX `XtdGearInfo` class' model. This usage of model is part 1 of creating a model swap. The second required componenent is `uniformModel`. This code will inherit all the settings from `OPTRE_M99A2S3` into the `MEU_SAABR96` class and then it will overwrite model as specified. I'll talk about overites in a different file. For now though just focus on the pieces required for model swapping.

@@ -33,7 +33,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban : CH252D_Helmet
 ```c++
 class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban : CH252D_Helmet
 ```
- Nearly every object in a config for Arma 3 is marked as a 'Class' these are essentially things which the game understands as discreet objects with properties defined by keywords or more class objects contained inside of the main class. For example every armor piece we define is a class. Classes also have a special function called inheritance which lets us auto assign the properties of one class to another class. This is done with a colon ':' put inbetween two class names. Referring to the above code, you can read this as the class <i>34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban</i> <i>:</i> inherits from the class <i>CH252D_Helmet</i>. Make sure to reference <a href="..\Code_Style.md">Our Style Guide</a> for how to write class names.
+ Nearly every object in a config for Arma 3 is marked as a 'Class' these are essentially things which the game understands as discreet objects with properties defined by keywords or more class objects contained inside of the main class. For example every armor piece we define is a class. Classes also have a special function called inheritance which lets us auto assign the properties of one class to another class. This is done with a colon ':' put inbetween two class names. Referring to the above code, you can read this as the class `34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban` `:` inherits from the class `CH252D_Helmet`. Make sure to reference <a href="..\Code_Style.md">Our Style Guide</a> for how to write class names.
 
 
 If you were to write this in a new pbo, it would give you errors at build time. This is because the CH252D_Helmet class is from another .pbo and needs to be both initialized and declared as a dependency for the mod. Don't worry about this too much right now as we'll cover how to do those things later.
@@ -45,7 +45,7 @@ Don't forget to include a curly brace '{' after the class decleration line to op
 	displayName="[34th] CH252D Urban (Silver Visor)";
 	author="Over Yandere";
 ```
-The vast majority of classes that we write will have these two properties / key words. '<i>displayName</i>' tells the game what to display in game for the object's name. While '<i>author</i>' both denotes who wrote the object but also displays the creator's name in game.
+The vast majority of classes that we write will have these two properties / key words. `displayName` tells the game what to display in game for the object's name. While `author` both denotes who wrote the object but also displays the creator's name in game.
 
 ### Hidden Selection Textures
 ```c++
@@ -55,7 +55,7 @@ The vast majority of classes that we write will have these two properties / key 
 		"34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Silvervisor.paa" //The texture for the visor
 	};
 ```
-<i>hiddenSelectionsTextures[]</i> is an array, a data structure which holds in order a kind of data, in this case it is an array of file paths to .paa files. By writing out this block of code we are not only pointing to our textures so that the helmet displays Brimstone's colors but overwriting the original paths we inherited from the CH252D_Helmet class.
+`hiddenSelectionsTextures[]` is an array, a data structure which holds in order a kind of data, in this case it is an array of file paths to .paa files. By writing out this block of code we are not only pointing to our textures so that the helmet displays Brimstone's colors but overwriting the original paths we inherited from the CH252D_Helmet class.
 
 ### Ace Arsenal Extended Support
 To keep our arsenals in game looking pretty and to prevent lists of the same item with different camos or other properties creating bloat, we use Ace Arsenal extended to group our similar items into one item who's different options can be toggled with switches. This is where our AAX mod comes in, the following code is used to define the items properties for classes within our AAX mod.
@@ -69,4 +69,4 @@ To keep our arsenals in game looking pretty and to prevent lists of the same ite
 	};
 ```
 
-'<i>class XtdGearInfo</i>' is class which hooks into Ace Arsenal Extended to define the switch information for a given object. For our ODST helmets they have a '<i>model</i>' which in this case is not a .p3d arma model but rather a keyword which links it to other items, '<i>camo</i>' which is a keyword we defined within our AAX mod as toggle option for the switches and accepts as a value one of our five primary camos, and '<i>visor</i>' which is another self defined switch value that controls the visor color. You don't need to worry about how this works too much as it will be covered under a seperate document for AAX support.
+`class XtdGearInfo` is class which hooks into Ace Arsenal Extended to define the switch information for a given object. For our ODST helmets they have a `model` which in this case is not a .p3d arma model but rather a keyword which links it to other items, `camo` which is a keyword we defined within our AAX mod as toggle option for the switches and accepts as a value one of our five primary camos, and `visor` which is another self defined switch value that controls the visor color. You don't need to worry about how this works too much as it will be covered under a seperate document for AAX support.
