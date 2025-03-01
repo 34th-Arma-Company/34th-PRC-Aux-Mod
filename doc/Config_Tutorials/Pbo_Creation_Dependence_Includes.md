@@ -11,19 +11,19 @@ The following code block is a complete example of how to define a mod. It starts
 ```c++
 class CfgPatches
 {
-	class 34thPRC_ArmourStandard
-	{
-		author="34th PRC Modding Team";
-		units[]={};
-		requiredAddons[] =
-		{
-			"A3_Characters_F", // Vanilla
-			"A3_Characters_F_EPB", // Vanilla
-			"MA_Armor",	// Misriah Armory
-			"34thPRC_Overrides", // 34th PRC Aux Mod
-			"DMNS_Units", //UNSC Foundries
-		};
-	};
+  class 34thPRC_ArmourStandard
+  {
+    author="34th PRC Modding Team";
+    units[]={};
+    requiredAddons[] =
+    {
+      "A3_Characters_F", // Vanilla
+      "A3_Characters_F_EPB", // Vanilla
+      "MA_Armor",	// Misriah Armory
+      "34thPRC_Overrides", // 34th PRC Aux Mod
+      "DMNS_Units", //UNSC Foundries
+    };
+  };
 };
 ```
 
@@ -41,21 +41,21 @@ This class decleration defines a mod's name and then allows for the inclusion of
 
 ### Meta Data
 ```c++
-		author="34th PRC Modding Team"; //The author of the mod
-		units[]={}; //List of objects (CfgVehicles classes) contained in the addon. Important also for Zeus content (units and groups) unlocking.
+    author="34th PRC Modding Team"; //The author of the mod
+    units[]={}; //List of objects (CfgVehicles classes) contained in the addon. Important also for Zeus content (units and groups) unlocking.
 ```
 This is pretty standard as far as meta data goes for our needs and shouldn't require too much editing.
 
 ### Dependancies
 ```c++
-		requiredAddons[] =
-		{
-			"A3_Characters_F", // Vanilla
-			"A3_Characters_F_EPB", // Vanilla
-			"MA_Armor",	// Misriah Armory
-			"34thPRC_Overrides", // 34th PRC Aux Mod
-			"DMNS_Units", //UNSC Foundries
-		};
+    requiredAddons[] =
+    {
+      "A3_Characters_F", // Vanilla
+      "A3_Characters_F_EPB", // Vanilla
+      "MA_Armor",	// Misriah Armory
+      "34thPRC_Overrides", // 34th PRC Aux Mod
+      "DMNS_Units", //UNSC Foundries
+    };
 ```
 `requiredAddons[]` is an array of classes which contains all the mods required to load before the current mod. This is important because at runtime Arma 3 essentially forms one giant config. As noted in the Style Guide, you should at a minimum say which mod (steam workshop) the required mod came from.
 
@@ -65,15 +65,15 @@ This is pretty standard as far as meta data goes for our needs and shouldn't req
 ```c++
 class CfgVehicles
 {
-	#include "data\config_vehicles.hpp"
+  #include "data\config_vehicles.hpp"
 };
 class CfgWeapons
 {
-	#include "data\config_weapons.hpp"
+  #include "data\config_weapons.hpp"
 };
 class CfgGlasses
 {
-	#include "data\config_glasses.hpp"
+  #include "data\config_glasses.hpp"
 }
 ```
 ## #includes

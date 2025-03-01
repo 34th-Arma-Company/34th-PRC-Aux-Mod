@@ -13,19 +13,19 @@ To start lets take a look at our basic odst helmet in urban camo. We'll start wi
 ```c++
 class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban : CH252D_Helmet
 {
-	displayName="[34th] CH252D Urban (Silver Visor)";
-	author="Over Yandere";
-	hiddenSelectionsTextures[]=
-	{
-		"34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Helmet.paa",
-		"34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Silvervisor.paa"
-	};
-	class XtdGearInfo
-	{
-		model= "34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban";
-		camo= "urban";
-		visor= "silver";
-	};
+  displayName="[34th] CH252D Urban (Silver Visor)";
+  author="Over Yandere";
+  hiddenSelectionsTextures[]=
+  {
+    "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Helmet.paa",
+    "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Silvervisor.paa"
+  };
+  class XtdGearInfo
+  {
+    model= "34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban";
+    camo= "urban";
+    visor= "silver";
+  };
 };
 ```
 
@@ -42,18 +42,18 @@ Don't forget to include a curly brace `{` after the class decleration line to op
 
 ### Basic Properties
 ```c++
-	displayName="[34th] CH252D Urban (Silver Visor)";
-	author="Over Yandere";
+  displayName="[34th] CH252D Urban (Silver Visor)";
+  author="Over Yandere";
 ```
 The vast majority of classes that we write will have these two properties / key words. `displayName` tells the game what to display in game for the object's name. While `author` both denotes who wrote the object but also displays the creator's name in game.
 
 ### Hidden Selection Textures
 ```c++
-	hiddenSelectionsTextures[]=
-	{
-		"34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Helmet.paa", //The texture for the helmet
-		"34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Silvervisor.paa" //The texture for the visor
-	};
+  hiddenSelectionsTextures[]=
+  {
+    "34thPRC_ArmourStandard\data\odst2\urban\34th_Urban_ODST_Helmet.paa", //The texture for the helmet
+    "34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Silvervisor.paa" //The texture for the visor
+  };
 ```
 `hiddenSelectionsTextures[]` is an array, a data structure which holds in order a kind of data, in this case it is an array of file paths to .paa files. By writing out this block of code we are not only pointing to our textures so that the helmet displays Brimstone's colors but overwriting the original paths we inherited from the CH252D_Helmet class.
 
@@ -61,12 +61,12 @@ The vast majority of classes that we write will have these two properties / key 
 To keep our arsenals in game looking pretty and to prevent lists of the same item with different camos or other properties creating bloat, we use Ace Arsenal extended to group our similar items into one item who's different options can be toggled with switches. This is where our AAX mod comes in, the following code is used to define the items properties for classes within our AAX mod.
 
 ```c++
-	class XtdGearInfo
-	{
-		model= "34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban";
-		camo= "urban";
-		visor= "silver";
-	};
+  class XtdGearInfo
+  {
+    model= "34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban";
+    camo= "urban";
+    visor= "silver";
+  };
 ```
 
 `class XtdGearInfo` is class which hooks into Ace Arsenal Extended to define the switch information for a given object. For our ODST helmets they have a `model` which in this case is not a .p3d arma model but rather a keyword which links it to other items, `camo` which is a keyword we defined within our AAX mod as toggle option for the switches and accepts as a value one of our five primary camos, and `visor` which is another self defined switch value that controls the visor color. You don't need to worry about how this works too much as it will be covered under a seperate document for AAX support.
