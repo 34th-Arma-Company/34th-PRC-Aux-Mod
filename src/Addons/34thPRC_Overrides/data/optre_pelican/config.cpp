@@ -1,0 +1,163 @@
+class CfgPatches
+{
+	class 34thPRC_OPTRE_Pelican
+	{
+		author="34th PRC Modding Team, Over Yandere";
+		addonRootClass="34thPRC_Overrides";
+		requiredAddons[]=
+		{
+			"34thPRC_Overrides",
+			"OPTRE_Vehicles_SOCOM_Pelican", //[DEV] OPTRE -> Air Vehicles -> Pelican
+		};
+		units[]={};
+	};
+};
+class SensorTemplatePassiveRadar;
+class SensorTemplateAntiRadiation;
+class SensorTemplateActiveRadar;
+class SensorTemplateIR;
+class SensorTemplateVisual;
+class SensorTemplateMan;
+class SensorTemplateLaser;
+class SensorTemplateNV;
+class DefaultVehicleSystemsDisplayManagerLeft
+{
+	class components;
+};
+class DefaultVehicleSystemsDisplayManagerRight
+{
+	class components;
+};
+
+class CfgVehicles
+{
+	class Helicopter;
+	class Helicopter_Base_F: Helicopter
+	{
+		class Turrets;
+		class HitPoints;
+		class ViewPilot;
+		class CargoTurret;
+		class Reflectors
+		{
+			class Right;
+		};
+	};
+	class Helicopter_Base_H: Helicopter_Base_F
+	{
+		class EventHandlers;
+		class Turrets: Turrets
+		{
+			class CopilotTurret;
+		};
+		class HitPoints: HitPoints
+		{
+			class HitHull;
+			class HitFuel;
+			class HitEngine;
+			class HitAvionics;
+			class HitVRotor;
+			class HitHRotor;
+			class HitGlass1;
+			class HitGlass2;
+			class HitGlass3;
+			class HitGlass4;
+			class HitGlass5;
+			class HitGlass6;
+		};
+		class Components;
+		class AnimationSources;
+		class ViewOptics;
+		class RotorLibHelicopterProperties;
+	};
+	class OPTRE_Pelican_F: Helicopter_Base_H
+	{
+		class Components : Components
+		{
+			class SensorsManagerComponent
+			{
+				class Components
+				{
+					class IRSensorComponent: SensorTemplateIR
+					{
+						class AirTarget
+						{
+							minRange=500;
+							maxRange=6000;
+							objectDistanceLimitCoef=1;
+							viewDistanceLimitCoef=1;
+						};
+						class GroundTarget
+						{
+							minRange=500;
+							maxRange=4000;
+							objectDistanceLimitCoef=1;
+							viewDistanceLimitCoef=1;
+						};
+						maxTrackableSpeed=300;
+						animDirection="mainGun";
+						angleRangeHorizontal=46;
+						angleRangeVertical=34;
+						aimdown=-0.25;
+					};
+					class VisualSensorComponent: SensorTemplateVisual
+					{
+						class AirTarget
+						{
+							minRange=500;
+							maxRange=4000;
+							objectDistanceLimitCoef=1;
+							viewDistanceLimitCoef=1;
+						};
+						class GroundTarget
+						{
+							minRange=500;
+							maxRange=3000;
+							objectDistanceLimitCoef=1;
+							viewDistanceLimitCoef=1;
+						};
+						maxTrackableSpeed=100;
+						animDirection="mainGun";
+						angleRangeHorizontal=46;
+						angleRangeVertical=34;
+						aimdown=-0.25;
+					};
+					class ActiveRadarSensorComponent: SensorTemplateActiveRadar
+					{
+						class AirTarget
+						{
+							minRange=5000;
+							maxRange=12000;
+							objectDistanceLimitCoef=-1;
+							viewDistanceLimitCoef=-1;
+						};
+						class GroundTarget
+						{
+							minRange=4000;
+							maxRange=10000;
+							objectDistanceLimitCoef=-1;
+							viewDistanceLimitCoef=-1;
+						};
+						maxTrackableSpeed=100;
+						angleRangeHorizontal=180;
+						angleRangeVertical=90;
+						groundNoiseDistanceCoef=-1;
+						maxGroundNoiseDistance=-1;
+						minSpeedThreshold=0;
+						maxSpeedThreshold=0;
+						aimDown=30;
+					};
+					class PassiveRadarSensorComponent: SensorTemplatePassiveRadar
+					{
+					};
+					class LaserSensorComponent: SensorTemplateLaser
+					{
+					};
+					class NVSensorComponent: SensorTemplateNV
+					{
+					};
+				};
+			};
+		};
+	};
+};
