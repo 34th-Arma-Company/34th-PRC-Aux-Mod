@@ -126,14 +126,14 @@ class CfgVehicles
 					{
 						class AirTarget
 						{
-							minRange=5000;
+							minRange=500;
 							maxRange=12000;
 							objectDistanceLimitCoef=-1;
 							viewDistanceLimitCoef=-1;
 						};
 						class GroundTarget
 						{
-							minRange=4000;
+							minRange=400;
 							maxRange=10000;
 							objectDistanceLimitCoef=-1;
 							viewDistanceLimitCoef=-1;
@@ -146,6 +146,27 @@ class CfgVehicles
 						minSpeedThreshold=0;
 						maxSpeedThreshold=0;
 						aimDown=30;
+					};
+					class AntiRadiationSensorComponent: SensorTemplateAntiRadiation
+					{
+						/*class AirTarget
+						{
+							minRange=500;
+							maxRange=16000;
+							objectDistanceLimitCoef=-1;
+							viewDistanceLimitCoef=-1;
+						};
+						class GroundTarget
+						{
+							minRange=400;
+							maxRange=16000;
+							objectDistanceLimitCoef=-1;
+							viewDistanceLimitCoef=-1;
+						};
+						maxTrackableATL=100;
+						maxTrackableSpeed=60;
+						angleRangeHorizontal=60;
+						angleRangeVertical=180;*/
 					};
 					class PassiveRadarSensorComponent: SensorTemplatePassiveRadar
 					{
