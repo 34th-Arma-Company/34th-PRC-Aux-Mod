@@ -6,6 +6,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+### Updated
+- OPTRE Pelican: radar enhanced, detectability reduced from 2x to 1.2x, sensor panel resolutions adjusted
+- OPTRE SOCOM Pelican: radar enhanced, detectability reduced from 2x to 1x, sensor panel resolutions adjusted
+- OPTRE Falcon: radar enhanced, active radar cone widened from 120* to 180*, sensor panel resolutions adjusted
+- OPTRE Hornet: radar enhanced, detectability reduced from 2x to 1x, sensor panel resolutions adjusted
+- OPTRE Sparrowhawk: radar enhanced, detectability reduced from 2x to 1.2x, sensor panel resolutions adjusted
+- OPTRE Wombat: radar enhanced, sensor panel resolutions adjusted, fuel capacity changed
+- OPTRE Longsword: radar enhanced, sensor panel res adjusted
+
 
 # 0.25.1
 ### Updated
