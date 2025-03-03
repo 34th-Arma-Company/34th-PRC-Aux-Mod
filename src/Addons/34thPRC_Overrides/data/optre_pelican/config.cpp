@@ -7,7 +7,7 @@ class CfgPatches
 		requiredAddons[]=
 		{
 			"34thPRC_Overrides",
-			"OPTRE_Vehicles_SOCOM_Pelican", //[DEV] OPTRE -> Air Vehicles -> Pelican
+			"OPTRE_Vehicles_Pelican", //[DEV] OPTRE -> Air Vehicles -> Pelican
 		};
 		units[]={};
 	};
@@ -126,14 +126,14 @@ class CfgVehicles
 					{
 						class AirTarget
 						{
-							minRange=500;
+							minRange=12000;
 							maxRange=12000;
 							objectDistanceLimitCoef=-1;
 							viewDistanceLimitCoef=-1;
 						};
 						class GroundTarget
 						{
-							minRange=400;
+							minRange=10000;
 							maxRange=10000;
 							objectDistanceLimitCoef=-1;
 							viewDistanceLimitCoef=-1;
@@ -149,16 +149,16 @@ class CfgVehicles
 					};
 					class AntiRadiationSensorComponent: SensorTemplateAntiRadiation
 					{
-						/*class AirTarget
+						class AirTarget
 						{
-							minRange=500;
+							minRange=16000;
 							maxRange=16000;
 							objectDistanceLimitCoef=-1;
 							viewDistanceLimitCoef=-1;
 						};
 						class GroundTarget
 						{
-							minRange=400;
+							minRange=16000;
 							maxRange=16000;
 							objectDistanceLimitCoef=-1;
 							viewDistanceLimitCoef=-1;
@@ -166,7 +166,7 @@ class CfgVehicles
 						maxTrackableATL=100;
 						maxTrackableSpeed=60;
 						angleRangeHorizontal=60;
-						angleRangeVertical=180;*/
+						angleRangeVertical=180;
 					};
 					class PassiveRadarSensorComponent: SensorTemplatePassiveRadar
 					{
