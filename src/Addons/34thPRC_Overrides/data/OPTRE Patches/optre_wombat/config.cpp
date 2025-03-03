@@ -92,14 +92,14 @@ class CfgVehicles
 					class AirTarget
 					{
 						minRange=500;
-						maxRange=8000;
+						maxRange=10000;
 						objectDistanceLimitCoef=-1;
 						viewDistanceLimitCoef=1;
 					};
 					class GroundTarget
 					{
 						minRange=500;
-						maxRange=6000;
+						maxRange=9000;
 						objectDistanceLimitCoef=1;
 						viewDistanceLimitCoef=1;
 					};
