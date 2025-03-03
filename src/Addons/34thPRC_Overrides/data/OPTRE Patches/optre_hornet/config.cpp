@@ -1,17 +1,17 @@
 class CfgPatches
 {
-	class 34thPRC_OPTRE_Pelican
+	class 34thPRC_OPTRE_Hornet
 	{
 		author="34th PRC Modding Team, Over Yandere";
 		addonRootClass="34thPRC_Overrides";
 		requiredAddons[]=
 		{
-			"34thPRC_Overrides",
-			"OPTRE_Vehicles_Pelican", //[DEV] OPTRE -> Air Vehicles -> Pelican
+			"OPTRE_Vehicles_Hornet", //[DEV] OPTRE -> Vehicles_Air -> Hornet
 		};
 		units[]={};
 	};
 };
+
 class SensorTemplatePassiveRadar;
 class SensorTemplateAntiRadiation;
 class SensorTemplateActiveRadar;
@@ -45,34 +45,22 @@ class CfgVehicles
 	};
 	class Helicopter_Base_H: Helicopter_Base_F
 	{
-		class EventHandlers;
 		class Turrets: Turrets
 		{
 			class CopilotTurret;
 		};
-		class HitPoints: HitPoints
-		{
-			class HitHull;
-			class HitFuel;
-			class HitEngine;
-			class HitAvionics;
-			class HitVRotor;
-			class HitHRotor;
-			class HitGlass1;
-			class HitGlass2;
-			class HitGlass3;
-			class HitGlass4;
-			class HitGlass5;
-			class HitGlass6;
-		};
 		class Components;
-		class AnimationSources;
-		class ViewOptics;
-		class RotorLibHelicopterProperties;
+		class Reflectors
+		{
+			class Right;
+		};
 	};
-	class OPTRE_Pelican_F: Helicopter_Base_H
+	class OPTRE_Hornet_base: Helicopter_Base_H
 	{
-		class Components : Components
+		radarTargetSize=1;
+		irTargetSize=1;
+
+		class Components: Components
 		{
 			class SensorsManagerComponent
 			{
@@ -90,7 +78,7 @@ class CfgVehicles
 						class GroundTarget
 						{
 							minRange=500;
-							maxRange=4000;
+							maxRange=5000;
 							objectDistanceLimitCoef=1;
 							viewDistanceLimitCoef=1;
 						};
@@ -126,15 +114,15 @@ class CfgVehicles
 					{
 						class AirTarget
 						{
-							minRange=12000;
-							maxRange=12000;
+							minRange=8000;
+							maxRange=8000;
 							objectDistanceLimitCoef=-1;
 							viewDistanceLimitCoef=-1;
 						};
 						class GroundTarget
 						{
-							minRange=10000;
-							maxRange=10000;
+							minRange=7000;
+							maxRange=7000;
 							objectDistanceLimitCoef=-1;
 							viewDistanceLimitCoef=-1;
 						};
@@ -147,27 +135,6 @@ class CfgVehicles
 						maxSpeedThreshold=0;
 						aimDown=30;
 					};
-					class AntiRadiationSensorComponent: SensorTemplateAntiRadiation
-					{
-						class AirTarget
-						{
-							minRange=16000;
-							maxRange=16000;
-							objectDistanceLimitCoef=-1;
-							viewDistanceLimitCoef=-1;
-						};
-						class GroundTarget
-						{
-							minRange=16000;
-							maxRange=16000;
-							objectDistanceLimitCoef=-1;
-							viewDistanceLimitCoef=-1;
-						};
-						maxTrackableATL=100;
-						maxTrackableSpeed=60;
-						angleRangeHorizontal=60;
-						angleRangeVertical=180;
-					};
 					class PassiveRadarSensorComponent: SensorTemplatePassiveRadar
 					{
 					};
@@ -176,6 +143,51 @@ class CfgVehicles
 					};
 					class NVSensorComponent: SensorTemplateNV
 					{
+					};
+				};
+			};
+			class VehicleSystemsDisplayManagerComponentLeft: DefaultVehicleSystemsDisplayManagerLeft
+			{
+				class Components: components
+				{
+					class VehiclePrimaryGunnerDisplay
+					{
+						componentType="TransportFeedDisplayComponent";
+						source="PrimaryGunner";
+					};
+					class VehicleMissileDisplay
+					{
+						componentType="TransportFeedDisplayComponent";
+						source="Missile";
+					};
+					class SensorDisplay
+					{
+						componentType="SensorsDisplayComponent";
+						range[]={16000,10000,8000,6000,4000};
+						resource="RscCustomInfoSensors";
+					};
+				};
+			};
+			class VehicleSystemsDisplayManagerComponentRight: DefaultVehicleSystemsDisplayManagerRight
+			{
+				defaultDisplay="SensorDisplay";
+				class Components: components
+				{
+					class VehiclePrimaryGunnerDisplay
+					{
+						componentType="TransportFeedDisplayComponent";
+						source="PrimaryGunner";
+					};
+					class VehicleMissileDisplay
+					{
+						componentType="TransportFeedDisplayComponent";
+						source="Missile";
+					};
+					class SensorDisplay
+					{
+						componentType="SensorsDisplayComponent";
+						range[]={16000,10000,8000,6000,4000};
+						resource="RscCustomInfoSensors";
 					};
 				};
 			};
