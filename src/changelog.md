@@ -14,7 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - OPTRE Sparrowhawk: radar enhanced, detectability reduced from 2x to 1.2x, sensor panel resolutions adjusted
 - OPTRE Wombat: radar enhanced, sensor panel resolutions adjusted, fuel capacity changed
 - OPTRE Longsword: radar enhanced, sensor panel res adjusted
-
+- OPTRE Bayonet + Stealth Bayonet: inheritance changed, radar enhanced
 
 # 0.25.1
 ### Updated

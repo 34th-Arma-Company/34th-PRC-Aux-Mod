@@ -62,6 +62,5 @@ class CfgVehicles
 	{
 		radarTargetSize = 1.2;
 		irTargetSize = 1.2;
-
 	};
 };
