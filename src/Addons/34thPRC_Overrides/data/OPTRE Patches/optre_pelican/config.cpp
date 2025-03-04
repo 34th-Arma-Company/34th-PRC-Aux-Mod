@@ -167,7 +167,7 @@ class CfgVehicles
 						};
 						maxTrackableATL=100;
 						maxTrackableSpeed=60;
-						angleRangeHorizontal=60;
+						angleRangeHorizontal=90;
 						angleRangeVertical=180;
 					};
 					class PassiveRadarSensorComponent: SensorTemplatePassiveRadar
