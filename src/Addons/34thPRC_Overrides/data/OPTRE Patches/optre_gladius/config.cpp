@@ -45,6 +45,7 @@ class CfgVehicles
 	class Plane_CAS_01_base_F: Plane_Base_F{};
 
 	class Plane_CAS_01_dynamicLoadout_base_F: Plane_CAS_01_base_F{};
+	class B_Plane_CAS_01_dynamicLoadout_F: Plane_CAS_01_dynamicLoadout_base_F{};
 
 	class OPTRE_gladius_01 : B_Plane_CAS_01_dynamicLoadout_F
 	{
