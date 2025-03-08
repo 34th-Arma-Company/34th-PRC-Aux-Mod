@@ -21,3 +21,13 @@ class CfgPatches
 		version = "0.26.0"; //Update to match changelog version on release
 	};
 };
+
+class CfgSettings {
+	class CBA {
+		class Versioning { // https://github.com/CBATeam/CBA_A3/wiki/Versioning-System
+			class 34thPRC_Main {
+				main_addon = "34thPRC_Main";
+			};
+		};
+	};
+};
