@@ -1,5 +1,4 @@
 # hemtt todo
-- html modlist
 - github action for builds
   - can it do tests?
   - can it do releases for us?
