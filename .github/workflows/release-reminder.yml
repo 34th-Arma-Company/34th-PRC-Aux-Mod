@@ -9,10 +9,9 @@ on:
 
 jobs:
   release-reminder:
-    if: ${{ github.event.pull_request.labels.*.name == 'release' }}
+    #if: ${{ github.event.pull_request.labels.*.name == 'release' }}
     runs-on: ubuntu-latest
     permissions:
-      issues: write
       pull-requests: write
     steps:
     - uses: actions/first-interaction@v1
