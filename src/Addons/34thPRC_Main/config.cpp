@@ -28,6 +28,6 @@ class CfgSettings {
 			class 34thPRC_Main {
 				main_addon = "34thPRC_Main";
 			};
-		};
+		}; think this is right)
 	};
 };
