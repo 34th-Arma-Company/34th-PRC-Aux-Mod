@@ -1,8 +1,11 @@
 name: "Release Reminder"
 
 on:
-  pull_request:
-    types: [ labeled ]
+pull_request_target:
+pullrequest:
+  types:
+    - opened
+    - labeled
 
 jobs:
   release-reminder:
