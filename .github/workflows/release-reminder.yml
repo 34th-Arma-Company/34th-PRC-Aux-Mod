@@ -1,7 +1,6 @@
 name: "Release Reminder"
-
 on:
-  pull_request_target
+- pull_request_target
   #pullrequest:
   #  types:
   #    - opened
@@ -12,6 +11,7 @@ jobs:
     #if: ${{ github.event.pull_request.labels.*.name == 'release' }}
     runs-on: ubuntu-latest
     permissions:
+      contents: read
       pull-requests: write
     steps:
     - uses: mskelton/changelog-reminder-action@v3.0.0
