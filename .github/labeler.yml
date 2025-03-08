@@ -4,7 +4,7 @@ meta:
 
 documentation:
 - changed-files:
-    - any-glob-to-any-file: [meta/doc/**']
+    - any-glob-to-any-file: ['meta/doc/**']
 
 "area: config":
 - changed-files:

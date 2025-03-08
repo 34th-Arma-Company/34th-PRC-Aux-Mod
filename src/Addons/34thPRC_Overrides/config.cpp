@@ -13,6 +13,7 @@ class CfgPatches
 			"OPTRE_UNSC_Units_Army", // OPTRE
 			"OPTRE_FC_Units_Marines", // OPTRE FC
 			"OPTRE_Weapons", // OPTRE
+			"OPTRE_FC_Weapons", // OPTRE FC
 			"Split_Weapons_Ammo", // UNSC Foundries
 			"Misriah_Armory_Weapons", // Misriah Armory
 			"ace_grenades", // ACE
@@ -27,6 +28,10 @@ class CfgPatches
 class CfgVehicles
 {
 	#include "data\config_vehicles.hpp"
+};
+class CfgAmmo
+{
+	#include"data\config_ammo.hpp"
 };
 class CfgWeapons
 {
@@ -55,6 +60,16 @@ class CfgMagazineWells
 		OPTRE_Weapons[]=
 		{
 			"OPTRE_7Rnd_20mm_APFSDS_Mag",
+		};
+	};
+	class OPTRE_FC_Railgun_Slug
+	{
+		OPTRE_FC_Weapons[]=
+		{
+			"OPTRE_FC_Railgun_Slug",
+			"34thPRC_Overrides_Weapons_Railgun_16x65mm_APSlug",
+			"34thPRC_Overrides_Weapons_Railgun_16x65mm_3RoundAPSlug",
+			"34thPRC_Overrides_Weapons_Railgun_16x65mm_HESlug"
 		};
 	};
 };
