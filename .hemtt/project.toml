@@ -12,3 +12,6 @@ include = [
     "changelog.md",
     "mod.cpp",
 ]
+
+[hemtt.release]
+folder = "34th PRC Aux Mod"
