@@ -50,6 +50,8 @@ The latest HEMTT release can be downloaded from the [GitHub releases page](https
 
 You will want to add this manually downloaded file to your path or to `tools/hemtt/`where the build scripts will also check.
 
+Make sure that you name it `hemtt.exe`. If you are on Windows then this is the default, if you are on Linux then you will need to add the `.exe` extention.
+
 Builds are available for Windows, Linux, and MacOS.
 
 ## Installing the arma 3 tools

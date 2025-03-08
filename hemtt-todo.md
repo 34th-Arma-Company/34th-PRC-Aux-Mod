@@ -7,4 +7,3 @@
   - Could also do with a bot to remind us to bump the version
 - PBOs get a prefix added to them
   - kind of breaks the sc_uniforms patch and the SEC_Guest pack
-- Build scripts might not support hemtt on linux anymore

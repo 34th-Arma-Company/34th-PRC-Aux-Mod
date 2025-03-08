@@ -4,7 +4,7 @@ if(Test-Path "./meta/tools/hemtt/hemtt.exe")
 }
 else
 {
-	hemtt.exe launch
+	hemtt launch
 }
 
 if($LASTEXITCODE -eq 0)
