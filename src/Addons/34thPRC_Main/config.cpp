@@ -24,11 +24,11 @@ class CfgPatches
 };
 
 class CfgSettings {
-    class CBA {
-        class Versioning { // https://github.com/CBATeam/CBA_A3/wiki/Versioning-System
-            class 34thPRC_Main {
-                main_addon = "34thPRC_Main";
-            };
-        };
-    };
+	class CBA {
+		class Versioning { // https://github.com/CBATeam/CBA_A3/wiki/Versioning-System
+			class 34thPRC_Main {
+				main_addon = "34thPRC_Main";
+			};
+		};
+	};
 };
