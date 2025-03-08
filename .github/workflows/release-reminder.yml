@@ -9,12 +9,12 @@ on:
 jobs:
   release-reminder:
     #if: ${{ github.event.pull_request.labels.*.name == 'release' }}
-    runs-on: ubuntu-latest
     permissions:
       contents: read
       pull-requests: write
+    runs-on: ubuntu-latest
     steps:
     - uses: mskelton/changelog-reminder-action@v3.0.0
       with:
-        #changelogRegex: "changelog.md"
+        changelogRegex: "changelog.md"
         message: "Did you bump the verion in the main PBO?"
