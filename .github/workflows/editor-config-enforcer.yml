@@ -12,7 +12,6 @@ jobs:
     - run: git config --global core.autocrlf false
     - run: git config --global core.eol crlf
     - uses: actions/checkout@v4.2.2
-    - run: if ! test -d build; then mkdir build; fi # TODO: Remove this later
     - run: if ! test -d .hemttout\build; then mkdir .hemttout\build; fi # TODO: Remove this later
     - uses: kasperhesthaven/setup-editorconfig-checker@v1.2.0
     # - uses: zbeekman/EditorConfig-Action@v1.1.1 # broken
