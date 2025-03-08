@@ -2,14 +2,14 @@ name: "Release Reminder"
 
 on:
   pull_request_target:
-  pullrequest:
-    types:
-      - opened
-      - labeled
+  #pullrequest:
+  #  types:
+  #    - opened
+  #    - labeled
 
 jobs:
   release-reminder:
-    if: ${{ github.event.pull_request.labels.*.name == 'release' }}
+    #if: ${{ github.event.pull_request.labels.*.name == 'release' }}
     runs-on: ubuntu-latest
     permissions:
       pull-requests: write
