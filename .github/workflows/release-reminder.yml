@@ -1,0 +1,17 @@
+name: "Release Reminder"
+
+on: [pull_request_target]
+  types: [ labeled ]
+
+jobs:
+  release-reminder:
+    if: ${{ github.event.label.name == 'release' }}
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        pr-message: "Did you bump the verion in the main PBO?"
