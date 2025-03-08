@@ -2,10 +2,7 @@ name: "Release Reminder"
 on:
 - pull_request_target
 - workflow_dispatch # manual trigger
-- pull_request:
-    types:
-      - opened
-      - labeled
+- pull_request
 
 jobs:
   release-reminder:
