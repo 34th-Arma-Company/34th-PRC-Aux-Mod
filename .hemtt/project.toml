@@ -4,7 +4,7 @@ prefix = "34thPRC"
 mainprefix = "z"
 
 [version]
-path = "addons/34thPRC_Main/script_version.hpp"
+path = "addons/main/script_version.hpp"
 
 [files]
 include = [
