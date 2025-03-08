@@ -1,3 +1,4 @@
+#include "script_version.hpp"
 class CfgPatches
 {
 	class 34thPRC_Main
@@ -18,7 +19,7 @@ class CfgPatches
 			"34thPRC_WeaponsStandard",
 			"34thPRC_Functions",
 		};
-		versionAr[] = [MAJOR, MINOR, PATCH];
+		VERSION_CONFIG;
 	};
 };
 
