@@ -13,9 +13,9 @@ jobs:
       uses: dhkatz/steam-download@v1.2.0
       with:
         # Steam username
-        #username: # default is anonymous
+        username: ${{ secrets.SteamUsername }} # default is anonymous
         # Steam password
-        #password: # optional
+        password: ${{ secrets.SteamPassword }}# optional
         # Steam TOTP code
         #totp: # optional
         # Path to VDF file containing login details
