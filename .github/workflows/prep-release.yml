@@ -1,0 +1,32 @@
+name: Prep Release
+
+on:
+  pull_request:
+    types: [opened, labeled]
+    branches:
+      - '*'
+    labels:
+      - release
+
+jobs:
+  prep-release:
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      with:
+        persist-credentials: false
+
+    - name: Set up PowerShell
+      uses: actions/setup-powershell@v1
+
+    - name: Run prepRelease.ps1
+      run: pwsh ./prepRelease.ps1 -CI
+
+    - name: Commit and push changes
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "Automated prep release"
+        branch: ${{ github.head_ref }}
+        token: ${{ secrets.GITHUB_TOKEN }}
