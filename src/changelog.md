@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Repackaged Unsung's Music for Helo's for the Falcon with 5 song selection.
 ### Updated
--Marine CH252 colors, small color fixes
+-Marine CH252 diffuse colors, small color fixes
 ### Removed
 - Old ODST Gear
 
@@ -43,7 +43,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Updated base ODST armour textures and marierials
 - Updated base BDU and plates
 - AAX Model names to be prefixed as [34th]
-- Updated CH252 Helmet diffuse textures.
 
 ## 0.24.3
 ### Updated
