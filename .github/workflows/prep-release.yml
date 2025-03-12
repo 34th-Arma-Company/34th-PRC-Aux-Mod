@@ -26,8 +26,10 @@ jobs:
 
     - name: Run prepRelease.ps1
       run: pwsh ./prepRelease.ps1 -CI
+      continue-on-error: false
 
     - name: Commit and push changes
+      if: success()
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: "Automated prep release"

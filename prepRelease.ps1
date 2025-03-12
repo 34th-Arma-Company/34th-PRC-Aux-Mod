@@ -17,6 +17,16 @@ if (-not $CI) {
 
 # extract new version number from changelog.md
 $changelogContent = Get-Content "src/changelog.md"
+
+# Check if the Unreleased section is empty or contains only blank lines
+$unreleasedSection = ($changelogContent -join "`n") -match "(?s)(?<=## Unreleased`n).*?(?=## \d+\.\d+\.\d+|$)"
+$unreleasedSectionContent = $matches[0] -replace "`n", ""
+#Write-Host "Unreleased section content: '$unreleasedSectionContent'"
+if ($unreleasedSectionContent -and $unreleasedSectionContent -notmatch "^\s*$") {
+	Write-Host "The '## Unreleased' section in changelog.md must be empty or contain only blank lines. Please move the changes to a new version section."
+	exit 1
+}
+
 $newVersionLine = $changelogContent | Select-String -Pattern "^## \d+\.\d+\.\d+" | Select-Object -First 1
 
 if ($newVersionLine -eq $null) {
