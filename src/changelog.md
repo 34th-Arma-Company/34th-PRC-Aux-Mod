@@ -6,10 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
-### Removed
-- Old ODST Gear
 ### Added
 - Repackaged Unsung's Music for Helo's for the Falcon with 5 song selection.
+### Removed
+- Old ODST Gear
 
 ## 0.26.0
 ### Updated
