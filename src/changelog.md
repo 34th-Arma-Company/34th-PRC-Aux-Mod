@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Added
 - Repackaged Unsung's Music for Helo's for the Falcon with 5 song selection.
+### Updated
+-Marine CH252 diffuse colors, small color fixes
 ### Removed
 - Old ODST Gear
 
