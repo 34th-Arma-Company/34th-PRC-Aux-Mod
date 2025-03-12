@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Removed
 - Old ODST Gear
+### Added
+- Repackaged Unsung's Music for Helo's for the Falcon with 5 song selection.
 
 ## 0.26.0
 ### Updated
