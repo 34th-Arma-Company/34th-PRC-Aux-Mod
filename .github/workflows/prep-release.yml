@@ -10,6 +10,7 @@ on:
 
 jobs:
   prep-release:
+    if: contains(github.event.pull_request.labels.*.name, 'release')
     runs-on: windows-latest
     permissions:
       contents: read

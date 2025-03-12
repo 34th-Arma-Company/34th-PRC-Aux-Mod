@@ -9,6 +9,7 @@ on:
 
 jobs:
   release-reminder:
+    if: contains(github.event.pull_request.labels.*.name, 'release')
     permissions:
       contents: read
       pull-requests: write
