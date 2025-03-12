@@ -22,9 +22,6 @@ jobs:
       with:
         persist-credentials: false
 
-    - name: Set up PowerShell
-      uses: actions/setup-powershell@v1
-
     - name: Run prepRelease.ps1
       run: pwsh ./prepRelease.ps1 -CI
       continue-on-error: false
