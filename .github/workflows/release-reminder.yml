@@ -4,12 +4,10 @@ on:
     types: [opened, labeled, synchronize]
     branches:
       - '*'
-    labels:
-      - release
 
 jobs:
   release-reminder:
-    if: contains(github.event.pull_request.labels.*.name, 'release')
+    if: ${{contains(github.event.pull_request.labels.*.name, 'release')}}
     permissions:
       contents: read
       pull-requests: write
