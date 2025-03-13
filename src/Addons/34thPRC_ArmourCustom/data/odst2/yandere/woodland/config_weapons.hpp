@@ -1,13 +1,3 @@
-class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
-{
-	displayName="[34th] CH252D Woodland 'Yandere' (Custom Visor)";
-	author="Over Yandere";
-	hiddenSelectionsTextures[]=
-	{
-		"34thPRC_ArmourCustom\data\odst2\yandere\woodland\yandere_odst_helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\odst2\yandere\visor\yandere_odst_visor.paa"
-	};
-};
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
 {
 	displayName="[34th] CH252D Woodland 'Yandere' (Silver Visor)";
@@ -16,6 +6,13 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Woodland : 34thPRC_A
 	{
 		"34thPRC_ArmourCustom\data\odst2\yandere\woodland\yandere_odst_helmet_woodland.paa",
 		"34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Silvervisor.paa"
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban";
+		player="yandere";
+		camo="woodland";
+		visor="silver";
 	};
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_RedVisor_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
@@ -27,7 +24,14 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_RedVisor_Woodland : 34thPRC_Armo
 		"34thPRC_ArmourCustom\data\odst2\yandere\woodland\yandere_odst_helmet_woodland.paa",
 		"34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Redvisor.paa"
 	};
-}
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban";
+		player="yandere";
+		camo="woodland";
+		visor="red";
+	};
+};
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
 {
 	displayName="[34th] CH252D Woodland 'Yandere' (Gold Visor)";
@@ -37,12 +41,36 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Woodland : 34thPRC_Arm
 		"34thPRC_ArmourCustom\data\odst2\yandere\woodland\yandere_odst_helmet_woodland.paa",
 		"34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Goldvisor.paa"
 	};
-}
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban";
+		player="yandere";
+		camo="woodland";
+		visor="gold";
+	};
+};
+class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
+{
+	displayName="[34th] CH252D Woodland 'Yandere' (Custom Visor)";
+	author="Over Yandere";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourCustom\data\odst2\yandere\woodland\yandere_odst_helmet_woodland.paa",
+		"34thPRC_ArmourCustom\data\odst2\yandere\visor\yandere_odst_visor.paa"
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban";
+		player="yandere";
+		camo="woodland";
+		visor="custom";
+	};
+};
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Woodland_dp : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban_dp
 {
 	displayName="[34th] CH252D Woodland 'Yandere' (Silver Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\yandere\woodland\yandere_odst_helmet_woodland.paa",// Helmet Texture
@@ -62,7 +90,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_RedVisor_Woodland_dp : 34thPRC_A
 {
 	displayName="[34th] CH252D Woodland 'Yandere' (Red Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\yandere\woodland\yandere_odst_helmet_woodland.paa",// Helmet Texture
@@ -82,7 +110,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Woodland_dp : 34thPRC_
 {
 	displayName="[34th] CH252D Woodland 'Yandere' (Gold Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\yandere\woodland\yandere_odst_helmet_woodland.paa",// Helmet Texture
@@ -98,11 +126,11 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Woodland_dp : 34thPRC_
 		};
 	};
 };
-class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Woodland_dp : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_RedVisor_Urban_dp
+class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Woodland_dp :  34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban_dp
 {
 	displayName="[34th] CH252D Woodland 'Yandere' (Custom Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\yandere\woodland\yandere_odst_helmet_woodland.paa",// Helmet Texture
@@ -116,6 +144,45 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Woodland_dp : 34thPR
 			"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Helmet_CO.paa",
 			"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa"
 		};
+	};
+};
+
+//JFO Custom
+class 34thPRC_ArmourCustom_ODST2_Yandere_JFO_Custom_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_JFO_Custom_Urban
+{
+	displayName="[34th] JFO Woodland 'Yandere' (Custom Visor)";
+	author="Over Yandere";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourCustom\data\odst2\yandere\woodland\jfo_helmet_woodland.paa",
+		"34thPRC_ArmourCustom\data\odst2\yandere\visor\yandere_jfo_visor.paa"
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban";
+		player="yandere";
+		helmet="jfo";
+		camo="woodland";
+		visor="custom";
+	};
+};
+//Recon Custom
+class 34thPRC_ArmourCustom_ODST2_Yandere_Recon_Custom_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_Recon_Custom_Urban
+{
+	displayName="[34th] Recon Woodland 'Yandere' (Custom Visor)";
+	author="Over Yandere";
+	hiddenSelectionsTextures[]=
+	{
+		"34thPRC_ArmourCustom\data\odst2\yandere\woodland\recon_helmet_woodland.paa",
+		"34thPRC_ArmourCustom\data\odst2\yandere\visor\yandere_recon_visor.paa"
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban";
+		player="yandere";
+		helmet="recon";
+		camo="woodland";
+		visor="custom";
 	};
 };
 
@@ -155,6 +222,13 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Woodland : 34thPRC_ArmourCustom_ODS
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
 	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban";
+		player="yandere";
+		camo="woodland";
+		variant="a";
+	};
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_B_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_M52_B_Urban
 {
@@ -191,6 +265,13 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_B_Woodland : 34thPRC_ArmourCustom_O
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban";
+		player="yandere";
+		camo="woodland";
+		variant="b";
 	};
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_C_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_M52_C_Urban
@@ -229,6 +310,13 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_C_Woodland : 34thPRC_ArmourCustom_O
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
 	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban";
+		player="yandere";
+		camo="woodland";
+		variant="c";
+	};
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Marksman_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_M52_Marksman_Urban
 {
@@ -265,6 +353,13 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Marksman_Woodland : 34thPRC_ArmourC
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban";
+		player="yandere";
+		camo="woodland";
+		variant="marksman";
 	};
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_CQB_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_M52_CQB_Urban
@@ -303,10 +398,17 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_CQB_Woodland : 34thPRC_ArmourCustom
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
 	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban";
+		player="yandere";
+		camo="woodland";
+		variant="cqb";
+	};
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Medic_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_M52_Medic_Urban
 {
-	displayName="[34th] M52 Combat Armour 'Yandere' Medic Woodland";
+	displayName="[34th] M52 Combat Armour 'Yandere' (Corpsman) Woodland";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -339,6 +441,13 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Medic_Woodland : 34thPRC_ArmourCust
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban";
+		player="yandere";
+		camo="woodland";
+		variant="medic_a";
 	};
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_B_Medic_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_M52_B_Medic_Urban
@@ -377,10 +486,17 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_B_Medic_Woodland : 34thPRC_ArmourCu
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
 	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban";
+		player="yandere";
+		camo="woodland";
+		variant="medic_b";
+	};
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_C_Medic_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_M52_C_Medic_Urban
 {
-	displayName="[34th] M52-B Combat Armour 'Yandere' (Corpsman) Woodland";
+	displayName="[34th] M52-C Combat Armour 'Yandere' (Corpsman) Woodland";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -413,5 +529,12 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_C_Medic_Woodland : 34thPRC_ArmourCu
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+	};
+	class XtdGearInfo
+	{
+		model="34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban";
+		player="yandere";
+		camo="woodland";
+		variant="medic_c";
 	};
 };

@@ -52,7 +52,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Heavy : 34thPRC_ArmourSta
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa"
 	};
 };
-class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_NoShoulders : 34thPRC_ArmourStandard_Marines2_Trooper_Urban_NS
+class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_NoShoulders : 34thPRC_ArmourStandard_Marines2_Trooper_Urban_NoShoulder
 {
 	scope=1;
 	UniformClass="34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_NoShoulders";
@@ -178,7 +178,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Blue_Heavy : 34thPRC_Armo
 		"34thPRC_ArmourCustom\data\marines2\jade\urban\jade_marine_shoulders.paa"
 	};
 };
-class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Blue_NoShoulders : 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_NS
+class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Blue_NoShoulders : 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_NoShoulder
 {
 	scope=1;
 	UniformClass="34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Blue_NoShoulders";

@@ -6,4 +6,4 @@ class DMNS_Bulldog_base : Car_F // DMNS_Vehicles_Bulldog
 	tf_isolatedAmount=0.4;
 	tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
 	tf_hasLRradio=1;
-}
+};

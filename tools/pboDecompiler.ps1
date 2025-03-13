@@ -39,4 +39,3 @@ foreach ($rvmatPath in $materials){
 	Write-Output $rvmatPath
 	C:\Games\Steam\steamapps\common\Arma` 3` Tools\CfgConvertFilechng\CfgConvertFileChange.exe $rvmatPath | out-null
 }
-

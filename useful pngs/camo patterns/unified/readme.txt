@@ -1,0 +1,1 @@
+These camo files are the base used to create our new unified BDU. Tropic, arctic, woodland, and arid correspond to their obvious labeling. WISCAM-arterial-spray-night is our replacement and fill in for urban blue. WISCAM-arterial-spray-three is the main pattern used for our urban red but it is replaced on the pants with the version labled with two.

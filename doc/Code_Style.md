@@ -2,12 +2,12 @@
 ## Class Names
 `PboName_FolderStructure_ItemName_Varients`
 
-* Always start the class name with the PBO name, for our standard armour PBO this is `34thPRC_ArmourStandard`.
-* Then copy the folder structure to the config file, skipping `data`. Seperate each folder with underscores `_`.
-* Finally, name the new class. Preferably with a significant part of its display name. If the name matches the folder then don't add it. `Beret_Beret` should be just `Beret`.
-* If you need to add varients then you can add those on the end. Preferably use descriptive names for these e.g. `UrbanBlue_WhiteVisor`. Multiple variants can be used separated with underscores `_`. If you can't think of a meaningful name for the variants then number them. Avoid initials, e.g `NV` should be `NoVisor`; unless required for functionality, e.g. depolarised versions of helmets.
+- Always start the class name with the PBO name, for our standard armour PBO this is `34thPRC_ArmourStandard`.
+- Then copy the folder structure to the config file, skipping `data`. Seperate each folder with underscores `_`.
+- Finally, name the new class. Preferably with a significant part of its display name. If the name matches the folder then don't add it. `Beret_Beret` should be just `Beret`.
+- If you need to add varients then you can add those on the end. Preferably use descriptive names for these e.g. `UrbanBlue_WhiteVisor`. Multiple variants can be used separated with underscores `_`. If you can't think of a meaningful name for the variants then number them. Avoid initials, e.g `NV` should be `NoVisor`; unless required for functionality, e.g. depolarised versions of helmets.
 
-* Separate each element above with an underscore `_`. Do not separate words if they are part of the same element, e.g. `Urban_Blue` should be `UrbanBlue`.
+- Separate each element above with an underscore `_`. Do not separate words if they are part of the same element, e.g. `Urban_Blue` should be `UrbanBlue`.
 
 The weapon part of a uniform is called `Uniform`, the vehicle part is called `Trooper` instead.
 

@@ -1,6 +1,6 @@
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light
 {
-	label = "[34thPRC] Uniforms";
+	label = "[34th] Uniforms";
 	author = "34th PRC Modding Team, J. Koko";
 	options[] = {"camo", "collar", "variant"};
 	class variant
@@ -76,7 +76,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light
 // MA CH252 Helmets
 class 34thPRC_ArmourStandard_Marines2_CH252_Urban
 {
-	label = "[34thPRC] CH252 Helmets";
+	label = "[34th] CH252 Helmets";
 	author = "34th PRC Modding Team, J. Koko";
 	options[] = {"camo", "eyewear", "medic", "eyewear_color"};
 	class camo
@@ -161,6 +161,115 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban
 		class orange
 		{
 			label = "Orange";
+		};
+	};
+};
+
+class 34thPRC_ArmourStandard_EOD_Helmet_Urban
+{
+	label="[34thPRC] Specialist Helmets";
+	author="34th PRC Modding Team, Yandere";
+	options[]= {"helmet","camo"};
+	class helmet
+	{
+		label="Helmet Type";
+		alwaysSelectable=1;
+		changeingame=0;
+		values[]={"eod", "gungnir", "jfo", "cqc", "commando", "grenadier", "scout", "pilot", "recon"};
+		class eod
+		{
+			label="EOD";
+		};
+		class gungnir
+		{
+			label="Gungnir";
+		};
+		class jfo
+		{
+			label="JFO";
+		};
+		class cqc
+		{
+			label="CQC";
+		};
+		class commando
+		{
+			label="Commando";
+		};
+		class grenadier
+		{
+			label="Grenadier";
+		};
+		class scout
+		{
+			label="Scout";
+		};
+		class pilot
+		{
+			label="Pilot";
+		};
+		class recon
+		{
+			label="Recon";
+		};
+	};
+	class camo
+	{
+		alwaysSelectable=1;
+		changeingame=0;
+		values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
+		class urban
+		{
+			label="Urban";
+		};
+		class arctic
+		{
+			label="Arctic";
+		};
+		class arid
+		{
+			label="Arid";
+		};
+		class tropic
+		{
+			label="Tropic";
+		};
+		class woodland
+		{
+			label="Woodland";
+		};
+	};
+};
+
+class 34thPRC_ArmourStandard_EOD_CBRN_NVG_Urban
+{
+	label="[34thPRC] EOD Helmet CBRN Attachment";
+	author="34th PRC Modding Team, Over Yandere";
+	options[]= {"camo"};
+	class camo
+	{
+		alwaysSelectable=1;
+		changeingame=0;
+		values[] = {"urban", "arctic", "arid", "tropic", "woodland"};
+		class urban
+		{
+			label="Urban";
+		};
+		class arctic
+		{
+			label="Arctic";
+		};
+		class arid
+		{
+			label="Arid";
+		};
+		class tropic
+		{
+			label="Tropic";
+		};
+		class woodland
+		{
+			label="Woodland";
 		};
 	};
 };
