@@ -34,4 +34,9 @@ foreach ($configBinPath in $configs){
 	C:\Games\Steam\steamapps\common\Arma` 3` Tools\CfgConvert\CfgConvert.exe -dst $configCppPath $configBinPath | out-null
 }
 
+$materials = Get-ChildItem *.rvmat -Recurse
+foreach ($rvmatPath in $materials){
+	Write-Output $rvmatPath
+	C:\Games\Steam\steamapps\common\Arma` 3` Tools\CfgConvertFilechng\CfgConvertFileChange.exe $rvmatPath | out-null
+}
 
