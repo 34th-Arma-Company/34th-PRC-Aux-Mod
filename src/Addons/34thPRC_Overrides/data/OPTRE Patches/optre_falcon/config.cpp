@@ -42,7 +42,7 @@ class VehicleSystemsTemplateRightPilot: DefaultVehicleSystemsDisplayManagerRight
 class CfgMagazines
 {
 	class OPTRE_1Rnd_C2GMLS_missiles;
-	class OPTRE_4Rnd_C2GMLS_missiles: OPTRE_1Rnd_C2GMLS_missiles
+	class OPTRE_4Rnd_C2GMLS_missiles : OPTRE_1Rnd_C2GMLS_missiles
 	{
 		displayName = "8x C2GMLS";
 		count = 8;
