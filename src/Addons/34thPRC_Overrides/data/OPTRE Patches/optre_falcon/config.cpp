@@ -8,12 +8,12 @@ class CfgPatches
 		{
 			"34thPRC_Overrides",
 			"OPTRE_Vehicles_Air_Falcon", //[DEV] OPTRE -> Air Vehicles -> Falcon
-			"OPTRE_Weapons_Ammo", ////[DEV] OPTRE -> OPTRE_Weapons -> Ammo
+			"OPTRE_Weapons_Ammo", //[DEV] OPTRE -> OPTRE_Weapons -> Ammo
 		};
 		units[]={};
 	};
 };
-
+class DefaultEventHandlers;
 class SensorTemplatePassiveRadar;
 class SensorTemplateAntiRadiation;
 class SensorTemplateActiveRadar;
@@ -114,6 +114,13 @@ class CfgVehicles
 			"168Rnd_CMFlare_Chaff_Magazine",
 			"Laserbatteries"
 		};
+		class EventHandlers: EventHandlers
+		{
+			class unsung
+			{
+				init="_this spawn uns_air_fnc_addCustomMusic";
+			};
+		};
 		class Components: Components
 		{
 			class SensorsManagerComponent
@@ -202,7 +209,7 @@ class CfgVehicles
 			};
 			class VehicleSystemsDisplayManagerComponentLeft: DefaultVehicleSystemsDisplayManagerLeft
 			{
-				class Components: components
+				class Components: Components
 				{
 					class VehiclePrimaryGunnerDisplay
 					{
@@ -225,7 +232,7 @@ class CfgVehicles
 			class VehicleSystemsDisplayManagerComponentRight: DefaultVehicleSystemsDisplayManagerRight
 			{
 				defaultDisplay="SensorDisplay";
-				class Components: components
+				class Components: Components
 				{
 					class VehiclePrimaryGunnerDisplay
 					{

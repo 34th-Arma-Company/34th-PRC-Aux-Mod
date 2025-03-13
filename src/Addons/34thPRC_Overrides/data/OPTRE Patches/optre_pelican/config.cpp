@@ -167,7 +167,7 @@ class CfgVehicles
 						};
 						maxTrackableATL=100;
 						maxTrackableSpeed=60;
-						angleRangeHorizontal=60;
+						angleRangeHorizontal=90;
 						angleRangeVertical=180;
 					};
 					class PassiveRadarSensorComponent: SensorTemplatePassiveRadar
@@ -183,7 +183,7 @@ class CfgVehicles
 			};
 			class VehicleSystemsDisplayManagerComponentLeft: DefaultVehicleSystemsDisplayManagerLeft
 			{
-				class Components: components
+				class Components: Components
 				{
 					class VehiclePrimaryGunnerDisplay
 					{
@@ -206,7 +206,7 @@ class CfgVehicles
 			class VehicleSystemsDisplayManagerComponentRight: DefaultVehicleSystemsDisplayManagerRight
 			{
 				defaultDisplay="SensorDisplay";
-				class Components: components
+				class Components: Components
 				{
 					class VehiclePrimaryGunnerDisplay
 					{
@@ -235,7 +235,7 @@ class CfgVehicles
 				{
 					class VehicleSystemsDisplayManagerComponentLeft: DefaultVehicleSystemsDisplayManagerLeft
 					{
-						class Components: components
+						class Components: Components
 						{
 							class VehiclePrimaryGunnerDisplay
 							{
@@ -258,7 +258,7 @@ class CfgVehicles
 					class VehicleSystemsDisplayManagerComponentRight: DefaultVehicleSystemsDisplayManagerRight
 					{
 						defaultDisplay="SensorDisplay";
-						class Components: components
+						class Components: Components
 						{
 							class VehiclePrimaryGunnerDisplay
 							{
