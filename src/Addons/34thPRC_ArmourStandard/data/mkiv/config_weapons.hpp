@@ -1,9 +1,9 @@
 class MA_Mjolnir_MKIV_Helmet; // MA_Armor
-class ItemInfo;
 class 34thPRC_ArmourStandard_MKIV_Helmet : MA_Mjolnir_MKIV_Helmet
 {
 	displayName="[34th] Mjolnir MKIV Helmet";
 	author= "Cappy";
+	tcp_visrRscTitlesClass = "RscTCPVisrODST";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\mkiv\MKIV_Helmet_34_CO.paa",

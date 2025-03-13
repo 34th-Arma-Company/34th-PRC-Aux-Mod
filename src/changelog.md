@@ -6,8 +6,140 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+### Added
+- Repackaged Unsung's Music for Helo's for the Falcon with 5 song selection.
+- Created a 34th variant of 20mm HE rounds.
+- Created a 34th variant 2000Rnd 20mmHE magazine.
+- Created a 34th variant of Optre's m638
+- Created a 34th variant magazine of OPTRE's AGM-502 'Jack Knife' SALH-ATGM with 8x count for the Falcon and Hornet
+- Created a 34th variant magazine of OPTRE's AGM-90B 'Scorpion' Guided AT Missile with 8x count for the Falcon and Hornet
+### Updated
+- Marine CH252 diffuse colors, small color fixes
+- Falcon main 20mm HE, swapped to the 34th's version of the gun. Uses updated ammo.
+- Updated OPTRE's C2GMLS 4Rnd missile magazine to be 8 count. (This only impacts the OPTRE Falcon)
+### Removed
+- Old ODST Gear
 
-## 1.19.0
+## 0.26.0
+### Updated
+- OPTRE Pelican: radar enhanced, detectability reduced from 2x to 1.2x, sensor panel resolutions adjusted
+- OPTRE SOCOM Pelican: radar enhanced, detectability reduced from 2x to 1x, sensor panel resolutions adjusted
+- OPTRE Falcon: radar enhanced, active radar cone widened from 120* to 180*, sensor panel resolutions adjusted
+- OPTRE Hornet: radar enhanced, detectability reduced from 2x to 1x, sensor panel resolutions adjusted
+- OPTRE Sparrowhawk: radar enhanced, detectability reduced from 2x to 1.2x, sensor panel resolutions adjusted
+- OPTRE Wombat: radar enhanced, sensor panel resolutions adjusted, fuel capacity changed
+- OPTRE Longsword: radar enhanced, sensor panel res adjusted
+- OPTRE Bayonet + variants: inheritance changed, radar enhanced
+- OPTRE Gladius + variants: inheritance changed, radar resolution adjusted
+- UNSC Foundries Heavy Pelican: radar enhanced, detectability increased to 1.2x, sensor panel resolutions adjusted
+
+## 0.25.1
+### Updated
+- Balance pass on the Railgun's ammo
+### Fix
+- BDU colors having an oddity on the wrists
+- Disabled BDU rvmats, they will return when they are properly working
+
+## 0.25.0
+### Added
+- New Railgun ammo variants
+- New M52 ODST Rucksack
+- New armor variant 'M52-D Combat Armor' for the ODSTs
+- Vasya custom armor
+### Updated
+- Updated base ODST armour textures and marierials
+- Updated base BDU and plates
+- AAX Model names to be prefixed as [34th]
+- Updated CH252 Helmet diffuse textures.
+
+## 0.24.3
+### Updated
+- Series 9[B] SOLA Jetpack(KJW's Jetpacks) balance pass. Functions very closely to the Halo: Reach Jetpack now.
+- Series 9[X] SOLA Thruster Pack(Scion Conflict) will remain an option as 'experimental' escape & evasion equipment.
+- All of our helmets should now have the TCP HUD available
+### Fix
+- Airburst Rifle: short description spelling, script now uses #undef to prevent potential for unexpected override, sound files now have file endings in their path
+- Error message popup when depolarising helmets
+
+## 0.24.2
+### Fix
+- Scripting nonsense
+
+## 0.24.1
+### Fix
+- Missing bits on CfgPatches that prevented missions loading on the server
+
+## 0.24.0
+### Added
+- Series-9 SOLA Jump-Jet (Halo jetpack which includes a Gunbag, Long-Range Radio, and Grapplehook functionality.)
+- Ace Arsenal Extended support for Immersion Cigs - Rewrite
+- More loading screens
+- A new stanchion version with airburst ammunition
+- Yandere Recon Custom Helm
+- Ramirez Custom Marine Helm
+- Conex Custom Marine Helm
+- Harrison Custom Armour
+### Updated
+- Added black hot thermals to HUL Gen 3 variants to make them leadership available
+
+## 0.23.0
+### Added
+- ACE Arsenal Extended Facewear Support Added:
+  - TRYK Beards (Tac-Vests)
+  - TRYK Facewear (Multi-play Uniforms)
+  - MA Facewear
+  - Arma 3 Balaclavas
+  - Arma 3 Bandanas
+  - MA: TGE Balaclavas
+- Luther Custom JFO helmet
+- 34th IHADSS Helmet
+### Remove
+- Dependency on 1st MEU in places
+
+## 0.22.0
+### Added
+- Vasya Custom Helmet
+- ACE Arsenal Extended Support added:
+  - Misriah Armory Marine Pouches
+  - OPTRE NVGs
+  - Misriah Armory NVGs
+  - 34th PRC MkV B Shoulders
+  - 34th PRC MkV B Helmets
+- Version checking
+- Loading screen messages
+
+## 0.21.0
+### Added
+- Ambrose Custom Armour
+- Grenadier for Marines / ODSTs
+- Scout for marines / ODSTs
+- Shewolf Custom Helmet
+- Pilot Helmet for marines / ODSTs
+- Recon Helmet for marines / ODSTs
+### Updated
+- All Spartan shoulders have gunbags
+- Added black hot and white hot thermal modes to UNSC Marksman's Visual Interface and all MVI tagged NVGs
+- Shortened all Marine Cross Branch BDU uniform display names to BDU to fit better on screen
+- Fixed some names on Jade's custom armour, was 'Demo Player' in some places
+
+## 0.20.0
+### Added
+- Cappy Custom Armour
+- EOD Helmets for Marines/ODSTs
+- EOD CBRN NVG attachment for Marines/ODSTs
+- Springbok Commander Seat LR Radio
+- AAX support for Gungnir helmets
+- JFO for Marines/ODSTs
+- CQC for Marines/ODSTs
+- Commando for Marines/ODSTs
+### Updated
+- Fix shoulderless marine uniforms having less carry capacity
+- Gungnir helmet camos for Marines/ODSTS
+- Naval Special Weapons SRS99AM now can use 19th Fleet SRS Ammo
+- 1st MEU SAABR-96 now uses the OPTRE Stanchion model
+- 1st MEU SAABR-96 now has OPTRE APFSDS ammo as an option
+
+## 0.19.0
 ### Added
 - Prototyped custom armour
 - Bigger storage for exosuits that we use

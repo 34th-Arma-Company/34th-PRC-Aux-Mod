@@ -2,8 +2,7 @@ class cfgWeapons
 {
 	#include "weapons\config.hpp"
 };
-
-class cfgVehicles
+class cfgGlasses
 {
-	#include "vehicles\config.hpp"
+	#include "glasses\config.hpp"
 };

@@ -6,8 +6,8 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Arid_Light: 34thPRC_ArmourStandard
 		"34thPRC_ArmourStandard\data\marines2\Arid\Desert_UpperBDU.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Desert_LowerBDU.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Desert_TrooperCollar.paa",
-		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
-		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
+		"34thPRC_ArmourStandard\data\marines2\TrooperPadding_CO.paa",
+		"34thPRC_ArmourStandard\data\marines2\TrooperStraps_CO.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Tan_UpperArmor.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Tan_LowerArmor.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Tan_TrooperShoulders.paa",
@@ -23,8 +23,8 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Arid_Medium: 34thPRC_ArmourStandar
 		"34thPRC_ArmourStandard\data\marines2\Arid\Desert_UpperBDU.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Desert_LowerBDU.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Desert_TrooperCollar.paa",
-		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
-		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
+		"34thPRC_ArmourStandard\data\marines2\TrooperPadding_CO.paa",
+		"34thPRC_ArmourStandard\data\marines2\TrooperStraps_CO.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Tan_UpperArmor.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Tan_LowerArmor.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Tan_TrooperShoulders.paa",
@@ -40,8 +40,8 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Arid_Heavy: 34thPRC_ArmourStandard
 		"34thPRC_ArmourStandard\data\marines2\Arid\Desert_UpperBDU.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Desert_LowerBDU.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Desert_TrooperCollar.paa",
-		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
-		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
+		"34thPRC_ArmourStandard\data\marines2\TrooperPadding_CO.paa",
+		"34thPRC_ArmourStandard\data\marines2\TrooperStraps_CO.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Tan_UpperArmor.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Tan_LowerArmor.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Tan_TrooperShoulders.paa",
@@ -49,16 +49,16 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Arid_Heavy: 34thPRC_ArmourStandard
 		"34thPRC_ArmourStandard\data\marines2\Arid\Tan_TrooperShoulders.paa"
 	};
 };
-class 34thPRC_ArmourStandard_Marines2_Trooper_Arid_NS: 34thPRC_ArmourStandard_Marines2_Trooper_Urban_NS
+class 34thPRC_ArmourStandard_Marines2_Trooper_Arid_NoShoulder: 34thPRC_ArmourStandard_Marines2_Trooper_Urban_NoShoulder
 {
-	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Arid_NS";
+	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Arid_NoShoulder";
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourStandard\data\marines2\Arid\Desert_UpperBDU.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Desert_LowerBDU.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Desert_TrooperCollar.paa",
-		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
-		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
+		"34thPRC_ArmourStandard\data\marines2\TrooperPadding_CO.paa",
+		"34thPRC_ArmourStandard\data\marines2\TrooperStraps_CO.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Tan_UpperArmor.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Tan_LowerArmor.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Tan_TrooperShoulders.paa",
@@ -74,8 +74,8 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Arid_Light_NoCollar: 34thPRC_Armou
 		"34thPRC_ArmourStandard\data\marines2\Arid\Desert_UpperBDU.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Desert_LowerBDU.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Desert_TrooperCollar.paa",
-		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
-		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
+		"34thPRC_ArmourStandard\data\marines2\TrooperPadding_CO.paa",
+		"34thPRC_ArmourStandard\data\marines2\TrooperStraps_CO.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Tan_UpperArmor.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Tan_LowerArmor.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Tan_TrooperShoulders.paa",
@@ -91,8 +91,8 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Arid_Medium_NoCollar: 34thPRC_Armo
 		"34thPRC_ArmourStandard\data\marines2\Arid\Desert_UpperBDU.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Desert_LowerBDU.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Desert_TrooperCollar.paa",
-		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
-		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
+		"34thPRC_ArmourStandard\data\marines2\TrooperPadding_CO.paa",
+		"34thPRC_ArmourStandard\data\marines2\TrooperStraps_CO.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Tan_UpperArmor.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Tan_LowerArmor.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Tan_TrooperShoulders.paa",
@@ -108,8 +108,8 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Arid_Heavy_NoCollar: 34thPRC_Armou
 		"34thPRC_ArmourStandard\data\marines2\Arid\Desert_UpperBDU.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Desert_LowerBDU.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Desert_TrooperCollar.paa",
-		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
-		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
+		"34thPRC_ArmourStandard\data\marines2\TrooperPadding_CO.paa",
+		"34thPRC_ArmourStandard\data\marines2\TrooperStraps_CO.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Tan_UpperArmor.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Tan_LowerArmor.paa",
 		"34thPRC_ArmourStandard\data\marines2\Arid\Tan_TrooperShoulders.paa",
