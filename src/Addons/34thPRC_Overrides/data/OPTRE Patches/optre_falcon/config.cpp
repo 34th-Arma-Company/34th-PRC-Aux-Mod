@@ -8,6 +8,7 @@ class CfgPatches
 		{
 			"34thPRC_Overrides",
 			"OPTRE_Vehicles_Air_Falcon", //[DEV] OPTRE -> Air Vehicles -> Falcon
+			"OPTRE_Weapons_Ammo", //[DEV] OPTRE -> OPTRE_Weapons -> Ammo
 		};
 		units[]={};
 	};
@@ -36,6 +37,16 @@ class VehicleSystemsTemplateLeftPilot: DefaultVehicleSystemsDisplayManagerLeft
 class VehicleSystemsTemplateRightPilot: DefaultVehicleSystemsDisplayManagerRight
 {
 	class components;
+};
+
+class CfgMagazines
+{
+	class OPTRE_1Rnd_C2GMLS_missiles;
+	class OPTRE_4Rnd_C2GMLS_missiles : OPTRE_1Rnd_C2GMLS_missiles
+	{
+		displayName = "8x C2GMLS";
+		count = 8;
+	};
 };
 
 class CfgVehicles
@@ -90,6 +101,19 @@ class CfgVehicles
 	};
 	class OPTRE_falcon_base: Heli_Light_01_base_F
 	{
+		weapons[]=
+		{
+			"34thPRC_M638",
+			"CMFlareLauncher",
+			"Laserdesignator_pilotCamera"
+		};
+		magazines[]=
+		{
+			"34thPRC_Magazines_2000Rnd_20mmHE",
+			"34thPRC_Magazines_2000Rnd_20mmHE",
+			"168Rnd_CMFlare_Chaff_Magazine",
+			"Laserbatteries"
+		};
 		class EventHandlers: EventHandlers
 		{
 			class unsung
