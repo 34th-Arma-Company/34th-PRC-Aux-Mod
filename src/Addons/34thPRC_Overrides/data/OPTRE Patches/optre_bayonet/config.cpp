@@ -260,7 +260,6 @@ class CfgVehicles
 			"OPTRE_Plus\data\Bayonet\Bayonet_02_fuselage_02_co.paa"
 		};
 	};
-
 	class OPTRE_bayonetstealth_01: B_Plane_Fighter_01_Stealth_F
 	{
 		displayName="F-1X Bayonet (Stealth)";
