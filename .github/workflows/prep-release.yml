@@ -32,7 +32,6 @@ jobs:
       env:
         PR_LABELS: ${{ github.event.pull_request.labels }}
       run: |
-        $labels = $env:PR_LABELS | ConvertFrom-Json | ForEach-Object { $_.name }
         if ($labels -notcontains 'release') {
           Write-Output "No release label found. Exiting."
           exit 0
