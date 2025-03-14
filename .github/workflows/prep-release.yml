@@ -17,8 +17,11 @@ jobs:
     - name: Check for release label
       id: check_label
       shell: pwsh
+      env:
+        PR_LABELS: ${{ github.event.pull_request.labels }}
       run: |
-        if (${{ github.event.pull_request.labels }} -notcontains 'release') {
+        $labels = $env:PR_LABELS | ConvertFrom-Json | ForEach-Object { $_.name }
+        if ($labels -notcontains 'release') {
           Write-Output "No release label found. Exiting."
           exit 0
         }
