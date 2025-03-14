@@ -6,8 +6,34 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+### Added
+- Repackaged Unsung's Music for Helo's for the Falcon with 5 song selection.
+- Created a 34th variant of 20mm HE rounds.
+- Created a 34th variant 2000Rnd 20mmHE magazine.
+- Created a 34th variant of Optre's m638
+- Created a 34th variant magazine of OPTRE's AGM-502 'Jack Knife' SALH-ATGM with 8x count for the Falcon and Hornet
+- Created a 34th variant magazine of OPTRE's AGM-90B 'Scorpion' Guided AT Missile with 8x count for the Falcon and Hornet
+### Updated
+- Marine CH252 diffuse colors, small color fixes
+- Falcon main 20mm HE, swapped to the 34th's version of the gun. Uses updated ammo.
+- Updated OPTRE's C2GMLS 4Rnd missile magazine to be 8 count. (This only impacts the OPTRE Falcon)
+### Removed
+- Old ODST Gear
 
-# 0.25.1
+## 0.26.0
+### Updated
+- OPTRE Pelican: radar enhanced, detectability reduced from 2x to 1.2x, sensor panel resolutions adjusted
+- OPTRE SOCOM Pelican: radar enhanced, detectability reduced from 2x to 1x, sensor panel resolutions adjusted
+- OPTRE Falcon: radar enhanced, active radar cone widened from 120* to 180*, sensor panel resolutions adjusted
+- OPTRE Hornet: radar enhanced, detectability reduced from 2x to 1x, sensor panel resolutions adjusted
+- OPTRE Sparrowhawk: radar enhanced, detectability reduced from 2x to 1.2x, sensor panel resolutions adjusted
+- OPTRE Wombat: radar enhanced, sensor panel resolutions adjusted, fuel capacity changed
+- OPTRE Longsword: radar enhanced, sensor panel res adjusted
+- OPTRE Bayonet + variants: inheritance changed, radar enhanced
+- OPTRE Gladius + variants: inheritance changed, radar resolution adjusted
+- UNSC Foundries Heavy Pelican: radar enhanced, detectability increased to 1.2x, sensor panel resolutions adjusted
+
+## 0.25.1
 ### Updated
 - Balance pass on the Railgun's ammo
 ### Fix
@@ -24,6 +50,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Updated base ODST armour textures and marierials
 - Updated base BDU and plates
 - AAX Model names to be prefixed as [34th]
+- Updated CH252 Helmet diffuse textures.
 
 ## 0.24.3
 ### Updated
