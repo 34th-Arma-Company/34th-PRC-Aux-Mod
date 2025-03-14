@@ -14,15 +14,14 @@ jobs:
       pull-requests: write
 
     steps:
-    - name: Check for release label
-      id: check_label
+    - name: debug
+      id: debug
       shell: pwsh
       run: |
-        $labels = @(${{github.event.pull_request.labels.*.name}})
-        if ($labels -notcontains 'release') {
-          Write-Output "No release label found. Exiting."
-          exit 0
-        }
+        Write-Output ${{github.event.pull_request.labels}}
+        exit 0
+
+
     - name: Check for release label
       id: check_label
       shell: pwsh
