@@ -12,6 +12,8 @@ class CfgPatches
 			"34thPRC_Overrides", // 34th PRC Aux Mod
 			"WBK_EpsmSystem", // E.P.S.M ExoMod Remastered
 			"PhoenixSystems_Exosuits" // E.P.S.M ExoMod Remastered
+			"DMNS_Units", //UNSC Foundries
+			"A3_Characters_F_TCP_BLUFOR_UNSC_Headgear_helmet_CH252A", //TCP ODST Helm
 		};
 	};
 };

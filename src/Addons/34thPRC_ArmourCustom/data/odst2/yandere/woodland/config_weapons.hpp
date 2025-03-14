@@ -31,7 +31,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_RedVisor_Woodland : 34thPRC_Armo
 		camo="woodland";
 		visor="red";
 	};
-}
+};
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
 {
 	displayName="[34th] CH252D Woodland 'Yandere' (Gold Visor)";
@@ -48,7 +48,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Woodland : 34thPRC_Arm
 		camo="woodland";
 		visor="gold";
 	};
-}
+};
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
 {
 	displayName="[34th] CH252D Woodland 'Yandere' (Custom Visor)";
@@ -70,7 +70,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Woodland_dp : 34thPR
 {
 	displayName="[34th] CH252D Woodland 'Yandere' (Silver Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\yandere\woodland\yandere_odst_helmet_woodland.paa",// Helmet Texture
@@ -90,7 +90,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_RedVisor_Woodland_dp : 34thPRC_A
 {
 	displayName="[34th] CH252D Woodland 'Yandere' (Red Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\yandere\woodland\yandere_odst_helmet_woodland.paa",// Helmet Texture
@@ -110,7 +110,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Woodland_dp : 34thPRC_
 {
 	displayName="[34th] CH252D Woodland 'Yandere' (Gold Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\yandere\woodland\yandere_odst_helmet_woodland.paa",// Helmet Texture
@@ -130,7 +130,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Woodland_dp :  34thP
 {
 	displayName="[34th] CH252D Woodland 'Yandere' (Custom Visor)";
 	author="Over Yandere";
-	scope=0;
+	scope=1;
 	hiddenSelectionsTextures[]=
 	{
 		"34thPRC_ArmourCustom\data\odst2\yandere\woodland\yandere_odst_helmet_woodland.paa",// Helmet Texture

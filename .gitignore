@@ -3,6 +3,8 @@
 hemtt
 hemtt.exe
 *.biprivatekey
+include
+releases/
 
 .vscode
 build-config.json
