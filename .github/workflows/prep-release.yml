@@ -18,8 +18,7 @@ jobs:
       id: check_label
       shell: pwsh
       run: |
-        $labels = @(${{github.event.pull_request.labels.*.name}})
-        if ($labels -notcontains 'release') {
+        if (${{ github.event.pull_request.labels }} -notcontains 'release') {
           Write-Output "No release label found. Exiting."
           exit 0
         }
