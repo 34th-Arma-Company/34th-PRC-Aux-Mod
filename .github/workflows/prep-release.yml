@@ -17,8 +17,10 @@ jobs:
     - name: debug
       id: debug
       shell: pwsh
+      env:
+        PR_LABELS: ${{ github.event.pull_request.labels }}
       run: |
-        $labels = ${{github.event.pull_request.labels}} | ForEach-Object { $_.name }
+        $labels = $env.PR_LABELS | ForEach-Object { $_.name }
 
         $labels | ForEach-Object { Write-Output $_ }
 
