@@ -22,7 +22,7 @@ jobs:
 
     - name: Checkout repository
       if: steps.check_label.outputs.pass
-      uses: actions/checkout@v
+      uses: actions/checkout@v4.2.2
       with:
         persist-credentials: false
 
