@@ -18,8 +18,13 @@ jobs:
       id: debug
       shell: pwsh
       run: |
-          Write-Output ${{ github.event.pull_request.labels }}
-          exit 0
+        $labels = ${{github.event.pull_request.labels}} | ForEach-Object { $_.name }
+
+        $labels | ForEach-Object { Write-Output $_ }
+
+
+
+        exit 1
 
     - name: Check for release label
       id: check_label
