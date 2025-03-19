@@ -11,7 +11,7 @@ on:
   workflow_dispatch: # manual trigger
 
 jobs:
-  stale:
+  stale-prs-and-issues:
     runs-on: ubuntu-latest
     permissions:
       pull-requests: write
@@ -23,3 +23,35 @@ jobs:
         include-only-assigned: true
         stale-issue-message: 'This issue has been assigned for 60 days without visible progress, maybe it should be unassigned and returned to the todo column?'
         stale-pr-message: 'This PR has had no activity for 60 days, it will be automatically closed in 7 days.'
+  stale-branches:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    - name: Find stale branches
+      id: find_stale_branches
+      run: |
+        SECONDS_IN_A_DAY=86400
+        SECONDS_IN_60_DAYS=SECONDS_IN_A_DAY*60
+        git fetch --all
+        stale_branches=$(git branch -r --sort=-committerdate | grep -v '\->' | while read branch; do
+          last_commit=$(git log -1 --format=%ct $branch)
+          current_time=$(date +%s)
+          diff=$(( (current_time - last_commit) / SECONDS_IN_60_DAYS ))
+          if [ $diff -gt 60; then
+            echo $branch
+          fi
+        done)
+        echo "::set-output name=stale_branches::$stale_branches"
+    - name: Create issue for stale branches
+      if: steps.find_stale_branches.outputs.stale_branches != ''
+      uses: actions/github-script@v4
+      with:
+        script: |
+          const branches = process.env.stale_branches.split('\n').join(', ');
+          github.issues.create({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            title: 'Stale branches detected',
+            body: `The following branches have had no activity for over 60 days: ${branches}`
+          })
