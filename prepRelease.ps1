@@ -20,17 +20,25 @@ $changelogContent = Get-Content "changelog.md"
 
 # Check if the Unreleased section is empty or contains only blank lines
 $unreleasedSection = ($changelogContent -join "`n") -match "(?s)(?<=## Unreleased`n).*?(?=## \d+\.\d+\.\d+|$)"
-$unreleasedSectionContent = $matches[0] -replace "`n", ""
-#Write-Host "Unreleased section content: '$unreleasedSectionContent'"
+$unreleasedSectionContent = $matches[0] -replace "`n", "" -replace "`r", ""
+
+If ($CI){
+	Write-Debug "Unreleased section content: '$unreleasedSectionContent'"
+}
 if ($unreleasedSectionContent -and $unreleasedSectionContent -notmatch "^\s*$") {
-	Write-Host "The '## Unreleased' section in changelog.md must be empty or contain only blank lines. Please move the changes to a new version section."
+	Write-Error "The '## Unreleased' section in changelog.md must be empty or contain only blank lines. Please move the changes to a new version section."
 	exit 1
 }
 $newVersionLine = $changelogContent | Select-String -Pattern "^## \d+\.\d+\.\d+" | Select-Object -First 1
 
 if ($newVersionLine -eq $null) {
-	Write-Host "Could not find a version number in changelog.md. Please enter the new version number (e.g., 0.27.0):"
-	$newVersion = Read-Host
+	if ($CI) {
+		Write-Error "Could not find a version number in changelog.md and cannot prompt for input in CI mode."
+		exit 1
+	} else {
+		Write-Host "Could not find a version number in changelog.md. Please enter the new version number (e.g., 0.27.0):"
+		$newVersion = Read-Host
+	}
 } else {
 	$newVersion = $newVersionLine -replace "## ", ""
 }
@@ -49,4 +57,4 @@ $scriptVersionContent = $scriptVersionContent -replace "(?<=#define MINOR )\d+",
 $scriptVersionContent = $scriptVersionContent -replace "(?<=#define PATCH )\d+", $patch
 Set-Content -Path $scriptVersionPath -Value $scriptVersionContent
 
-Write-Host "Updated script_version.hpp to version $newVersion."
+Write-Output "Updated script_version.hpp to version $newVersion."
