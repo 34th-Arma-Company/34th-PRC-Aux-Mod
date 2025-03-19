@@ -23,10 +23,10 @@ $unreleasedSection = ($changelogContent -join "`n") -match "(?s)(?<=## Unrelease
 $unreleasedSectionContent = $matches[0] -replace "`n", "" -replace "`r", ""
 
 If ($CI){
-	Write-Host "Unreleased section content: '$unreleasedSectionContent'"
+	Write-Debug "Unreleased section content: '$unreleasedSectionContent'"
 }
 if ($unreleasedSectionContent -and $unreleasedSectionContent -notmatch "^\s*$") {
-	Write-Host "The '## Unreleased' section in changelog.md must be empty or contain only blank lines. Please move the changes to a new version section."
+	Write-Error "The '## Unreleased' section in changelog.md must be empty or contain only blank lines. Please move the changes to a new version section."
 	exit 1
 }
 $newVersionLine = $changelogContent | Select-String -Pattern "^## \d+\.\d+\.\d+" | Select-Object -First 1
@@ -57,4 +57,4 @@ $scriptVersionContent = $scriptVersionContent -replace "(?<=#define MINOR )\d+",
 $scriptVersionContent = $scriptVersionContent -replace "(?<=#define PATCH )\d+", $patch
 Set-Content -Path $scriptVersionPath -Value $scriptVersionContent
 
-Write-Host "Updated script_version.hpp to version $newVersion."
+Write-Output "Updated script_version.hpp to version $newVersion."

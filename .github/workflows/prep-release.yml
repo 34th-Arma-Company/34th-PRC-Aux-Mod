@@ -29,7 +29,7 @@ jobs:
 
     - name: Run prepRelease.ps1
       if: steps.check_label.outputs.pass == 'true'
-      run: pwsh ./prepRelease.ps1 -CI
+      run: pwsh ./prepRelease.ps1 -CI -Debug
       continue-on-error: false
 
     - name: Commit and push changes
