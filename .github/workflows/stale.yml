@@ -37,7 +37,7 @@ jobs:
         stale_branches=$(git branch -r --sort=-committerdate | grep -v '\->' | while read branch; do
           last_commit=$(git log -1 --format=%ct $branch)
           current_time=$(date +%s)
-          diff=$(( (current_time - last_commit) / SECONDS_IN_60_DAYS ))
+          diff=$(( (current_time - last_commit) / SECONDS_IN_A_DAY ))
           if [ $diff -gt 60; then
             echo $branch
           fi
@@ -53,5 +53,5 @@ jobs:
             owner: context.repo.owner,
             repo: context.repo.repo,
             title: 'Stale branches detected',
-            body: `The following branches have had no activity for over 60 days: ${branches}`
+            body: `The following branches have had no activity for over 1 days: ${branches}`
           })
