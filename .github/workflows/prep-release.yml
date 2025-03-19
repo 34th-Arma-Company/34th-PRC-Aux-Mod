@@ -34,7 +34,7 @@ jobs:
 
     - name: Commit and push changes
       if: steps.check_label.outputs.pass == 'true' && success()
-      uses: stefanzweifel/git-auto-commit-action@v4
+      uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: "Automated prep release"
         branch: ${{ github.head_ref }}
