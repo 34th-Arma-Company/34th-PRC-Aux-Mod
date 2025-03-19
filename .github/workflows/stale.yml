@@ -41,7 +41,7 @@ jobs:
           current_time=$(date +%s)
           diff=$(( (current_time - last_commit) / SECONDS_IN_A_DAY )) # diff is days
           if [ $diff -gt $NUMBER_OF_DAYS_BEFORE_STALE ]; then
-            echo $branch
+            echo ${branch#origin/}
           fi
         done)
         stale_branches=$(echo "$stale_branches" | tr '\n' ' ')
