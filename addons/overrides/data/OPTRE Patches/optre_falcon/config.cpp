@@ -103,7 +103,7 @@ class CfgVehicles
 	{
 		weapons[]=
 		{
-			"34thPRC_M638",
+			"OPTRE_M638",
 			"CMFlareLauncher",
 			"Laserdesignator_pilotCamera"
 		};
@@ -252,6 +252,17 @@ class CfgVehicles
 					};
 				};
 			};
+		};
+	};
+	class OPTRE_UNSC_falcon_S;
+	class OPTRE_UNSC_falcon_armed_S: OPTRE_UNSC_falcon_S
+	{
+		magazines[]=
+		{
+			"34thPRC_Magazines_2000Rnd_20mmHE",
+			"34thPRC_Magazines_2000Rnd_20mmHE",
+			"168Rnd_CMFlare_Chaff_Magazine",
+			"Laserbatteries"
 		};
 	};
 };
