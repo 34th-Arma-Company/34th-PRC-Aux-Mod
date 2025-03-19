@@ -32,8 +32,13 @@ if ($unreleasedSectionContent -and $unreleasedSectionContent -notmatch "^\s*$") 
 $newVersionLine = $changelogContent | Select-String -Pattern "^## \d+\.\d+\.\d+" | Select-Object -First 1
 
 if ($newVersionLine -eq $null) {
-	Write-Host "Could not find a version number in changelog.md. Please enter the new version number (e.g., 0.27.0):"
-	$newVersion = Read-Host
+	if ($CI) {
+		Write-Error "Could not find a version number in changelog.md and cannot prompt for input in CI mode."
+		exit 1
+	} else {
+		Write-Host "Could not find a version number in changelog.md. Please enter the new version number (e.g., 0.27.0):"
+		$newVersion = Read-Host
+	}
 } else {
 	$newVersion = $newVersionLine -replace "## ", ""
 }
