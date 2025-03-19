@@ -1,7 +1,7 @@
 name: Prep Release
 
 on:
-  pull_request_target:
+  pull_request:
     types: [opened, labeled, synchronize, reopened, unlabeled]
     branches:
       - '*'
@@ -10,7 +10,7 @@ jobs:
   prep-release:
     runs-on: windows-latest
     permissions:
-      contents: read
+      contents: write
       pull-requests: write
 
     steps:
@@ -25,17 +25,15 @@ jobs:
       if: steps.check_label.outputs.pass == 'true'
       uses: actions/checkout@v4.2.2
       with:
-        persist-credentials: false
+        ref: ${{ github.head_ref }}
 
     - name: Run prepRelease.ps1
       if: steps.check_label.outputs.pass == 'true'
-      run: pwsh ./prepRelease.ps1 -CI
+      run: pwsh ./prepRelease.ps1 -CI -Debug
       continue-on-error: false
 
     - name: Commit and push changes
       if: steps.check_label.outputs.pass == 'true' && success()
-      uses: stefanzweifel/git-auto-commit-action@v4
+      uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: "Automated prep release"
-        branch: ${{ github.head_ref }}
-        token: ${{ secrets.GITHUB_TOKEN }}
