@@ -25,6 +25,8 @@ jobs:
         stale-pr-message: 'This PR has had no activity for 60 days, it will be automatically closed in 7 days.'
   stale-branches:
     runs-on: ubuntu-latest
+    permissions:
+      issues: write
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
@@ -46,7 +48,7 @@ jobs:
         echo "stale_branches=$stale_branches" >> $GITHUB_ENV
     - name: Create issue for stale branches
       if: env.stale_branches != ''
-      uses: actions/github-script@v4
+      uses: actions/github-script@v7
       with:
         script: |
           const branches = process.env.stale_branches.split(' ').join(', ');
