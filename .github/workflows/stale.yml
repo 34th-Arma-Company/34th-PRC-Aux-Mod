@@ -32,17 +32,16 @@ jobs:
       id: find_stale_branches
       run: |
         SECONDS_IN_A_DAY=86400
-        SECONDS_IN_60_DAYS=SECONDS_IN_A_DAY*60
         git fetch --all
         stale_branches=$(git branch -r --sort=-committerdate | grep -v '\->' | while read branch; do
           last_commit=$(git log -1 --format=%ct $branch)
           current_time=$(date +%s)
-          diff=$(( (current_time - last_commit) / SECONDS_IN_A_DAY ))
-          if [ $diff -gt 60;] then
+          diff=$(( (current_time - last_commit) / SECONDS_IN_A_DAY )) # diff is days
+          if [ $diff -gt 1 ]; then
             echo $branch
           fi
         done)
-        echo "stale_branches=$stale_branches">> $GITHUB_OUTPUT
+        echo "stale_branches=$stale_branches" >> $GITHUB_OUTPUT
     - name: Create issue for stale branches
       if: steps.find_stale_branches.outputs.stale_branches != ''
       uses: actions/github-script@v4
