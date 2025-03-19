@@ -26,6 +26,7 @@ jobs:
       uses: actions/checkout@v4.2.2
       with:
         persist-credentials: false
+        ref: ${{ github.head_ref }}
 
     - name: Run prepRelease.ps1
       if: steps.check_label.outputs.pass == 'true'
