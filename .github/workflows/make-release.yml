@@ -44,7 +44,7 @@ jobs:
     # TODO: create a release on GitHub with the build attached
 
     # TODO upload to steam workshop
-    - uses: echapmanFromBunnings/upload-artifact@v3.0.0
+    - uses: actions/upload-artifact@v4
       with:
         name: 'release-build'
         path: 'releases/34thprc-latest.zip'
