@@ -44,3 +44,9 @@ jobs:
     # TODO: create a release on GitHub with the build attached
 
     # TODO upload to steam workshop
+    - uses: echapmanFromBunnings/upload-artifact@3.0
+    with:
+      name: 'release-build'
+      path: '.hemttout/release/*'
+      if-no-files-found: 'warn' # Optional
+      retention-days: 1 # Optional
