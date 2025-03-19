@@ -18,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Marine CH252 diffuse colors, small color fixes
 - Falcon main 20mm HE, swapped to the 34th's version of the gun. Uses updated ammo.
 - Updated OPTRE's C2GMLS 4Rnd missile magazine to be 8 count. (This only impacts the OPTRE Falcon)
+- Updated AAX support to add camos and colors to uniform, helmet, and armor selections.
 ### Removed
 - Old ODST Gear
 

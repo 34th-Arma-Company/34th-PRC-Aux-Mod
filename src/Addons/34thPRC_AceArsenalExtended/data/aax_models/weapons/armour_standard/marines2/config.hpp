@@ -34,26 +34,32 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light
 		class urbanRed
 		{
 			label = "Urban Red";
+			image = "34thPRC_ArmourStandard\data\camo_pattern\Urban.paa";
 		};
 		class urbanBlue
 		{
-			label = "Urban Blue";
+			label = "Night";
+			image = "34thPRC_ArmourStandard\data\camo_pattern\Night.paa";
 		};
 		class arctic
 		{
 			label = "Arctic";
+			image = "34thPRC_ArmourStandard\data\camo_pattern\Arctic.paa";
 		};
 		class arid
 		{
 			label = "Arid";
+			image = "34thPRC_ArmourStandard\data\camo_pattern\Arid.paa";
 		};
 		class tropic
 		{
 			label = "Tropic";
+			image = "34thPRC_ArmourStandard\data\camo_pattern\Tropic.paa";
 		};
 		class woodland
 		{
 			label = "Woodland";
+			image = "34thPRC_ArmourStandard\data\camo_pattern\Woodland.paa";
 		};
 	};
 	class collar
@@ -87,22 +93,27 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban
 		class urban
 		{
 			label = "Urban";
+			image = "#(rgb,8,8,3)color(0.071,0.071,0.071,1)";
 		};
 		class arctic
 		{
 			label = "Arctic";
+			image = "#(rgb,8,8,3)color(0.322,0.322,0.322,1)";
 		};
 		class arid
 		{
 			label = "Arid";
+			image = "#(rgb,8,8,3)color(0.282,0.267,0.239,1)";
 		};
 		class tropic
 		{
 			label = "Tropic";
+			image = "#(rgb,8,8,3)color(0.196,0.2,0.122,1)";
 		};
 		class woodland
 		{
 			label = "Woodland";
+			image = "#(rgb,8,8,3)color(0.149,0.153,0.125,1)";
 		};
 	};
 	class eyewear
@@ -221,22 +232,27 @@ class 34thPRC_ArmourStandard_EOD_Helmet_Urban
 		class urban
 		{
 			label="Urban";
+			image = "#(rgb,8,8,3)color(0.071,0.071,0.071,1)";
 		};
 		class arctic
 		{
 			label="Arctic";
+			image = "#(rgb,8,8,3)color(0.322,0.322,0.322,1)";
 		};
 		class arid
 		{
 			label="Arid";
+			image = "#(rgb,8,8,3)color(0.282,0.267,0.239,1)";
 		};
 		class tropic
 		{
 			label="Tropic";
+			image = "#(rgb,8,8,3)color(0.196,0.2,0.122,1)";
 		};
 		class woodland
 		{
 			label="Woodland";
+			image = "#(rgb,8,8,3)color(0.149,0.153,0.125,1)";
 		};
 	};
 };
@@ -254,22 +270,27 @@ class 34thPRC_ArmourStandard_EOD_CBRN_NVG_Urban
 		class urban
 		{
 			label="Urban";
+			image = "#(rgb,8,8,3)color(0.071,0.071,0.071,1)";
 		};
 		class arctic
 		{
 			label="Arctic";
+			image = "#(rgb,8,8,3)color(0.322,0.322,0.322,1)";
 		};
 		class arid
 		{
 			label="Arid";
+			image = "#(rgb,8,8,3)color(0.282,0.267,0.239,1)";
 		};
 		class tropic
 		{
 			label="Tropic";
+			image = "#(rgb,8,8,3)color(0.196,0.2,0.122,1)";
 		};
 		class woodland
 		{
 			label="Woodland";
+			image = "#(rgb,8,8,3)color(0.149,0.153,0.125,1)";
 		};
 	};
 };
