@@ -22,7 +22,7 @@ jobs:
       with:
         label: release
         fail_on_error: false
-    - uses: actions/checkout@master
+    - uses: actions/checkout@v4.2.2
     - name: Setup HEMTT
       uses: arma-actions/hemtt@v1
     #- name: Steam - Download
@@ -45,8 +45,8 @@ jobs:
 
     # TODO upload to steam workshop
     - uses: echapmanFromBunnings/upload-artifact@3.0
-    with:
-      name: 'release-build'
-      path: '.hemttout/release/*'
-      if-no-files-found: 'warn' # Optional
-      retention-days: 1 # Optional
+      with:
+        name: 'release-build'
+        path: '.hemttout/release/*'
+        if-no-files-found: 'warn' # Optional
+        retention-days: 1 # Optional
