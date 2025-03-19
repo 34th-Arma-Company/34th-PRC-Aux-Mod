@@ -10,7 +10,7 @@ jobs:
   prep-release:
     runs-on: windows-latest
     permissions:
-      contents: read
+      contents: write
       pull-requests: write
 
     steps:
@@ -25,7 +25,6 @@ jobs:
       if: steps.check_label.outputs.pass == 'true'
       uses: actions/checkout@v4.2.2
       with:
-        persist-credentials: false
         ref: ${{ github.head_ref }}
 
     - name: Run prepRelease.ps1
@@ -38,4 +37,3 @@ jobs:
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: "Automated prep release"
-        branch: ${{ github.head_ref }}
