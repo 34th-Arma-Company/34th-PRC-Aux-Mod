@@ -13,10 +13,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Created a 34th variant of Optre's m638
 - Created a 34th variant magazine of OPTRE's AGM-502 'Jack Knife' SALH-ATGM with 8x count for the Falcon and Hornet
 - Created a 34th variant magazine of OPTRE's AGM-90B 'Scorpion' Guided AT Missile with 8x count for the Falcon and Hornet
+- 34th flavoured crewman helmets
 ### Updated
 - Marine CH252 diffuse colors, small color fixes
 - Falcon main 20mm HE, swapped to the 34th's version of the gun. Uses updated ammo.
 - Updated OPTRE's C2GMLS 4Rnd missile magazine to be 8 count. (This only impacts the OPTRE Falcon)
+- Updated AAX support to add camos and colors to uniform, helmet, and armor selections.
 ### Removed
 - Old ODST Gear
 
