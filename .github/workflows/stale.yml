@@ -52,7 +52,7 @@ jobs:
       with:
         script: |
           const branches = process.env.stale_branches.split(' ').join(', ');
-          github.issues.create({
+          github.rest.issues.create({
             owner: context.repo.owner,
             repo: context.repo.repo,
             title: 'Stale branches detected',
