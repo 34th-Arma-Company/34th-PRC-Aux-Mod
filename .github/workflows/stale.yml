@@ -41,6 +41,7 @@ jobs:
             echo $branch
           fi
         done)
+        stale_branches=$(echo "$stale_branches" | tr '\n' ' ')
         echo "stale_branches=$stale_branches" >> $GITHUB_OUTPUT
     - name: Create issue for stale branches
       if: steps.find_stale_branches.outputs.stale_branches != ''
