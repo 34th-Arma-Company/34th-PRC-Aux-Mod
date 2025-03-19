@@ -42,13 +42,13 @@ jobs:
           fi
         done)
         stale_branches=$(echo "$stale_branches" | tr '\n' ' ')
-        echo "stale_branches=$stale_branches" >> $GITHUB_OUTPUT
+        echo "stale_branches=$stale_branches" >> $GITHUB_ENV
     - name: Create issue for stale branches
-      if: steps.find_stale_branches.outputs.stale_branches != ''
+      if: env.stale_branches != ''
       uses: actions/github-script@v4
       with:
         script: |
-          const branches = process.env.stale_branches.split('\n').join(', ');
+          const branches = process.env.stale_branches.split(' ').join(', ');
           github.issues.create({
             owner: context.repo.owner,
             repo: context.repo.repo,
