@@ -34,7 +34,7 @@ jobs:
       id: find_stale_branches
       run: |
         SECONDS_IN_A_DAY=86400
-        NUMBER_OF_DAYS_BEFORE_STALE=1
+        NUMBER_OF_DAYS_BEFORE_STALE=60
         git fetch --all
         stale_branches=$(git branch -r --sort=-committerdate | grep -v '\->' | while read branch; do
           last_commit=$(git log -1 --format=%ct $branch)
@@ -73,7 +73,7 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,
               title: issueTitle,
-              body: `The following branches have had no activity for over 1 days: ${branchList}`,
+              body: `The following branches have had no activity for over 60 days: ${branchList}`,
               labels: ['stale-branches']
             });
           }
