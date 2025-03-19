@@ -68,7 +68,7 @@ jobs:
           }
           const branches = process.env.stale_branches.trim();
           if (branches) {
-            const branchList = branches.split(' ').join(', ');
+            const branchList = "\n - " + branches.split(' ').join("\n - ").trimEnd();
             await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
