@@ -11,7 +11,7 @@ Install [VSCode](https://code.visualstudio.com/) with the following addons:
 If you install the [Git command line](https://git-scm.com/downloads) then you can commit changes in the editor.
 - You may also want to install [eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) to make using Git in VSCode easier.
 
-Alternatively, you can install [GitHub Desktop](https://desktop.github.com/) and use it separately.
+Alternatively, you can install [GitHub Desktop](https://github.com/apps/desktop) and use it separately.
 
 ## Git LFS
 This repo requires Git LFS.
