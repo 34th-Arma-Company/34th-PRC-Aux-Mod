@@ -47,6 +47,6 @@ jobs:
     - uses: echapmanFromBunnings/upload-artifact@3.0
       with:
         name: 'release-build'
-        path: '.hemttout/release/*'
+        path: 'releases/34thprc-latest.zip'
         if-no-files-found: 'warn' # Optional
         retention-days: 1 # Optional
