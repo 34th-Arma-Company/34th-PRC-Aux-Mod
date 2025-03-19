@@ -42,7 +42,7 @@ jobs:
             echo $branch
           fi
         done)
-        echo "::set-output name=stale_branches::$stale_branches"
+        echo "stale_branches=$stale_branches">> $GITHUB_OUTPUT
     - name: Create issue for stale branches
       if: steps.find_stale_branches.outputs.stale_branches != ''
       uses: actions/github-script@v4
