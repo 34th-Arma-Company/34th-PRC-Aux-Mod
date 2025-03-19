@@ -38,7 +38,7 @@ jobs:
           last_commit=$(git log -1 --format=%ct $branch)
           current_time=$(date +%s)
           diff=$(( (current_time - last_commit) / SECONDS_IN_A_DAY ))
-          if [ $diff -gt 60; then
+          if [ $diff -gt 60;] then
             echo $branch
           fi
         done)
