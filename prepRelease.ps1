@@ -20,8 +20,11 @@ $changelogContent = Get-Content "changelog.md"
 
 # Check if the Unreleased section is empty or contains only blank lines
 $unreleasedSection = ($changelogContent -join "`n") -match "(?s)(?<=## Unreleased`n).*?(?=## \d+\.\d+\.\d+|$)"
-$unreleasedSectionContent = $matches[0] -replace "`n", ""
-#Write-Host "Unreleased section content: '$unreleasedSectionContent'"
+$unreleasedSectionContent = $matches[0] -replace "`n", "" -replace "`r", ""
+
+If ($CI){
+	Write-Host "Unreleased section content: '$unreleasedSectionContent'"
+}
 if ($unreleasedSectionContent -and $unreleasedSectionContent -notmatch "^\s*$") {
 	Write-Host "The '## Unreleased' section in changelog.md must be empty or contain only blank lines. Please move the changes to a new version section."
 	exit 1
