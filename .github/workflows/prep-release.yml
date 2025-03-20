@@ -8,7 +8,7 @@ on:
 
 jobs:
   prep-release:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     permissions:
       contents: write
       pull-requests: write
