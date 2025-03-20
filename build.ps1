@@ -12,7 +12,7 @@ try {
 	`"cfgConvertCommand`": `"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Arma 3 Tools\\CfgConvert\\CfgConvert.exe`"
 }"
 
-	$configFile = ".\build-config.json"
+	$configFile = "./build-config.json"
 
 	if ((Test-Path $configFile) -eq $false) {
 		Set-Content -Path $configFile -Value $defaultConfig -ErrorAction Stop
@@ -36,15 +36,17 @@ try {
 	}
 
 	Write-Output "Coping files to build folder"
-	if(Test-Path ".\build\") {
-		Remove-Item ".\build\*" -Recurse -Force -Confirm:$false -ErrorAction Stop
+	if(Test-Path "./build/") {
+		Remove-Item "./build/*" -Recurse -Force -Confirm:$false -ErrorAction Stop
 	} else {
-		New-Item -ItemType Directory -Path ".\build" | out-null
+		New-Item -ItemType Directory -Path "./build" | out-null
 	}
-	Copy-Item -Path ".\src\*" -Destination ".\build" -Force -ErrorAction Stop
-	New-Item -Path ".\build\Addons\Keys" -Force -ItemType "directory" -ErrorAction Stop | out-null
+	New-Item -ItemType Directory -Path "./build/addons" | out-null
+	Copy-Item -Path "34thPRC_logo.paa" -Destination "./build" -Force -ErrorAction Stop
+	Copy-Item -Path "changelog.md" -Destination "./build" -Force -ErrorAction Stop
+	Copy-Item -Path "mod.cpp" -Destination "./build" -Force -ErrorAction Stop
 
-	$foldersToPack = Get-ChildItem ".\src\Addons" | Where-Object {$_.Name -ne "Keys"}
+	$foldersToPack = Get-ChildItem "./addons" -Directory
 
 	if($null -ne $config.cfgConvertCommand -and $config.cfgConvertCommand -ne "" -and (Test-Path $config.cfgConvertCommand))
 	{
@@ -87,7 +89,7 @@ try {
 			Set-Location $workingDirectory
 			$folderName = $folder.Name
 			$pboName = $folderName+".pbo"
-			Start-Process "$($command)" "-pack", (".\src\Addons\"+$folderName), (".\build\Addons\"+$pboName) -NoNewWindow -Wait
+			Start-Process "$($command)" "-pack", ("./addons/"+$folderName), ("./build/addons/"+$pboName) -NoNewWindow -Wait
 		}
 
 		$jobs = @()
@@ -118,8 +120,8 @@ try {
 		foreach($folder in $foldersToPack){
 			$folderName = $folder.Name
 			$pboName = $folderName+".pbo"
-			if(-not (Test-Path (".\build\Addons\"+$pboName))){
-				throw ("Failed to pack ``.\build\Addons\"+$pboName+"``\n"+$error)
+			if(-not (Test-Path ("./build/addons/"+$pboName))){
+				throw ("Failed to pack ``./build/addons/"+$pboName+"``\n"+$error)
 			}
 		}
 
@@ -131,9 +133,9 @@ try {
 			$folderName = $folder.Name
 			$pboName = $folderName+".pbo"
 			Write-Output ("Building "+$pboName)
-			& "$($config.pboPackCommand)" "-pack" (".\src\Addons\"+$folderName) (".\build\Addons\"+$pboName) | out-null
-			if(-not (Test-Path (".\build\Addons\"+$pboName))){
-				throw ("Failed to pack ``"+".\build\Addons\"+$pboName+"``")
+			& "$($config.pboPackCommand)" "-pack" ("./addons/"+$folderName) ("./build/addons/"+$pboName) | out-null
+			if(-not (Test-Path ("./build/addons/"+$pboName))){
+				throw ("Failed to pack ``"+"./build/addons/"+$pboName+"``")
 			}
 		}
 	}
