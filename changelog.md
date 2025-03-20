@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## 0.27.1
+### Fix
+- Revert OPTRE Falcon to using OPTRE gun, override OPTRE gun to accept new magazine.
+
 ## 0.27.0
 ### Added
 - Repackaged Unsung's Music for Helo's for the Falcon with 5 song selection.
