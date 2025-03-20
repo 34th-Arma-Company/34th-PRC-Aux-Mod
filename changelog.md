@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## 0.28.0
+- Identical to 0.27.1 but built with our legacy build system (HEMTT is doing something funny to our scripts and broke them)
+
 ## 0.27.1
 ### Fix
 - Revert OPTRE Falcon to using OPTRE gun, override OPTRE gun to accept new magazine.
