@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 ### Updated
+- Filepaths for scripts updated to Hemtt requirements
 - CBRN for Marines / ODSTs now created through substance painter and updated to proper colors.
 
 ## 0.28.0

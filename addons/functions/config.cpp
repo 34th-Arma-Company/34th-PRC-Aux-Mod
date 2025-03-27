@@ -2,6 +2,7 @@ class CfgPatches
 {
 	class 34thPRC_Functions
 	{
+		name="functions";
 		author="34th PRC Modding Team";
 		requiredAddons[]=
 		{
