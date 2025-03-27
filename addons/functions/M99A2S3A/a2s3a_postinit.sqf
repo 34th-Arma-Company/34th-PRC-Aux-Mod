@@ -1,4 +1,4 @@
-#include "\34thPRC_Functions\M99A2S3A\_includes\defines_macros.hpp"
+#include "_includes\defines_macros.hpp"
 
 // // Add our custom function for ace fired event handlers
 ["ace_firedPlayer", 				{_this spawn MACRO_FNC_NAME(airburst_fired_eh);}] call CBA_fnc_addEventHandler;
