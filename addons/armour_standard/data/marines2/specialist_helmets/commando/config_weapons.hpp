@@ -10,8 +10,8 @@ class 34thPRC_ArmourStandard_Commando_Helmet_Urban : 34thPRC_ArmourStandard_Mari
 	};
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\commando\commando_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Commando\Visors\34_Commando_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\commando\commando_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\Commando\Visors\34_Commando_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -30,8 +30,8 @@ class 34thPRC_ArmourStandard_Commando_Helmet_Arid : 34thPRC_ArmourStandard_Comma
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\commando\commando_helmet_arid.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Commando\Visors\34_Commando_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\commando\commando_helmet_arid.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\Commando\Visors\34_Commando_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -46,8 +46,8 @@ class 34thPRC_ArmourStandard_Commando_Helmet_Arctic : 34thPRC_ArmourStandard_Com
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\commando\commando_helmet_arctic.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Commando\Visors\34_Commando_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\commando\commando_helmet_arctic.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\Commando\Visors\34_Commando_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -62,8 +62,8 @@ class 34thPRC_ArmourStandard_Commando_Helmet_Tropic : 34thPRC_ArmourStandard_Com
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\commando\commando_helmet_tropic.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Commando\Visors\34_Commando_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\commando\commando_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\Commando\Visors\34_Commando_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -78,8 +78,8 @@ class 34thPRC_ArmourStandard_Commando_Helmet_Woodland : 34thPRC_ArmourStandard_C
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\commando\commando_helmet_woodland.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Commando\Visors\34_Commando_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\commando\commando_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\Commando\Visors\34_Commando_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{

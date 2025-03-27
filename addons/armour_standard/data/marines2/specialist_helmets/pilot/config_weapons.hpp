@@ -10,8 +10,8 @@ class 34thPRC_ArmourStandard_Pilot_Helmet_Urban : 34thPRC_ArmourStandard_Marines
 	};
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\pilot\pilot_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Pilot\Visors\34_Pilot_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\pilot\pilot_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\Pilot\Visors\34_Pilot_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -30,8 +30,8 @@ class 34thPRC_ArmourStandard_Pilot_Helmet_Arid : 34thPRC_ArmourStandard_Pilot_He
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\pilot\pilot_helmet_arid.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Pilot\Visors\34_Pilot_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\pilot\pilot_helmet_arid.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\Pilot\Visors\34_Pilot_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -46,8 +46,8 @@ class 34thPRC_ArmourStandard_Pilot_Helmet_Arctic : 34thPRC_ArmourStandard_Pilot_
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\pilot\pilot_helmet_arctic.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Pilot\Visors\34_Pilot_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\pilot\pilot_helmet_arctic.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\Pilot\Visors\34_Pilot_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -62,8 +62,8 @@ class 34thPRC_ArmourStandard_Pilot_Helmet_Tropic : 34thPRC_ArmourStandard_Pilot_
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\pilot\pilot_helmet_tropic.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Pilot\Visors\34_Pilot_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\pilot\pilot_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\Pilot\Visors\34_Pilot_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -78,8 +78,8 @@ class 34thPRC_ArmourStandard_Pilot_Helmet_Woodland : 34thPRC_ArmourStandard_Pilo
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\pilot\pilot_helmet_woodland.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Pilot\Visors\34_Pilot_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\pilot\pilot_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\Pilot\Visors\34_Pilot_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
