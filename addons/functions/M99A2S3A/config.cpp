@@ -11,21 +11,21 @@ class Extended_PreInit_EventHandlers
 {
 	class 34thPRC_M99A2S3A_A2S3A_preinit
 	{
-		init="call compile preprocessFileLineNumbers '34thPRC_Functions\M99A2S3A\a2s3a_preinit.sqf'";
+		init="call compile preprocessFileLineNumbers '\z\34thprc\addons\functions\M99A2S3A\a2s3a_preinit.sqf'";
 	};
 };
 class Extended_PostInit_EventHandlers
 {
-	class 34thPRC_M99A2S3A_A2S3a_postinit
+	class 34thPRC_M99A2S3A_A2S3A_postinit
 	{
-		init="call compile preprocessFileLineNumbers '34thPRC_Functions\M99A2S3A\a2s3a_postinit.sqf'";
+		init="call compile preprocessFileLineNumbers '\z\34thprc\addons\functions\M99A2S3A\a2s3a_postinit.sqf'";
 	};
 };
 class Extended_PreStart_EventHandlers
 {
 	class ace_fcs
 	{
-		init="call compile preprocessFileLineNumbers '34thPRC_Functions\M99A2S3A\a2s3a__prestart.sqf'";
+		init="call compile preprocessFileLineNumbers '\z\34thprc\addons\functions\M99A2S3A\a2s3a__prestart.sqf'";
 	};
 };
 class CfgVehicles
@@ -47,7 +47,7 @@ class CfgVehicles
 					};
 					statement="call {_res = CreateDialog '34thPRC_airburst_set_fuse_distance_ui';}";
 					showDisabled=0;
-					icon="34thPRC_Functions\M99A2S3A\resources\superintendant.paa";
+					icon="\z\34thprc\addons\functions\M99A2S3A\resources\superintendant.paa";
 				};
 			};
 		};
@@ -250,7 +250,7 @@ class 34thPRC_airburst_set_fuse_distance_ui
 		class Menu_Background: RscPicture
 		{
 			idc=100;
-			text="34thPRC_Functions\M99A2S3A\resources\terminal.paa";
+			text="\z\34thprc\addons\functions\M99A2S3A\resources\terminal.paa";
 			x="safeZoneX + safeZoneW * 0.29375";
 			y="safeZoneY + safeZoneH * 0.225";
 			w="safeZoneW * 0.4";

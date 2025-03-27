@@ -14,7 +14,7 @@ class CfgFunctions
 	{
 		class functions
 		{
-			file="\34thPRC_Functions\MusicRadio\functions";
+			file="\z\34thprc\addons\functions\MusicRadio\functions";
 			class addCustomMusic
 			{
 			};
@@ -24,7 +24,7 @@ class CfgFunctions
 	{
 		class functions
 		{
-			file="\34thPRC_Functions\MusicRadio\functions";
+			file="\z\34thprc\addons\functions\MusicRadio\functions";
 			class remoteSay3D
 			{
 			};

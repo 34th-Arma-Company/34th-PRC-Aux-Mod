@@ -1,5 +1,5 @@
 #include "\a3\ui_f\hpp\defineDIKCodes.inc"
-#include "\34thPRC_Functions\M99A2S3A\_includes\defines_macros.hpp"
+#include "..\_includes\defines_macros.hpp"
 #undef MACRO_SCRIPT
 #define MACRO_SCRIPT "[airburst keybinds.sqf] "
 
