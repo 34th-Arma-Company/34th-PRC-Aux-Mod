@@ -12,12 +12,12 @@ class 34thPRC_ArmourStandard_EOD_Helmet_Urban : 34thPRC_ArmourStandard_Marines2_
 	hiddenSelectionsTextures[]=
 	{
 		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\EOD\34th_eod_helmet_urban_CO.paa",
-		"\z\34thprc\addons\armour_standard\data\mkvb\Mjolnir_EOD\HR_EOD\Visors\34_EOD_HR_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\EOD\visor\EOD_Visor_R_CO.paa"
 	};
 	hiddenSelectionsMaterials[]=
 	{
 		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\EOD\eod.rvmat",
-		"MA_Armor\data\Helmets\EOD\EOD_Visor.rvmat"
+		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\EOD\visor\eod_visor.rvmat"
 	};
 	class XtdGearInfo
 	{
@@ -37,7 +37,7 @@ class 34thPRC_ArmourStandard_EOD_Helmet_Arid : 34thPRC_ArmourStandard_EOD_Helmet
 	hiddenSelectionsTextures[]=
 	{
 		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\EOD\34th_eod_helmet_arid_CO.paa",
-		"\z\34thprc\addons\armour_standard\data\mkvb\Mjolnir_EOD\HR_EOD\Visors\34_EOD_HR_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\EOD\visor\EOD_Visor_R_CO.paa"
 	};
 	class XtdGearInfo
 	{
@@ -53,7 +53,7 @@ class 34thPRC_ArmourStandard_EOD_Helmet_Arctic : 34thPRC_ArmourStandard_EOD_Helm
 	hiddenSelectionsTextures[]=
 	{
 		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\EOD\34th_eod_helmet_arctic_CO.paa",
-		"\z\34thprc\addons\armour_standard\data\mkvb\Mjolnir_EOD\HR_EOD\Visors\34_EOD_HR_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\EOD\visor\EOD_Visor_R_CO.paa"
 	};
 	class XtdGearInfo
 	{
@@ -69,7 +69,7 @@ class 34thPRC_ArmourStandard_EOD_Helmet_Tropic : 34thPRC_ArmourStandard_EOD_Helm
 	hiddenSelectionsTextures[]=
 	{
 		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\EOD\34th_eod_helmet_tropic_CO.paa",
-		"\z\34thprc\addons\armour_standard\data\mkvb\Mjolnir_EOD\HR_EOD\Visors\34_EOD_HR_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\EOD\visor\EOD_Visor_R_CO.paa"
 	};
 	class XtdGearInfo
 	{
@@ -85,7 +85,7 @@ class 34thPRC_ArmourStandard_EOD_Helmet_Woodland : 34thPRC_ArmourStandard_EOD_He
 	hiddenSelectionsTextures[]=
 	{
 		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\EOD\34th_eod_helmet_woodland_CO.paa",
-		"\z\34thprc\addons\armour_standard\data\mkvb\Mjolnir_EOD\HR_EOD\Visors\34_EOD_HR_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\EOD\visor\EOD_Visor_R_CO.paa"
 	};
 	class XtdGearInfo
 	{
