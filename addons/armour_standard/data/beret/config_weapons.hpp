@@ -8,7 +8,7 @@ class 34thPRC_ArmourStandard_Beret_01: H_Beret_02
 	scopeCurator=2;
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\beret\beret_01.paa",
+		"\z\34thprc\addons\armour_standard\data\beret\beret_01.paa",
 	};
 };
 class 34thPRC_ArmourStandard_Beret_02: 34thPRC_ArmourStandard_Beret_01
@@ -17,6 +17,6 @@ class 34thPRC_ArmourStandard_Beret_02: 34thPRC_ArmourStandard_Beret_01
 	author="Lupus590";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\beret\beret_02.paa",
+		"\z\34thprc\addons\armour_standard\data\beret\beret_02.paa",
 	};
 };
