@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Updated
 - Filepaths for scripts updated to Hemtt requirements
+- armour_standard pbo updated all internal file paths
 
 ## 0.28.0
 - Identical to 0.27.1 but built with our legacy build system (HEMTT is doing something funny to our scripts and broke them)

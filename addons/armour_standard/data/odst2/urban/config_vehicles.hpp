@@ -5,12 +5,12 @@ class 34thPRC_ArmourStandard_ODST_M52_Rucksack_Urban : MA_M52D_Rucksack
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\odst2\urban\34th_odst_rucksack_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\odst2\urban\34th_odst_rucksack_urban.paa",
 		"MA_Armor\data\Backpacks\M52_Rucksack\Straps_CO.paa"
 	};
 	hiddenSelectionsMaterials[]=
 	{
-		"34thPRC_ArmourStandard\data\odst2\M52_Rucksack.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\M52_Rucksack.rvmat",
 		"MA_Armor\data\Backpacks\M52_Rucksack\M52_Rucksack_Straps.rvmat"
 	};
 	class XtdGearInfo
@@ -26,7 +26,7 @@ class 34thPRC_ArmourStandard_ODST_M52_Rucksack_Medic_Urban : 34thPRC_ArmourStand
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\odst2\urban\34th_odst_rucksack_medic_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\odst2\urban\34th_odst_rucksack_medic_urban.paa",
 		"MA_Armor\data\Backpacks\M52_Rucksack\Straps_CO.paa"
 	};
 	class XtdGearInfo
@@ -43,7 +43,7 @@ class 34thPRC_ArmourStandard_ODST_M52_Rucksack_Gunbag_Urban : 34thPRC_ArmourStan
 	ace_gunbag=1;
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\odst2\urban\34th_odst_rucksack_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\odst2\urban\34th_odst_rucksack_urban.paa",
 		"MA_Armor\data\Backpacks\M52_Rucksack\Straps_CO.paa"
 	};
 	class XtdGearInfo
@@ -65,7 +65,7 @@ class 34thPRC_ArmourStandard_ODST_M52_Rucksack_Radio_Urban : 34thPRC_ArmourStand
 	tf_dialogUpdate="call TFAR_fnc_updateLRDialogToChannel;";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\odst2\urban\34th_odst_rucksack_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\odst2\urban\34th_odst_rucksack_urban.paa",
 		"MA_Armor\data\Backpacks\M52_Rucksack\Straps_CO.paa"
 	};
 	class XtdGearInfo

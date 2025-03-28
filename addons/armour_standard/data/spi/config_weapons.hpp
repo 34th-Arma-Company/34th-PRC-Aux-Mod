@@ -5,8 +5,8 @@ class 34thPRC_ArmourStandard_SPI_Helmet_Gold : MA_SPI_Helmet
 	author= "Vazya";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\spi\34_SPI_Helmet.paa",
-		"34thPRC_ArmourStandard\data\spi\34_SPI_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\spi\34_SPI_Helmet.paa",
+		"\z\34thprc\addons\armour_standard\data\spi\34_SPI_Helmet_Visor_Gold.paa"
 	};
 };
 class 34thPRC_ArmourStandard_SPI_Helmet_Reoragne : MA_SPI_Helmet
@@ -15,8 +15,8 @@ class 34thPRC_ArmourStandard_SPI_Helmet_Reoragne : MA_SPI_Helmet
 	author= "Vazya";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\spi\34_SPI_Helmet.paa",
-		"34thPRC_ArmourStandard\data\spi\34_SPI_Helmet_Visor.paa",
+		"\z\34thprc\addons\armour_standard\data\spi\34_SPI_Helmet.paa",
+		"\z\34thprc\addons\armour_standard\data\spi\34_SPI_Helmet_Visor.paa",
 	};
 };
 class MA_SPI_Armor; // MA_Armor
@@ -26,6 +26,6 @@ class 34thPRC_ArmourStandard_SPI_Armor: MA_SPI_Armor
 	author= "Vazya";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\spi\34_SPI_Armor.paa",
+		"\z\34thprc\addons\armour_standard\data\spi\34_SPI_Armor.paa",
 	};
 };

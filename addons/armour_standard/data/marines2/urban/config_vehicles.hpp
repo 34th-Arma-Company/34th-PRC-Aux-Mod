@@ -100,7 +100,7 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Urban_NoShoulder : MA_Marine_NS_BD
 	{
 		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_UpperBDU.paa",
 		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_LowerBDU.paa",
-		"\z\34thprc\addons\armour_standard\marines2\urban\Base_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_TrooperCollar.paa",
 		"\z\34thprc\addons\armour_standard\data\marines2\TrooperPadding_CO.paa",
 		"\z\34thprc\addons\armour_standard\data\marines2\TrooperStraps_CO.paa",
 		"\z\34thprc\addons\armour_standard\data\marines2\urban\Base_UpperArmor.paa",

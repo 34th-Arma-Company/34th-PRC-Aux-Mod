@@ -98,10 +98,6 @@ class 34thPRC_ArmourStandard_EOD_CBRN_NVG_Urban : MA_EOD_CBRN_Attachment_NVG
 	{
 		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\EOD\cbrn\34th_eod_cbrn_urban.paa",
 	};
-	hiddenSelectionsMaterials[]=
-	{
-		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\EOD\cbrn\eod_cbrn.rvmat"
-	};
 	visionMode[]=
 	{
 		"Normal",
