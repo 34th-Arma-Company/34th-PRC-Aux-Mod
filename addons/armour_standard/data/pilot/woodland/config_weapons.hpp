@@ -4,11 +4,11 @@ class 34thPRC_ArmouStandard_Pilot_IHADSS_Helmet_Woodland : 34thPRC_ArmouStandard
 	displayName="[34th] IHADSS Helmet (Woodland)";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\pilot\pilot_helmet_addons.paa",
-		"34thPRC_ArmourStandard\data\pilot\woodland\pilot_helmet_ext.paa",
+		"\z\34thprc\addons\armour_standard\data\pilot\pilot_helmet_addons.paa",
+		"\z\34thprc\addons\armour_standard\data\pilot\woodland\pilot_helmet_ext.paa",
 		"DMNS\DMNS_Units\Armour\Pilot_Helm_01\Data\H2A_Pilot_Helm_INT_co.paa",
 		"DMNS\DMNS_Units\Armour\Pilot_Helm_01\Data\H2A_Pilot_Helm_MID_co.paa",
-		"34thPRC_ArmourStandard\data\pilot\pilot_helmet_visor.paa"
+		"\z\34thprc\addons\armour_standard\data\pilot\pilot_helmet_visor.paa"
 	};
 	class XtdGearInfo
 	{

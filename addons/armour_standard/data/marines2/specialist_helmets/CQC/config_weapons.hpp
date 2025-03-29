@@ -10,8 +10,8 @@ class 34thPRC_ArmourStandard_CQC_Helmet_Urban : 34thPRC_ArmourStandard_Marines2_
 	};
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\CQC\cqc_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\mkvb\CQC\Visors\34_CQC_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\CQC\cqc_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\CQC\Visors\34_CQC_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -30,8 +30,8 @@ class 34thPRC_ArmourStandard_CQC_Helmet_Arid : 34thPRC_ArmourStandard_CQC_Helmet
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\CQC\cqc_helmet_arid.paa",
-		"34thPRC_ArmourStandard\data\mkvb\CQC\Visors\34_CQC_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\CQC\cqc_helmet_arid.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\CQC\Visors\34_CQC_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -46,8 +46,8 @@ class 34thPRC_ArmourStandard_CQC_Helmet_Arctic : 34thPRC_ArmourStandard_CQC_Helm
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\CQC\cqc_helmet_arctic.paa",
-		"34thPRC_ArmourStandard\data\mkvb\CQC\Visors\34_CQC_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\CQC\cqc_helmet_arctic.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\CQC\Visors\34_CQC_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -62,8 +62,8 @@ class 34thPRC_ArmourStandard_CQC_Helmet_Tropic : 34thPRC_ArmourStandard_CQC_Helm
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\CQC\cqc_helmet_tropic.paa",
-		"34thPRC_ArmourStandard\data\mkvb\CQC\Visors\34_CQC_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\CQC\cqc_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\CQC\Visors\34_CQC_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -78,8 +78,8 @@ class 34thPRC_ArmourStandard_CQC_Helmet_Woodland : 34thPRC_ArmourStandard_CQC_He
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\specialist_helmets\CQC\cqc_helmet_woodland.paa",
-		"34thPRC_ArmourStandard\data\mkvb\CQC\Visors\34_CQC_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\CQC\cqc_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\CQC\Visors\34_CQC_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{

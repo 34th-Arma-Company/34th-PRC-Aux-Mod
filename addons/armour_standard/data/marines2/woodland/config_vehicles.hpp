@@ -3,16 +3,16 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Woodland_Light: 34thPRC_ArmourStan
 	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Light";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Woodland_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Woodland_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Woodland_TrooperCollar.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperPadding_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperStraps_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_UpperArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_LowerArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_TrooperShoulders.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Woodland_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Woodland_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Woodland_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperPadding_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperStraps_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_UpperArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_LowerArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_TrooperShoulders.paa"
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Trooper_Woodland_Medium: 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium
@@ -20,16 +20,16 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Woodland_Medium: 34thPRC_ArmourSta
 	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Medium";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Woodland_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Woodland_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Woodland_TrooperCollar.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperPadding_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperStraps_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_UpperArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_LowerArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_TrooperShoulders.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Woodland_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Woodland_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Woodland_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperPadding_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperStraps_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_UpperArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_LowerArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_TrooperShoulders.paa"
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Trooper_Woodland_Heavy: 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy
@@ -37,16 +37,16 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Woodland_Heavy: 34thPRC_ArmourStan
 	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Heavy";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Woodland_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Woodland_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Woodland_TrooperCollar.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperPadding_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperStraps_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_UpperArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_LowerArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_TrooperShoulders.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Woodland_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Woodland_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Woodland_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperPadding_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperStraps_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_UpperArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_LowerArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_TrooperShoulders.paa"
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Trooper_Woodland_NoShoulder : 34thPRC_ArmourStandard_Marines2_Trooper_Urban_NoShoulder
@@ -54,16 +54,16 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Woodland_NoShoulder : 34thPRC_Armo
 	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Woodland_NoShoulder";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Woodland_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Woodland_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Woodland_TrooperCollar.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperPadding_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperStraps_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_UpperArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_LowerArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_TrooperShoulders.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Woodland_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Woodland_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Woodland_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperPadding_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperStraps_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_UpperArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_LowerArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_TrooperShoulders.paa"
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Trooper_Woodland_Light_NoCollar: 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Light_NoCollar
@@ -71,16 +71,16 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Woodland_Light_NoCollar: 34thPRC_A
 	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Light_NoCollar";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Woodland_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Woodland_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Woodland_TrooperCollar.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperPadding_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperStraps_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_UpperArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_LowerArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_TrooperShoulders.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Woodland_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Woodland_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Woodland_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperPadding_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperStraps_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_UpperArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_LowerArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_TrooperShoulders.paa"
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Trooper_Woodland_Medium_NoCollar: 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium_NoCollar
@@ -88,16 +88,16 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Woodland_Medium_NoCollar: 34thPRC_
 	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Medium_NoCollar";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Woodland_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Woodland_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Woodland_TrooperCollar.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperPadding_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperStraps_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_UpperArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_LowerArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_TrooperShoulders.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Woodland_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Woodland_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Woodland_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperPadding_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperStraps_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_UpperArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_LowerArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_TrooperShoulders.paa"
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Trooper_Woodland_Heavy_NoCollar: 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy_NoCollar
@@ -105,15 +105,15 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Woodland_Heavy_NoCollar: 34thPRC_A
 	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Heavy_NoCollar";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Woodland_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Woodland_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Woodland_TrooperCollar.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperPadding_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperStraps_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_UpperArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_LowerArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Woodland\Green_TrooperShoulders.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Woodland_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Woodland_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Woodland_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperPadding_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperStraps_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_UpperArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_LowerArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Woodland\Green_TrooperShoulders.paa"
 	};
 };
