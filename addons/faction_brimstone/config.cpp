@@ -18,8 +18,8 @@ class CfgFactionClasses
 		author="34th PRC Modding Team";
 		priority=1;
 		side=1;
-		icon="\34thPRC_FactionBrimstone\data\company_emblem.paa";
-		flag="\34thPRC_FactionBrimstone\data\company_emblem.paa";
+		icon="z\34thprc\addons\faction_brimstone\data\company_emblem.paa";
+		flag="z\34thprc\addons\faction_brimstone\data\company_emblem.paa";
 	};
 };
 class CfgEditorCategories
