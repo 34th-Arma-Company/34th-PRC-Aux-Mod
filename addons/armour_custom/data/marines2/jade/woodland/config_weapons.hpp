@@ -1,3 +1,4 @@
+
 class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Woodland : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban
 {
 	displayName="[34th] CH252 'Jade' Woodland";
@@ -7,9 +8,9 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Woodland : 34thPRC_ArmourCustom_M
 		"\z\34thprc\addons\armour_custom\data\marines2\jade\woodland\jade_marine_helmet_woodland.paa",
 		"\z\34thprc\addons\armour_custom\data\marines2\jade\woodland\jade_marine_helmet_woodland.paa",
 		"\z\34thprc\addons\armour_custom\data\marines2\jade\woodland\jade_marine_helmet_woodland.paa",
-		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
-		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
-		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
 	};
 	class XtdGearInfo
 	{
