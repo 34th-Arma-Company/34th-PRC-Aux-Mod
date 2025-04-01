@@ -31,7 +31,7 @@ class RscTitles
 	{
 		class BackgroundNoise: RscPicture
 		{
-			text="\34thPRC_LoadingScreens\data\splash_screen.paa";
+			text="\z\34thprc\addons\loading_screens\data\splash_screen.paa";
 		};
 	};
 	class brokenhud: SplashNoise
@@ -55,7 +55,7 @@ class RscDisplayMain: RscStandardDisplay
 		delete BackgroundSpotlight;
 		class Logo: RscActivePicture
 		{
-			text="\34thPRC_LoadingScreens\data\company_emblem.paa";
+			text="\z\34thprc\addons\loading_screens\data\company_emblem.paa";
 		};
 	};
 	enableDisplay=0;
@@ -76,7 +76,7 @@ class RscDisplayMain: RscStandardDisplay
 			y="SafeZoneY";
 			h="SafeZoneH";
 			w="SafeZoneW";
-			text="\34thPRC_LoadingScreens\data\loading1.jpg";
+			text="\z\34thprc\addons\loading_screens\data\loading1.jpg";
 		};
 	};
 };
@@ -96,7 +96,7 @@ class RscDisplayLoading
 					y="SafeZoneY";
 					h="SafeZoneH";
 					w="SafeZoneW";
-					text="\34thPRC_LoadingScreens\data\loading2.jpg";
+					text="\z\34thprc\addons\loading_screens\data\loading2.jpg";
 				};
 			};
 		};
@@ -111,7 +111,7 @@ class RscDisplayLoading
 					y="SafeZoneY";
 					h="SafeZoneH";
 					w="SafeZoneW";
-					text="\34thPRC_LoadingScreens\data\loading3.jpg";
+					text="\z\34thprc\addons\loading_screens\data\loading3.jpg";
 				};
 			};
 		};
@@ -126,7 +126,7 @@ class RscDisplayLoading
 					y="SafeZoneY";
 					h="SafeZoneH";
 					w="SafeZoneW";
-					text="\34thPRC_LoadingScreens\data\loading4.jpg";
+					text="\z\34thprc\addons\loading_screens\data\loading4.jpg";
 				};
 			};
 		};
@@ -141,7 +141,7 @@ class RscDisplayLoading
 					y="SafeZoneY";
 					h="SafeZoneH";
 					w="SafeZoneW";
-					text="\34thPRC_LoadingScreens\data\loading9.jpg";
+					text="\z\34thprc\addons\loading_screens\data\loading9.jpg";
 				};
 			};
 		};
@@ -156,7 +156,7 @@ class RscDisplayLoading
 					y="SafeZoneY";
 					h="SafeZoneH";
 					w="SafeZoneW";
-					text="\34thPRC_LoadingScreens\data\loading1.jpg";
+					text="\z\34thprc\addons\loading_screens\data\loading1.jpg";
 				};
 			};
 		};
@@ -171,7 +171,7 @@ class RscDisplayLoading
 					y="SafeZoneY";
 					h="SafeZoneH";
 					w="SafeZoneW";
-					text="\34thPRC_LoadingScreens\data\loading2.jpg";
+					text="\z\34thprc\addons\loading_screens\data\loading2.jpg";
 				};
 			};
 		};
@@ -188,7 +188,7 @@ class RscDisplayLoadMission: RscStandardDisplay
 			y="SafeZoneY";
 			h="SafeZoneH";
 			w="SafeZoneW";
-			text="\34thPRC_LoadingScreens\data\loading1.jpg";
+			text="\z\34thprc\addons\loading_screens\data\loading1.jpg";
 		};
 	};
 };
@@ -203,7 +203,7 @@ class RscDisplayStart: RscStandardDisplay
 			y="SafeZoneY";
 			h="SafeZoneH";
 			w="SafeZoneW";
-			text="\34thPRC_LoadingScreens\data\loading2.jpg";
+			text="\z\34thprc\addons\loading_screens\data\loading2.jpg";
 		};
 	};
 };
@@ -217,7 +217,7 @@ class RscDisplayClientWait: RscDisplayMPPlayers
 		y="SafeZoneY";
 		h="SafeZoneH";
 		w="SafeZoneW";
-		text="\34thPRC_LoadingScreens\data\loading3.jpg";
+		text="\z\34thprc\addons\loading_screens\data\loading3.jpg";
 	};
 };
 class RscDisplayClient: RscStandardDisplay
@@ -231,7 +231,7 @@ class RscDisplayClient: RscStandardDisplay
 			y="SafeZoneY";
 			h="SafeZoneH";
 			w="SafeZoneW";
-			text="\34thPRC_LoadingScreens\data\loading4.jpg";
+			text="\z\34thprc\addons\loading_screens\data\loading4.jpg";
 		};
 	};
 };
@@ -737,5 +737,4 @@ class CfgWorlds
 		description="Virolahti";
 		loadText
 	};
-	/*END OF 1ST MEU DEFINED MAPS*/
 };
