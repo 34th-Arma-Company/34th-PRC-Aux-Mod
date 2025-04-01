@@ -1,6 +1,6 @@
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Tropic : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Tropic 'Ambrose' (Silver Visor)";
+	displayName="[34th] CH252D 'Ambrose' Tropic (Silver Visor)";
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
@@ -17,7 +17,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Tropic : 34thPRC_Arm
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_RedVisor_Tropic : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Tropic 'Ambrose' (Red Visor)";
+	displayName="[34th] CH252D 'Ambrose' Tropic (Red Visor)";
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
@@ -34,7 +34,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_RedVisor_Tropic : 34thPRC_Armour
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_GoldVisor_Tropic : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Tropic 'Ambrose' (Gold Visor)";
+	displayName="[34th] CH252D 'Ambrose' Tropic (Gold Visor)";
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
@@ -51,7 +51,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_GoldVisor_Tropic : 34thPRC_Armou
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_CustomVisor_Tropic : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Tropic 'Ambrose' (Custom Visor)";
+	displayName="[34th] CH252D 'Ambrose' Tropic (Custom Visor)";
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
@@ -68,7 +68,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_CustomVisor_Tropic : 34thPRC_Arm
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Tropic_dp : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Tropic 'Ambrose' (Silver Visor)";
+	displayName="[34th] CH252D 'Ambrose' Tropic (Silver Visor)";
 	author="Ambrose";
 	scope=1;
 	hiddenSelectionsTextures[]=
@@ -88,7 +88,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Tropic_dp : 34thPRC_
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_RedVisor_Tropic_dp : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Tropic 'Ambrose' (Red Visor)";
+	displayName="[34th] CH252D 'Ambrose' Tropic (Red Visor)";
 	author="Ambrose";
 	scope=1;
 	hiddenSelectionsTextures[]=
@@ -108,7 +108,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_RedVisor_Tropic_dp : 34thPRC_Arm
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_GoldVisor_Tropic_dp : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Tropic 'Ambrose' (Gold Visor)";
+	displayName="[34th] CH252D 'Ambrose' Tropic (Gold Visor)";
 	author="Ambrose";
 	scope=1;
 	hiddenSelectionsTextures[]=
@@ -128,7 +128,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_GoldVisor_Tropic_dp : 34thPRC_Ar
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_CustomVisor_Tropic_dp :  34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_CustomVisor_Urban_dp
 {
-	displayName="[34th] CH252D Tropic 'Ambrose' (Custom Visor)";
+	displayName="[34th] CH252D 'Ambrose' Tropic (Custom Visor)";
 	author="Ambrose";
 	scope=1;
 	hiddenSelectionsTextures[]=
@@ -281,7 +281,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_M52_C_Tropic : 34thPRC_ArmourCustom_ODS
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_M52_Marksman_Tropic : 34thPRC_ArmourCustom_ODST2_Ambrose_M52_Marksman_Urban
 {
-	displayName="[34th] M52 Combat Armour 'Ambrose' Marksman Tropic";
+	displayName="[34th] M52 Combat Armour 'Ambrose' Tropic Marksman";
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
@@ -325,7 +325,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_M52_Marksman_Tropic : 34thPRC_ArmourCus
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_M52_CQB_Tropic : 34thPRC_ArmourCustom_ODST2_Ambrose_M52_CQB_Urban
 {
-	displayName="[34th] M52 Combat Armour 'Ambrose' CQB Tropic";
+	displayName="[34th] M52 Combat Armour 'Ambrose' Tropic CQB";
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{

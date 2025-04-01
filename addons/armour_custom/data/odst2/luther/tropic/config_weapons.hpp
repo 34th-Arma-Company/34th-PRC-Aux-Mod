@@ -1,6 +1,6 @@
 class 34thPRC_ArmourCustom_ODST2_Luther_JFO_Custom_Tropic : 34thPRC_ArmourCustom_ODST2_Luther_JFO_Custom_Urban
 {
-	displayName="[34th] JFO Tropic 'Luther' (Custom Visor)";
+	displayName="[34th] JFO 'Luther' Tropic (Custom Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{

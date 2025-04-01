@@ -1,6 +1,6 @@
 class 34thPRC_ArmourCustom_ODST2_Shewolf_CH252D_CustomVisor_Arctic : 34thPRC_ArmourCustom_ODST2_Shewolf_CH252D_CustomVisor_Urban
 {
-	displayName="[34th] CH252D Arctic 'Shewolf' (Custom Visor)";
+	displayName="[34th] CH252D 'Shewolf' Arctic (Custom Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -17,7 +17,7 @@ class 34thPRC_ArmourCustom_ODST2_Shewolf_CH252D_CustomVisor_Arctic : 34thPRC_Arm
 };
 class 34thPRC_ArmourCustom_ODST2_Shewolf_CH252D_CustomVisor_Arctic_dp : 34thPRC_ArmourCustom_ODST2_Shewolf_CH252D_CustomVisor_Urban_dp
 {
-	displayName="[34th] CH252D Arctic 'Shewolf' (Custom Visor)";
+	displayName="[34th] CH252D 'Shewolf' Arctic (Custom Visor)";
 	author="Over Yandere";
 	scope=1;
 	hiddenSelectionsTextures[]=

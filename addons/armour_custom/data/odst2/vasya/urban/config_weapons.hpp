@@ -1,6 +1,6 @@
 class 34thPRC_ArmourCustom_ODST2_Vasya_CH252D_CustomVisor_Urban : 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Urban 'Vasya' (Custom Visor)";
+	displayName="[34th] CH252D 'Vasya' Urban (Custom Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -17,7 +17,7 @@ class 34thPRC_ArmourCustom_ODST2_Vasya_CH252D_CustomVisor_Urban : 34thPRC_Armour
 };
 class 34thPRC_ArmourCustom_ODST2_Vasya_CH252D_CustomVisor_Urban_dp : 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Urban 'Vasya' (Custom Visor)";
+	displayName="[34th] CH252D 'Vasya' Urban (Custom Visor)";
 	author="Over Yandere";
 	scope=1;
 	hiddenSelectionsTextures[]=

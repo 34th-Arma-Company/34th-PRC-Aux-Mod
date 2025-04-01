@@ -22,7 +22,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland : 34thPRC_ArmourCust
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_EyePiece : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Woodland 'Harrison' (Green Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Woodland (Green Eye Piece)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -45,7 +45,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_EyePiece : 34thPRC_A
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_EyePiece_Blue : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Woodland 'Harrison' (Blue Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Woodland (Blue Eye Piece)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -68,7 +68,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_EyePiece_Blue : 34th
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_EyePiece_Orange : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Woodland 'Harrison' (Orange Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Woodland (Orange Eye Piece)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -91,7 +91,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_EyePiece_Orange : 34
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_EyePiece_Red : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Woodland 'Harrison' (Red Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Woodland (Red Eye Piece)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -114,7 +114,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_EyePiece_Red : 34thP
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_EyePiece_Purple : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Woodland 'Harrison' (Purple Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Woodland (Purple Eye Piece)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -137,7 +137,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_EyePiece_Purple : 34
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_VisorGlasses : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Woodland 'Harrison' (Orange Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Woodland (Orange Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -160,7 +160,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_VisorGlasses : 34thP
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_VisorGlasses_Blue : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Woodland 'Harrison' (Blue Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Woodland (Blue Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -183,7 +183,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_VisorGlasses_Blue : 
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_VisorGlasses_Green : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Woodland 'Harrison' (Green Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Woodland (Green Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -206,7 +206,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_VisorGlasses_Green :
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_VisorGlasses_Purple : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Woodland 'Harrison' (Purple Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Woodland (Purple Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -229,7 +229,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_VisorGlasses_Purple 
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_VisorGlasses_Red : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Woodland 'Harrison' (Red Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Woodland (Red Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -253,7 +253,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_VisorGlasses_Red : 3
 //Medic
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_Medic : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic
 {
-	displayName="[34th] CH252 Woodland 'Harrison' (Medic)";
+	displayName="[34th] CH252 'Harrison' Woodland (Medic)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -275,7 +275,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_Medic : 34thPRC_Armo
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_Medic_EyePiece : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_EyePiece
 {
-	displayName="[34th] CH252 Woodland 'Harrison' (Medic) (Green Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Woodland (Medic) (Green Eye Piece)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -298,7 +298,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_Medic_EyePiece : 34t
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_Medic_EyePiece_Blue : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_EyePiece
 {
-	displayName="[34th] CH252 Woodland 'Harrison' (Medic) (Blue Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Woodland (Medic) (Blue Eye Piece)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -321,7 +321,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_Medic_EyePiece_Blue 
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_Medic_EyePiece_Orange : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_EyePiece
 {
-	displayName="[34th] CH252 Woodland 'Harrison' (Medic) (Orange Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Woodland (Medic) (Orange Eye Piece)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -344,7 +344,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_Medic_EyePiece_Orang
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_Medic_EyePiece_Red : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_EyePiece
 {
-	displayName="[34th] CH252 Woodland 'Harrison' (Medic) (Red Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Woodland (Medic) (Red Eye Piece)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -367,7 +367,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_Medic_EyePiece_Red :
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_Medic_EyePiece_Purple : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_EyePiece
 {
-	displayName="[34th] CH252 Woodland 'Harrison' (Medic) (Purple Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Woodland (Medic) (Purple Eye Piece)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -390,7 +390,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_Medic_EyePiece_Purpl
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_Medic_VisorGlasses : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_VisorGlasses
 {
-	displayName="[34th] CH252 Woodland 'Harrison' (Medic) (Orange Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Woodland (Medic) (Orange Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -413,7 +413,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_Medic_VisorGlasses :
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_Medic_VisorGlasses_Blue : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_Medic_VisorGlasses
 {
-	displayName="[34th] CH252 Woodland 'Harrison' (Medic) (Blue Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Woodland (Medic) (Blue Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -436,7 +436,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_Medic_VisorGlasses_B
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_Medic_VisorGlasses_Green : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_Medic_VisorGlasses
 {
-	displayName="[34th] CH252 Woodland 'Harrison' (Medic) (Green Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Woodland (Medic) (Green Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -459,7 +459,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_Medic_VisorGlasses_G
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_Medic_VisorGlasses_Purple : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_Medic_VisorGlasses
 {
-	displayName="[34th] CH252 Woodland 'Harrison' (Medic) (Purple Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Woodland (Medic) (Purple Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -482,7 +482,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_Medic_VisorGlasses_P
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_Medic_VisorGlasses_Red : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_Medic_VisorGlasses
 {
-	displayName="[34th] CH252 Woodland 'Harrison' (Medic) (Red Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Woodland (Medic) (Red Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -505,7 +505,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Woodland_Medic_VisorGlasses_R
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Woodland_Light : 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Light
 {
-	displayName="[34th] BDU Woodland 'Harrison' (Light)";
+	displayName="[34th] BDU 'Harrison' Woodland (Light)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
@@ -522,7 +522,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Woodland_Light : 34thPRC_Ar
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Woodland_Medium : 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Medium
 {
-	displayName="[34th] BDU Woodland 'Harrison' (Medium)";
+	displayName="[34th] BDU 'Harrison' Woodland (Medium)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
@@ -539,7 +539,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Woodland_Medium : 34thPRC_A
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Woodland_Heavy : 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Heavy
 {
-	displayName="[34th] BDU Woodland 'Harrison' (Heavy)";
+	displayName="[34th] BDU 'Harrison' Woodland (Heavy)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
@@ -556,7 +556,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Woodland_Heavy : 34thPRC_Ar
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Woodland_NoShoulders : 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_NoShoulders
 {
-	displayName="[34th] BDU Woodland 'Harrison' (Shoulderless)";
+	displayName="[34th] BDU 'Harrison' Woodland (Shoulderless)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
@@ -573,7 +573,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Woodland_NoShoulders : 34th
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Woodland_Light_NoCollar : 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Light_NoCollar
 {
-	displayName="[34th] BDU Woodland 'Harrison' (Light) (No Collar)";
+	displayName="[34th] BDU 'Harrison' Woodland (Light) (No Collar)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
@@ -590,7 +590,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Woodland_Light_NoCollar : 3
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Woodland_Medium_NoCollar : 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Medium_NoCollar
 {
-	displayName="[34th] BDU Woodland 'Harrison' (Medium) (No Collar)";
+	displayName="[34th] BDU 'Harrison' Woodland (Medium) (No Collar)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
@@ -607,7 +607,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Woodland_Medium_NoCollar : 
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Woodland_Heavy_NoCollar : 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Heavy_NoCollar
 {
-	displayName="[34th] BDU Woodland 'Harrison' (Heavy) (No Collar)";
+	displayName="[34th] BDU 'Harrison' Woodland (Heavy) (No Collar)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{

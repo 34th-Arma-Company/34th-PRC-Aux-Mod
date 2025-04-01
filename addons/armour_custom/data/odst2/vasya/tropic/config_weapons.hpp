@@ -1,6 +1,6 @@
 class 34thPRC_ArmourCustom_ODST2_Vasya_CH252D_CustomVisor_Tropic : 34thPRC_ArmourCustom_ODST2_Vasya_CH252D_CustomVisor_Urban
 {
-	displayName="[34th] CH252D Tropic 'Vasya' (Custom Visor)";
+	displayName="[34th] CH252D 'Vasya' Tropic (Custom Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -17,7 +17,7 @@ class 34thPRC_ArmourCustom_ODST2_Vasya_CH252D_CustomVisor_Tropic : 34thPRC_Armou
 };
 class 34thPRC_ArmourCustom_ODST2_Vasya_CH252D_CustomVisor_Tropic_dp : 34thPRC_ArmourCustom_ODST2_Shewolf_CH252D_CustomVisor_Urban_dp
 {
-	displayName="[34th] CH252D Tropic 'Vasya' (Custom Visor)";
+	displayName="[34th] CH252D 'Vasya' Tropic (Custom Visor)";
 	author="Over Yandere";
 	scope=1;
 	hiddenSelectionsTextures[]=

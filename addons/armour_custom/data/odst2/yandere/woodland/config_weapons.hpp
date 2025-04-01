@@ -1,6 +1,6 @@
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Woodland 'Yandere' (Silver Visor)";
+	displayName="[34th] CH252D 'Yandere' Woodland (Silver Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -17,7 +17,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Woodland : 34thPRC_A
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_RedVisor_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Woodland 'Yandere' (Red Visor)";
+	displayName="[34th] CH252D 'Yandere' Woodland (Red Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -34,7 +34,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_RedVisor_Woodland : 34thPRC_Armo
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Woodland 'Yandere' (Gold Visor)";
+	displayName="[34th] CH252D 'Yandere' Woodland (Gold Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -51,7 +51,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Woodland : 34thPRC_Arm
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Woodland 'Yandere' (Custom Visor)";
+	displayName="[34th] CH252D 'Yandere' Woodland (Custom Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -68,7 +68,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Woodland : 34thPRC_A
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Woodland_dp : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Woodland 'Yandere' (Silver Visor)";
+	displayName="[34th] CH252D 'Yandere' Woodland (Silver Visor)";
 	author="Over Yandere";
 	scope=1;
 	hiddenSelectionsTextures[]=
@@ -88,7 +88,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Woodland_dp : 34thPR
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_RedVisor_Woodland_dp : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Woodland 'Yandere' (Red Visor)";
+	displayName="[34th] CH252D 'Yandere' Woodland (Red Visor)";
 	author="Over Yandere";
 	scope=1;
 	hiddenSelectionsTextures[]=
@@ -108,7 +108,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_RedVisor_Woodland_dp : 34thPRC_A
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Woodland_dp : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Woodland 'Yandere' (Gold Visor)";
+	displayName="[34th] CH252D 'Yandere' Woodland (Gold Visor)";
 	author="Over Yandere";
 	scope=1;
 	hiddenSelectionsTextures[]=
@@ -128,7 +128,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Woodland_dp : 34thPRC_
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Woodland_dp :  34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban_dp
 {
-	displayName="[34th] CH252D Woodland 'Yandere' (Custom Visor)";
+	displayName="[34th] CH252D 'Yandere' Woodland (Custom Visor)";
 	author="Over Yandere";
 	scope=1;
 	hiddenSelectionsTextures[]=
@@ -150,7 +150,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Woodland_dp :  34thP
 //JFO Custom
 class 34thPRC_ArmourCustom_ODST2_Yandere_JFO_Custom_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_JFO_Custom_Urban
 {
-	displayName="[34th] JFO Woodland 'Yandere' (Custom Visor)";
+	displayName="[34th] JFO 'Yandere' Woodland (Custom Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -169,7 +169,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_JFO_Custom_Woodland : 34thPRC_ArmourCus
 //Recon Custom
 class 34thPRC_ArmourCustom_ODST2_Yandere_Recon_Custom_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_Recon_Custom_Urban
 {
-	displayName="[34th] Recon Woodland 'Yandere' (Custom Visor)";
+	displayName="[34th] Recon 'Yandere' Woodland (Custom Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -320,7 +320,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_C_Woodland : 34thPRC_ArmourCustom_O
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Marksman_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_M52_Marksman_Urban
 {
-	displayName="[34th] M52 Combat Armour 'Yandere' Marksman Woodland";
+	displayName="[34th] M52 Combat Armour 'Yandere' Woodland Marksman";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -364,7 +364,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Marksman_Woodland : 34thPRC_ArmourC
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_CQB_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_M52_CQB_Urban
 {
-	displayName="[34th] M52 Combat Armour 'Yandere' CQB Woodland";
+	displayName="[34th] M52 Combat Armour 'Yandere' Woodland CQB";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -408,7 +408,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_CQB_Woodland : 34thPRC_ArmourCustom
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Medic_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_M52_Medic_Urban
 {
-	displayName="[34th] M52 Combat Armour 'Yandere' (Corpsman) Woodland";
+	displayName="[34th] M52 Combat Armour 'Yandere' Woodland (Corpsman)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -452,7 +452,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Medic_Woodland : 34thPRC_ArmourCust
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_B_Medic_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_M52_B_Medic_Urban
 {
-	displayName="[34th] M52-B Combat Armour 'Yandere' (Corpsman) Woodland";
+	displayName="[34th] M52-B Combat Armour 'Yandere' Woodland (Corpsman)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -496,7 +496,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_B_Medic_Woodland : 34thPRC_ArmourCu
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_C_Medic_Woodland : 34thPRC_ArmourCustom_ODST2_Yandere_M52_C_Medic_Urban
 {
-	displayName="[34th] M52-C Combat Armour 'Yandere' (Corpsman) Woodland";
+	displayName="[34th] M52-C Combat Armour 'Yandere' Woodland (Corpsman)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{

@@ -1,6 +1,6 @@
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Tropic : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Tropic 'Yandere' (Silver Visor)";
+	displayName="[34th] CH252D 'Yandere' Tropic (Silver Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -17,7 +17,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Tropic : 34thPRC_Arm
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_RedVisor_Tropic : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Tropic 'Yandere' (Red Visor)";
+	displayName="[34th] CH252D 'Yandere' Tropic (Red Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -34,7 +34,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_RedVisor_Tropic : 34thPRC_Armour
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Tropic : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Tropic 'Yandere' (Gold Visor)";
+	displayName="[34th] CH252D 'Yandere' Tropic (Gold Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -51,7 +51,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Tropic : 34thPRC_Armou
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Tropic : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Tropic 'Yandere' (Custom Visor)";
+	displayName="[34th] CH252D 'Yandere' Tropic (Custom Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -68,7 +68,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Tropic : 34thPRC_Arm
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Tropic_dp : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Tropic 'Yandere' (Silver Visor)";
+	displayName="[34th] CH252D 'Yandere' Tropic (Silver Visor)";
 	author="Over Yandere";
 	scope=1;
 	hiddenSelectionsTextures[]=
@@ -88,7 +88,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Tropic_dp : 34thPRC_
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_RedVisor_Tropic_dp : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Tropic 'Yandere' (Red Visor)";
+	displayName="[34th] CH252D 'Yandere' Tropic (Red Visor)";
 	author="Over Yandere";
 	scope=1;
 	hiddenSelectionsTextures[]=
@@ -108,7 +108,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_RedVisor_Tropic_dp : 34thPRC_Arm
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Tropic_dp : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Tropic 'Yandere' (Gold Visor)";
+	displayName="[34th] CH252D 'Yandere' Tropic (Gold Visor)";
 	author="Over Yandere";
 	scope=1;
 	hiddenSelectionsTextures[]=
@@ -128,7 +128,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Tropic_dp : 34thPRC_Ar
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Tropic_dp :  34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban_dp
 {
-	displayName="[34th] CH252D Tropic 'Yandere' (Custom Visor)";
+	displayName="[34th] CH252D 'Yandere' Tropic (Custom Visor)";
 	author="Over Yandere";
 	scope=1;
 	hiddenSelectionsTextures[]=
@@ -150,7 +150,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Tropic_dp :  34thPRC
 //JFO Custom
 class 34thPRC_ArmourCustom_ODST2_Yandere_JFO_Custom_Tropic : 34thPRC_ArmourCustom_ODST2_Yandere_JFO_Custom_Urban
 {
-	displayName="[34th] JFO Tropic 'Yandere' (Custom Visor)";
+	displayName="[34th] JFO 'Yandere' Tropic (Custom Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -169,7 +169,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_JFO_Custom_Tropic : 34thPRC_ArmourCusto
 //Recon Custom
 class 34thPRC_ArmourCustom_ODST2_Yandere_Recon_Custom_Tropic : 34thPRC_ArmourCustom_ODST2_Yandere_Recon_Custom_Urban
 {
-	displayName="[34th] Recon Tropic 'Yandere' (Custom Visor)";
+	displayName="[34th] Recon 'Yandere' Tropic (Custom Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -320,7 +320,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_C_Tropic : 34thPRC_ArmourCustom_ODS
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Marksman_Tropic : 34thPRC_ArmourCustom_ODST2_Yandere_M52_Marksman_Urban
 {
-	displayName="[34th] M52 Combat Armour 'Yandere' Marksman Tropic";
+	displayName="[34th] M52 Combat Armour 'Yandere' Tropic Marksman";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -364,7 +364,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Marksman_Tropic : 34thPRC_ArmourCus
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_CQB_Tropic : 34thPRC_ArmourCustom_ODST2_Yandere_M52_CQB_Urban
 {
-	displayName="[34th] M52 Combat Armour 'Yandere' CQB Tropic";
+	displayName="[34th] M52 Combat Armour 'Yandere' Tropic CQB";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -408,7 +408,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_CQB_Tropic : 34thPRC_ArmourCustom_O
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Medic_Tropic : 34thPRC_ArmourCustom_ODST2_Yandere_M52_Medic_Urban
 {
-	displayName="[34th] M52 Combat Armour 'Yandere' (Corpsman) Tropic";
+	displayName="[34th] M52 Combat Armour 'Yandere' Tropic (Corpsman)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -452,7 +452,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Medic_Tropic : 34thPRC_ArmourCustom
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_B_Medic_Tropic : 34thPRC_ArmourCustom_ODST2_Yandere_M52_B_Medic_Urban
 {
-	displayName="[34th] M52-B Combat Armour 'Yandere' (Corpsman) Tropic";
+	displayName="[34th] M52-B Combat Armour 'Yandere' Tropic (Corpsman)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -496,7 +496,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_B_Medic_Tropic : 34thPRC_ArmourCust
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_C_Medic_Tropic : 34thPRC_ArmourCustom_ODST2_Yandere_M52_C_Medic_Urban
 {
-	displayName="[34th] M52-C Combat Armour 'Yandere' (Corpsman) Tropic";
+	displayName="[34th] M52-C Combat Armour 'Yandere' Tropic (Corpsman)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{

@@ -151,7 +151,7 @@ class 34thPRC_ArmourCustom_ODST2_Cappy_M52_C_Urban : 34thPRC_ArmourStandard_ODST
 };
 class 34thPRC_ArmourCustom_ODST2_Cappy_M52_Marksman_Urban : 34thPRC_ArmourStandard_ODST2_M52_Marksman_Urban
 {
-	displayName="[34th] M52 Combat Armour 'Cappy' Marksman Urban";
+	displayName="[34th] M52 Combat Armour 'Cappy' Urban Marksman";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -195,7 +195,7 @@ class 34thPRC_ArmourCustom_ODST2_Cappy_M52_Marksman_Urban : 34thPRC_ArmourStanda
 };
 class 34thPRC_ArmourCustom_ODST2_Cappy_M52_CQB_Urban : 34thPRC_ArmourStandard_ODST2_M52_CQB_Urban
 {
-	displayName="[34th] M52 Combat Armour 'Cappy' CQB Urban";
+	displayName="[34th] M52 Combat Armour 'Cappy' Urban CQB";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{

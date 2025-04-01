@@ -1,6 +1,6 @@
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Woodland : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Woodland 'Ambrose' (Silver Visor)";
+	displayName="[34th] CH252D 'Ambrose' Woodland (Silver Visor)";
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
@@ -17,7 +17,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Woodland : 34thPRC_A
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_RedVisor_Woodland : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Woodland 'Ambrose' (Red Visor)";
+	displayName="[34th] CH252D 'Ambrose' Woodland (Red Visor)";
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
@@ -34,7 +34,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_RedVisor_Woodland : 34thPRC_Armo
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_GoldVisor_Woodland : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Woodland 'Ambrose' (Gold Visor)";
+	displayName="[34th] CH252D 'Ambrose' Woodland (Gold Visor)";
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
@@ -51,7 +51,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_GoldVisor_Woodland : 34thPRC_Arm
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_CustomVisor_Woodland : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Woodland 'Ambrose' (Custom Visor)";
+	displayName="[34th] CH252D 'Ambrose' Woodland (Custom Visor)";
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
@@ -68,7 +68,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_CustomVisor_Woodland : 34thPRC_A
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Woodland_dp : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Woodland 'Ambrose' (Silver Visor)";
+	displayName="[34th] CH252D 'Ambrose' Woodland (Silver Visor)";
 	author="Ambrose";
 	scope=1;
 	hiddenSelectionsTextures[]=
@@ -88,7 +88,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Woodland_dp : 34thPR
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_RedVisor_Woodland_dp : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Woodland 'Ambrose' (Red Visor)";
+	displayName="[34th] CH252D 'Ambrose' Woodland (Red Visor)";
 	author="Ambrose";
 	scope=1;
 	hiddenSelectionsTextures[]=
@@ -108,7 +108,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_RedVisor_Woodland_dp : 34thPRC_A
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_GoldVisor_Woodland_dp : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Woodland 'Ambrose' (Gold Visor)";
+	displayName="[34th] CH252D 'Ambrose' Woodland (Gold Visor)";
 	author="Ambrose";
 	scope=1;
 	hiddenSelectionsTextures[]=
@@ -128,7 +128,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_GoldVisor_Woodland_dp : 34thPRC_
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_CustomVisor_Woodland_dp :  34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_CustomVisor_Urban_dp
 {
-	displayName="[34th] CH252D Woodland 'Ambrose' (Custom Visor)";
+	displayName="[34th] CH252D 'Ambrose' Woodland (Custom Visor)";
 	author="Ambrose";
 	scope=1;
 	hiddenSelectionsTextures[]=
@@ -281,7 +281,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_M52_C_Woodland : 34thPRC_ArmourCustom_O
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_M52_Marksman_Woodland : 34thPRC_ArmourCustom_ODST2_Ambrose_M52_Marksman_Urban
 {
-	displayName="[34th] M52 Combat Armour 'Ambrose' Marksman Woodland";
+	displayName="[34th] M52 Combat Armour 'Ambrose' Woodland Marksman";
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
@@ -325,7 +325,7 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_M52_Marksman_Woodland : 34thPRC_ArmourC
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_M52_CQB_Woodland : 34thPRC_ArmourCustom_ODST2_Ambrose_M52_CQB_Urban
 {
-	displayName="[34th] M52 Combat Armour 'Ambrose' CQB Woodland";
+	displayName="[34th] M52 Combat Armour 'Ambrose' Woodland CQB";
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
