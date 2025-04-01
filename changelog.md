@@ -20,6 +20,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - sec_guestpack pbo updated all internal file paths and prefix
 - overrides pbo updated prefix
 - main pbo prefix updated
+- sc_uniforms prefix updated
 
 ### Removed
 - unnessecary prefix files in overrides
