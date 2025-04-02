@@ -8,11 +8,11 @@ class 34thPRC_ArmourStandard_Crewman_CH252C_Urban: VES_CH252_URB_Crew
 	scopeCurator=2;
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\crewman\V_CH252_URB_C_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\crewman\V_CH252_URB_C_CO.paa",
 	};
 	hiddenSelectionsMaterials[] =
 	{
-		"34thPRC_ArmourStandard\data\crewman\V_CH252C.rvmat",
+		"\z\34thprc\addons\armour_standard\data\crewman\V_CH252C.rvmat",
 	};
 };
 
@@ -22,7 +22,7 @@ class 34thPRC_ArmourStandard_Crewman_CH252C_Arctic: 34thPRC_ArmourStandard_Crewm
 	author="Moz";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\crewman\V_CH252_SNO_C_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\crewman\V_CH252_SNO_C_CO.paa",
 	};
 };
 
@@ -33,7 +33,7 @@ class 34thPRC_ArmourStandard_Crewman_CH252C_Arid: 34thPRC_ArmourStandard_Crewman
 	author="Moz";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\crewman\V_CH252_DES_C_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\crewman\V_CH252_DES_C_CO.paa",
 	};
 };
 
@@ -44,7 +44,7 @@ class 34thPRC_ArmourStandard_Crewman_CH252C_Woodland: 34thPRC_ArmourStandard_Cre
 	author="Moz";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\crewman\V_CH252_WDL_C_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\crewman\V_CH252_WDL_C_CO.paa",
 	};
 };
 
@@ -55,9 +55,6 @@ class 34thPRC_ArmourStandard_Crewman_CH252C_Tropic: 34thPRC_ArmourStandard_Crewm
 	author="Moz";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\crewman\V_CH252_TRP_C_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\crewman\V_CH252_TRP_C_CO.paa",
 	};
 };
-
-
-
