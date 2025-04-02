@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+
+## 0.29.0
 ### Updated
 - Filepaths for scripts updated to Hemtt requirements
 - armour_standard pbo updated all internal file paths and prefix
@@ -21,7 +23,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - overrides pbo updated prefix
 - main pbo prefix updated
 - sc_uniforms prefix updated
-
 ### Removed
 - unnessecary prefix files in overrides
 
