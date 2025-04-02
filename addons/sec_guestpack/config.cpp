@@ -58,8 +58,8 @@ class CfgWeapons
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"SEC_GuestPack\data\MKVB\Steel_MKV_Upper_CO.paa",
-			"SEC_GuestPack\data\MKVB\Steel_MKV_Lower_CO.paa"
+			"z\34thprc\addons\sec_guestpack\data\MKVB\Steel_MKV_Upper_CO.paa",
+			"z\34thprc\addons\sec_guestpack\data\MKVB\Steel_MKV_Lower_CO.paa"
 		};
 		class ItemInfo: VestItem
 		{
@@ -73,8 +73,8 @@ class CfgWeapons
 			};
 			hiddenSelectionsTextures[]=
 			{
-				"SEC_GuestPack\data\MKVB\Steel_MKV_Upper_CO.paa",
-				"SEC_GuestPack\data\MKVB\Steel_MKV_Lower_CO.paa"
+				"z\34thprc\addons\sec_guestpack\data\MKVB\Steel_MKV_Upper_CO.paa",
+				"z\34thprc\addons\sec_guestpack\data\MKVB\Steel_MKV_Lower_CO.paa"
 			};
 			uniformModel="MA_Armor\data\Vests\MKVB\MKVB_Armor.p3d";
 			containerClass="Supply250";
@@ -145,11 +145,11 @@ class CfgWeapons
 		scope=2;
 		scopeArsenal=2;
 		displayName="[EAGLE] MJOLNIR Mark V/B Guest Helmet";
-		MJOLNIR_helmetOutline="SEC_GuestPack\data\MKVB\MKVBHelmetOutline.paa";
+		MJOLNIR_helmetOutline="z\34thprc\addons\sec_guestpack\data\MKVB\MKVBHelmetOutline.paa";
 		hiddenSelectionsTextures[]=
 		{
-			"SEC_GuestPack\data\MKVB\Steel_MKVB_Helmet_CO.paa",
-			"SEC_GuestPack\data\MKVB\Gold_MKVB_Visor_CO.paa"
+			"z\34thprc\addons\sec_guestpack\data\MKVB\Steel_MKVB_Helmet_CO.paa",
+			"z\34thprc\addons\sec_guestpack\data\MKVB\Gold_MKVB_Visor_CO.paa"
 		};
 	};
 };
@@ -184,8 +184,8 @@ class CfgVehicles
 			"MA_Armor\data\Vests\MKVB\Shoulders\JFO\Olive_JFO_Shoulders_CO.paa",
 			"",
 			"",
-			"SEC_GuestPack\data\MKV\Gray_MKV_Shoulders_CO.paa",
-			"SEC_GuestPack\data\MKV\Gray_MKV_Shoulders_CO.paa",
+			"z\34thprc\addons\sec_guestpack\data\MKV\Gray_MKV_Shoulders_CO.paa",
+			"z\34thprc\addons\sec_guestpack\data\MKV\Gray_MKV_Shoulders_CO.paa",
 			"MA_Armor\data\Vests\MKVB\Shoulders\ODST\Olive_ODST_Shoulders_CO.paa",
 			"MA_Armor\data\Vests\MKVB\Shoulders\ODST\Olive_ODST_Shoulders_CO.paa",
 			"MA_Armor\data\Vests\MKVB\Shoulders\Operator\Olive_Operator_Shoulders_CO.paa",

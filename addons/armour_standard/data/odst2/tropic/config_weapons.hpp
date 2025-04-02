@@ -1,11 +1,12 @@
+
 class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Tropic : 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban
 {
 	displayName="[34th] CH252D Tropic (Silver Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Helmet.paa",
-		"34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Silvervisor.paa"
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Helmet.paa",
+		"\z\34thprc\addons\armour_standard\data\odst2\visor\34th_ODST_Silvervisor.paa"
 	};
 	class XtdGearInfo
 	{
@@ -20,8 +21,8 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_RedVisor_Tropic : 34thPRC_ArmourStanda
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Helmet.paa",
-		"34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Redvisor.paa"
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Helmet.paa",
+		"\z\34thprc\addons\armour_standard\data\odst2\visor\34th_ODST_Redvisor.paa"
 	};
 	class XtdGearInfo
 	{
@@ -36,8 +37,8 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_GoldVisor_Tropic : 34thPRC_ArmourStand
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Helmet.paa",
-		"34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Goldvisor.paa"
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Helmet.paa",
+		"\z\34thprc\addons\armour_standard\data\odst2\visor\34th_ODST_Goldvisor.paa"
 	};
 	class XtdGearInfo
 	{
@@ -53,7 +54,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Tropic_dp : 34thPRC_Armour
 	scope=1;
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Helmet.paa",// Helmet Texture
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Helmet.paa",// Helmet Texture
 		"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa" // Visor Texture
 	};
 	class ItemInfo: ItemInfo
@@ -73,7 +74,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_RedVisor_Tropic_dp : 34thPRC_ArmourSta
 	scope=1;
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Helmet.paa",// Helmet Texture
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Helmet.paa",// Helmet Texture
 		"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa" // Visor Texture
 	};
 	class ItemInfo: ItemInfo
@@ -93,7 +94,7 @@ class 34thPRC_ArmourStandard_ODST2_CH252D_GoldVisor_Tropic_dp : 34thPRC_ArmourSt
 	scope=1;
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Helmet.paa",// Helmet Texture
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Helmet.paa",// Helmet Texture
 		"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa" // Visor Texture
 	};
 	class ItemInfo: ItemInfo
@@ -112,15 +113,15 @@ class 34thPRC_ArmourStandard_ODST2_M52_Tropic : 34thPRC_ArmourStandard_ODST2_M52
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Chest
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -155,15 +156,15 @@ class 34thPRC_ArmourStandard_ODST2_M52_Medic_Tropic : 34thPRC_ArmourStandard_ODS
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Chest
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders_Medic.paa", //ODST_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders_Medic.paa", //ODST_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Shoulders_Medic.paa", //ODST_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Shoulders_Medic.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -198,15 +199,15 @@ class 34thPRC_ArmourStandard_ODST2_M52_B_Tropic : 34thPRC_ArmourStandard_ODST2_M
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Chest
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -241,15 +242,15 @@ class 34thPRC_ArmourStandard_ODST2_M52_B_Medic_Tropic : 34thPRC_ArmourStandard_O
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Chest
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders_Medic.paa", //ODST_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders_Medic.paa", //ODST_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Shoulders_Medic.paa", //ODST_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Shoulders_Medic.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -284,15 +285,15 @@ class 34thPRC_ArmourStandard_ODST2_M52_C_Tropic : 34thPRC_ArmourStandard_ODST2_M
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Chest
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -327,15 +328,15 @@ class 34thPRC_ArmourStandard_ODST2_M52_C_Medic_Tropic : 34thPRC_ArmourStandard_O
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Chest
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders_Medic.paa", //ODST_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders_Medic.paa", //ODST_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Shoulders_Medic.paa", //ODST_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Shoulders_Medic.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -370,15 +371,15 @@ class 34thPRC_ArmourStandard_ODST2_M52_D_Tropic : 34thPRC_ArmourStandard_ODST2_M
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Chest
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -413,15 +414,15 @@ class 34thPRC_ArmourStandard_ODST2_M52_D_Medic_Tropic : 34thPRC_ArmourStandard_O
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Chest
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders_Medic.paa", //ODST_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders_Medic.paa", //ODST_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest_Medic.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Shoulders_Medic.paa", //ODST_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Shoulders_Medic.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -456,15 +457,15 @@ class 34thPRC_ArmourStandard_ODST2_M52_Marksman_Tropic : 34thPRC_ArmourStandard_
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Chest
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -499,15 +500,15 @@ class 34thPRC_ArmourStandard_ODST2_M52_CQB_Tropic : 34thPRC_ArmourStandard_ODST2
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Chest
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Left
-		"34thPRC_ArmourStandard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_CQB.paa", //CQB Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Marksman.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Vest.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Left
+		"\z\34thprc\addons\armour_standard\data\odst2\tropic\34th_Tropic_ODST_Shoulders.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch

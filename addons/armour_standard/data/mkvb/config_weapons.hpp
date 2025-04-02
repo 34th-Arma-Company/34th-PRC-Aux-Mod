@@ -6,8 +6,8 @@ class 34thPRC_ArmourStandard_MkVB_Commando_Helmet : MA_Mjolnir_Commando_Helmet
 	tcp_visrRscTitlesClass = "RscTCPVisrODST";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\mkvb\Commando\Helmet\34_Commando_Helmet.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Commando\Visors\34_Commando_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\mkvb\Commando\Helmet\34_Commando_Helmet.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\Commando\Visors\34_Commando_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -24,8 +24,8 @@ class 34thPRC_ArmourStandard_MkVB_CQC_Helmet : MA_Mjolnir_CQC_Helmet
 	tcp_visrRscTitlesClass = "RscTCPVisrODST";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\mkvb\CQC\Helmet\34_CQC_Helmet.paa",
-		"34thPRC_ArmourStandard\data\mkvb\CQC\Visors\34_CQC_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\mkvb\CQC\Helmet\34_CQC_Helmet.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\CQC\Visors\34_CQC_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -42,8 +42,8 @@ class 34thPRC_ArmourStandard_MkVB_EOD_HR_Helmet : MA_Mjolnir_HR_EOD_Helmet
 	tcp_visrRscTitlesClass = "RscTCPVisrODST";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\HR_EOD\Helmet\34_EOD_HR_Helmet.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\HR_EOD\Visors\34_EOD_HR_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\mkvb\Mjolnir_EOD\HR_EOD\Helmet\34_EOD_HR_Helmet.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\Mjolnir_EOD\HR_EOD\Visors\34_EOD_HR_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -60,8 +60,8 @@ class 34thPRC_ArmourStandard_MkVB_EOD_H3_Helmet : MA_Mjolnir_H3_EOD_Helmet
 	tcp_visrRscTitlesClass = "RscTCPVisrODST";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\H3_EOD\Helmet\34_EOD_H3_Helmet.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\H3_EOD\Visors\34_EOD_H3_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\mkvb\Mjolnir_EOD\H3_EOD\Helmet\34_EOD_H3_Helmet.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\Mjolnir_EOD\H3_EOD\Visors\34_EOD_H3_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -78,8 +78,8 @@ class 34thPRC_ArmourStandard_MkVB_EVA_Helmet : MA_Mjolnir_EVA_Helmet
 	tcp_visrRscTitlesClass = "RscTCPVisrODST";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\mkvb\EVA\Helmet\34_EVA_Helmet.paa",
-		"34thPRC_ArmourStandard\data\mkvb\EVA\Visors\34_EVA_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\mkvb\EVA\Helmet\34_EVA_Helmet.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\EVA\Visors\34_EVA_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -96,8 +96,8 @@ class 34thPRC_ArmourStandard_MkVB_Grenadier_Helmet : MA_Mjolnir_Grenadier_Helmet
 	tcp_visrRscTitlesClass = "RscTCPVisrODST";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Helmet\34_Grenadier_Helmet.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Grenadier\Visor\34_Grenadier_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\mkvb\Grenadier\Helmet\34_Grenadier_Helmet.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\Grenadier\Visor\34_Grenadier_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -114,7 +114,7 @@ class 34thPRC_ArmourStandard_MkVB_Gungnir_Helmet : MA_Mjolnir_Gungnir_Helmet
 	tcp_visrRscTitlesClass = "RscTCPVisrODST";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\mkvb\Gungnir\Helmet\34_Gungnir_Helmet.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\Gungnir\Helmet\34_Gungnir_Helmet.paa",
 	};
 	class XtdGearInfo
 	{
@@ -131,8 +131,8 @@ class 34thPRC_ArmourStandard_MkVB_JFO_Helmet : MA_Mjolnir_JFO_Helmet
 	tcp_visrRscTitlesClass = "RscTCPVisrODST";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\mkvb\JFO\Helmet\34_JFO_Helmet.paa",
-		"34thPRC_ArmourStandard\data\mkvb\JFO\Visor\34_JFO_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\mkvb\JFO\Helmet\34_JFO_Helmet.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\JFO\Visor\34_JFO_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -149,8 +149,8 @@ class 34thPRC_ArmourStandard_MkVB_AA_Helmet : MA_Mjolnir_Mjolnir_AA_Helmet
 	tcp_visrRscTitlesClass = "RscTCPVisrODST";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_AA\Helmet\34_AA_Helmet.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_AA\Visor\34_AA_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\mkvb\Mjolnir_AA\Helmet\34_AA_Helmet.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\Mjolnir_AA\Visor\34_AA_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -167,8 +167,8 @@ class 34thPRC_ArmourStandard_MkVB_ODST_Helmet : MA_Mjolnir_ODST_Helmet
 	tcp_visrRscTitlesClass = "RscTCPVisrODST";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Helmet\34_ODST_Helmet.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_ODST\Visors\34_ODST_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\mkvb\Mjolnir_ODST\Helmet\34_ODST_Helmet.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\Mjolnir_ODST\Visors\34_ODST_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -185,8 +185,8 @@ class 34thPRC_ArmourStandard_MkVB_MKV_Helmet : MA_Mjolnir_MKV_Helmet
 	tcp_visrRscTitlesClass = "RscTCPVisrODST";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\mkvb\MKV\Helmet\34_MKV_Helmet.paa",
-		"34thPRC_ArmourStandard\data\mkvb\MKV\Visors\34_MKV_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\mkvb\MKV\Helmet\34_MKV_Helmet.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\MKV\Visors\34_MKV_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -203,8 +203,8 @@ class 34thPRC_ArmourStandard_Mkvb_Helmet : MA_Mjolnir_MKVB_Helmet
 	tcp_visrRscTitlesClass = "RscTCPVisrODST";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\mkvb\MKVB\Helmet\34_MKVB_Helmet.paa",
-		"34thPRC_ArmourStandard\data\mkvb\MKVB\Visors\34_MKVB_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\mkvb\MKVB\Helmet\34_MKVB_Helmet.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\MKVB\Visors\34_MKVB_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -221,8 +221,8 @@ class 34thPRC_ArmourStandard_MkVB_MP_Helmet : MA_Mjolnir_MP_Helmet
 	tcp_visrRscTitlesClass = "RscTCPVisrODST";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\mkvb\MP\Helmet\34_MP_Helmet.paa",
-		"34thPRC_ArmourStandard\data\mkvb\MP\Visors\34_MP_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\mkvb\MP\Helmet\34_MP_Helmet.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\MP\Visors\34_MP_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -239,8 +239,8 @@ class 34thPRC_ArmourStandard_MkVB_Pilot_Helmet : MA_Mjolnir_Pilot_Helmet
 	tcp_visrRscTitlesClass = "RscTCPVisrODST";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\mkvb\Pilot\Helmet\34_Pilot_Helmet.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Pilot\Visors\34_Pilot_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\mkvb\Pilot\Helmet\34_Pilot_Helmet.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\Pilot\Visors\34_Pilot_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -257,8 +257,8 @@ class 34thPRC_ArmourStandard_MkVB_Recon_Helmet : MA_Mjolnir_Recon_Helmet
 	tcp_visrRscTitlesClass = "RscTCPVisrODST";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\mkvb\Recon\Helmet\34_Recon_Helmet.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Recon\Visors\34_Recon_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\mkvb\Recon\Helmet\34_Recon_Helmet.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\Recon\Visors\34_Recon_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -275,8 +275,8 @@ class 34thPRC_ArmourStandard_MkVB_Scout_Helmet : MA_Mjolnir_Scout_Helmet
 	tcp_visrRscTitlesClass = "RscTCPVisrODST";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\mkvb\Scout\Helmet\34_Scout_Helmet.paa",
-		"34thPRC_ArmourStandard\data\mkvb\Scout\Visors\34_Scout_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\mkvb\Scout\Helmet\34_Scout_Helmet.paa",
+		"\z\34thprc\addons\armour_standard\data\mkvb\Scout\Visors\34_Scout_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
 	{
@@ -292,8 +292,8 @@ class 34thPRC_ArmourStandard_MkVB_Armor: MA_MKVB_Armor
 	author= "Vazya";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\mkvb\MKVB\34_MKVB_Upper.paa",    //camo4 (Upper Armor)
-		"34thPRC_ArmourStandard\data\mkvb\MKVB\34_MKVB_Lower.paa"    //camo5 (Lower Armor)
+		"\z\34thprc\addons\armour_standard\data\mkvb\MKVB\34_MKVB_Upper.paa",    //camo4 (Upper Armor)
+		"\z\34thprc\addons\armour_standard\data\mkvb\MKVB\34_MKVB_Lower.paa"    //camo5 (Lower Armor)
 	};
 };
 
@@ -303,7 +303,7 @@ class 34thPRC_ArmourStandard_MkVB_EOD_CBRN_NVG: MA_EOD_CBRN_Attachment_NVG
 	displayName="[34th] Mjolnir MkV[B] EOD CBRN Module";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\mkvb\Mjolnir_EOD\CBRN\34_EOD_CBRN.paa"
+		"\z\34thprc\addons\armour_standard\data\mkvb\Mjolnir_EOD\CBRN\34_EOD_CBRN.paa"
 	};
 	visionMode[]=
 	{

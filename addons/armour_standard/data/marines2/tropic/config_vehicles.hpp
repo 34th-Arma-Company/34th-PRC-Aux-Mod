@@ -3,16 +3,16 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Tropic_Light: 34thPRC_ArmourStanda
 	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Tropic_Light";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperCollar.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperPadding_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperStraps_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_UpperArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_LowerArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperShoulders.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperPadding_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperStraps_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_UpperArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_LowerArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperShoulders.paa"
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Trooper_Tropic_Medium: 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium
@@ -20,16 +20,16 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Tropic_Medium: 34thPRC_ArmourStand
 	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Tropic_Medium";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperCollar.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperPadding_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperStraps_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_UpperArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_LowerArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperShoulders.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperPadding_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperStraps_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_UpperArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_LowerArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperShoulders.paa"
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Trooper_Tropic_Heavy: 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy
@@ -37,16 +37,16 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Tropic_Heavy: 34thPRC_ArmourStanda
 	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Tropic_Heavy";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperCollar.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperPadding_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperStraps_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_UpperArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_LowerArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperShoulders.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperPadding_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperStraps_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_UpperArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_LowerArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperShoulders.paa"
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Trooper_Tropic_NoShoulder: 34thPRC_ArmourStandard_Marines2_Trooper_Urban_NoShoulder
@@ -54,16 +54,16 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Tropic_NoShoulder: 34thPRC_ArmourS
 	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Tropic_NoShoulder";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperCollar.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperPadding_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperStraps_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_UpperArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_LowerArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperShoulders.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperPadding_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperStraps_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_UpperArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_LowerArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperShoulders.paa"
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Trooper_Tropic_Light_NoCollar: 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Light_NoCollar
@@ -71,16 +71,16 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Tropic_Light_NoCollar: 34thPRC_Arm
 	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Tropic_Light_NoCollar";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperCollar.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperPadding_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperStraps_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_UpperArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_LowerArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperShoulders.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperPadding_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperStraps_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_UpperArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_LowerArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperShoulders.paa"
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Trooper_Tropic_Medium_NoCollar: 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Medium_NoCollar
@@ -88,16 +88,16 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Tropic_Medium_NoCollar: 34thPRC_Ar
 	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Tropic_Medium_NoCollar";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperCollar.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperPadding_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperStraps_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_UpperArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_LowerArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperShoulders.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperPadding_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperStraps_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_UpperArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_LowerArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperShoulders.paa"
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Trooper_Tropic_Heavy_NoCollar: 34thPRC_ArmourStandard_Marines2_Trooper_Urban_Heavy_NoCollar
@@ -105,15 +105,15 @@ class 34thPRC_ArmourStandard_Marines2_Trooper_Tropic_Heavy_NoCollar: 34thPRC_Arm
 	UniformClass="34thPRC_ArmourStandard_Marines2_Uniform_Tropic_Heavy_NoCollar";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_UpperBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_LowerBDU.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperCollar.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperPadding_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\TrooperStraps_CO.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_UpperArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_LowerArmor.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
-		"34thPRC_ArmourStandard\data\marines2\Tropic\Brown_TrooperShoulders.paa"
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperPadding_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\TrooperStraps_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_UpperArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_LowerArmor.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperShoulders.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\Tropic\Brown_TrooperShoulders.paa"
 	};
 };
