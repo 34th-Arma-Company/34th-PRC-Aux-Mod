@@ -18,6 +18,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Arid : 34thPRC_ArmourStandard_
 		camo = "arid";
 		eyewear = "standard";
 		medic = "false";
+		eyewear_color = "none";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Arid_EyePiece : 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece

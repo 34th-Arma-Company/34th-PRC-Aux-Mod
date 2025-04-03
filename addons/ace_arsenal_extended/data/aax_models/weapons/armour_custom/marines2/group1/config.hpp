@@ -189,7 +189,11 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban
 	{
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[] = {"blue", "green", "red", "purple", "orange"};
+		values[] = {"none", "blue", "green", "red", "purple", "orange"};
+		class none
+		{
+			label = "None";
+		};
 		class blue
 		{
 			label = "Blue";

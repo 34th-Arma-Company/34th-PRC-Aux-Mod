@@ -18,6 +18,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arctic : 34thPRC_ArmourStandard_
 		camo = "arctic";
 		eyewear = "standard";
 		medic = "false";
+		eyewear_color = "none";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arctic_EyePiece : 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece
