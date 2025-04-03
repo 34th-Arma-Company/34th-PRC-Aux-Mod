@@ -1,6 +1,6 @@
 class 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Arctic : 34thPRC_ArmourCustom_Cappy_EOD_Helmet_Urban
 {
-	displayName="[34th] EOD Helmet 'Cappy' Arctic";
+	displayName="[34th] EOD Helmet 'Cappy'";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -151,7 +151,7 @@ class 34thPRC_ArmourCustom_ODST2_Cappy_M52_C_Arctic : 34thPRC_ArmourCustom_ODST2
 };
 class 34thPRC_ArmourCustom_ODST2_Cappy_M52_Marksman_Arctic : 34thPRC_ArmourCustom_ODST2_Cappy_M52_Marksman_Urban
 {
-	displayName="[34th] M52 Combat Armour 'Cappy' Marksman Arctic";
+	displayName="[34th] M52 Combat Armour 'Cappy' Arctic Marksman";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -195,7 +195,7 @@ class 34thPRC_ArmourCustom_ODST2_Cappy_M52_Marksman_Arctic : 34thPRC_ArmourCusto
 };
 class 34thPRC_ArmourCustom_ODST2_Cappy_M52_CQB_Arctic : 34thPRC_ArmourCustom_ODST2_Cappy_M52_CQB_Urban
 {
-	displayName="[34th] M52 Combat Armour 'Cappy' CQB Arctic";
+	displayName="[34th] M52 Combat Armour 'Cappy' Arctic CQB";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
