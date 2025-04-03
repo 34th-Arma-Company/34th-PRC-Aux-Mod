@@ -23,7 +23,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban : 34thPRC_ArmourStandard
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece : 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Urban 'Ramirez' (Green Eye Piece)";
+	displayName="[34th] CH252 'Ramirez' Urban (Green Eye Piece)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
@@ -46,7 +46,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece : 34thPRC_Armou
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece_Blue : 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Urban 'Ramirez' (Blue Eye Piece)";
+	displayName="[34th] CH252 'Ramirez' Urban (Blue Eye Piece)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
@@ -69,7 +69,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece_Blue : 34thPRC_
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece_Orange : 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Urban 'Ramirez' (Orange Eye Piece)";
+	displayName="[34th] CH252 'Ramirez' Urban (Orange Eye Piece)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
@@ -92,7 +92,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece_Orange : 34thPR
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece_Red : 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Urban 'Ramirez' (Red Eye Piece)";
+	displayName="[34th] CH252 'Ramirez' Urban (Red Eye Piece)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
@@ -115,7 +115,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece_Red : 34thPRC_A
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece_Purple : 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Urban 'Ramirez' (Purple Eye Piece)";
+	displayName="[34th] CH252 'Ramirez' Urban (Purple Eye Piece)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
@@ -138,7 +138,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece_Purple : 34thPR
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses : 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Urban 'Ramirez' (Orange Visor Glasses)";
+	displayName="[34th] CH252 'Ramirez' Urban (Orange Visor Glasses)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
@@ -161,7 +161,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses : 34thPRC_A
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses_Blue : 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Urban 'Ramirez' (Blue Visor Glasses)";
+	displayName="[34th] CH252 'Ramirez' Urban (Blue Visor Glasses)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
@@ -184,7 +184,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses_Blue : 34th
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses_Green : 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Urban 'Ramirez' (Green Visor Glasses)";
+	displayName="[34th] CH252 'Ramirez' Urban (Green Visor Glasses)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
@@ -207,7 +207,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses_Green : 34t
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses_Purple : 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Urban 'Ramirez' (Purple Visor Glasses)";
+	displayName="[34th] CH252 'Ramirez' Urban (Purple Visor Glasses)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
@@ -230,7 +230,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses_Purple : 34
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses_Red : 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Urban 'Ramirez' (Red Visor Glasses)";
+	displayName="[34th] CH252 'Ramirez' Urban (Red Visor Glasses)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{

@@ -23,7 +23,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid : 34thPRC_ArmourCustom_Marin
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_EyePiece : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Arid 'Jade' (Green Eye Piece)";
+	displayName="[34th] CH252 'Jade' Arid (Green Eye Piece)";
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
@@ -46,7 +46,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_EyePiece : 34thPRC_ArmourCus
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_EyePiece_Blue : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Arid 'Jade' (Blue Eye Piece)";
+	displayName="[34th] CH252 'Jade' Arid (Blue Eye Piece)";
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
@@ -69,7 +69,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_EyePiece_Blue : 34thPRC_Armo
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_EyePiece_Orange : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Arid 'Jade' (Orange Eye Piece)";
+	displayName="[34th] CH252 'Jade' Arid (Orange Eye Piece)";
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
@@ -92,7 +92,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_EyePiece_Orange : 34thPRC_Ar
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_EyePiece_Red : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Arid 'Jade' (Red Eye Piece)";
+	displayName="[34th] CH252 'Jade' Arid (Red Eye Piece)";
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
@@ -115,7 +115,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_EyePiece_Red : 34thPRC_Armou
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_EyePiece_Purple : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Arid 'Jade' (Purple Eye Piece)";
+	displayName="[34th] CH252 'Jade' Arid (Purple Eye Piece)";
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
@@ -138,7 +138,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_EyePiece_Purple : 34thPRC_Ar
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_VisorGlasses : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Arid 'Jade' (Orange Visor Glasses)";
+	displayName="[34th] CH252 'Jade' Arid (Orange Visor Glasses)";
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
@@ -161,7 +161,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_VisorGlasses : 34thPRC_Armou
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_VisorGlasses_Blue : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Arid 'Jade' (Blue Visor Glasses)";
+	displayName="[34th] CH252 'Jade' Arid (Blue Visor Glasses)";
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
@@ -184,7 +184,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_VisorGlasses_Blue : 34thPRC_
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_VisorGlasses_Green : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Arid 'Jade' (Green Visor Glasses)";
+	displayName="[34th] CH252 'Jade' Arid (Green Visor Glasses)";
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
@@ -207,7 +207,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_VisorGlasses_Green : 34thPRC
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_VisorGlasses_Purple : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Arid 'Jade' (Purple Visor Glasses)";
+	displayName="[34th] CH252 'Jade' Arid (Purple Visor Glasses)";
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
@@ -230,7 +230,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_VisorGlasses_Purple : 34thPR
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_VisorGlasses_Red : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Arid 'Jade' (Red Visor Glasses)";
+	displayName="[34th] CH252 'Jade' Arid (Red Visor Glasses)";
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
@@ -254,7 +254,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_VisorGlasses_Red : 34thPRC_A
 //Medic
 class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_Medic
 {
-	displayName="[34th] CH252 Arid 'Jade' (Medic)";
+	displayName="[34th] CH252 'Jade' Arid (Medic)";
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
@@ -276,7 +276,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic : 34thPRC_ArmourCustom
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_EyePiece : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_Medic_EyePiece
 {
-	displayName="[34th] CH252 Arid 'Jade' (Medic) (Green Eye Piece)";
+	displayName="[34th] CH252 'Jade' Arid (Medic) (Green Eye Piece)";
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
@@ -299,7 +299,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_EyePiece : 34thPRC_Arm
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_EyePiece_Blue : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_Medic_EyePiece
 {
-	displayName="[34th] CH252 Arid 'Jade' (Medic) (Blue Eye Piece)";
+	displayName="[34th] CH252 'Jade' Arid (Medic) (Blue Eye Piece)";
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
@@ -322,7 +322,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_EyePiece_Blue : 34thPR
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_EyePiece_Orange : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_Medic_EyePiece
 {
-	displayName="[34th] CH252 Arid 'Jade' (Medic) (Orange Eye Piece)";
+	displayName="[34th] CH252 'Jade' Arid (Medic) (Orange Eye Piece)";
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
@@ -345,7 +345,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_EyePiece_Orange : 34th
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_EyePiece_Red : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_Medic_EyePiece
 {
-	displayName="[34th] CH252 Arid 'Jade' (Medic) (Red Eye Piece)";
+	displayName="[34th] CH252 'Jade' Arid (Medic) (Red Eye Piece)";
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
@@ -368,7 +368,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_EyePiece_Red : 34thPRC
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_EyePiece_Purple : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_Medic_EyePiece
 {
-	displayName="[34th] CH252 Arid 'Jade' (Medic) (Purple Eye Piece)";
+	displayName="[34th] CH252 'Jade' Arid (Medic) (Purple Eye Piece)";
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
@@ -391,7 +391,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_EyePiece_Purple : 34th
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_VisorGlasses : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_Medic_VisorGlasses
 {
-	displayName="[34th] CH252 Arid 'Jade' (Medic) (Orange Visor Glasses)";
+	displayName="[34th] CH252 'Jade' Arid (Medic) (Orange Visor Glasses)";
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
@@ -414,7 +414,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_VisorGlasses : 34thPRC
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_VisorGlasses_Blue : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_VisorGlasses
 {
-	displayName="[34th] CH252 Arid 'Jade' (Medic) (Blue Visor Glasses)";
+	displayName="[34th] CH252 'Jade' Arid (Medic) (Blue Visor Glasses)";
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
@@ -437,7 +437,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_VisorGlasses_Blue : 34
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_VisorGlasses_Green : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_VisorGlasses
 {
-	displayName="[34th] CH252 Arid 'Jade' (Medic) (Green Visor Glasses)";
+	displayName="[34th] CH252 'Jade' Arid (Medic) (Green Visor Glasses)";
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
@@ -460,7 +460,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_VisorGlasses_Green : 3
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_VisorGlasses_Purple : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_VisorGlasses
 {
-	displayName="[34th] CH252 Arid 'Jade' (Medic) (Purple Visor Glasses)";
+	displayName="[34th] CH252 'Jade' Arid (Medic) (Purple Visor Glasses)";
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
@@ -483,7 +483,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_VisorGlasses_Purple : 
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_VisorGlasses_Red : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_VisorGlasses
 {
-	displayName="[34th] CH252 Arid 'Jade' (Medic) (Red Visor Glasses)";
+	displayName="[34th] CH252 'Jade' Arid (Medic) (Red Visor Glasses)";
 	author="Jade";
 	hiddenSelectionsTextures[]=
 	{
@@ -506,7 +506,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_VisorGlasses_Red : 34t
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Light : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Light
 {
-	displayName="[34th] BDU Arid 'Jade' (Light)";
+	displayName="[34th] BDU 'Jade' Arid (Light)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -523,7 +523,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Light : 34thPRC_ArmourCust
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Medium : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Medium
 {
-	displayName="[34th] BDU Arid 'Jade' (Medium)";
+	displayName="[34th] BDU 'Jade' Arid (Medium)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -540,7 +540,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Medium : 34thPRC_ArmourCus
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Heavy : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Heavy
 {
-	displayName="[34th] BDU Arid 'Jade' (Heavy)";
+	displayName="[34th] BDU 'Jade' Arid (Heavy)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -557,7 +557,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Heavy : 34thPRC_ArmourCust
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_NoShoulders : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_NoShoulders
 {
-	displayName="[34th] BDU Arid 'Jade' (Shoulderless)";
+	displayName="[34th] BDU 'Jade' Arid (Shoulderless)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -574,7 +574,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_NoShoulders : 34thPRC_Armo
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Light_NoCollar : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Light_NoCollar
 {
-	displayName="[34th] BDU Arid 'Jade' (Light) (No Collar)";
+	displayName="[34th] BDU 'Jade' Arid (Light) (No Collar)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -591,7 +591,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Light_NoCollar : 34thPRC_A
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Medium_NoCollar : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Medium_NoCollar
 {
-	displayName="[34th] BDU Arid 'Jade' (Medium) (No Collar)";
+	displayName="[34th] BDU 'Jade' Arid (Medium) (No Collar)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{
@@ -608,7 +608,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Medium_NoCollar : 34thPRC_
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Heavy_NoCollar : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Heavy_NoCollar
 {
-	displayName="[34th] BDU Arid 'Jade' (Heavy) (No Collar)";
+	displayName="[34th] BDU 'Jade' Arid (Heavy) (No Collar)";
 	author="Jade";
 	class ItemInfo: ItemInfo
 	{

@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Updated
 - Updated AAX selections on Marine Helmets to improve functionality and reduce sticking when trying to select the 'Standard' variant
+###  Updated
+- Displaynames for custom helmets to properly reflect camo color and standardized custom armor and helmet displayname structure.
 
 ## 0.29.0
 ### Updated
@@ -27,6 +29,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - sc_uniforms prefix updated
 ### Removed
 - unnessecary prefix files in overrides
+
 
 ## 0.28.0
 - Identical to 0.27.1 but built with our legacy build system (HEMTT is doing something funny to our scripts and broke them)
