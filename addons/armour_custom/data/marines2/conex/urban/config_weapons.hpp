@@ -22,7 +22,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban : 34thPRC_ArmourStandard_M
 };
 class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_EyePiece : 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Urban 'Conex' (Green Eye Piece)";
+	displayName="[34th] CH252 'Conex' Urban (Green Eye Piece)";
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
@@ -45,7 +45,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_EyePiece : 34thPRC_ArmourS
 };
 class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_EyePiece_Blue : 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Urban 'Conex' (Blue Eye Piece)";
+	displayName="[34th] CH252 'Conex' Urban (Blue Eye Piece)";
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
@@ -68,7 +68,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_EyePiece_Blue : 34thPRC_Ar
 };
 class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_EyePiece_Orange : 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Urban 'Conex' (Orange Eye Piece)";
+	displayName="[34th] CH252 'Conex' Urban (Orange Eye Piece)";
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
@@ -91,7 +91,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_EyePiece_Orange : 34thPRC_
 };
 class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_EyePiece_Red : 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Urban 'Conex' (Red Eye Piece)";
+	displayName="[34th] CH252 'Conex' Urban (Red Eye Piece)";
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
@@ -114,7 +114,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_EyePiece_Red : 34thPRC_Arm
 };
 class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_EyePiece_Purple : 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Urban 'Conex' (Purple Eye Piece)";
+	displayName="[34th] CH252 'Conex' Urban (Purple Eye Piece)";
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
@@ -137,7 +137,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_EyePiece_Purple : 34thPRC_
 };
 class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_VisorGlasses : 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Urban 'Conex' (Orange Visor Glasses)";
+	displayName="[34th] CH252 'Conex' Urban (Orange Visor Glasses)";
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
@@ -160,7 +160,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_VisorGlasses : 34thPRC_Arm
 };
 class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_VisorGlasses_Blue : 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Urban 'Conex' (Blue Visor Glasses)";
+	displayName="[34th] CH252 'Conex' Urban (Blue Visor Glasses)";
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
@@ -183,7 +183,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_VisorGlasses_Blue : 34thPR
 };
 class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_VisorGlasses_Green : 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Urban 'Conex' (Green Visor Glasses)";
+	displayName="[34th] CH252 'Conex' Urban (Green Visor Glasses)";
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
@@ -206,7 +206,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_VisorGlasses_Green : 34thP
 };
 class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_VisorGlasses_Purple : 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Urban 'Conex' (Purple Visor Glasses)";
+	displayName="[34th] CH252 'Conex' Urban (Purple Visor Glasses)";
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
@@ -229,7 +229,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_VisorGlasses_Purple : 34th
 };
 class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_VisorGlasses_Red : 34thPRC_ArmourCustom_Marines2_Conex_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Urban 'Conex' (Red Visor Glasses)";
+	displayName="[34th] CH252 'Conex' Urban (Red Visor Glasses)";
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{

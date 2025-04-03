@@ -151,7 +151,7 @@ class 34thPRC_ArmourCustom_ODST2_Cappy_M52_C_Arid : 34thPRC_ArmourCustom_ODST2_C
 };
 class 34thPRC_ArmourCustom_ODST2_Cappy_M52_Marksman_Arid : 34thPRC_ArmourCustom_ODST2_Cappy_M52_Marksman_Urban
 {
-	displayName="[34th] M52 Combat Armour 'Cappy' Marksman Arid";
+	displayName="[34th] M52 Combat Armour 'Cappy' Arid Marksman";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -195,7 +195,7 @@ class 34thPRC_ArmourCustom_ODST2_Cappy_M52_Marksman_Arid : 34thPRC_ArmourCustom_
 };
 class 34thPRC_ArmourCustom_ODST2_Cappy_M52_CQB_Arid : 34thPRC_ArmourCustom_ODST2_Cappy_M52_CQB_Urban
 {
-	displayName="[34th] M52 Combat Armour 'Cappy' CQB Arid";
+	displayName="[34th] M52 Combat Armour 'Cappy' Arid CQB";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{

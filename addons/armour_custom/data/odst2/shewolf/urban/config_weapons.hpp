@@ -1,6 +1,6 @@
 class 34thPRC_ArmourCustom_ODST2_Shewolf_CH252D_CustomVisor_Urban : 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Urban 'Shewolf' (Custom Visor)";
+	displayName="[34th] CH252D 'Shewolf' Urban (Custom Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -17,7 +17,7 @@ class 34thPRC_ArmourCustom_ODST2_Shewolf_CH252D_CustomVisor_Urban : 34thPRC_Armo
 };
 class 34thPRC_ArmourCustom_ODST2_Shewolf_CH252D_CustomVisor_Urban_dp : 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Urban 'Shewolf' (Custom Visor)";
+	displayName="[34th] CH252D 'Shewolf' Urban (Custom Visor)";
 	author="Over Yandere";
 	scope=1;
 	hiddenSelectionsTextures[]=

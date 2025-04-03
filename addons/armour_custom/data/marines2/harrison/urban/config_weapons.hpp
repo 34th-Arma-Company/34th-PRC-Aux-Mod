@@ -22,7 +22,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban : 34thPRC_ArmourStandar
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_EyePiece : 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Urban 'Harrison' (Green Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Urban (Green Eye Piece)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -45,7 +45,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_EyePiece : 34thPRC_Armo
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_EyePiece_Blue : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Urban 'Harrison' (Blue Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Urban (Blue Eye Piece)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -68,7 +68,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_EyePiece_Blue : 34thPRC
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_EyePiece_Orange : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Urban 'Harrison' (Orange Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Urban (Orange Eye Piece)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -91,7 +91,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_EyePiece_Orange : 34thP
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_EyePiece_Red : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Urban 'Harrison' (Red Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Urban (Red Eye Piece)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -114,7 +114,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_EyePiece_Red : 34thPRC_
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_EyePiece_Purple : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Urban 'Harrison' (Purple Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Urban (Purple Eye Piece)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -137,7 +137,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_EyePiece_Purple : 34thP
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_VisorGlasses : 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Urban 'Harrison' (Orange Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Urban (Orange Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -160,7 +160,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_VisorGlasses : 34thPRC_
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_VisorGlasses_Blue : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Urban 'Harrison' (Blue Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Urban (Blue Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -183,7 +183,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_VisorGlasses_Blue : 34t
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_VisorGlasses_Green : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Urban 'Harrison' (Green Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Urban (Green Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -206,7 +206,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_VisorGlasses_Green : 34
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_VisorGlasses_Purple : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Urban 'Harrison' (Purple Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Urban (Purple Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -229,7 +229,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_VisorGlasses_Purple : 3
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_VisorGlasses_Red : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Urban 'Harrison' (Red Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Urban (Red Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -253,7 +253,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_VisorGlasses_Red : 34th
 //Medic
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic
 {
-	displayName="[34th] CH252 Urban 'Harrison' (Medic)";
+	displayName="[34th] CH252 'Harrison' Urban (Medic)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -275,7 +275,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic : 34thPRC_ArmourS
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_EyePiece : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece
 {
-	displayName="[34th] CH252 Urban 'Harrison' (Medic) (Green Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Urban (Medic) (Green Eye Piece)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -298,7 +298,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_EyePiece : 34thPR
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_EyePiece_Blue : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_EyePiece
 {
-	displayName="[34th] CH252 Urban 'Harrison' (Medic) (Blue Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Urban (Medic) (Blue Eye Piece)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -321,7 +321,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_EyePiece_Blue : 3
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_EyePiece_Orange : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_EyePiece
 {
-	displayName="[34th] CH252 Urban 'Harrison' (Medic) (Orange Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Urban (Medic) (Orange Eye Piece)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -344,7 +344,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_EyePiece_Orange :
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_EyePiece_Red : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_EyePiece
 {
-	displayName="[34th] CH252 Urban 'Harrison' (Medic) (Red Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Urban (Medic) (Red Eye Piece)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -367,7 +367,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_EyePiece_Red : 34
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_EyePiece_Purple : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_EyePiece
 {
-	displayName="[34th] CH252 Urban 'Harrison' (Medic) (Purple Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Urban (Medic) (Purple Eye Piece)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -390,7 +390,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_EyePiece_Purple :
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_VisorGlasses : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses
 {
-	displayName="[34th] CH252 Urban 'Harrison' (Medic) (Orange Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Urban (Medic) (Orange Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -413,7 +413,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_VisorGlasses : 34
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_VisorGlasses_Blue : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_VisorGlasses
 {
-	displayName="[34th] CH252 Urban 'Harrison' (Medic) (Blue Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Urban (Medic) (Blue Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -436,7 +436,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_VisorGlasses_Blue
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_VisorGlasses_Green : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_VisorGlasses
 {
-	displayName="[34th] CH252 Urban 'Harrison' (Medic) (Green Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Urban (Medic) (Green Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -459,7 +459,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_VisorGlasses_Gree
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_VisorGlasses_Purple : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_VisorGlasses
 {
-	displayName="[34th] CH252 Urban 'Harrison' (Medic) (Purple Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Urban (Medic) (Purple Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -482,7 +482,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_VisorGlasses_Purp
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_VisorGlasses_Red : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_VisorGlasses
 {
-	displayName="[34th] CH252 Urban 'Harrison' (Medic) (Red Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Urban (Medic) (Red Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -505,7 +505,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_VisorGlasses_Red 
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Light : MA_Marine_BDU_Light
 {
-	displayName="[34th] BDU Urban Red 'Harrison' (Light)";
+	displayName="[34th] BDU 'Harrison' Urban Red (Light)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
@@ -522,7 +522,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Light : MA_Marine_BDU
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Medium : MA_Marine_BDU_Medium
 {
-	displayName="[34th] BDU Urban Red 'Harrison' (Medium)";
+	displayName="[34th] BDU 'Harrison' Urban Red (Medium)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
@@ -539,7 +539,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Medium : MA_Marine_BD
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Heavy : MA_Marine_BDU_Heavy
 {
-	displayName="[34th] BDU Urban Red 'Harrison' (Heavy)";
+	displayName="[34th] BDU 'Harrison' Urban Red (Heavy)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
@@ -556,7 +556,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Heavy : MA_Marine_BDU
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_NoShoulders : MA_Marine_BDU_NoShoulder
 {
-	displayName="[34th] BDU Urban Red 'Harrison' (Shoulderless)";
+	displayName="[34th] BDU 'Harrison' Urban Red (Shoulderless)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
@@ -573,7 +573,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_NoShoulders : MA_Mari
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Light_NoCollar : MA_Marine_BDU_Light
 {
-	displayName="[34th] BDU Urban Red 'Harrison' (Light) (No Collar)";
+	displayName="[34th] BDU 'Harrison' Urban Red (Light) (No Collar)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
@@ -590,7 +590,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Light_NoCollar : MA_M
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Medium_NoCollar : MA_Marine_BDU_Medium
 {
-	displayName="[34th] BDU Urban Red 'Harrison' (Medium) (No Collar)";
+	displayName="[34th] BDU 'Harrison' Urban Red (Medium) (No Collar)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
@@ -607,7 +607,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Medium_NoCollar : MA_
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Heavy_NoCollar : MA_Marine_BDU_Heavy
 {
-	displayName="[34th] BDU Urban Red 'Harrison' (Heavy) (No Collar)";
+	displayName="[34th] BDU 'Harrison' Urban Red (Heavy) (No Collar)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
@@ -624,7 +624,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Heavy_NoCollar : MA_M
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Blue_Light : MA_Marine_BDU_Light
 {
-	displayName="[34th] BDU Urban Blue 'Harrison' (Light)";
+	displayName="[34th] BDU 'Harrison' Night (Light)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
@@ -641,7 +641,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Blue_Light : MA_Marin
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Blue_Medium : MA_Marine_BDU_Medium
 {
-	displayName="[34th] BDU Urban Blue 'Harrison' (Medium)";
+	displayName="[34th] BDU 'Harrison' Night (Medium)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
@@ -658,7 +658,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Blue_Medium : MA_Mari
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Blue_Heavy : MA_Marine_BDU_Heavy
 {
-	displayName="[34th] BDU Urban Blue 'Harrison' (Heavy)";
+	displayName="[34th] BDU 'Harrison' Night (Heavy)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
@@ -675,7 +675,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Blue_Heavy : MA_Marin
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Blue_NoShoulders : MA_Marine_BDU_NoShoulder
 {
-	displayName="[34th] BDU Urban Blue 'Harrison' (Shoulderless)";
+	displayName="[34th] BDU 'Harrison' Night (Shoulderless)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
@@ -692,7 +692,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Blue_NoShoulders : MA
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Blue_Light_NoCollar : MA_Marine_BDU_Light
 {
-	displayName="[34th] BDU Urban Blue 'Harrison' (Light) (No Collar)";
+	displayName="[34th] BDU 'Harrison' Night (Light) (No Collar)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
@@ -709,7 +709,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Blue_Light_NoCollar :
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Blue_Medium_NoCollar : MA_Marine_BDU_Medium
 {
-	displayName="[34th] BDU Urban Blue 'Harrison' (Medium) (No Collar)";
+	displayName="[34th] BDU 'Harrison' Night (Medium) (No Collar)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
@@ -726,7 +726,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Blue_Medium_NoCollar 
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Blue_Heavy_NoCollar : MA_Marine_BDU_Heavy
 {
-	displayName="[34th] BDU Urban Blue 'Harrison' (Heavy) (No Collar)";
+	displayName="[34th] BDU 'Harrison' Night (Heavy) (No Collar)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
