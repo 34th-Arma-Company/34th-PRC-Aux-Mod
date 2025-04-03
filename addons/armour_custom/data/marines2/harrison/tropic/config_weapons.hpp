@@ -18,6 +18,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic : 34thPRC_ArmourCustom
 		camo = "tropic";
 		eyewear = "standard";
 		medic = "false";
+		eyewear_color = "none";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_EyePiece : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_EyePiece

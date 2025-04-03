@@ -18,6 +18,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban : 34thPRC_ArmourStandar
 		camo = "urban";
 		eyewear = "standard";
 		medic = "false";
+		eyewear_color = "none";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_EyePiece : 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece
