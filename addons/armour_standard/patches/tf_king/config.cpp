@@ -231,7 +231,7 @@ class CfgWeapons
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"\z\34thprc\addons\armour_standard\patches\tf_king\helmet_CO.paa",
+			"\z\34thprc\addons\armour_standard\patches\tf_king\helmet_cm_CO.paa",
 			"NavSpecWep_Armours\CE\textures\variants\Helmet\shared\EyePiece_ca.paa",
 			"NavSpecWep_Armours\CE\textures\variants\Helmet\shared\Vac_Visor_oni_ca.paa"
 		};
