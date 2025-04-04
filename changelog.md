@@ -15,6 +15,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fix
 - Jackknife and Scorpion missile 8 count missiles fixed.
 
+## 0.29.1
+### Fix
+- Markers PBO fixed.
+
 ## 0.29.0
 ### Updated
 - Filepaths for scripts updated to Hemtt requirements
