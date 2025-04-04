@@ -18,6 +18,6 @@ class cfgMagazines
 	class 34thPRC_8Rnd_Jackknife_missile : OPTRE_1Rnd_Jackknife_missile
 	{
 		displayName = "8x AGM-502 'Jack Knife' SALH-ATGM";
-		count = 1;
+		count = 8;
 	};
 };
