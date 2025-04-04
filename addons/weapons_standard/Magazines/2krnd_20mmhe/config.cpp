@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class 34thPRC_Magazines
+	class 34thPRC_2000Rnd_20mmHE
 	{
 		author="34th PRC Modding Team, Over Yandere";
 		addonRootClass="34thPRC_WeaponsStandard";
