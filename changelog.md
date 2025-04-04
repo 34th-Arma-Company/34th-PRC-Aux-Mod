@@ -11,6 +11,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Updated
 - Updated AAX selections on Marine Helmets to improve functionality and reduce sticking when trying to select the 'Standard' variant
 - Displaynames for custom helmets to properly reflect camo color and standardized custom armor and helmet displayname structure.
+### Fix
+- Jackknife and Scorpion missile 8 count missiles fixed.
 
 ## 0.29.0
 ### Updated
