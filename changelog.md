@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Displaynames for custom helmets to properly reflect camo color and standardized custom armor and helmet displayname structure.
 ### Fix
 - Jackknife and Scorpion missile 8 count missiles fixed.
+- MArkers $PREFIX$ file adjusted
 
 ## 0.29.1
 ### Fix
