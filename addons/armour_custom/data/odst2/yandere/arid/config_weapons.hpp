@@ -1,6 +1,6 @@
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Arid : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Arid 'Yandere' (Silver Visor)";
+	displayName="[34th] CH252D 'Yandere' Arid (Silver Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -17,7 +17,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Arid : 34thPRC_Armou
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_RedVisor_Arid : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Arid 'Yandere' (Red Visor)";
+	displayName="[34th] CH252D 'Yandere' Arid (Red Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -34,7 +34,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_RedVisor_Arid : 34thPRC_ArmourCu
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Arid : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Arid 'Yandere' (Gold Visor)";
+	displayName="[34th] CH252D 'Yandere' Arid (Gold Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -51,7 +51,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Arid : 34thPRC_ArmourC
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Arid : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Arid 'Yandere' (Custom Visor)";
+	displayName="[34th] CH252D 'Yandere' Arid (Custom Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -68,7 +68,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Arid : 34thPRC_Armou
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Arid_dp : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Arid 'Yandere' (Silver Visor)";
+	displayName="[34th] CH252D 'Yandere' Arid (Silver Visor)";
 	author="Over Yandere";
 	scope=1;
 	hiddenSelectionsTextures[]=
@@ -88,7 +88,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Arid_dp : 34thPRC_Ar
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_RedVisor_Arid_dp : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Arid 'Yandere' (Red Visor)";
+	displayName="[34th] CH252D 'Yandere' Arid (Red Visor)";
 	author="Over Yandere";
 	scope=1;
 	hiddenSelectionsTextures[]=
@@ -108,7 +108,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_RedVisor_Arid_dp : 34thPRC_Armou
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Arid_dp : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Arid 'Yandere' (Gold Visor)";
+	displayName="[34th] CH252D 'Yandere' Arid (Gold Visor)";
 	author="Over Yandere";
 	scope=1;
 	hiddenSelectionsTextures[]=
@@ -128,7 +128,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Arid_dp : 34thPRC_Armo
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Arid_dp :  34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban_dp
 {
-	displayName="[34th] CH252D Arid 'Yandere' (Custom Visor)";
+	displayName="[34th] CH252D 'Yandere' Arid (Custom Visor)";
 	author="Over Yandere";
 	scope=1;
 	hiddenSelectionsTextures[]=
@@ -150,7 +150,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Arid_dp :  34thPRC_A
 //JFO Custom
 class 34thPRC_ArmourCustom_ODST2_Yandere_JFO_Custom_Arid : 34thPRC_ArmourCustom_ODST2_Yandere_JFO_Custom_Urban
 {
-	displayName="[34th] JFO Arid 'Yandere' (Custom Visor)";
+	displayName="[34th] JFO 'Yandere' Arid (Custom Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -169,7 +169,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_JFO_Custom_Arid : 34thPRC_ArmourCustom_
 //Recon Custom
 class 34thPRC_ArmourCustom_ODST2_Yandere_Recon_Custom_Arid : 34thPRC_ArmourCustom_ODST2_Yandere_Recon_Custom_Urban
 {
-	displayName="[34th] Recon Arid 'Yandere' (Custom Visor)";
+	displayName="[34th] Recon 'Yandere' Arid (Custom Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -320,7 +320,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_C_Arid : 34thPRC_ArmourCustom_ODST2
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Marksman_Arid : 34thPRC_ArmourCustom_ODST2_Yandere_M52_Marksman_Urban
 {
-	displayName="[34th] M52 Combat Armour 'Yandere' Marksman Arid";
+	displayName="[34th] M52 Combat Armour 'Yandere' Arid Marksman";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -364,7 +364,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Marksman_Arid : 34thPRC_ArmourCusto
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_CQB_Arid : 34thPRC_ArmourCustom_ODST2_Yandere_M52_CQB_Urban
 {
-	displayName="[34th] M52 Combat Armour 'Yandere' CQB Arid";
+	displayName="[34th] M52 Combat Armour 'Yandere' Arid CQB";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -408,7 +408,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_CQB_Arid : 34thPRC_ArmourCustom_ODS
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Medic_Arid : 34thPRC_ArmourCustom_ODST2_Yandere_M52_Medic_Urban
 {
-	displayName="[34th] M52 Combat Armour 'Yandere' (Corpsman) Arid";
+	displayName="[34th] M52 Combat Armour 'Yandere' Arid (Corpsman)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -452,7 +452,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Medic_Arid : 34thPRC_ArmourCustom_O
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_B_Medic_Arid : 34thPRC_ArmourCustom_ODST2_Yandere_M52_B_Medic_Urban
 {
-	displayName="[34th] M52-B Combat Armour 'Yandere' (Corpsman) Arid";
+	displayName="[34th] M52-B Combat Armour 'Yandere' Arid (Corpsman)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
@@ -496,7 +496,7 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_B_Medic_Arid : 34thPRC_ArmourCustom
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_C_Medic_Arid : 34thPRC_ArmourCustom_ODST2_Yandere_M52_C_Medic_Urban
 {
-	displayName="[34th] M52-C Combat Armour 'Yandere' (Corpsman) Arid";
+	displayName="[34th] M52-C Combat Armour 'Yandere' Arid (Corpsman)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{

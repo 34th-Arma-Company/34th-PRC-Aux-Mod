@@ -18,6 +18,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban : CH252_Helmet_Standard
 		camo = "urban";
 		eyewear = "standard";
 		medic = "false";
+		eyewear_color = "none";
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece : CH252_Helmet_EyePiece

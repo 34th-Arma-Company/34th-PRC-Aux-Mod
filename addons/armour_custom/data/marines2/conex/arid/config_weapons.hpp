@@ -1,6 +1,6 @@
 class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid : 34thPRC_ArmourStandard_Marines2_CH252_Urban
 {
-	displayName="[34th] CH252 'Conex' Urban";
+	displayName="[34th] CH252 'Conex' Arid";
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
@@ -18,11 +18,12 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid : 34thPRC_ArmourStandard_Ma
 		camo = "arid";
 		eyewear = "standard";
 		medic = "false";
+		eyewear_color = "none";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_EyePiece : 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Arid 'Conex' (Green Eye Piece)";
+	displayName="[34th] CH252 'Conex' Arid (Green Eye Piece)";
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
@@ -45,7 +46,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_EyePiece : 34thPRC_ArmourSt
 };
 class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_EyePiece_Blue : 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_EyePiece
 {
-	displayName="[34th] CH252 Arid 'Conex' (Blue Eye Piece)";
+	displayName="[34th] CH252 'Conex' Arid (Blue Eye Piece)";
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
@@ -68,7 +69,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_EyePiece_Blue : 34thPRC_Arm
 };
 class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_EyePiece_Orange : 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_EyePiece
 {
-	displayName="[34th] CH252 Arid 'Conex' (Orange Eye Piece)";
+	displayName="[34th] CH252 'Conex' Arid (Orange Eye Piece)";
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
@@ -91,7 +92,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_EyePiece_Orange : 34thPRC_A
 };
 class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_EyePiece_Red : 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_EyePiece
 {
-	displayName="[34th] CH252 Arid 'Conex' (Red Eye Piece)";
+	displayName="[34th] CH252 'Conex' Arid (Red Eye Piece)";
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
@@ -114,7 +115,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_EyePiece_Red : 34thPRC_Armo
 };
 class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_EyePiece_Purple : 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_EyePiece
 {
-	displayName="[34th] CH252 Arid 'Conex' (Purple Eye Piece)";
+	displayName="[34th] CH252 'Conex' Arid (Purple Eye Piece)";
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
@@ -137,7 +138,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_EyePiece_Purple : 34thPRC_A
 };
 class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_VisorGlasses : 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Arid 'Conex' (Orange Visor Glasses)";
+	displayName="[34th] CH252 'Conex' Arid (Orange Visor Glasses)";
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
@@ -160,7 +161,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_VisorGlasses : 34thPRC_Armo
 };
 class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_VisorGlasses_Blue : 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_VisorGlasses
 {
-	displayName="[34th] CH252 Arid 'Conex' (Blue Visor Glasses)";
+	displayName="[34th] CH252 'Conex' Arid (Blue Visor Glasses)";
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
@@ -183,7 +184,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_VisorGlasses_Blue : 34thPRC
 };
 class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_VisorGlasses_Green : 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_VisorGlasses
 {
-	displayName="[34th] CH252 Arid 'Conex' (Green Visor Glasses)";
+	displayName="[34th] CH252 'Conex' Arid (Green Visor Glasses)";
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
@@ -206,7 +207,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_VisorGlasses_Green : 34thPR
 };
 class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_VisorGlasses_Purple : 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_VisorGlasses
 {
-	displayName="[34th] CH252 Arid 'Conex' (Purple Visor Glasses)";
+	displayName="[34th] CH252 'Conex' Arid (Purple Visor Glasses)";
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{
@@ -229,7 +230,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_VisorGlasses_Purple : 34thP
 };
 class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_VisorGlasses_Red : 34thPRC_ArmourCustom_Marines2_Conex_CH252_Arid_VisorGlasses
 {
-	displayName="[34th] CH252 Arid 'Conex' (Red Visor Glasses)";
+	displayName="[34th] CH252 'Conex' Arid (Red Visor Glasses)";
 	author="Conex";
 	hiddenSelectionsTextures[]=
 	{

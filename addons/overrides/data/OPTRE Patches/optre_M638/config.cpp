@@ -6,7 +6,7 @@ class CfgPatches
 		addonRootClass="34thPRC_Overrides";
 		requiredAddons[]=
 		{
-			"34thPRC_Overrides", "34thPRC_Magazines",
+			"34thPRC_Overrides", "34thPRC_2000Rnd_20mmHE",
 			"A3_Weapons_F", //Arma Weapons_F
 			"OPTRE_Weapons_Vehicle", //[Dev] Optre -> OPTRE_Weapons -> Vehicle
 		};

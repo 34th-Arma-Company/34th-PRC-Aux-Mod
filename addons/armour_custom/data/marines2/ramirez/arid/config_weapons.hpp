@@ -1,6 +1,6 @@
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Arid : 34thPRC_ArmourStandard_Marines2_CH252_Urban
 {
-	displayName="[34th] CH252 'Ramirez' Urban";
+	displayName="[34th] CH252 'Ramirez' Arid";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
@@ -18,11 +18,12 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Arid : 34thPRC_ArmourStandard_
 		camo = "arid";
 		eyewear = "standard";
 		medic = "false";
+		eyewear_color = "none";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Arid_EyePiece : 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Urban 'Ramirez' (Green Eye Piece)";
+	displayName="[34th] CH252 'Ramirez' Arid (Green Eye Piece)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
@@ -45,7 +46,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Arid_EyePiece : 34thPRC_Armour
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Arid_EyePiece_Blue : 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Urban 'Ramirez' (Blue Eye Piece)";
+	displayName="[34th] CH252 'Ramirez' Arid (Blue Eye Piece)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
@@ -68,7 +69,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Arid_EyePiece_Blue : 34thPRC_A
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Arid_EyePiece_Orange : 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Urban 'Ramirez' (Orange Eye Piece)";
+	displayName="[34th] CH252 'Ramirez' Arid (Orange Eye Piece)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
@@ -91,7 +92,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Arid_EyePiece_Orange : 34thPRC
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Arid_EyePiece_Red : 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Urban 'Ramirez' (Red Eye Piece)";
+	displayName="[34th] CH252 'Ramirez' Arid (Red Eye Piece)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
@@ -114,7 +115,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Arid_EyePiece_Red : 34thPRC_Ar
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Arid_EyePiece_Purple : 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Urban 'Ramirez' (Purple Eye Piece)";
+	displayName="[34th] CH252 'Ramirez' Arid (Purple Eye Piece)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
@@ -137,7 +138,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Arid_EyePiece_Purple : 34thPRC
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Arid_VisorGlasses : 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Urban 'Ramirez' (Orange Visor Glasses)";
+	displayName="[34th] CH252 'Ramirez' Arid (Orange Visor Glasses)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
@@ -160,7 +161,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Arid_VisorGlasses : 34thPRC_Ar
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Arid_VisorGlasses_Blue : 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Urban 'Ramirez' (Blue Visor Glasses)";
+	displayName="[34th] CH252 'Ramirez' Arid (Blue Visor Glasses)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
@@ -183,7 +184,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Arid_VisorGlasses_Blue : 34thP
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Arid_VisorGlasses_Green : 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Urban 'Ramirez' (Green Visor Glasses)";
+	displayName="[34th] CH252 'Ramirez' Arid (Green Visor Glasses)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
@@ -206,7 +207,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Arid_VisorGlasses_Green : 34th
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Arid_VisorGlasses_Purple : 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Urban 'Ramirez' (Purple Visor Glasses)";
+	displayName="[34th] CH252 'Ramirez' Arid (Purple Visor Glasses)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
@@ -229,7 +230,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Arid_VisorGlasses_Purple : 34t
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Arid_VisorGlasses_Red : 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Urban 'Ramirez' (Red Visor Glasses)";
+	displayName="[34th] CH252 'Ramirez' Arid (Red Visor Glasses)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
