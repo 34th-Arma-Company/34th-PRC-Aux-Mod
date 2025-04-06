@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## 0.29.2
+### Fix
+- Markers $PREFIX$ file fixed.
+
 ## 0.29.1
 ### Fix
 - Markers PBO fixed.
