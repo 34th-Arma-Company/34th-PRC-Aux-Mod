@@ -12,12 +12,13 @@ class CfgPatches
 			"34thPRC_ArmourCustom",
 			"34thPRC_ArmourStandard",
 			"34thPRC_FactionBrimstone",
+			"34thPRC_Functions",
 			"34thPRC_LoadingScreens",
 			"34thPRC_Markers",
+			"34thPRC_MusicRadio",
 			"34thPRC_Overrides",
 			"34thPRC_Vehicles",
 			"34thPRC_WeaponsStandard",
-			"34thPRC_Functions",
 		};
 		VERSION_CONFIG;
 	};
