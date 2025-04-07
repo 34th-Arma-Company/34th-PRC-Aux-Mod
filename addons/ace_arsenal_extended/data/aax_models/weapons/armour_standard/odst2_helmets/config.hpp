@@ -1,8 +1,9 @@
-class 34thPRC_ArmourStandard_Marines2_CH252C_Urban // MA CH252C
+
+class 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban // MA ODST Helmet New
 {
-	label = "[34th] CH252C Helmets";
-	author = "34th PRC Modding Team, Moz";
-	options[] = {"camo"};
+	label = "[34th] ODST CH252D Helmets";
+	author = "34th PRC Modding Team, Over Yandere";
+	options[] = {"camo", "visor"};
 	class camo
 	{
 		alwaysSelectable = 1;
@@ -32,6 +33,24 @@ class 34thPRC_ArmourStandard_Marines2_CH252C_Urban // MA CH252C
 		{
 			label = "Woodland";
 			image = "#(rgb,8,8,3)color(0.149,0.153,0.125,1)";
+		};
+	};
+	class visor
+	{
+		alwaysSelectable = 1;
+		changeingame = 0;
+		values[] = {"silver", "red", "gold"};
+		class silver
+		{
+			label = "Silver";
+		};
+		class red
+		{
+			label = "Red";
+		};
+		class gold
+		{
+			label = "Gold";
 		};
 	};
 };

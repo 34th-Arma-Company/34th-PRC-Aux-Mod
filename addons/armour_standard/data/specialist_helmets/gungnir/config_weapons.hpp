@@ -9,7 +9,7 @@ class 34thPRC_ArmourStandard_Gungnir_Helmet_Urban : 34thPRC_ArmourStandard_Marin
 	};
 	hiddenSelectionsTextures[]=
 	{
-		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\gungnir\gungnir_helmet_urban"
+		"\z\34thprc\addons\armour_standard\data\specialist_helmets\gungnir\gungnir_helmet_urban"
 	};
 	class XtdGearInfo
 	{
@@ -28,7 +28,7 @@ class 34thPRC_ArmourStandard_Gungnir_Helmet_Arid : 34thPRC_ArmourStandard_Gungni
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\gungnir\gungnir_helmet_arid"
+		"\z\34thprc\addons\armour_standard\data\specialist_helmets\gungnir\gungnir_helmet_arid"
 	};
 	class XtdGearInfo
 	{
@@ -43,7 +43,7 @@ class 34thPRC_ArmourStandard_Gungnir_Helmet_Arctic : 34thPRC_ArmourStandard_Gung
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\gungnir\gungnir_helmet_arctic"
+		"\z\34thprc\addons\armour_standard\data\specialist_helmets\gungnir\gungnir_helmet_arctic"
 	};
 	class XtdGearInfo
 	{
@@ -58,7 +58,7 @@ class 34thPRC_ArmourStandard_Gungnir_Helmet_Tropic : 34thPRC_ArmourStandard_Gung
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\gungnir\gungnir_helmet_tropic"
+		"\z\34thprc\addons\armour_standard\data\specialist_helmets\gungnir\gungnir_helmet_tropic"
 	};
 	class XtdGearInfo
 	{
@@ -73,7 +73,7 @@ class 34thPRC_ArmourStandard_Gungnir_Helmet_Woodland : 34thPRC_ArmourStandard_Gu
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\gungnir\gungnir_helmet_woodland"
+		"\z\34thprc\addons\armour_standard\data\specialist_helmets\gungnir\gungnir_helmet_woodland"
 	};
 	class XtdGearInfo
 	{

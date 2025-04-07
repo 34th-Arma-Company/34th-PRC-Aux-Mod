@@ -10,7 +10,7 @@ class 34thPRC_ArmourStandard_JFO_Helmet_Urban : 34thPRC_ArmourStandard_Marines2_
 	};
 	hiddenSelectionsTextures[]=
 	{
-		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\JFO\jfo_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\specialist_helmets\JFO\jfo_helmet_urban.paa",
 		"\z\34thprc\addons\armour_standard\data\mkvb\JFO\Visor\34_JFO_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
@@ -30,7 +30,7 @@ class 34thPRC_ArmourStandard_JFO_Helmet_Arid : 34thPRC_ArmourStandard_JFO_Helmet
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\JFO\jfo_helmet_arid.paa",
+		"\z\34thprc\addons\armour_standard\data\specialist_helmets\JFO\jfo_helmet_arid.paa",
 		"\z\34thprc\addons\armour_standard\data\mkvb\JFO\Visor\34_JFO_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
@@ -46,7 +46,7 @@ class 34thPRC_ArmourStandard_JFO_Helmet_Arctic : 34thPRC_ArmourStandard_JFO_Helm
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\JFO\jfo_helmet_arctic.paa",
+		"\z\34thprc\addons\armour_standard\data\specialist_helmets\JFO\jfo_helmet_arctic.paa",
 		"\z\34thprc\addons\armour_standard\data\mkvb\JFO\Visor\34_JFO_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
@@ -62,7 +62,7 @@ class 34thPRC_ArmourStandard_JFO_Helmet_Tropic : 34thPRC_ArmourStandard_JFO_Helm
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\JFO\jfo_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\specialist_helmets\JFO\jfo_helmet_tropic.paa",
 		"\z\34thprc\addons\armour_standard\data\mkvb\JFO\Visor\34_JFO_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
@@ -78,7 +78,7 @@ class 34thPRC_ArmourStandard_JFO_Helmet_Woodland : 34thPRC_ArmourStandard_JFO_He
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\JFO\jfo_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_standard\data\specialist_helmets\JFO\jfo_helmet_woodland.paa",
 		"\z\34thprc\addons\armour_standard\data\mkvb\JFO\Visor\34_JFO_Helmet_Visor_Gold.paa"
 	};
 	class XtdGearInfo
