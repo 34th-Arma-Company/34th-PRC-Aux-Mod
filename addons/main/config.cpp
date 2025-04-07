@@ -15,6 +15,7 @@ class CfgPatches
 			"34thPRC_Functions",
 			"34thPRC_LoadingScreens",
 			"34thPRC_Markers",
+			"34thPRC_MusicRadio",
 			"34thPRC_Overrides",
 			"34thPRC_Vehicles",
 			"34thPRC_WeaponsStandard",
