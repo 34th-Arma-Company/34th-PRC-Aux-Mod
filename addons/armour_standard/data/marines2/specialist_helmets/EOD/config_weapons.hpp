@@ -1,4 +1,5 @@
 
+
 class 34thPRC_ArmourStandard_EOD_Helmet_Urban : 34thPRC_ArmourStandard_Marines2_CH252_Urban
 {
 	displayName="[34th] EOD Helmet Urban";

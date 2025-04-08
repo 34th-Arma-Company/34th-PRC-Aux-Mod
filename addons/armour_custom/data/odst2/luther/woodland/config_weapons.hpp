@@ -1,11 +1,11 @@
 class 34thPRC_ArmourCustom_ODST2_Luther_JFO_Custom_Woodland : 34thPRC_ArmourCustom_ODST2_Luther_JFO_Custom_Urban
 {
-	displayName="[34th] JFO Woodland 'Luther' (Custom)";
+	displayName="[34th] JFO 'Luther' Woodland (Custom)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\luther\woodland\jfo_helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\odst2\luther\jfo_visor_custom.paa"
+		"\z\34thprc\addons\armour_custom\data\odst2\luther\woodland\jfo_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_custom\data\odst2\luther\jfo_visor_custom.paa"
 	};
 	class XtdGearInfo
 	{

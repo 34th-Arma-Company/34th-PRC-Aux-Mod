@@ -1,11 +1,11 @@
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban : 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Urban 'Yandere' (Silver Visor)";
+	displayName="[34th] CH252D 'Yandere' Urban (Silver Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Silvervisor.paa"
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\odst2\visor\34th_ODST_Silvervisor.paa"
 	};
 	class XtdGearInfo
 	{
@@ -17,12 +17,12 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban : 34thPRC_Armo
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_RedVisor_Urban : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Urban 'Yandere' (Red Visor)";
+	displayName="[34th] CH252D 'Yandere' Urban (Red Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Redvisor.paa"
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\odst2\visor\34th_ODST_Redvisor.paa"
 	};
 	class XtdGearInfo
 	{
@@ -34,12 +34,12 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_RedVisor_Urban : 34thPRC_ArmourC
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Urban : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Urban 'Yandere' (Gold Visor)";
+	displayName="[34th] CH252D 'Yandere' Urban (Gold Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_helmet_urban.paa",
-		"34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Goldvisor.paa"
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_helmet_urban.paa",
+		"\z\34thprc\addons\armour_standard\data\odst2\visor\34th_ODST_Goldvisor.paa"
 	};
 	class XtdGearInfo
 	{
@@ -51,12 +51,12 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Urban : 34thPRC_Armour
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Urban 'Yandere' (Custom Visor)";
+	displayName="[34th] CH252D 'Yandere' Urban (Custom Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\odst2\yandere\visor\yandere_odst_visor.paa"
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\visor\yandere_odst_visor.paa"
 	};
 	class XtdGearInfo
 	{
@@ -68,12 +68,12 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban : 34thPRC_Armo
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban_dp : 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Urban 'Yandere' (Silver Visor)";
+	displayName="[34th] CH252D 'Yandere' Urban (Silver Visor)";
 	author="Over Yandere";
 	scope=1;
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_helmet_urban.paa",// Helmet Texture
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_helmet_urban.paa",// Helmet Texture
 		"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa" // Visor Texture
 	};
 	class ItemInfo: ItemInfo
@@ -88,12 +88,12 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban_dp : 34thPRC_A
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_RedVisor_Urban_dp : 34thPRC_ArmourStandard_ODST2_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Urban 'Yandere' (Red Visor)";
+	displayName="[34th] CH252D 'Yandere' Urban (Red Visor)";
 	author="Over Yandere";
 	scope=1;
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_helmet_urban.paa",// Helmet Texture
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_helmet_urban.paa",// Helmet Texture
 		"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa" // Visor Texture
 	};
 	class ItemInfo: ItemInfo
@@ -108,12 +108,12 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_RedVisor_Urban_dp : 34thPRC_Armo
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Urban_dp : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Urban 'Yandere' (Gold Visor)";
+	displayName="[34th] CH252D 'Yandere' Urban (Gold Visor)";
 	author="Over Yandere";
 	scope=1;
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_helmet_urban.paa",// Helmet Texture
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_helmet_urban.paa",// Helmet Texture
 		"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa" // Visor Texture
 	};
 	class ItemInfo: ItemInfo
@@ -128,12 +128,12 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_GoldVisor_Urban_dp : 34thPRC_Arm
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban_dp : 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Urban 'Yandere' (Custom Visor)";
+	displayName="[34th] CH252D 'Yandere' Urban (Custom Visor)";
 	author="Over Yandere";
 	scope=1;
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_helmet_urban.paa",// Helmet Texture
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_helmet_urban.paa",// Helmet Texture
 		"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa" // Visor Texture
 	};
 	class ItemInfo: ItemInfo
@@ -150,12 +150,12 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_CH252D_CustomVisor_Urban_dp : 34thPRC_A
 //JFO Helmet Test
 class 34thPRC_ArmourCustom_ODST2_Yandere_JFO_Custom_Urban : 34thPRC_ArmourStandard_JFO_Helmet_Urban
 {
-	displayName="[34th] JFO Urban 'Yandere' (Custom Visor)";
+	displayName="[34th] JFO 'Yandere' Urban (Custom Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\jfo_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\odst2\yandere\visor\yandere_jfo_visor.paa"
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\jfo_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\visor\yandere_jfo_visor.paa"
 	};
 	class XtdGearInfo
 	{
@@ -169,12 +169,12 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_JFO_Custom_Urban : 34thPRC_ArmourStanda
 //Recon
 class 34thPRC_ArmourCustom_ODST2_Yandere_Recon_Custom_Urban : 34thPRC_ArmourStandard_Recon_Helmet_Urban
 {
-	displayName="[34th] Recon Urban 'Yandere' (Custom Visor)";
+	displayName="[34th] Recon 'Yandere' Urban (Custom Visor)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\recon_helmet_urban.paa",
-		"34thPRC_ArmourCustom\data\odst2\yandere\visor\yandere_recon_visor.paa"
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\recon_helmet_urban.paa",
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\visor\yandere_recon_visor.paa"
 	};
 	class XtdGearInfo
 	{
@@ -192,15 +192,15 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Urban : 34thPRC_ArmourStandard_ODST
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Right
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Right
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Chest
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_shoulders_urban.paa", //ODST_Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_shoulders_urban.paa", //ODST_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_shoulders_urban.paa", //ODST_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_shoulders_urban.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -236,15 +236,15 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_B_Urban : 34thPRC_ArmourStandard_OD
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Right
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Right
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Chest
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_shoulders_urban.paa", //ODST_Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_shoulders_urban.paa", //ODST_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_shoulders_urban.paa", //ODST_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_shoulders_urban.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -280,15 +280,15 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_C_Urban : 34thPRC_ArmourStandard_OD
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Right
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Right
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Chest
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_shoulders_urban.paa", //ODST_Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_shoulders_urban.paa", //ODST_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_shoulders_urban.paa", //ODST_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_shoulders_urban.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -320,19 +320,19 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_C_Urban : 34thPRC_ArmourStandard_OD
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Marksman_Urban : 34thPRC_ArmourStandard_ODST2_M52_Marksman_Urban
 {
-	displayName="[34th] M52 Combat Armour 'Yandere' Marksman Urban";
+	displayName="[34th] M52 Combat Armour 'Yandere' Urban Marksman";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Right
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Right
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Chest
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_shoulders_urban.paa", //ODST_Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_shoulders_urban.paa", //ODST_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_shoulders_urban.paa", //ODST_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_shoulders_urban.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -364,19 +364,19 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Marksman_Urban : 34thPRC_ArmourStan
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_CQB_Urban : 34thPRC_ArmourStandard_ODST2_M52_CQB_Urban
 {
-	displayName="[34th] M52 Combat Armour 'Yandere' CQB Urban";
+	displayName="[34th] M52 Combat Armour 'Yandere' Urban CQB";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Right
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Right
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Chest
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_shoulders_urban.paa", //ODST_Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_shoulders_urban.paa", //ODST_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_vest_urban.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_shoulders_urban.paa", //ODST_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_shoulders_urban.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -408,19 +408,19 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_CQB_Urban : 34thPRC_ArmourStandard_
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Medic_Urban : 34thPRC_ArmourStandard_ODST2_M52_Urban
 {
-	displayName="[34th] M52 Combat Armour 'Yandere' (Corpsman) Urban";
+	displayName="[34th] M52 Combat Armour 'Yandere' Urban (Corpsman)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Right
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Right
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_vest_medic_urban.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_vest_medic_urban.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_vest_medic_urban.paa", //ODST_Chest
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_shoulders_medic_urban.paa", //ODST_Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_shoulders_medic_urban.paa", //ODST_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_vest_medic_urban.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_vest_medic_urban.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_vest_medic_urban.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_shoulders_medic_urban.paa", //ODST_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_shoulders_medic_urban.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -452,19 +452,19 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_Medic_Urban : 34thPRC_ArmourStandar
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_B_Medic_Urban : 34thPRC_ArmourCustom_ODST2_Yandere_M52_B_Urban
 {
-	displayName="[34th] M52-B Combat Armour 'Yandere' (Corpsman) Urban";
+	displayName="[34th] M52-B Combat Armour 'Yandere' Urban (Corpsman)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Right
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Right
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_vest_medic_urban.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_vest_medic_urban.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_vest_medic_urban.paa", //ODST_Chest
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_shoulders_medic_urban.paa", //ODST_Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_shoulders_medic_urban.paa", //ODST_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_vest_medic_urban.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_vest_medic_urban.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_vest_medic_urban.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_shoulders_medic_urban.paa", //ODST_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_shoulders_medic_urban.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -496,19 +496,19 @@ class 34thPRC_ArmourCustom_ODST2_Yandere_M52_B_Medic_Urban : 34thPRC_ArmourCusto
 };
 class 34thPRC_ArmourCustom_ODST2_Yandere_M52_C_Medic_Urban : 34thPRC_ArmourCustom_ODST2_Yandere_M52_C_Urban
 {
-	displayName="[34th] M52-C Combat Armour 'Yandere' (Corpsman) Urban";
+	displayName="[34th] M52-C Combat Armour 'Yandere' Urban (Corpsman)";
 	author="Over Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Right
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Right
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_vest_medic_urban.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_vest_medic_urban.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_vest_medic_urban.paa", //ODST_Chest
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_shoulders_medic_urban.paa", //ODST_Left
-		"34thPRC_ArmourCustom\data\odst2\yandere\urban\yandere_odst_shoulders_medic_urban.paa", //ODST_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_cqb_urban.paa", //CQB Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_marksman_urban.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_vest_medic_urban.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_vest_medic_urban.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_vest_medic_urban.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_shoulders_medic_urban.paa", //ODST_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\yandere\urban\yandere_odst_shoulders_medic_urban.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch

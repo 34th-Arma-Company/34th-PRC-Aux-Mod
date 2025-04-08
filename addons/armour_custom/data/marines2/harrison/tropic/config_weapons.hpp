@@ -4,9 +4,9 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic : 34thPRC_ArmourCustom
 	author="Harrison";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -18,20 +18,21 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic : 34thPRC_ArmourCustom
 		camo = "tropic";
 		eyewear = "standard";
 		medic = "false";
+		eyewear_color = "none";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_EyePiece : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Tropic 'Harrison' (Green Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Tropic (Green Eye Piece)";
 	author="Harrison";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -45,16 +46,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_EyePiece : 34thPRC_Arm
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_EyePiece_Blue : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Tropic 'Harrison' (Blue Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Tropic (Blue Eye Piece)";
 	author="Harrison";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -68,16 +69,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_EyePiece_Blue : 34thPR
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_EyePiece_Orange : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Tropic 'Harrison' (Orange Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Tropic (Orange Eye Piece)";
 	author="Harrison";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -91,16 +92,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_EyePiece_Orange : 34th
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_EyePiece_Red : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Tropic 'Harrison' (Red Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Tropic (Red Eye Piece)";
 	author="Harrison";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -114,16 +115,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_EyePiece_Red : 34thPRC
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_EyePiece_Purple : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Tropic 'Harrison' (Purple Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Tropic (Purple Eye Piece)";
 	author="Harrison";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -137,16 +138,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_EyePiece_Purple : 34th
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_VisorGlasses : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Tropic 'Harrison' (Orange Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Tropic (Orange Visor Glasses)";
 	author="Harrison";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -160,16 +161,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_VisorGlasses : 34thPRC
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_VisorGlasses_Blue : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Tropic 'Harrison' (Blue Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Tropic (Blue Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -183,16 +184,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_VisorGlasses_Blue : 34
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_VisorGlasses_Green : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Tropic 'Harrison' (Green Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Tropic (Green Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -206,16 +207,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_VisorGlasses_Green : 3
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_VisorGlasses_Purple : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Tropic 'Harrison' (Purple Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Tropic (Purple Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -229,16 +230,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_VisorGlasses_Purple : 
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_VisorGlasses_Red : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Tropic 'Harrison' (Red Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Tropic (Red Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -253,13 +254,13 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_VisorGlasses_Red : 34t
 //Medic
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic
 {
-	displayName="[34th] CH252 Tropic 'Harrison' (Medic)";
+	displayName="[34th] CH252 'Harrison' Tropic (Medic)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -275,16 +276,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic : 34thPRC_Armour
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_EyePiece : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_EyePiece
 {
-	displayName="[34th] CH252 Tropic 'Harrison' (Medic) (Green Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Tropic (Medic) (Green Eye Piece)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -298,16 +299,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_EyePiece : 34thP
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_EyePiece_Blue : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_EyePiece
 {
-	displayName="[34th] CH252 Tropic 'Harrison' (Medic) (Blue Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Tropic (Medic) (Blue Eye Piece)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -321,16 +322,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_EyePiece_Blue : 
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_EyePiece_Orange : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_EyePiece
 {
-	displayName="[34th] CH252 Tropic 'Harrison' (Medic) (Orange Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Tropic (Medic) (Orange Eye Piece)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -344,16 +345,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_EyePiece_Orange 
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_EyePiece_Red : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_EyePiece
 {
-	displayName="[34th] CH252 Tropic 'Harrison' (Medic) (Red Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Tropic (Medic) (Red Eye Piece)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -367,16 +368,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_EyePiece_Red : 3
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_EyePiece_Purple : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_EyePiece
 {
-	displayName="[34th] CH252 Tropic 'Harrison' (Medic) (Purple Eye Piece)";
+	displayName="[34th] CH252 'Harrison' Tropic (Medic) (Purple Eye Piece)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -390,16 +391,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_EyePiece_Purple 
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_VisorGlasses : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_VisorGlasses
 {
-	displayName="[34th] CH252 Tropic 'Harrison' (Medic) (Orange Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Tropic (Medic) (Orange Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -413,16 +414,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_VisorGlasses : 3
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_VisorGlasses_Blue : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_VisorGlasses
 {
-	displayName="[34th] CH252 Tropic 'Harrison' (Medic) (Blue Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Tropic (Medic) (Blue Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -436,16 +437,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_VisorGlasses_Blu
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_VisorGlasses_Green : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_VisorGlasses
 {
-	displayName="[34th] CH252 Tropic 'Harrison' (Medic) (Green Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Tropic (Medic) (Green Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -459,16 +460,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_VisorGlasses_Gre
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_VisorGlasses_Purple : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_VisorGlasses
 {
-	displayName="[34th] CH252 Tropic 'Harrison' (Medic) (Purple Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Tropic (Medic) (Purple Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -482,16 +483,16 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_VisorGlasses_Pur
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_VisorGlasses_Red : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_VisorGlasses
 {
-	displayName="[34th] CH252 Tropic 'Harrison' (Medic) (Red Visor Glasses)";
+	displayName="[34th] CH252 'Harrison' Tropic (Medic) (Red Visor Glasses)";
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourCustom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\harrison\tropic\harrison_marine_helmet_medic_tropic.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -505,7 +506,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_VisorGlasses_Red
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Tropic_Light : 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Light
 {
-	displayName="[34th] BDU Tropic 'Harrison' (Light)";
+	displayName="[34th] BDU 'Harrison' Tropic (Light)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
@@ -522,7 +523,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Tropic_Light : 34thPRC_Armo
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Tropic_Medium : 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Medium
 {
-	displayName="[34th] BDU Tropic 'Harrison' (Medium)";
+	displayName="[34th] BDU 'Harrison' Tropic (Medium)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
@@ -539,7 +540,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Tropic_Medium : 34thPRC_Arm
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Tropic_Heavy : 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Heavy
 {
-	displayName="[34th] BDU Tropic 'Harrison' (Heavy)";
+	displayName="[34th] BDU 'Harrison' Tropic (Heavy)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
@@ -556,7 +557,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Tropic_Heavy : 34thPRC_Armo
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Tropic_NoShoulders : 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_NoShoulders
 {
-	displayName="[34th] BDU Tropic 'Harrison' (Shoulderless)";
+	displayName="[34th] BDU 'Harrison' Tropic (Shoulderless)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
@@ -573,7 +574,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Tropic_NoShoulders : 34thPR
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Tropic_Light_NoCollar : 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Light_NoCollar
 {
-	displayName="[34th] BDU Tropic 'Harrison' (Light) (No Collar)";
+	displayName="[34th] BDU 'Harrison' Tropic (Light) (No Collar)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
@@ -590,7 +591,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Tropic_Light_NoCollar : 34t
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Tropic_Medium_NoCollar : 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Medium_NoCollar
 {
-	displayName="[34th] BDU Tropic 'Harrison' (Medium) (No Collar)";
+	displayName="[34th] BDU 'Harrison' Tropic (Medium) (No Collar)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{
@@ -607,7 +608,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Tropic_Medium_NoCollar : 34
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Tropic_Heavy_NoCollar : 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Heavy_NoCollar
 {
-	displayName="[34th] BDU Tropic 'Harrison' (Heavy) (No Collar)";
+	displayName="[34th] BDU 'Harrison' Tropic (Heavy) (No Collar)";
 	author="Yandere";
 	class ItemInfo: ItemInfo
 	{

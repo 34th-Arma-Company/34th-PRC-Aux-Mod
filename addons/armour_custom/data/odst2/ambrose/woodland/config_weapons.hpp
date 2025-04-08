@@ -1,11 +1,11 @@
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Woodland : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Woodland 'Ambrose' (Silver Visor)";
+	displayName="[34th] CH252D 'Ambrose' Woodland (Silver Visor)";
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_helmet_woodland.paa",
-		"34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Silvervisor.paa"
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_standard\data\odst2\visor\34th_ODST_Silvervisor.paa"
 	};
 	class XtdGearInfo
 	{
@@ -17,12 +17,12 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Woodland : 34thPRC_A
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_RedVisor_Woodland : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Woodland 'Ambrose' (Red Visor)";
+	displayName="[34th] CH252D 'Ambrose' Woodland (Red Visor)";
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_helmet_woodland.paa",
-		"34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Redvisor.paa"
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_standard\data\odst2\visor\34th_ODST_Redvisor.paa"
 	};
 	class XtdGearInfo
 	{
@@ -34,12 +34,12 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_RedVisor_Woodland : 34thPRC_Armo
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_GoldVisor_Woodland : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Woodland 'Ambrose' (Gold Visor)";
+	displayName="[34th] CH252D 'Ambrose' Woodland (Gold Visor)";
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_helmet_woodland.paa",
-		"34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Goldvisor.paa"
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_standard\data\odst2\visor\34th_ODST_Goldvisor.paa"
 	};
 	class XtdGearInfo
 	{
@@ -51,12 +51,12 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_GoldVisor_Woodland : 34thPRC_Arm
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_CustomVisor_Woodland : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Woodland 'Ambrose' (Custom Visor)";
+	displayName="[34th] CH252D 'Ambrose' Woodland (Custom Visor)";
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\odst2\ambrose\visor\ambrose_odst_visor.paa"
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\visor\ambrose_odst_visor.paa"
 	};
 	class XtdGearInfo
 	{
@@ -68,12 +68,12 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_CustomVisor_Woodland : 34thPRC_A
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Woodland_dp : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Woodland 'Ambrose' (Silver Visor)";
+	displayName="[34th] CH252D 'Ambrose' Woodland (Silver Visor)";
 	author="Ambrose";
 	scope=1;
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_helmet_woodland.paa",// Helmet Texture
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_helmet_woodland.paa",// Helmet Texture
 		"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa" // Visor Texture
 	};
 	class ItemInfo: ItemInfo
@@ -88,12 +88,12 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Woodland_dp : 34thPR
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_RedVisor_Woodland_dp : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Woodland 'Ambrose' (Red Visor)";
+	displayName="[34th] CH252D 'Ambrose' Woodland (Red Visor)";
 	author="Ambrose";
 	scope=1;
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_helmet_woodland.paa",// Helmet Texture
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_helmet_woodland.paa",// Helmet Texture
 		"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa" // Visor Texture
 	};
 	class ItemInfo: ItemInfo
@@ -108,12 +108,12 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_RedVisor_Woodland_dp : 34thPRC_A
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_GoldVisor_Woodland_dp : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Woodland 'Ambrose' (Gold Visor)";
+	displayName="[34th] CH252D 'Ambrose' Woodland (Gold Visor)";
 	author="Ambrose";
 	scope=1;
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_helmet_woodland.paa",// Helmet Texture
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_helmet_woodland.paa",// Helmet Texture
 		"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa" // Visor Texture
 	};
 	class ItemInfo: ItemInfo
@@ -128,12 +128,12 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_GoldVisor_Woodland_dp : 34thPRC_
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_CustomVisor_Woodland_dp :  34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_CustomVisor_Urban_dp
 {
-	displayName="[34th] CH252D Woodland 'Ambrose' (Custom Visor)";
+	displayName="[34th] CH252D 'Ambrose' Woodland (Custom Visor)";
 	author="Ambrose";
 	scope=1;
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_helmet_woodland.paa",// Helmet Texture
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_helmet_woodland.paa",// Helmet Texture
 		"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa" // Visor Texture
 	};
 	class ItemInfo: ItemInfo
@@ -153,15 +153,15 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_M52_Woodland : 34thPRC_ArmourCustom_ODS
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_cqb_woodland.paa", //CQB Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_cqb_woodland.paa", //CQB Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_marksman_woodland.paa", //Marksman_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_marksman_woodland.paa", //Marksman_Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Chest
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_shoulders_woodland.paa", //ODST_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_shoulders_woodland.paa", //ODST_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_cqb_woodland.paa", //CQB Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_cqb_woodland.paa", //CQB Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_marksman_woodland.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_marksman_woodland.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_shoulders_woodland.paa", //ODST_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_shoulders_woodland.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -197,15 +197,15 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_M52_B_Woodland : 34thPRC_ArmourCustom_O
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_cqb_woodland.paa", //CQB Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_cqb_woodland.paa", //CQB Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_marksman_woodland.paa", //Marksman_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_marksman_woodland.paa", //Marksman_Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Chest
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_shoulders_woodland.paa", //ODST_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_shoulders_woodland.paa", //ODST_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_cqb_woodland.paa", //CQB Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_cqb_woodland.paa", //CQB Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_marksman_woodland.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_marksman_woodland.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_shoulders_woodland.paa", //ODST_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_shoulders_woodland.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -241,15 +241,15 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_M52_C_Woodland : 34thPRC_ArmourCustom_O
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_cqb_woodland.paa", //CQB Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_cqb_woodland.paa", //CQB Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_marksman_woodland.paa", //Marksman_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_marksman_woodland.paa", //Marksman_Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Chest
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_shoulders_woodland.paa", //ODST_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_shoulders_woodland.paa", //ODST_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_cqb_woodland.paa", //CQB Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_cqb_woodland.paa", //CQB Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_marksman_woodland.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_marksman_woodland.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_shoulders_woodland.paa", //ODST_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_shoulders_woodland.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -281,19 +281,19 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_M52_C_Woodland : 34thPRC_ArmourCustom_O
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_M52_Marksman_Woodland : 34thPRC_ArmourCustom_ODST2_Ambrose_M52_Marksman_Urban
 {
-	displayName="[34th] M52 Combat Armour 'Ambrose' Marksman Woodland";
+	displayName="[34th] M52 Combat Armour 'Ambrose' Woodland Marksman";
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_cqb_woodland.paa", //CQB Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_cqb_woodland.paa", //CQB Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_marksman_woodland.paa", //Marksman_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_marksman_woodland.paa", //Marksman_Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Chest
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_shoulders_woodland.paa", //ODST_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_shoulders_woodland.paa", //ODST_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_cqb_woodland.paa", //CQB Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_cqb_woodland.paa", //CQB Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_marksman_woodland.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_marksman_woodland.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_shoulders_woodland.paa", //ODST_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_shoulders_woodland.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -325,19 +325,19 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_M52_Marksman_Woodland : 34thPRC_ArmourC
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_M52_CQB_Woodland : 34thPRC_ArmourCustom_ODST2_Ambrose_M52_CQB_Urban
 {
-	displayName="[34th] M52 Combat Armour 'Ambrose' CQB Woodland";
+	displayName="[34th] M52 Combat Armour 'Ambrose' Woodland CQB";
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_cqb_woodland.paa", //CQB Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_cqb_woodland.paa", //CQB Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_marksman_woodland.paa", //Marksman_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_marksman_woodland.paa", //Marksman_Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Chest
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_shoulders_woodland.paa", //ODST_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\woodland\ambrose_odst_shoulders_woodland.paa", //ODST_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_cqb_woodland.paa", //CQB Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_cqb_woodland.paa", //CQB Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_marksman_woodland.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_marksman_woodland.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_vest_woodland.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_shoulders_woodland.paa", //ODST_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\woodland\ambrose_odst_shoulders_woodland.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch

@@ -4,9 +4,9 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland : 34thPRC_ArmourStand
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmetwoodland.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmetwoodland.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa",
 		"MA_Armor\data\Helmets\CH252\data\MA_HelmetAccessories_A_CO.paa"
@@ -18,20 +18,21 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland : 34thPRC_ArmourStand
 		camo = "woodland";
 		eyewear = "standard";
 		medic = "false";
+		eyewear_color = "none";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_EyePiece : 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece
 {
-	displayName="[34th] CH252 Woodland 'Ramirez' (Green Eye Piece)";
+	displayName="[34th] CH252 'Ramirez' Woodland (Green Eye Piece)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -45,16 +46,16 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_EyePiece : 34thPRC_Ar
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_EyePiece_Blue : 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_EyePiece
 {
-	displayName="[34th] CH252 Woodland 'Ramirez' (Blue Eye Piece)";
+	displayName="[34th] CH252 'Ramirez' Woodland (Blue Eye Piece)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -68,16 +69,16 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_EyePiece_Blue : 34thP
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_EyePiece_Orange : 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_EyePiece
 {
-	displayName="[34th] CH252 Woodland 'Ramirez' (Orange Eye Piece)";
+	displayName="[34th] CH252 'Ramirez' Woodland (Orange Eye Piece)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -91,16 +92,16 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_EyePiece_Orange : 34t
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_EyePiece_Red : 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_EyePiece
 {
-	displayName="[34th] CH252 Woodland 'Ramirez' (Red Eye Piece)";
+	displayName="[34th] CH252 'Ramirez' Woodland (Red Eye Piece)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -114,16 +115,16 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_EyePiece_Red : 34thPR
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_EyePiece_Purple : 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_EyePiece
 {
-	displayName="[34th] CH252 Woodland 'Ramirez' (Purple Eye Piece)";
+	displayName="[34th] CH252 'Ramirez' Woodland (Purple Eye Piece)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -137,16 +138,16 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_EyePiece_Purple : 34t
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_VisorGlasses : 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses
 {
-	displayName="[34th] CH252 Woodland 'Ramirez' (Orange Visor Glasses)";
+	displayName="[34th] CH252 'Ramirez' Woodland (Orange Visor Glasses)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Orange_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -160,16 +161,16 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_VisorGlasses : 34thPR
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_VisorGlasses_Blue : 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_VisorGlasses
 {
-	displayName="[34th] CH252 Woodland 'Ramirez' (Blue Visor Glasses)";
+	displayName="[34th] CH252 'Ramirez' Woodland (Blue Visor Glasses)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Blue_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -183,16 +184,16 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_VisorGlasses_Blue : 3
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_VisorGlasses_Green : 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_VisorGlasses
 {
-	displayName="[34th] CH252 Woodland 'Ramirez' (Green Visor Glasses)";
+	displayName="[34th] CH252 'Ramirez' Woodland (Green Visor Glasses)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Green_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -206,16 +207,16 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_VisorGlasses_Green : 
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_VisorGlasses_Purple : 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_VisorGlasses
 {
-	displayName="[34th] CH252 Woodland 'Ramirez' (Purple Visor Glasses)";
+	displayName="[34th] CH252 'Ramirez' Woodland (Purple Visor Glasses)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Purple_CA.paa"
 	};
 	class XtdGearInfo
 	{
@@ -229,16 +230,16 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_VisorGlasses_Purple :
 };
 class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_VisorGlasses_Red : 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Woodland_VisorGlasses
 {
-	displayName="[34th] CH252 Woodland 'Ramirez' (Red Visor Glasses)";
+	displayName="[34th] CH252 'Ramirez' Woodland (Red Visor Glasses)";
 	author="Ramirez";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_Helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourCustom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
-		"34thPRC_ArmourStandard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_Helmet_woodland.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_custom\data\marines2\ramirez\woodland\trooper_helmet_woodland.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\visor\HelmetAccessories_Red_CA.paa"
 	};
 	class XtdGearInfo
 	{

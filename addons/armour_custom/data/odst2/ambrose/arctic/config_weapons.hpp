@@ -1,11 +1,11 @@
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Arctic : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Arctic 'Ambrose' (Silver Visor)";
+	displayName="[34th] CH252D 'Ambrose' Arctic (Silver Visor)";
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_helmet_arctic.paa",
-		"34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Silvervisor.paa"
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_helmet_arctic.paa",
+		"\z\34thprc\addons\armour_standard\data\odst2\visor\34th_ODST_Silvervisor.paa"
 	};
 	class XtdGearInfo
 	{
@@ -17,12 +17,12 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Arctic : 34thPRC_Arm
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_RedVisor_Arctic : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Arctic 'Ambrose' (Red Visor)";
+	displayName="[34th] CH252D 'Ambrose' Arctic (Red Visor)";
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_helmet_arctic.paa",
-		"34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Redvisor.paa"
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_helmet_arctic.paa",
+		"\z\34thprc\addons\armour_standard\data\odst2\visor\34th_ODST_Redvisor.paa"
 	};
 	class XtdGearInfo
 	{
@@ -34,12 +34,12 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_RedVisor_Arctic : 34thPRC_Armour
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_GoldVisor_Arctic : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Arctic 'Ambrose' (Gold Visor)";
+	displayName="[34th] CH252D 'Ambrose' Arctic (Gold Visor)";
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_helmet_arctic.paa",
-		"34thPRC_ArmourStandard\data\odst2\visor\34th_ODST_Goldvisor.paa"
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_helmet_arctic.paa",
+		"\z\34thprc\addons\armour_standard\data\odst2\visor\34th_ODST_Goldvisor.paa"
 	};
 	class XtdGearInfo
 	{
@@ -51,12 +51,12 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_GoldVisor_Arctic : 34thPRC_Armou
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_CustomVisor_Arctic : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban
 {
-	displayName="[34th] CH252D Arctic 'Ambrose' (Custom Visor)";
+	displayName="[34th] CH252D 'Ambrose' Arctic (Custom Visor)";
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_helmet_arctic.paa",
-		"34thPRC_ArmourCustom\data\odst2\ambrose\visor\ambrose_odst_visor.paa"
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_helmet_arctic.paa",
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\visor\ambrose_odst_visor.paa"
 	};
 	class XtdGearInfo
 	{
@@ -68,12 +68,12 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_CustomVisor_Arctic : 34thPRC_Arm
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Arctic_dp : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Arctic 'Ambrose' (Silver Visor)";
+	displayName="[34th] CH252D 'Ambrose' Arctic (Silver Visor)";
 	author="Ambrose";
 	scope=1;
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_helmet_arctic.paa",// Helmet Texture
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_helmet_arctic.paa",// Helmet Texture
 		"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa" // Visor Texture
 	};
 	class ItemInfo: ItemInfo
@@ -88,12 +88,12 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Arctic_dp : 34thPRC_
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_RedVisor_Arctic_dp : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Arctic 'Ambrose' (Red Visor)";
+	displayName="[34th] CH252D 'Ambrose' Arctic (Red Visor)";
 	author="Ambrose";
 	scope=1;
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_helmet_arctic.paa",// Helmet Texture
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_helmet_arctic.paa",// Helmet Texture
 		"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa" // Visor Texture
 	};
 	class ItemInfo: ItemInfo
@@ -108,12 +108,12 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_RedVisor_Arctic_dp : 34thPRC_Arm
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_GoldVisor_Arctic_dp : 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_SilverVisor_Urban_dp
 {
-	displayName="[34th] CH252D Arctic 'Ambrose' (Gold Visor)";
+	displayName="[34th] CH252D 'Ambrose' Arctic (Gold Visor)";
 	author="Ambrose";
 	scope=1;
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_helmet_arctic.paa",// Helmet Texture
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_helmet_arctic.paa",// Helmet Texture
 		"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa" // Visor Texture
 	};
 	class ItemInfo: ItemInfo
@@ -128,12 +128,12 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_GoldVisor_Arctic_dp : 34thPRC_Ar
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_CustomVisor_Arctic_dp :  34thPRC_ArmourCustom_ODST2_Ambrose_CH252D_CustomVisor_Urban_dp
 {
-	displayName="[34th] CH252D Arctic 'Ambrose' (Custom Visor)";
+	displayName="[34th] CH252D 'Ambrose' Arctic (Custom Visor)";
 	author="Ambrose";
 	scope=1;
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_helmet_arctic.paa",// Helmet Texture
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_helmet_arctic.paa",// Helmet Texture
 		"MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa" // Visor Texture
 	};
 	class ItemInfo: ItemInfo
@@ -154,15 +154,15 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_M52_Arctic : 34thPRC_ArmourCustom_ODST2
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_cqb_arctic.paa", //CQB Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_cqb_arctic.paa", //CQB Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_marksman_arctic.paa", //Marksman_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_marksman_arctic.paa", //Marksman_Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Chest
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_shoulders_arctic.paa", //ODST_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_shoulders_arctic.paa", //ODST_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_cqb_arctic.paa", //CQB Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_cqb_arctic.paa", //CQB Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_marksman_arctic.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_marksman_arctic.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_shoulders_arctic.paa", //ODST_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_shoulders_arctic.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -198,15 +198,15 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_M52_B_Arctic : 34thPRC_ArmourCustom_ODS
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_cqb_arctic.paa", //CQB Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_cqb_arctic.paa", //CQB Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_marksman_arctic.paa", //Marksman_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_marksman_arctic.paa", //Marksman_Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Chest
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_shoulders_arctic.paa", //ODST_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_shoulders_arctic.paa", //ODST_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_cqb_arctic.paa", //CQB Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_cqb_arctic.paa", //CQB Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_marksman_arctic.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_marksman_arctic.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_shoulders_arctic.paa", //ODST_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_shoulders_arctic.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -242,15 +242,15 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_M52_C_Arctic : 34thPRC_ArmourCustom_ODS
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_cqb_arctic.paa", //CQB Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_cqb_arctic.paa", //CQB Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_marksman_arctic.paa", //Marksman_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_marksman_arctic.paa", //Marksman_Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Chest
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_shoulders_arctic.paa", //ODST_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_shoulders_arctic.paa", //ODST_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_cqb_arctic.paa", //CQB Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_cqb_arctic.paa", //CQB Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_marksman_arctic.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_marksman_arctic.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_shoulders_arctic.paa", //ODST_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_shoulders_arctic.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -282,19 +282,19 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_M52_C_Arctic : 34thPRC_ArmourCustom_ODS
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_M52_Marksman_Arctic : 34thPRC_ArmourCustom_ODST2_Ambrose_M52_Marksman_Urban
 {
-	displayName="[34th] M52 Combat Armour 'Ambrose' Marksman Arctic";
+	displayName="[34th] M52 Combat Armour 'Ambrose' Arctic Marksman";
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_cqb_arctic.paa", //CQB Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_cqb_arctic.paa", //CQB Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_marksman_arctic.paa", //Marksman_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_marksman_arctic.paa", //Marksman_Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Chest
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_shoulders_arctic.paa", //ODST_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_shoulders_arctic.paa", //ODST_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_cqb_arctic.paa", //CQB Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_cqb_arctic.paa", //CQB Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_marksman_arctic.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_marksman_arctic.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_shoulders_arctic.paa", //ODST_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_shoulders_arctic.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch
@@ -326,19 +326,19 @@ class 34thPRC_ArmourCustom_ODST2_Ambrose_M52_Marksman_Arctic : 34thPRC_ArmourCus
 };
 class 34thPRC_ArmourCustom_ODST2_Ambrose_M52_CQB_Arctic : 34thPRC_ArmourCustom_ODST2_Ambrose_M52_CQB_Urban
 {
-	displayName="[34th] M52 Combat Armour 'ambrose' CQB Arctic";
+	displayName="[34th] M52 Combat Armour 'Ambrose' Arctic CQB";
 	author="Ambrose";
 	hiddenSelectionsTextures[]=
 	{
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_cqb_arctic.paa", //CQB Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_cqb_arctic.paa", //CQB Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_marksman_arctic.paa", //Marksman_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_marksman_arctic.paa", //Marksman_Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Bracer_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Bracer_Right
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Chest
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_shoulders_arctic.paa", //ODST_Left
-		"34thPRC_ArmourCustom\data\odst2\ambrose\arctic\ambrose_odst_shoulders_arctic.paa", //ODST_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_cqb_arctic.paa", //CQB Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_cqb_arctic.paa", //CQB Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_marksman_arctic.paa", //Marksman_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_marksman_arctic.paa", //Marksman_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Bracer_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Bracer_Right
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_vest_arctic.paa", //ODST_Chest
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_shoulders_arctic.paa", //ODST_Left
+		"\z\34thprc\addons\armour_custom\data\odst2\ambrose\arctic\ambrose_odst_shoulders_arctic.paa", //ODST_Right
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMLeft
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", //ChestPMRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //ChestPouch

@@ -1,10 +1,10 @@
 class CfgPatches
 {
-	class 34thPRC_music
+	class 34thPRC_MusicRadio
 	{
 		units[]={};
 		weapons[]={};
-		author="34thPRC Mod Dev Team, Over Yander"; //Original config credit to Unsung,
+		author="34thPRC Mod Dev Team, Over Yander"; //Original config credit to Unsung
 		//requiredVersion=2.04;
 		requiredAddons[]=
 		{

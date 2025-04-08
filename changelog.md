@@ -12,6 +12,48 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - CBRN for Marines / ODSTs now created through substance painter and updated to proper colors.
 - EOD Halo Reach variant for Marines / ODSTs now created through substance painter and updated to proper colors.
 
+## 0.30.1
+### Re-upload
+- Version 0.30.0 was not successfully deployed.
+
+## 0.30.0
+### Added
+- AAX support for the 34th Crewman Helmet
+- Task Force King Armor Options
+### Updated
+- Updated AAX selections on Marine Helmets to improve functionality and reduce sticking when trying to select the 'Standard' variant
+- Displaynames for custom helmets to properly reflect camo color and standardized custom armor and helmet displayname structure.
+### Fix
+- Jackknife and Scorpion missile 8 count missiles fixed.
+- MArkers $PREFIX$ file adjusted
+- Main PBO required addons now lists all of our patches again (it was missing music radio)
+### Removed
+- Unneccesary overrides for the SAABR as it no longer exists
+
+## 0.29.1
+### Fix
+- Markers PBO fixed.
+
+## 0.29.0
+### Updated
+- Filepaths for scripts updated to Hemtt requirements
+- armour_standard pbo updated all internal file paths and prefix
+- armour_custom pbo updated all internal file paths and prefix
+- ace_arsenal_extended pbo updated all internal file paths and prefix
+- faction_brimstone pbo updated all internal file paths and prefix
+- loading_screens pbo updated all internal file paths and prefix
+- markers pbo updated all internal file paths and prefix
+- music_radio pbo updated prefix
+- vehicles pbo updated prefix
+- weapons_standard pbo updated prefix
+- sec_guestpack pbo updated all internal file paths and prefix
+- overrides pbo updated prefix
+- main pbo prefix updated
+- sc_uniforms prefix updated
+### Removed
+- unnessecary prefix files in overrides
+
+
 ## 0.28.0
 - Identical to 0.27.1 but built with our legacy build system (HEMTT is doing something funny to our scripts and broke them)
 

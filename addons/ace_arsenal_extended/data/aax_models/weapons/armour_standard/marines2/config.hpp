@@ -34,32 +34,32 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light
 		class urbanRed
 		{
 			label = "Urban Red";
-			image = "34thPRC_ArmourStandard\data\camo_pattern\Urban.paa";
+			image = "\z\34thprc\addons\armour_standard\data\camo_pattern\Urban.paa";
 		};
 		class urbanBlue
 		{
 			label = "Night";
-			image = "34thPRC_ArmourStandard\data\camo_pattern\Night.paa";
+			image = "\z\34thprc\addons\armour_standard\data\camo_pattern\Night.paa";
 		};
 		class arctic
 		{
 			label = "Arctic";
-			image = "34thPRC_ArmourStandard\data\camo_pattern\Arctic.paa";
+			image = "\z\34thprc\addons\armour_standard\data\camo_pattern\Arctic.paa";
 		};
 		class arid
 		{
 			label = "Arid";
-			image = "34thPRC_ArmourStandard\data\camo_pattern\Arid.paa";
+			image = "\z\34thprc\addons\armour_standard\data\camo_pattern\Arid.paa";
 		};
 		class tropic
 		{
 			label = "Tropic";
-			image = "34thPRC_ArmourStandard\data\camo_pattern\Tropic.paa";
+			image = "\z\34thprc\addons\armour_standard\data\camo_pattern\Tropic.paa";
 		};
 		class woodland
 		{
 			label = "Woodland";
-			image = "34thPRC_ArmourStandard\data\camo_pattern\Woodland.paa";
+			image = "\z\34thprc\addons\armour_standard\data\camo_pattern\Woodland.paa";
 		};
 	};
 	class collar
@@ -152,7 +152,11 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban
 	{
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[] = {"blue", "green", "red", "purple", "orange"};
+		values[] = {"none", "blue", "green", "red", "purple", "orange"};
+		class none
+		{
+			label = "None";
+		};
 		class blue
 		{
 			label = "Blue";
