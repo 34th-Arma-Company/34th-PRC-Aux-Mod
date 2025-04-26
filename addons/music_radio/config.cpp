@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class 34thPRC_music
+	class 34thPRC_MusicRadio
 	{
 		units[]={};
 		weapons[]={};

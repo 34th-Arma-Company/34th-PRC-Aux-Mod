@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+### Fixed
+- Scorpion hidden texture filepath updated to correct path.
+
+## 0.30.1
+### Re-upload
+- Version 0.30.0 was not successfully deployed.
+
+## 0.30.0
 ### Added
 - AAX support for the 34th Crewman Helmet
 - Task Force King Armor Options
@@ -15,6 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fix
 - Jackknife and Scorpion missile 8 count missiles fixed.
 - MArkers $PREFIX$ file adjusted
+- Main PBO required addons now lists all of our patches again (it was missing music radio)
 ### Removed
 - Unneccesary overrides for the SAABR as it no longer exists
 
