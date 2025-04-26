@@ -79,12 +79,12 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban
 	{
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[] = {"false", "true"};
-		class false
+		values[] = {"nonmedic", "medic"};
+		class nonmedic
 		{
 			label = "Non-Medic";
 		};
-		class true
+		class medic
 		{
 			label = "Medic";
 		};

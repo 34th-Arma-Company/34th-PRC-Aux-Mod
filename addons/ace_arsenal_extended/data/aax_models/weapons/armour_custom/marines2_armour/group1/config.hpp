@@ -45,13 +45,13 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Light
 	{
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[] = {"urbanRed", "urbanBlue", "arctic", "arid", "tropic", "woodland"};
-		class urbanRed
+		values[] = {"urban", "night", "arctic", "arid", "tropic", "woodland"};
+		class urban
 		{
-			label = "Urban Red";
+			label = "Urban";
 			image = "\z\34thprc\addons\armour_standard\data\camo_pattern\Urban.paa";
 		};
-		class urbanBlue
+		class night
 		{
 			label = "Night";
 			image = "\z\34thprc\addons\armour_standard\data\camo_pattern\Night.paa";
@@ -82,12 +82,12 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Light
 		label = "Collar";
 		alwaysSelectable = 1;
 		changeingame = 0;
-		values[] = {"up", "down"};
-		class up
+		values[] = {"collar", "nocollar"};
+		class collar
 		{
 			label = "Collar";
 		};
-		class down
+		class nocollar
 		{
 			label = "No Collar";
 		};
