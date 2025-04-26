@@ -8,6 +8,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Updated
 - Velocity for BR ammunition increased to improve effectiveness over distance.
+### Fixed
+- Scorpion hidden texture filepath updated to correct path.
+
 
 ## 0.30.1
 ### Re-upload
