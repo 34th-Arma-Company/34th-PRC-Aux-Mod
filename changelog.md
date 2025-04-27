@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Updated
 - Velocity for BR ammunition increased to improve effectiveness over distance.
+- ODST M52-R Rucksack updated to have a range of 30km from 25km to match the mammon standard RTO rucksack.
 ### Fixed
 - Scorpion hidden texture filepath updated to correct path.
 
