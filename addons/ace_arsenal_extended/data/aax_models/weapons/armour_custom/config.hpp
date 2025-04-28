@@ -1,2 +1,5 @@
-#include "marines2\config.hpp"
-#include "odst2\config.hpp"
+#include "marines2_armour\config.hpp"
+#include "marines2_helmets\config.hpp"
+#include "odst2_armour\config.hpp"
+#include "odst2_helmets\config.hpp"
+#include "specialist_helmets\config.hpp"

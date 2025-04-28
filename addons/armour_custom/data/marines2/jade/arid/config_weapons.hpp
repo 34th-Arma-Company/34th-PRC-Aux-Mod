@@ -17,7 +17,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid : 34thPRC_ArmourCustom_Marin
 		player="jade";
 		camo = "arid";
 		eyewear = "standard";
-		medic = "false";
+		medic = "nonmedic";
 		eyewear_color = "none";
 	};
 };
@@ -40,7 +40,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_EyePiece : 34thPRC_ArmourCus
 		player="jade";
 		camo = "arid";
 		eyewear = "eyepiece";
-		medic = "false";
+		medic = "nonmedic";
 		eyewear_color = "green";
 	};
 };
@@ -63,7 +63,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_EyePiece_Blue : 34thPRC_Armo
 		player="jade";
 		camo = "arid";
 		eyewear = "eyepiece";
-		medic = "false";
+		medic = "nonmedic";
 		eyewear_color = "blue";
 	};
 };
@@ -86,7 +86,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_EyePiece_Orange : 34thPRC_Ar
 		player="jade";
 		camo = "arid";
 		eyewear = "eyepiece";
-		medic = "false";
+		medic = "nonmedic";
 		eyewear_color = "orange";
 	};
 };
@@ -109,7 +109,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_EyePiece_Red : 34thPRC_Armou
 		player="jade";
 		camo = "arid";
 		eyewear = "eyepiece";
-		medic = "false";
+		medic = "nonmedic";
 		eyewear_color = "red";
 	};
 };
@@ -132,7 +132,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_EyePiece_Purple : 34thPRC_Ar
 		player="jade";
 		camo = "arid";
 		eyewear = "eyepiece";
-		medic = "false";
+		medic = "nonmedic";
 		eyewear_color = "purple";
 	};
 };
@@ -155,7 +155,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_VisorGlasses : 34thPRC_Armou
 		player="jade";
 		camo = "arid";
 		eyewear = "visor";
-		medic = "false";
+		medic = "nonmedic";
 		eyewear_color = "orange";
 	};
 };
@@ -178,7 +178,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_VisorGlasses_Blue : 34thPRC_
 		player="jade";
 		camo = "arid";
 		eyewear = "visor";
-		medic = "false";
+		medic = "nonmedic";
 		eyewear_color = "blue";
 	};
 };
@@ -201,7 +201,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_VisorGlasses_Green : 34thPRC
 		player="jade";
 		camo = "arid";
 		eyewear = "visor";
-		medic = "false";
+		medic = "nonmedic";
 		eyewear_color = "green";
 	};
 };
@@ -224,7 +224,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_VisorGlasses_Purple : 34thPR
 		player="jade";
 		camo = "arid";
 		eyewear = "visor";
-		medic = "false";
+		medic = "nonmedic";
 		eyewear_color = "purple";
 	};
 };
@@ -247,7 +247,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_VisorGlasses_Red : 34thPRC_A
 		player="jade";
 		camo = "arid";
 		eyewear = "visor";
-		medic = "false";
+		medic = "nonmedic";
 		eyewear_color = "red";
 	};
 };
@@ -271,7 +271,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic : 34thPRC_ArmourCustom
 		player="jade";
 		camo = "arid";
 		eyewear = "standard";
-		medic = "true";
+		medic = "medic";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_EyePiece : 34thPRC_ArmourCustom_Marines2_Jade_CH252_Urban_Medic_EyePiece
@@ -293,7 +293,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_EyePiece : 34thPRC_Arm
 		player="jade";
 		camo = "arid";
 		eyewear = "eyepiece";
-		medic = "true";
+		medic = "medic";
 		eyewear_color = "green";
 	};
 };
@@ -316,7 +316,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_EyePiece_Blue : 34thPR
 		player="jade";
 		camo = "arid";
 		eyewear = "eyepiece";
-		medic = "true";
+		medic = "medic";
 		eyewear_color = "blue";
 	};
 };
@@ -339,7 +339,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_EyePiece_Orange : 34th
 		player="jade";
 		camo = "arid";
 		eyewear = "eyepiece";
-		medic = "true";
+		medic = "medic";
 		eyewear_color = "orange";
 	};
 };
@@ -362,7 +362,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_EyePiece_Red : 34thPRC
 		player="jade";
 		camo = "arid";
 		eyewear = "eyepiece";
-		medic = "true";
+		medic = "medic";
 		eyewear_color = "red";
 	};
 };
@@ -385,7 +385,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_EyePiece_Purple : 34th
 		player="jade";
 		camo = "arid";
 		eyewear = "eyepiece";
-		medic = "true";
+		medic = "medic";
 		eyewear_color = "purple";
 	};
 };
@@ -408,7 +408,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_VisorGlasses : 34thPRC
 		player="jade";
 		camo = "arid";
 		eyewear = "visor";
-		medic = "true";
+		medic = "medic";
 		eyewear_color = "orange";
 	};
 };
@@ -431,7 +431,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_VisorGlasses_Blue : 34
 		player="jade";
 		camo = "arid";
 		eyewear = "visor";
-		medic = "true";
+		medic = "medic";
 		eyewear_color = "blue";
 	};
 };
@@ -454,7 +454,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_VisorGlasses_Green : 3
 		player="jade";
 		camo = "arid";
 		eyewear = "visor";
-		medic = "true";
+		medic = "medic";
 		eyewear_color = "green";
 	};
 };
@@ -477,7 +477,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_VisorGlasses_Purple : 
 		player="jade";
 		camo = "arid";
 		eyewear = "visor";
-		medic = "true";
+		medic = "medic";
 		eyewear_color = "purple";
 	};
 };
@@ -500,7 +500,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_CH252_Arid_Medic_VisorGlasses_Red : 34t
 		player="jade";
 		camo = "arid";
 		eyewear = "visor";
-		medic = "true";
+		medic = "medic";
 		eyewear_color = "red";
 	};
 };
@@ -518,7 +518,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Light : 34thPRC_ArmourCust
 		player= "jade";
 		variant = "light";
 		camo = "arid";
-		collar = "up";
+		collar = "collar";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Medium : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Medium
@@ -535,7 +535,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Medium : 34thPRC_ArmourCus
 		player= "jade";
 		variant = "medium";
 		camo = "arid";
-		collar = "up";
+		collar = "collar";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Heavy : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Heavy
@@ -552,7 +552,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Heavy : 34thPRC_ArmourCust
 		player= "jade";
 		variant = "heavy";
 		camo = "arid";
-		collar = "up";
+		collar = "collar";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_NoShoulders : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_NoShoulders
@@ -569,7 +569,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_NoShoulders : 34thPRC_Armo
 		player= "jade";
 		variant = "shoulderless";
 		camo = "arid";
-		collar = "up";
+		collar = "collar";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Light_NoCollar : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Light_NoCollar
@@ -586,7 +586,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Light_NoCollar : 34thPRC_A
 		player= "jade";
 		variant = "light";
 		camo = "arid";
-		collar = "down";
+		collar = "nocollar";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Medium_NoCollar : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Medium_NoCollar
@@ -603,7 +603,7 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Medium_NoCollar : 34thPRC_
 		player= "jade";
 		variant = "medium";
 		camo = "arid";
-		collar = "down";
+		collar = "nocollar";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Heavy_NoCollar : 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Urban_Heavy_NoCollar
@@ -620,6 +620,6 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Uniform_Arid_Heavy_NoCollar : 34thPRC_A
 		player= "jade";
 		variant = "heavy";
 		camo = "arid";
-		collar = "down";
+		collar = "nocollar";
 	};
 };
