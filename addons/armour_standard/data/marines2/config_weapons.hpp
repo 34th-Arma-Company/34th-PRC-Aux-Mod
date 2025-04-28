@@ -39,4 +39,4 @@ class MA_EOD_CBRN_Attachment_NVG; //MA_Armor NVGs.hpp
 #include "arctic\config_weapons.hpp"
 #include "tropic\config_weapons.hpp"
 #include "woodland\config_weapons.hpp"
-#include "specialist_helmets\config_weapons.hpp"
+#include "night\config_weapons.hpp"

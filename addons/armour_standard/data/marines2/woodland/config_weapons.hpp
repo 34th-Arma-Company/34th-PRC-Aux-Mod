@@ -16,7 +16,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland : 34thPRC_ArmourStandard_Ma
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "woodland";
 		eyewear = "standard";
-		medic = "false";
+		medic = "nonmedic";
 		eyewear_color = "none";
 	};
 };
@@ -38,7 +38,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_EyePiece : 34thPRC_ArmourSt
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "woodland";
 		eyewear = "eyepiece";
-		medic = "false";
+		medic = "nonmedic";
 		eyewear_color = "green";
 	};
 };
@@ -60,7 +60,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_EyePiece_Blue : 34thPRC_Arm
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "woodland";
 		eyewear = "eyepiece";
-		medic = "false";
+		medic = "nonmedic";
 		eyewear_color = "blue";
 	};
 };
@@ -82,7 +82,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_EyePiece_Orange : 34thPRC_A
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "woodland";
 		eyewear = "eyepiece";
-		medic = "false";
+		medic = "nonmedic";
 		eyewear_color = "orange";
 	};
 };
@@ -104,7 +104,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_EyePiece_Red : 34thPRC_Armo
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "woodland";
 		eyewear = "eyepiece";
-		medic = "false";
+		medic = "nonmedic";
 		eyewear_color = "red";
 	};
 };
@@ -126,7 +126,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_EyePiece_Purple : 34thPRC_A
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "woodland";
 		eyewear = "eyepiece";
-		medic = "false";
+		medic = "nonmedic";
 		eyewear_color = "purple";
 	};
 };
@@ -148,7 +148,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_VisorGlasses : 34thPRC_Armo
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "woodland";
 		eyewear = "visor";
-		medic = "false";
+		medic = "nonmedic";
 		eyewear_color = "orange";
 	};
 };
@@ -170,7 +170,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_VisorGlasses_Blue : 34thPRC
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "woodland";
 		eyewear = "visor";
-		medic = "false";
+		medic = "nonmedic";
 		eyewear_color = "blue";
 	};
 };
@@ -192,7 +192,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_VisorGlasses_Green : 34thPR
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "woodland";
 		eyewear = "visor";
-		medic = "false";
+		medic = "nonmedic";
 		eyewear_color = "green";
 	};
 };
@@ -214,7 +214,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_VisorGlasses_Purple : 34thP
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "woodland";
 		eyewear = "visor";
-		medic = "false";
+		medic = "nonmedic";
 		eyewear_color = "purple";
 	};
 };
@@ -236,7 +236,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_VisorGlasses_Red : 34thPRC_
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "woodland";
 		eyewear = "visor";
-		medic = "false";
+		medic = "nonmedic";
 		eyewear_color = "red";
 	};
 };
@@ -258,7 +258,8 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic : 34thPRC_ArmourStand
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "woodland";
 		eyewear = "standard";
-		medic = "true";
+		medic = "medic";
+		eyewear_color = "none";
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_EyePiece : 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece
@@ -279,7 +280,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_EyePiece : 34thPRC_Ar
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "woodland";
 		eyewear = "eyepiece";
-		medic = "true";
+		medic = "medic";
 		eyewear_color = "green";
 	};
 };
@@ -301,7 +302,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_EyePiece_Blue : 34thP
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "woodland";
 		eyewear = "eyepiece";
-		medic = "true";
+		medic = "medic";
 		eyewear_color = "blue";
 	};
 };
@@ -323,7 +324,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_EyePiece_Orange : 34t
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "woodland";
 		eyewear = "eyepiece";
-		medic = "true";
+		medic = "medic";
 		eyewear_color = "orange";
 	};
 };
@@ -345,7 +346,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_EyePiece_Red : 34thPR
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "woodland";
 		eyewear = "eyepiece";
-		medic = "true";
+		medic = "medic";
 		eyewear_color = "red";
 	};
 };
@@ -367,7 +368,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_EyePiece_Purple : 34t
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "woodland";
 		eyewear = "eyepiece";
-		medic = "true";
+		medic = "medic";
 		eyewear_color = "purple";
 	};
 };
@@ -389,7 +390,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_VisorGlasses : 34thPR
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "woodland";
 		eyewear = "visor";
-		medic = "true";
+		medic = "medic";
 		eyewear_color = "orange";
 	};
 };
@@ -411,7 +412,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_VisorGlasses_Blue : 3
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "woodland";
 		eyewear = "visor";
-		medic = "true";
+		medic = "medic";
 		eyewear_color = "blue";
 	};
 };
@@ -433,7 +434,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_VisorGlasses_Green : 
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "woodland";
 		eyewear = "visor";
-		medic = "true";
+		medic = "medic";
 		eyewear_color = "green";
 	};
 };
@@ -455,7 +456,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_VisorGlasses_Purple :
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "woodland";
 		eyewear = "visor";
-		medic = "true";
+		medic = "medic";
 		eyewear_color = "purple";
 	};
 };
@@ -477,7 +478,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Woodland_Medic_VisorGlasses_Red : 34
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "woodland";
 		eyewear = "visor";
-		medic = "true";
+		medic = "medic";
 		eyewear_color = "red";
 	};
 };
@@ -494,7 +495,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Light: 34thPRC_ArmourStan
 		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 		variant = "light";
 		camo = "woodland";
-		collar = "up";
+		collar = "collar";
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Medium: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium
@@ -510,7 +511,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Medium: 34thPRC_ArmourSta
 		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 		variant = "medium";
 		camo = "woodland";
-		collar = "up";
+		collar = "collar";
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Heavy: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy
@@ -526,7 +527,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Heavy: 34thPRC_ArmourStan
 		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 		variant = "heavy";
 		camo = "woodland";
-		collar = "up";
+		collar = "collar";
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_NoShoulder: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_NoShoulder
@@ -542,7 +543,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_NoShoulder: 34thPRC_Armou
 		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 		variant = "shoulderless";
 		camo = "woodland";
-		collar = "up";
+		collar = "collar";
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Light_NoCollar: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light_NoCollar
@@ -558,7 +559,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Light_NoCollar: 34thPRC_A
 		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 		variant = "light";
 		camo = "woodland";
-		collar = "down";
+		collar = "nocollar";
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Medium_NoCollar: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium_NoCollar
@@ -574,7 +575,7 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Medium_NoCollar: 34thPRC_
 		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 		variant = "medium";
 		camo = "woodland";
-		collar = "down";
+		collar = "nocollar";
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Heavy_NoCollar: 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy_NoCollar
@@ -590,6 +591,6 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Woodland_Heavy_NoCollar: 34thPRC_A
 		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 		variant = "heavy";
 		camo = "woodland";
-		collar = "down";
+		collar = "nocollar";
 	};
 };
