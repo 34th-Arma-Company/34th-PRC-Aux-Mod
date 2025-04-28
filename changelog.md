@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - CBRN for Marines / ODSTs now created through substance painter and updated to proper colors.
 - EOD Halo Reach variant for Marines / ODSTs now created through substance painter and updated to proper colors.
 - Commando Helmnet for Marines / ODSTs now created through substance painter and updated to proper colors.
+- rvmat fixes and adjustments.
 
 ## 0.30.1
 ### Re-upload

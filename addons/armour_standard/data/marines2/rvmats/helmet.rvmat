@@ -5,14 +5,14 @@ class StageTI
 ambient[]={1,1,1,1};
 diffuse[]={1,1,1,1};
 forcedDiffuse[]={0,0,0,0};
-emmisive[]={0,0,0,1};
+emmisive[]={0,0,0,0};
 specular[]={0.018000009,0.018000009,0.018000009,0.018000001};
 specularPower=150;
 PixelShaderID="Super";
 VertexShaderID="Super";
 class Stage1
 {
-	texture="z\34thprc\addons\armour_standard\data\marines2\rvmats\TrooperShoulders_NOHQ.paa";
+	texture="MA_Armor\data\Helmets\CH252\MA_Base_TrooperHelmet_NOHQ.paa";
 	uvSource="tex";
 	class uvTransform
 	{
@@ -48,7 +48,7 @@ class Stage3
 };
 class Stage4
 {
-	texture="z\34thprc\addons\armour_standard\data\marines2\rvmats\TrooperShoulders_AS.paa";
+	texture="MA_Armor\data\Helmets\CH252\MA_Base_TrooperHelmet_AS.paa";
 	uvSource="tex";
 	class uvTransform
 	{
@@ -60,7 +60,7 @@ class Stage4
 };
 class Stage5
 {
-	texture="z\34thprc\addons\armour_standard\data\marines2\rvmats\TrooperShoulders_SMDI.paa";
+	texture="MA_Armor\data\Helmets\CH252\MA_Base_TrooperHelmet_SMDI.paa";
 	uvSource="tex";
 	class uvTransform
 	{
