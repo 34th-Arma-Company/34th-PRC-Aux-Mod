@@ -8,7 +8,7 @@ PixelShaderID="Super";
 VertexShaderID="Super";
 class Stage1
 {
-	texture = "z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\EOD\cbrn\CBRN_NOHQ.paa";
+	texture = "z\34thprc\addons\armour_standard\data\specialist_helmets\EOD\cbrn\CBRN_NOHQ.paa";
 	uvSource = "tex";
 	class uvTransform
 	{
@@ -44,7 +44,7 @@ class Stage3
 };
 class Stage4
 {
-	texture = "z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\EOD\cbrn\CBRN_AS.paa";
+	texture = "z\34thprc\addons\armour_standard\data\specialist_helmets\EOD\cbrn\CBRN_AS.paa";
 	uvSource = "tex";
 	class uvTransform
 	{
@@ -56,7 +56,7 @@ class Stage4
 };
 class Stage5
 {
-	texture = "z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\EOD\cbrn\CBRN_SMDI.paa";
+	texture = "z\34thprc\addons\armour_standard\data\specialist_helmets\EOD\cbrn\CBRN_SMDI.paa";
 	uvSource = "tex";
 	class uvTransform
 	{

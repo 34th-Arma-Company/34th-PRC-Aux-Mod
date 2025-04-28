@@ -1,4 +1,8 @@
 class arifle_19_UNSC_m7_Base_F; // 19_UNSC_Weapons
+class WeaponSlotsInfo;
+class MuzzleSlot;
+class CowsSlot;
+class PointerSlot;
 class 19_UNSC_M7: arifle_19_UNSC_m7_Base_F // 19_UNSC_Weapons
 {
 	class WeaponSlotsInfo: WeaponSlotsInfo
