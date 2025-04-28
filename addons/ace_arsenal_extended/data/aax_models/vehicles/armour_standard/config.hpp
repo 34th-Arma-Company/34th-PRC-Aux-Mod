@@ -1,2 +1,2 @@
-#include "odst2_rucksack\config.hpp"
-#include "mkvb_shoulders\config.hpp"
+#include "odst2\config.hpp"
+#include "mkvb\config.hpp"

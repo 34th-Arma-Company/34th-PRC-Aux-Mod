@@ -17,7 +17,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Woodland : 34thPRC_ArmourStandar
 		player="conex";
 		camo = "woodland";
 		eyewear = "standard";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "none";
 	};
 };
@@ -40,7 +40,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Woodland_EyePiece : 34thPRC_Armo
 		player="conex";
 		camo = "woodland";
 		eyewear = "eyepiece";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "green";
 	};
 };
@@ -63,7 +63,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Woodland_EyePiece_Blue : 34thPRC
 		player="conex";
 		camo = "woodland";
 		eyewear = "eyepiece";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "blue";
 	};
 };
@@ -86,7 +86,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Woodland_EyePiece_Orange : 34thP
 		player="conex";
 		camo = "woodland";
 		eyewear = "eyepiece";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "orange";
 	};
 };
@@ -109,7 +109,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Woodland_EyePiece_Red : 34thPRC_
 		player="conex";
 		camo = "woodland";
 		eyewear = "eyepiece";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "red";
 	};
 };
@@ -132,7 +132,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Woodland_EyePiece_Purple : 34thP
 		player="conex";
 		camo = "woodland";
 		eyewear = "eyepiece";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "purple";
 	};
 };
@@ -155,7 +155,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Woodland_VisorGlasses : 34thPRC_
 		player="conex";
 		camo = "woodland";
 		eyewear = "visor";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "orange";
 	};
 };
@@ -178,7 +178,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Woodland_VisorGlasses_Blue : 34t
 		player="conex";
 		camo = "woodland";
 		eyewear = "visor";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "blue";
 	};
 };
@@ -201,7 +201,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Woodland_VisorGlasses_Green : 34
 		player="conex";
 		camo = "woodland";
 		eyewear = "visor";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "green";
 	};
 };
@@ -224,7 +224,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Woodland_VisorGlasses_Purple : 3
 		player="conex";
 		camo = "woodland";
 		eyewear = "visor";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "purple";
 	};
 };
@@ -247,7 +247,7 @@ class 34thPRC_ArmourCustom_Marines2_Conex_CH252_Woodland_VisorGlasses_Red : 34th
 		player="conex";
 		camo = "woodland";
 		eyewear = "visor";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "red";
 	};
 };

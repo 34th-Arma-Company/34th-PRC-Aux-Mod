@@ -7,4 +7,3 @@
 #include "odst2\config_weapons.hpp"
 #include "spi\config_weapons.hpp"
 #include "pilot\config_weapons.hpp"
-#include "specialist_helmets\config_weapons.hpp"

@@ -11,4 +11,3 @@ class MA_Marine_NS_BDU; //MA_Armor
 #include "arctic\config_vehicles.hpp"
 #include "tropic\config_vehicles.hpp"
 #include "woodland\config_vehicles.hpp"
-#include "night\config_vehicles.hpp"

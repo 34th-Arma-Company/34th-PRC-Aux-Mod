@@ -17,7 +17,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic : 34thPRC_ArmourCustom
 		player="harrison";
 		camo = "tropic";
 		eyewear = "standard";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "none";
 	};
 };
@@ -40,7 +40,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_EyePiece : 34thPRC_Arm
 		player="harrison";
 		camo = "tropic";
 		eyewear = "eyepiece";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "green";
 	};
 };
@@ -63,7 +63,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_EyePiece_Blue : 34thPR
 		player="harrison";
 		camo = "tropic";
 		eyewear = "eyepiece";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "blue";
 	};
 };
@@ -86,7 +86,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_EyePiece_Orange : 34th
 		player="harrison";
 		camo = "tropic";
 		eyewear = "eyepiece";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "orange";
 	};
 };
@@ -109,7 +109,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_EyePiece_Red : 34thPRC
 		player="harrison";
 		camo = "tropic";
 		eyewear = "eyepiece";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "red";
 	};
 };
@@ -132,7 +132,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_EyePiece_Purple : 34th
 		player="harrison";
 		camo = "tropic";
 		eyewear = "eyepiece";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "purple";
 	};
 };
@@ -155,7 +155,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_VisorGlasses : 34thPRC
 		player="harrison";
 		camo = "tropic";
 		eyewear = "visor";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "orange";
 	};
 };
@@ -178,7 +178,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_VisorGlasses_Blue : 34
 		player="harrison";
 		camo = "tropic";
 		eyewear = "visor";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "blue";
 	};
 };
@@ -201,7 +201,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_VisorGlasses_Green : 3
 		player="harrison";
 		camo = "tropic";
 		eyewear = "visor";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "green";
 	};
 };
@@ -224,7 +224,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_VisorGlasses_Purple : 
 		player="harrison";
 		camo = "tropic";
 		eyewear = "visor";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "purple";
 	};
 };
@@ -247,7 +247,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_VisorGlasses_Red : 34t
 		player="harrison";
 		camo = "tropic";
 		eyewear = "visor";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "red";
 	};
 };
@@ -271,7 +271,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic : 34thPRC_Armour
 		player="harrison";
 		camo = "tropic";
 		eyewear = "standard";
-		medic = "medic";
+		medic = "true";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_EyePiece : 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Urban_Medic_EyePiece
@@ -293,7 +293,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_EyePiece : 34thP
 		player="harrison";
 		camo = "tropic";
 		eyewear = "eyepiece";
-		medic = "medic";
+		medic = "true";
 		eyewear_color = "green";
 	};
 };
@@ -316,7 +316,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_EyePiece_Blue : 
 		player="harrison";
 		camo = "tropic";
 		eyewear = "eyepiece";
-		medic = "medic";
+		medic = "true";
 		eyewear_color = "blue";
 	};
 };
@@ -339,7 +339,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_EyePiece_Orange 
 		player="harrison";
 		camo = "tropic";
 		eyewear = "eyepiece";
-		medic = "medic";
+		medic = "true";
 		eyewear_color = "orange";
 	};
 };
@@ -362,7 +362,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_EyePiece_Red : 3
 		player="harrison";
 		camo = "tropic";
 		eyewear = "eyepiece";
-		medic = "medic";
+		medic = "true";
 		eyewear_color = "red";
 	};
 };
@@ -385,7 +385,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_EyePiece_Purple 
 		player="harrison";
 		camo = "tropic";
 		eyewear = "eyepiece";
-		medic = "medic";
+		medic = "true";
 		eyewear_color = "purple";
 	};
 };
@@ -408,7 +408,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_VisorGlasses : 3
 		player="harrison";
 		camo = "tropic";
 		eyewear = "visor";
-		medic = "medic";
+		medic = "true";
 		eyewear_color = "orange";
 	};
 };
@@ -431,7 +431,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_VisorGlasses_Blu
 		player="harrison";
 		camo = "tropic";
 		eyewear = "visor";
-		medic = "medic";
+		medic = "true";
 		eyewear_color = "blue";
 	};
 };
@@ -454,7 +454,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_VisorGlasses_Gre
 		player="harrison";
 		camo = "tropic";
 		eyewear = "visor";
-		medic = "medic";
+		medic = "true";
 		eyewear_color = "green";
 	};
 };
@@ -477,7 +477,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_VisorGlasses_Pur
 		player="harrison";
 		camo = "tropic";
 		eyewear = "visor";
-		medic = "medic";
+		medic = "true";
 		eyewear_color = "purple";
 	};
 };
@@ -500,7 +500,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_CH252_Tropic_Medic_VisorGlasses_Red
 		player="harrison";
 		camo = "tropic";
 		eyewear = "visor";
-		medic = "medic";
+		medic = "true";
 		eyewear_color = "red";
 	};
 };
@@ -518,7 +518,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Tropic_Light : 34thPRC_Armo
 		player= "harrison";
 		variant = "light";
 		camo = "tropic";
-		collar = "collar";
+		collar = "up";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Tropic_Medium : 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Medium
@@ -535,7 +535,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Tropic_Medium : 34thPRC_Arm
 		player= "harrison";
 		variant = "medium";
 		camo = "tropic";
-		collar = "collar";
+		collar = "up";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Tropic_Heavy : 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Heavy
@@ -552,7 +552,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Tropic_Heavy : 34thPRC_Armo
 		player= "harrison";
 		variant = "heavy";
 		camo = "tropic";
-		collar = "collar";
+		collar = "up";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Tropic_NoShoulders : 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_NoShoulders
@@ -569,7 +569,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Tropic_NoShoulders : 34thPR
 		player= "harrison";
 		variant = "shoulderless";
 		camo = "tropic";
-		collar = "collar";
+		collar = "up";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Tropic_Light_NoCollar : 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Light_NoCollar
@@ -586,7 +586,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Tropic_Light_NoCollar : 34t
 		player= "harrison";
 		variant = "light";
 		camo = "tropic";
-		collar = "nocollar";
+		collar = "down";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Tropic_Medium_NoCollar : 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Medium_NoCollar
@@ -603,7 +603,7 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Tropic_Medium_NoCollar : 34
 		player= "harrison";
 		variant = "medium";
 		camo = "tropic";
-		collar = "nocollar";
+		collar = "down";
 	};
 };
 class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Tropic_Heavy_NoCollar : 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Urban_Heavy_NoCollar
@@ -620,6 +620,6 @@ class 34thPRC_ArmourCustom_Marines2_Harrison_Uniform_Tropic_Heavy_NoCollar : 34t
 		player= "harrison";
 		variant = "heavy";
 		camo = "tropic";
-		collar = "nocollar";
+		collar = "down";
 	};
 };

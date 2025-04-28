@@ -17,7 +17,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban : 34thPRC_ArmourStandard
 		player="ramirez";
 		camo = "urban";
 		eyewear = "standard";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "none";
 	};
 };
@@ -40,7 +40,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece : 34thPRC_Armou
 		player="ramirez";
 		camo = "urban";
 		eyewear = "eyepiece";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "green";
 	};
 };
@@ -63,7 +63,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece_Blue : 34thPRC_
 		player="ramirez";
 		camo = "urban";
 		eyewear = "eyepiece";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "blue";
 	};
 };
@@ -86,7 +86,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece_Orange : 34thPR
 		player="ramirez";
 		camo = "urban";
 		eyewear = "eyepiece";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "orange";
 	};
 };
@@ -109,7 +109,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece_Red : 34thPRC_A
 		player="ramirez";
 		camo = "urban";
 		eyewear = "eyepiece";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "red";
 	};
 };
@@ -132,7 +132,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_EyePiece_Purple : 34thPR
 		player="ramirez";
 		camo = "urban";
 		eyewear = "eyepiece";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "purple";
 	};
 };
@@ -155,7 +155,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses : 34thPRC_A
 		player="ramirez";
 		camo = "urban";
 		eyewear = "visor";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "orange";
 	};
 };
@@ -178,7 +178,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses_Blue : 34th
 		player="ramirez";
 		camo = "urban";
 		eyewear = "visor";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "blue";
 	};
 };
@@ -201,7 +201,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses_Green : 34t
 		player="ramirez";
 		camo = "urban";
 		eyewear = "visor";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "green";
 	};
 };
@@ -224,7 +224,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses_Purple : 34
 		player="ramirez";
 		camo = "urban";
 		eyewear = "visor";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "purple";
 	};
 };
@@ -247,7 +247,7 @@ class 34thPRC_ArmourCustom_Marines2_Ramirez_CH252_Urban_VisorGlasses_Red : 34thP
 		player="ramirez";
 		camo = "urban";
 		eyewear = "visor";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "red";
 	};
 };

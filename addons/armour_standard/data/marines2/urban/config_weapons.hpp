@@ -17,7 +17,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban : CH252_Helmet_Standard
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "urban";
 		eyewear = "standard";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "none";
 	};
 };
@@ -40,7 +40,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece : CH252_Helmet_EyePie
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "urban";
 		eyewear = "eyepiece";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "green";
 	};
 };
@@ -62,7 +62,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece_Blue : 34thPRC_Armour
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "urban";
 		eyewear = "eyepiece";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "blue";
 	};
 };
@@ -84,7 +84,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece_Orange : 34thPRC_Armo
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "urban";
 		eyewear = "eyepiece";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "orange";
 	};
 };
@@ -106,7 +106,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece_Red : 34thPRC_ArmourS
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "urban";
 		eyewear = "eyepiece";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "red";
 	};
 };
@@ -128,7 +128,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_EyePiece_Purple : 34thPRC_Armo
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "urban";
 		eyewear = "eyepiece";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "purple";
 	};
 };
@@ -151,7 +151,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses : CH252_Helmet_Vi
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "urban";
 		eyewear = "visor";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "orange";
 	};
 };
@@ -173,7 +173,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses_Blue : 34thPRC_Ar
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "urban";
 		eyewear = "visor";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "blue";
 	};
 };
@@ -195,7 +195,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses_Green : 34thPRC_A
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "urban";
 		eyewear = "visor";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "green";
 	};
 };
@@ -217,7 +217,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses_Purple : 34thPRC_
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "urban";
 		eyewear = "visor";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "purple";
 	};
 };
@@ -239,7 +239,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_VisorGlasses_Red : 34thPRC_Arm
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "urban";
 		eyewear = "visor";
-		medic = "nonmedic";
+		medic = "false";
 		eyewear_color = "red";
 	};
 };
@@ -263,8 +263,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic : CH252_Helmet_Standard
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "urban";
 		eyewear = "standard";
-		medic = "medic";
-		eyewear_color = "none";
+		medic = "true";
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece : CH252_Helmet_EyePiece
@@ -286,7 +285,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece : CH252_Helmet_
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "urban";
 		eyewear = "eyepiece";
-		medic = "medic";
+		medic = "true";
 		eyewear_color = "green";
 	};
 };
@@ -308,7 +307,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece_Blue : 34thPRC_
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "urban";
 		eyewear = "eyepiece";
-		medic = "medic";
+		medic = "true";
 		eyewear_color = "blue";
 	};
 };
@@ -330,7 +329,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece_Orange : 34thPR
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "urban";
 		eyewear = "eyepiece";
-		medic = "medic";
+		medic = "true";
 		eyewear_color = "orange";
 	};
 };
@@ -352,7 +351,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece_Red : 34thPRC_A
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "urban";
 		eyewear = "eyepiece";
-		medic = "medic";
+		medic = "true";
 		eyewear_color = "red";
 	};
 };
@@ -374,7 +373,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_EyePiece_Purple : 34thPR
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "urban";
 		eyewear = "eyepiece";
-		medic = "medic";
+		medic = "true";
 		eyewear_color = "purple";
 	};
 };
@@ -397,7 +396,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses : CH252_Hel
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "urban";
 		eyewear = "visor";
-		medic = "medic";
+		medic = "true";
 		eyewear_color = "orange";
 	};
 };
@@ -419,7 +418,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses_Blue : 34th
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "urban";
 		eyewear = "visor";
-		medic = "medic";
+		medic = "true";
 		eyewear_color = "blue";
 	};
 };
@@ -441,7 +440,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses_Green : 34t
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "urban";
 		eyewear = "visor";
-		medic = "medic";
+		medic = "true";
 		eyewear_color = "green";
 	};
 };
@@ -463,7 +462,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses_Purple : 34
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "urban";
 		eyewear = "visor";
-		medic = "medic";
+		medic = "true";
 		eyewear_color = "purple";
 	};
 };
@@ -485,7 +484,7 @@ class 34thPRC_ArmourStandard_Marines2_CH252_Urban_Medic_VisorGlasses_Red : 34thP
 		model = "34thPRC_ArmourStandard_Marines2_CH252_Urban";
 		camo = "urban";
 		eyewear = "visor";
-		medic = "medic";
+		medic = "true";
 		eyewear_color = "red";
 	};
 };
@@ -501,8 +500,8 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light: MA_Marine_BDU_Light
 	{
 		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 		variant = "light";
-		camo = "urban";
-		collar = "collar";
+		camo = "urbanRed";
+		collar = "up";
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium: MA_Marine_BDU_Medium
@@ -517,8 +516,8 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium: MA_Marine_BDU_Medium
 	{
 		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 		variant = "medium";
-		camo = "urban";
-		collar = "collar";
+		camo = "urbanRed";
+		collar = "up";
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy: MA_Marine_BDU_Heavy
@@ -533,8 +532,8 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy: MA_Marine_BDU_Heavy
 	{
 		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 		variant = "heavy";
-		camo = "urban";
-		collar = "collar";
+		camo = "urbanRed";
+		collar = "up";
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_NoShoulder: MA_Marine_BDU_NS
@@ -549,8 +548,8 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_NoShoulder: MA_Marine_BDU_NS
 	{
 		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 		variant = "shoulderless";
-		camo = "urban";
-		collar = "collar";
+		camo = "urbanRed";
+		collar = "up";
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light_NoCollar: MA_Marine_BDU_Light
@@ -565,8 +564,8 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light_NoCollar: MA_Marine_BD
 	{
 		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 		variant = "light";
-		camo = "urban";
-		collar = "nocollar";
+		camo = "urbanRed";
+		collar = "down";
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium_NoCollar: MA_Marine_BDU_Medium
@@ -581,8 +580,8 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Medium_NoCollar: MA_Marine_B
 	{
 		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 		variant = "medium";
-		camo = "urban";
-		collar = "nocollar";
+		camo = "urbanRed";
+		collar = "down";
 	};
 };
 class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy_NoCollar: MA_Marine_BDU_Heavy
@@ -597,7 +596,119 @@ class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Heavy_NoCollar: MA_Marine_BD
 	{
 		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
 		variant = "heavy";
-		camo = "urban";
-		collar = "nocollar";
+		camo = "urbanRed";
+		collar = "down";
+	};
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Light: MA_Marine_BDU_Light
+{
+	displayName="[34th] BDU Urban Blue (Light)";
+	author="Ambrose";
+	class ItemInfo: ItemInfo
+	{
+		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Light";
+	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+		variant = "light";
+		camo = "urbanBlue";
+		collar = "up";
+	};
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Medium: MA_Marine_BDU_Medium
+{
+	displayName="[34th] BDU Urban Blue (Medium)";
+	author="Ambrose";
+	class ItemInfo: ItemInfo
+	{
+		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Medium";
+	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+		variant = "medium";
+		camo = "urbanBlue";
+		collar = "up";
+	};
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Heavy: MA_Marine_BDU_Heavy
+{
+	displayName="[34th] BDU Urban Blue (Heavy)";
+	author="Ambrose";
+	class ItemInfo: ItemInfo
+	{
+		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Heavy";
+	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+		variant = "heavy";
+		camo = "urbanBlue";
+		collar = "up";
+	};
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_NoShoulder : MA_Marine_BDU_NS
+{
+	displayName="[34th] BDU Urban Blue (Shoulderless)";
+	author="Ambrose";
+	class ItemInfo: ItemInfo
+	{
+		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_NoShoulder";
+	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+		variant = "shoulderless";
+		camo = "urbanBlue";
+		collar = "up";
+	};
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Light_NoCollar: MA_Marine_BDU_Light
+{
+	displayName="[34th] BDU Urban Blue (Light) (No Collar)";
+	author="Ambrose";
+	class ItemInfo: ItemInfo
+	{
+		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Light_NoCollar";
+	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+		variant = "light";
+		camo = "urbanBlue";
+		collar = "down";
+	};
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Medium_NoCollar: MA_Marine_BDU_Medium
+{
+	displayName="[34th] BDU Urban Blue (Medium) (No Collar)";
+	author="Ambrose";
+	class ItemInfo: ItemInfo
+	{
+		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Medium_NoCollar";
+	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+		variant = "medium";
+		camo = "urbanBlue";
+		collar = "down";
+	};
+};
+class 34thPRC_ArmourStandard_Marines2_Uniform_Urban_Blue_Heavy_NoCollar: MA_Marine_BDU_Heavy
+{
+	displayName="[34th] BDU Urban Blue (Heavy) (No Collar)";
+	author="Ambrose";
+	class ItemInfo: ItemInfo
+	{
+		uniformClass="34thPRC_ArmourStandard_Marines2_Trooper_Urban_Blue_Heavy_NoCollar";
+	};
+	class XtdGearInfo
+	{
+		model = "34thPRC_ArmourStandard_Marines2_Uniform_Urban_Light";
+		variant = "heavy";
+		camo = "urbanBlue";
+		collar = "down";
 	};
 };
