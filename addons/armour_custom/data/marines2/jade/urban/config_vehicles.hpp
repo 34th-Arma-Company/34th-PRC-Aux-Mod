@@ -130,9 +130,9 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Blue_Light : 34thPRC_Armo
 	UniformClass="34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Blue_Light";
 	hiddenSelectionsTextures[]=
 	{
-		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_UpperBDU.paa",
-		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_LowerBDU.paa",
-		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\night\Blue_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\night\Blue_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\night\Blue_TrooperCollar.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
 		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_upperarmor_urban.paa",
@@ -148,9 +148,9 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Blue_Medium : 34thPRC_Arm
 	UniformClass="34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Blue_Medium";
 	hiddenSelectionsTextures[]=
 	{
-		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_UpperBDU.paa",
-		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_LowerBDU.paa",
-		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\night\Blue_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\night\Blue_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\night\Blue_TrooperCollar.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
 		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_upperarmor_urban.paa",
@@ -166,9 +166,9 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Blue_Heavy : 34thPRC_Armo
 	UniformClass="34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Blue_Heavy";
 	hiddenSelectionsTextures[]=
 	{
-		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_UpperBDU.paa",
-		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_LowerBDU.paa",
-		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\night\Blue_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\night\Blue_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\night\Blue_TrooperCollar.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
 		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_upperarmor_urban.paa",
@@ -184,9 +184,9 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Blue_NoShoulders : 34thPR
 	UniformClass="34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Blue_NoShoulders";
 	hiddenSelectionsTextures[]=
 	{
-		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_UpperBDU.paa",
-		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_LowerBDU.paa",
-		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\night\Blue_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\night\Blue_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\night\Blue_TrooperCollar.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
 		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_upperarmor_urban.paa",
@@ -202,9 +202,9 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Blue_Light_NoCollar : 34t
 	UniformClass="34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Blue_Light_NoCollar";
 	hiddenSelectionsTextures[]=
 	{
-		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_UpperBDU.paa",
-		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_LowerBDU.paa",
-		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\night\Blue_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\night\Blue_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\night\Blue_TrooperCollar.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
 		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_upperarmor_urban.paa",
@@ -220,9 +220,9 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Blue_Medium_NoCollar : 34
 	UniformClass="34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Blue_Medium_NoCollar";
 	hiddenSelectionsTextures[]=
 	{
-		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_UpperBDU.paa",
-		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_LowerBDU.paa",
-		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\night\Blue_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\night\Blue_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\night\Blue_TrooperCollar.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
 		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_upperarmor_urban.paa",
@@ -238,9 +238,9 @@ class 34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Blue_Heavy_NoCollar : 34t
 	UniformClass="34thPRC_ArmourCustom_Marines2_Jade_Trooper_Urban_Blue_Heavy_NoCollar";
 	hiddenSelectionsTextures[]=
 	{
-		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_UpperBDU.paa",
-		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_LowerBDU.paa",
-		"\z\34thprc\addons\armour_standard\data\marines2\urban\Blue_TrooperCollar.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\night\Blue_UpperBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\night\Blue_LowerBDU.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\night\Blue_TrooperCollar.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
 		"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
 		"\z\34thprc\addons\armour_custom\data\marines2\jade\urban\jade_marine_upperarmor_urban.paa",
