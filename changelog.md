@@ -16,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - EOD Halo Reach variant for Marines / ODSTs now created through substance painter and updated to proper colors.
 - Commando Helmnet for Marines / ODSTs now created through substance painter and updated to proper colors.
 
+
 ## 0.30.1
 ### Re-upload
 - Version 0.30.0 was not successfully deployed.
