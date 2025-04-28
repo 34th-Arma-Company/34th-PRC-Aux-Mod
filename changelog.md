@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Updated
 - Velocity for BR ammunition increased to improve effectiveness over distance.
+- AAX for standard/custom equipment and reordered filepaths for better readability and consistency.
 ### Fixed
 - Scorpion hidden texture filepath updated to correct path.
 - CBRN for Marines / ODSTs now created through substance painter and updated to proper colors.

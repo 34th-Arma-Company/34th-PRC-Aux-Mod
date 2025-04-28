@@ -1,4 +1,4 @@
-class 34thPRC_ArmourStandard_Marines2_CH252C_Urban
+class 34thPRC_ArmourStandard_Marines2_CH252C_Urban // MA CH252C
 {
 	label = "[34th] CH252C Helmets";
 	author = "34th PRC Modding Team, Moz";
