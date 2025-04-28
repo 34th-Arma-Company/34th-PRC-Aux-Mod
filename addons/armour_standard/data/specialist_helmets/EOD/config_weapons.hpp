@@ -1,5 +1,3 @@
-
-
 class 34thPRC_ArmourStandard_EOD_Helmet_Urban : 34thPRC_ArmourStandard_Marines2_CH252_Urban
 {
 	displayName="[34th] EOD Helmet Urban";
@@ -186,7 +184,7 @@ class 34thPRC_ArmourStandard_EOD_CBRN_NVG_Woodland : 34thPRC_ArmourStandard_EOD_
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-	"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\EOD\cbrn\34th_eod_cbrn_woodland_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\marines2\specialist_helmets\EOD\cbrn\34th_eod_cbrn_woodland_CO.paa",
 	};
 	visionMode[]=
 	{
