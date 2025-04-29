@@ -10,8 +10,13 @@ class 34thPRC_ArmourStandard_Commando_Helmet_Urban : 34thPRC_ArmourStandard_Mari
 	};
 	hiddenSelectionsTextures[]=
 	{
-		"\z\34thprc\addons\armour_standard\data\specialist_helmets\commando\commando_helmet_urban.paa",
-		"\z\34thprc\addons\armour_standard\data\mkvb\Commando\Visors\34_Commando_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\specialist_helmets\commando\commando_helmet_urban_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\specialist_helmets\commando\visor\commando_visor_CO.paa"
+	};
+	hiddenSelectionsMaterials[]=
+	{
+		"\z\34thprc\addons\armour_standard\data\specialist_helmets\commando\commando.rvmat",
+		"\z\34thprc\addons\armour_standard\data\specialist_helmets\commando\visor\visor.rvmat"
 	};
 	class XtdGearInfo
 	{
@@ -30,8 +35,8 @@ class 34thPRC_ArmourStandard_Commando_Helmet_Arid : 34thPRC_ArmourStandard_Comma
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"\z\34thprc\addons\armour_standard\data\specialist_helmets\commando\commando_helmet_arid.paa",
-		"\z\34thprc\addons\armour_standard\data\mkvb\Commando\Visors\34_Commando_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\specialist_helmets\commando\commando_helmet_arid_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\specialist_helmets\commando\visor\commando_visor_CO.paa"
 	};
 	class XtdGearInfo
 	{
@@ -46,8 +51,8 @@ class 34thPRC_ArmourStandard_Commando_Helmet_Arctic : 34thPRC_ArmourStandard_Com
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"\z\34thprc\addons\armour_standard\data\specialist_helmets\commando\commando_helmet_arctic.paa",
-		"\z\34thprc\addons\armour_standard\data\mkvb\Commando\Visors\34_Commando_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\specialist_helmets\commando\commando_helmet_arctic_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\specialist_helmets\commando\visor\commando_visor_CO.paa"
 	};
 	class XtdGearInfo
 	{
@@ -62,8 +67,8 @@ class 34thPRC_ArmourStandard_Commando_Helmet_Tropic : 34thPRC_ArmourStandard_Com
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"\z\34thprc\addons\armour_standard\data\specialist_helmets\commando\commando_helmet_tropic.paa",
-		"\z\34thprc\addons\armour_standard\data\mkvb\Commando\Visors\34_Commando_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\specialist_helmets\commando\commando_helmet_tropic_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\specialist_helmets\commando\visor\commando_visor_CO.paa"
 	};
 	class XtdGearInfo
 	{
@@ -78,8 +83,8 @@ class 34thPRC_ArmourStandard_Commando_Helmet_Woodland : 34thPRC_ArmourStandard_C
 	author="Yandere";
 	hiddenSelectionsTextures[]=
 	{
-		"\z\34thprc\addons\armour_standard\data\specialist_helmets\commando\commando_helmet_woodland.paa",
-		"\z\34thprc\addons\armour_standard\data\mkvb\Commando\Visors\34_Commando_Helmet_Visor_Gold.paa"
+		"\z\34thprc\addons\armour_standard\data\specialist_helmets\commando\commando_helmet_woodland_CO.paa",
+		"\z\34thprc\addons\armour_standard\data\specialist_helmets\commando\visor\commando_visor_CO.paa"
 	};
 	class XtdGearInfo
 	{
