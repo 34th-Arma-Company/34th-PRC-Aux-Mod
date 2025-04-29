@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## 0.31.1
+### Fixed
+- ODST rvmats had erroneous leading \s slip back into their paths, these have been removed.
+- ODST M52-R aax selection fix
+
 ## 0.31.0
 ### Updated
 - Velocity for BR ammunition increased to improve effectiveness over distance.
