@@ -246,6 +246,18 @@ class 34thPRC_ArmourStandard_ODST2_M52_B_Urban : M52_ODST_Vest_Standard_B
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
 	};
+	hiddenSelectionsMaterials[]=
+	{
+		"\z\34thprc\addons\armour_standard\data\odst2\cqb_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\cqb_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\marksman_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\marksman_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_vest.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_vest.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_vest.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_shoulders.rvmat",
+	};
 	class XtdGearInfo
 	{
 		model="34thPRC_ArmourStandard_ODST2_M52_Urban";
@@ -289,6 +301,18 @@ class 34thPRC_ArmourStandard_ODST2_M52_B_Medic_Urban : 34thPRC_ArmourStandard_OD
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
 	};
+	hiddenSelectionsMaterials[]=
+	{
+		"\z\34thprc\addons\armour_standard\data\odst2\cqb_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\cqb_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\marksman_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\marksman_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_vest.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_vest.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_vest.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_shoulders.rvmat",
+	};
 	class XtdGearInfo
 	{
 		model="34thPRC_ArmourStandard_ODST2_M52_Urban";
@@ -331,6 +355,18 @@ class 34thPRC_ArmourStandard_ODST2_M52_C_Urban : M52_ODST_Vest_Standard_C
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+	};
+	hiddenSelectionsMaterials[]=
+	{
+		"\z\34thprc\addons\armour_standard\data\odst2\cqb_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\cqb_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\marksman_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\marksman_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_vest.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_vest.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_vest.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_shoulders.rvmat",
 	};
 	class XtdGearInfo
 	{
@@ -503,6 +539,18 @@ class 34thPRC_ArmourStandard_ODST2_M52_D_Urban : M52_ODST_Vest_Standard_D
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
 	};
+	hiddenSelectionsMaterials[]=
+	{
+		"\z\34thprc\addons\armour_standard\data\odst2\cqb_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\cqb_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\marksman_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\marksman_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_vest.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_vest.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_vest.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_shoulders.rvmat",
+	};
 	class XtdGearInfo
 	{
 		model="34thPRC_ArmourStandard_ODST2_M52_Urban";
@@ -589,6 +637,18 @@ class 34thPRC_ArmourStandard_ODST2_M52_Marksman_Urban : M52_ODST_Vest_Marksman
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
 	};
+	hiddenSelectionsMaterials[]=
+	{
+		"\z\34thprc\addons\armour_standard\data\odst2\cqb_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\cqb_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\marksman_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\marksman_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_vest.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_vest.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_vest.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_shoulders.rvmat",
+	};
 	class XtdGearInfo
 	{
 		model="34thPRC_ArmourStandard_ODST2_M52_Urban";
@@ -631,6 +691,18 @@ class 34thPRC_ArmourStandard_ODST2_M52_CQB_Urban : M52_ODST_Vest_CQB
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //WaistSRight
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", //LegPouchL
 		"MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa"  //LegPouchR
+	};
+	hiddenSelectionsMaterials[]=
+	{
+		"\z\34thprc\addons\armour_standard\data\odst2\cqb_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\cqb_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\marksman_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\marksman_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_vest.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_vest.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_vest.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_shoulders.rvmat",
+		"\z\34thprc\addons\armour_standard\data\odst2\odst_shoulders.rvmat",
 	};
 	class XtdGearInfo
 	{
