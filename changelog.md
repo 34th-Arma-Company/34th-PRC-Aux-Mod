@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 ### Added
 - rvmats for odst vests applied to all variants.
+### Updated
+- CQC helmet now done in SP with rvmats
 
 ## 0.31.1
 ### Fixed
