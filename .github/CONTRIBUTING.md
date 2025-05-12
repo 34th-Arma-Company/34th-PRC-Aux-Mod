@@ -1,4 +1,4 @@
-By contributing to this project you grant the 34th Para-Recon "Brimstone" Company (34th PRC)
+By contributing to this project you grant the 34th Arma Company,
 a non-revocable non-exclusive license to use the content you submit to this project repository.
 You also declare that the content that you are submitting is either entirely your own or that
 you have the permission of the owners to submit it to this project.
